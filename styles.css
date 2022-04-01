@@ -1,6 +1,35 @@
 body {
-	margin: 0;
+
 	background:black;
 	color: white;
 	text-align: center;
+}
+
+article {
+	column-count: auto;
+	column-width: 30rem;
+}
+
+p {
+	text-align:start;
+}
+
+/* unvisited link */
+a:link {
+  color: rgb(0, 255, 119);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(0, 9, 128);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(240, 255, 105);
+}
+
+/* selected link */
+a:active {
+  color: blue;
 }
