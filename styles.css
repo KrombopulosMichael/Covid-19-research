@@ -16,20 +16,20 @@ p {
 
 /* unvisited link */
 a:link {
-  color: rgb(0, 255, 119);
+  color: rgb(223, 255, 238);
 }
 
 /* visited link */
 a:visited {
-  color: rgb(0, 9, 128);
+  color: rgb(0, 117, 128);
 }
 
 /* mouse over link */
 a:hover {
-  color: rgb(240, 255, 105);
+  color: rgb(240, 249, 157);
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: rgb(185, 185, 236);
 }
