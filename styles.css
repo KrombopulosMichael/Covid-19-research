@@ -6,6 +6,11 @@ body {
 	text-align: center;
 }
 
+main {
+	column-count: auto;
+	column-width: 30em;
+}
+
 article {
 	margin: .1rem;
 	padding: .1rem;
