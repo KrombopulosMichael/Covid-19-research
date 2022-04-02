@@ -1,35 +1,39 @@
 body {
-
-	background:black;
+	font: 1rem 'Fira Sans', sans-serif;
+	padding: .3rem;
+	background: black;
 	color: white;
 	text-align: center;
 }
 
 article {
-	column-count: auto;
-	column-width: 30rem;
+	margin: .1rem;
+	padding: .1rem;
 }
 
 p {
-	text-align:start;
+	text-align: start;
+	column-count: auto;
+	column-width: 30rem;
+	border: rgb(255, 255, 255);
 }
 
 /* unvisited link */
 a:link {
-  color: rgb(223, 255, 238);
+	color: rgb(223, 255, 238);
 }
 
 /* visited link */
 a:visited {
-  color: rgb(0, 117, 128);
+	color: rgb(0, 117, 128);
 }
 
 /* mouse over link */
 a:hover {
-  color: rgb(240, 249, 157);
+	color: rgb(240, 249, 157);
 }
 
 /* selected link */
 a:active {
-  color: rgb(185, 185, 236);
+	color: rgb(185, 185, 236);
 }
