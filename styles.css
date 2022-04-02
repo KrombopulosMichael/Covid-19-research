@@ -7,8 +7,9 @@ body {
 }
 
 main {
-	column-count: auto;
-	column-width: 30em;
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap: wrap;
 }
 
 article {
