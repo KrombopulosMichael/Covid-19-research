@@ -7,8 +7,8 @@ body {
 }
 
 main {
-	display:flex;
-	justify-content:space-evenly;
+	display: flex;
+	justify-content: space-evenly;
 	flex-wrap: wrap;
 }
 
@@ -19,8 +19,7 @@ article {
 
 p {
 	text-align: start;
-	column-count: auto;
-	column-width: 30rem;
+	width: 30em;
 	border: rgb(255, 255, 255);
 }
 
