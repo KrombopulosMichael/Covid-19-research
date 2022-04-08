@@ -25,12 +25,12 @@ p {
 
 /* unvisited link */
 a:link {
-	color: rgb(223, 255, 238);
+	color: rgb(57, 63, 51);
 }
 
 /* visited link */
 a:visited {
-	color: rgb(0, 117, 128);
+	color: rgb(1, 58, 5);
 }
 
 /* mouse over link */
