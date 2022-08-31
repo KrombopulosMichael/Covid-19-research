@@ -1,8 +1,17 @@
+:root {
+	--black-color: black;
+	--gray-color: #e8e8e8;
+	--white-color: rgb(255, 255, 255);
+	--accent-color: #5a33f0;
+	--light-accent-color: rgb(156, 130, 248, .2);
+	--green-brown-color: rgb(106, 121, 91);
+}
+
 body {
 	font: 1rem 'Fira Sans', sans-serif;
 	padding: .3rem;
-	background: black;
-	color: white;
+	background: var(--black-color);
+	color: var(--gray-color);
 	text-align: center;
 }
 
@@ -20,12 +29,12 @@ article {
 p {
 	text-align: start;
 	width: 30em;
-	border: rgb(255, 255, 255);
+	border: var(--white-color);
 }
 
 /* unvisited link */
 a:link {
-	color: rgb(57, 63, 51);
+	color: var(--green-brown-color);
 }
 
 /* visited link */
@@ -41,4 +50,8 @@ a:hover {
 /* selected link */
 a:active {
 	color: rgb(185, 185, 236);
+}
+
+.preprint {
+	color: var(--accent-color);
 }
