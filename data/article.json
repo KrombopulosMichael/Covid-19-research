@@ -1,0 +1,18 @@
+{
+	"Articles": [{
+			"Date": "2022-04-12",
+			"DOI": "https://doi.org/10.1016/j.medj.2022.04.001",
+			"Text": "13% of participants continued to shed SARS-CoV-2 RNA in the feces at 4 months after diagnosis & 4% shed at 7 months. GI symptoms are associated with fecal shedding of RNA.",
+			"Twitter": "https://twitter.com/loscharlos/status/1514430252763660292",
+			"Category": ["Long COVID"]
+		},
+		{
+			"Date": "2022-03-13",
+			"DOI": "https://doi.org/10.1002/ana.26350",
+			"Text": "The neurons and other neural cells that SARS-CoV-2 is infecting, are shedding Spike and Nucleocapsid and levels are significantly higher in long COVID and even higher in long COVID with neuropsychiatric symptoms.",
+			"Twitter": "https://twitter.com/FreitasABR/status/1531633635346026503",
+			"Category": ["Brain"]
+		}
+	]
+}
+
