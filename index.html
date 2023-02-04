@@ -20,294 +20,73 @@ https://krombopulosmichael.github.io/Covid-19-research/ -->
 					referrerPolicy="no-referrer-when-downgrade"></a></div>
 	</noscript>
 	<!-- End of Statcounter Code -->
+	<script type="text/javascript">
+		const loadJSON = (successFn, pathV, errorFn) => {
+			var o_X = new XMLHttpRequest();
+			o_X.overrideMimeType("application/json");
+			o_X.open('GET', pathV, true);
+			o_X.onreadystatechange = () => {
+				if (o_X.readyState == 4 && o_X.status == "200") {
+					successFn(o_X.responseText);
+				} else {
+					if (errorFn === undefined) {
+						errorFn = (o_X) => console.log(o_X);
+					}
+					errorFn(o_X);
+				}
+			};
+			o_X.send(null);
+		}
+		const parseJSON = (responseText) => {
+			const v = JSON.parse(responseText);
+			const mainElement = document.createElement("main");
+			const headerElement = document.createElement("header");
+			const h1Element = document.createElement("h1");
+			h1Element.textContent = "COVID-19 Research Articles";
+			headerElement.appendChild(h1Element);
+			const categories = [];
+			v.Articles.forEach(item => {
+				item.Category.forEach(category => {
+					if (!categories.includes(category)) {
+						categories.push(category);
+					}
+				});
+			});
+
+			categories.forEach(category => {
+				const articles = v.Articles.filter(item => item.Category.includes(category));
+				articles.sort((articleA, articleB) => {
+					return new Date(articleB.Date) - new Date(articleA.Date);
+				});
+				console.log(articles);
+				const articleElement = document.createElement("article");
+				const h2Element = document.createElement("h2");
+				h2Element.textContent = category;
+				articleElement.appendChild(h2Element);
+				articles.forEach(item => {
+					const pElement = document.createElement("p");
+					const doiLink = document.createElement("a");
+					doiLink.href = item.DOI;
+					doiLink.textContent = "Link";
+					pElement.appendChild(doiLink);
+					pElement.innerHTML += ` <strong${item.Category.includes('Preprint') ? ' class="preprint"' : ''}>${item.Date}</strong> ${item.Text}`;
+					const twitterLink = document.createElement("a");
+					twitterLink.href = item.Twitter;
+					twitterLink.innerHTML = "<sup>*</sup>";
+					pElement.appendChild(twitterLink);
+					articleElement.appendChild(pElement);
+				});
+				mainElement.appendChild(articleElement);
+			});
+			document.body.appendChild(headerElement);
+			document.body.appendChild(mainElement);
+		}
+		loadJSON(parseJSON, 'data/article.json');
+	</script>
 	<title>COVID-19 Research Articles</title>
 </head>
 
 <body>
-	<header>
-		<h1>COVID-19 Research Articles</h1>
-	</header>
-	<main>
-		<article>
-			<h2>SARS-CoV-2 origins</h2>
-			<p>
-				<a href="https://doi.org/10.1101/2022.09.15.507787">Link</a>
-				<strong>2022-09-16</strong>
-				Convergent receptor binding domain evolution of BA.2.75 and BA.5.
-				<a href="https://twitter.com/yunlong_cao/status/1570922875590414336"><sup>*</sup></a>
-			</p>
-		</article>
-		<article>
-			<h2>Gut</h2>
-			<p>
-				<a href="https://doi.org/10.1016/j.medj.2022.04.001">Link</a>
-				<strong>2022-04-12</strong>
-				13% of participants continued to shed SARS-CoV-2 RNA in the feces at 4 months after
-				diagnosis & 4% shed at 7 months. GI symptoms are associated with fecal shedding of RNA.
-				<a href="https://twitter.com/loscharlos/status/1514430252763660292"><sup>*</sup></a>
-			</p>
-		</article>
-		<article>
-			<h2>Long COVID</h2>
-			<p><a href="https://doi.org/10.1007/s10456-022-09850-9">Link</a>
-				<strong>2022-08-11</strong> Compared with healthy controls, the capillary density of Long COVID patients was
-				decreased by 41%. Data strongly suggest that COVID leaves persistent capillary rarefication even 18 months after
-				infection.
-				<a href="https://twitter.com/loscharlos/status/1557835199039168512"><sup>*</sup></a>
-			</p>
-			<p><a href="https://doi.org/10.1101/2022.06.14.22276401">Link</a> <strong>2022-06-16</strong> SARS-CoV-2 spike
-				antigen in a majority of PASC patients up to 12 months post-diagnosis (n = 63), suggesting the presence of an
-				active persistent SARS-CoV-2 viral reservoir. <a
-					href="https://twitter.com/ysenussiMD/status/1537590072387805184"><sup>*</sup></a> </p>
-			<p><a href="https://doi.org/10.21203/rs.3.rs-1379777/v2">Link</a> <strong>2022-06-07</strong>
-				Presence of residual virus within the appendix and breast tissue of 2 patients who exhibited LC symptoms, 175 to
-				462 days upon positive diagnosis: positive staining for viral nucleocapsid protein (NP) in the appendix, and
-				tumour-adjacent region of the breast, but not within the tumour via multiplex immunohistochemistry.
-				Notably, with RNAscope, both positive-sense and negative-sense (replicative intermediate) viral RNA were
-				detected.
-				<a href="https://twitter.com/EricTopol/status/1534559223354253312"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.2139/ssrn.4099429">Link</a> <strong>2022-05-04</strong> Long COVID is very common.
-				Systematic review and meta-analysis including 196 studies and 120,970 participants (mean age:
-				52.3 years; 48.8% females) showed that long COVID may affect more than half of the patients, after a median of
-				six months from the diagnosis.<a
-					href="https://twitter.com/TRyanGregory/status/1522658803166158855"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1016/j.bbi.2022.04.013">Link</a> <strong>2022-04-18</strong> In a large study with
-				thousands of participants, vaccination did NOT reduce long COVID risks.<a
-					href="https://twitter.com/KunstJonas/status/1517394410719399937"><sup>*</sup></a>
-			</p>
-			<p><a href="https://doi.org/10.3389/fmed.2022.868954">Link</a> <strong>2022-04-14</strong> Small percentage of
-				co-infections in SARS-CoV-2 positive patients who died with typical COVID-19 symptoms strongly suggests that the
-				majority of SARS-CoV-2 infected patients died from and not with the virus.<a
-					href="https://twitter.com/mildanalyst/status/1534111466118430721"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1038/s41598-022-10051-z">Link</a> <strong>2022-04-11</strong> Even in patients with
-				mild COVID-19 who did not require supplemental oxygen or ventilatory support, sequelae were reported by 49.5% of
-				them.<a href="https://twitter.com/Gab_H_R/status/1513565274200494091"><sup>*</sup></a>
-			</p>
-			<p><a href="https://doi.org/10.1038/s41467-022-29513-z">Link</a> <strong>2022-04</strong> Almost <em>all</em>
-				patients still showed some of the most debilitating symptoms (e.g., fatigue) after a year.<a
-					href="https://twitter.com/KunstJonas/status/1511317611488948228"><sup>*</sup></a>
-			</p>
-			<p><a href="https://doi.org/10.1038/s41392-022-00931-1">Link</a> <strong>2022-03-09</strong> Persistent SARS-CoV-2
-				infection in asymptomatic young adults. <a
-					href="https://twitter.com/drclairetaylor/status/1541207576225914887"><sup>*</sup></a></p>
-			<p>
-				<a href="https://doi.org/10.1016/j.bbi.2021.12.020">Link</a> <strong>2022-03</strong> According to a
-				meta-analysis of 81 studies 32% of patients have fatigue at 12 weeks, 31% at 6+ months, 22% have cognitive
-				impairment at 12 weeks, 21% at 6+ months.<a
-					href="https://twitter.com/ahandvanish/status/1478525881475907587"><sup>*</sup></a>
-			</p>
-		</article>
-		<article>
-			<h2>Lungs</h2>
-			<p>
-				<a href="https://doi.org/10.1016/j.amsu.2022.103590">Link</a> <strong>2022-05</strong> Meta analysis shows that
-				45% of post COVID patients have pulmonary fibrosis. Affected tend to be older and have suffered worse COVID
-				course. <a href="https://twitter.com/statesdj/status/1514050359865581569"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1016/S0140-6736(20)30937-5">Link</a> <strong>2020-04-20</strong> Endothelial cell
-				infection and endotheliitis in COVID-19.<a
-					href="https://twitter.com/TheLancet/status/1251178521940066306"><sup>*</sup></a>
-			</p>
-		</article>
-		<article>
-			<h2>Antibodies</h2>
-			<p><a href="https://doi.org/10.1101/2022.04.07.487489">Link</a> <strong>2022-04-07</strong> Antibody resistance of
-				SARS-CoV-2 Omicron BA.1, BA.1.1, BA.2 and BA.3 Sub-lineages.
-			</p>
-			<p><a href="https://doi.org/10.1186/s12967-021-03184-8">Link</a> <strong>2021-12-30</strong> 💯% of 177 infected
-				health care workers developed auto antibodies.
-			</p>
-			<p><a href="https://doi.org/10.1038/s41586-021-03791-x">Link</a> <strong>2021-07-12</strong> No increase in auto
-				antibodies after vaccination.
-			</p>
-		</article>
-		<article>
-			<h2>Immune response</h2>
-			<p>
-				<a href="https://doi.org/10.1038/s41590-021-01113-x">Link</a> <strong>2022-01-13</strong> Immunological
-				dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection.<a
-					href="https://twitter.com/Marc_Veld/status/1481686620097196035"><sup>*</sup></a>
-			</p>
-		</article>
-		<article>
-			<h2>T cells</h2>
-			<p><a href="https://doi.org/10.1093/jmcb/mjac021">Link</a> <strong>2022-04-22</strong> Infection of primary human
-				B and T cells by SARS-CoV-2 in vitro and in patients. <a
-					href="https://twitter.com/VengefulArzt/status/1518031752047915008"><sup>*</sup></a></p>
-			<p>
-				<a href="https://doi.org/10.3389/fimmu.2021.676932">Link</a> <strong>2021-05-07</strong> Older people have
-				persistently aged T cells following covid.<a
-					href="https://twitter.com/fitterhappierAJ/status/1510355231636340737"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1128/mBio.02243-20">Link</a> <strong>2020-09-18</strong> Impaired Cytotoxic CD8 + T
-				Cell Response in Elderly COVID-19 Patients.<a
-					href="https://twitter.com/fitterhappierAJ/status/1494713579873918983"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1101/2022.04.07.487556">Link</a> <strong>2022-04-08</strong> 🐁 SARS-CoV-2 and its
-				variants, but not Omicron, induces thymic atrophy and impaired T cell development.<a
-					href="https://twitter.com/fitterhappierAJ/status/1512801468683730953"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1038/s41392-022-00919-x">Link</a> <strong>2022-03-08</strong> 🧫 ACE2-independent
-				infection of T lymphocytes by SARS-CoV-2.<a
-					href="https://twitter.com/fitterhappierAJ/status/1502971289018978306"><sup>*</sup></a>
-			</p>
-		</article>
-		<article>
-			<h2>Liver</h2>
-			<p><a href="https://doi.org/10.1101/2022.05.16.491922">Link</a>
-				<strong class="preprint">2022-05-23</strong> ORF1abA1061S potentiates autoreactive T cell responses via epitope
-				mimicry: an explanation to hepatitis of unknown cause.
-				<a href="https://twitter.com/MichiWagner4/status/1541182615666958339"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1038/s42255-022-00552-6">Link</a> <strong>2022-03-28</strong> Liver injury,
-				indicated by a high frequency of abnormal liver function tests, is a common clinical feature of COVID-19 in two
-				independent cohorts of patients with COVID-19 requiring hospitalization.
-			</p>
-		</article>
-		<article>
-			<h2>Brain</h2>
-			<p><a href="https://doi.org/10.1073/pnas.2200960119">Link</a>
-				<strong>2022-08-11</strong>
-				Our data support the model in which SARS-CoV-2 reaches the brain, infects
-				astrocytes, and consequently, leads to neuronal death or dysfunction. These deregulated processes could
-				contribute to the structural and functional alterations seen in the brains of COVID-19 patients.
-				<a href="https://twitter.com/EricTopol/status/1558883821642076160"><sup>*</sup></a>
-			</p>
-			<p><a href="https://doi.org/10.1016/j.cell.2022.06.008">Link</a>
-				<strong>2022-06-07</strong>
-				Mild respiratory infection with SARS-CoV-2 can result in persistent
-				neuro-inflammatory changes and consequent dysregulation of
-				neural cell types important for healthy cognitive function.
-				<a href="https://twitter.com/michelle_monje/status/1536262549502676996"><sup>*</sup></a></p>
-			<p>
-				<a href="https://doi.org/10.1101/2022.06.02.22275916">Link</a>
-				<strong>2022-06-04</strong> Long COVID is
-				associated with extensive in vivo brain inflammation.<a
-					href="https://twitter.com/Gronnet/status/1533323291364048896"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1016/j.eclinm.2022.101417">Link</a>
-				<strong>2022-05-07</strong>
-				Cognitive deficits from long COVID are similar to aging the brain 20 years.<a
-					href="https://twitter.com/TRyanGregory/status/1522665545400651776"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1001/jamaneurol.2022.0154">Link</a>
-				<strong>2022-04-11</strong>
-				Covid smell loss linked to damage in brain.
-				<a href="https://www.reddit.com/r/science/comments/u1mg5s/covid_smell_loss_linked_to_damage_in_brain_study/"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1002/ana.26350">Link</a>
-				<strong>2022-03-13</strong>
-				The neurons and other neural cells that SARS-CoV-2 is infecting,
-				are shedding Spike and Nucleocapsid and levels are significantly higher in
-				long COVID and even higher in long COVID with neuropsychiatric symptoms.
-				<a href="https://twitter.com/FreitasABR/status/1531633635346026503"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1038/s41586-022-04569-5">Link</a>
-				<strong>2022-02-21</strong> SARS-CoV-2 is
-				associated with changes in brain structure in UK Biobank study.
-			</p>
-			<p><a href="https://doi.org/10.1016/j.eclinm.2021.101044">Link</a>
-				<strong>2021-07-22</strong> 💯% of people
-				with suspected and confirmed COVID-19 illness experienced cognitive deficits.
-			</p>
-			<p><a href="https://doi.org/10.1101/2022.08.31.505985">Link</a>
-				<strong class="preprint">2022-08-31</strong>
-				🐁 Neuroinvasion and anosmia are independent phenomena upon infection with SARS-CoV-2 and its variants.
-				<a href="https://twitter.com/RolandBakerIII/status/1565375837955694592"><sup>*</sup></a>
-			</p>
-		</article>
-		<article>
-			<h2>Smell</h2>
-			<p><a href="https://doi.org/10.1101/2022.04.17.488474">Link</a> <strong>2022-04-18</strong> Persistent
-				post-COVID-19 smell loss is associated with inflammatory infiltration and altered olfactory epithelial gene
-				expression.<a href="https://twitter.com/fitterhappierAJ/status/1516437084017336320"><sup>*</sup></a></p>
-			<p><a href="https://doi.org/10.1101/2021.08.28.21262763">Link</a> <strong>2021-09-08</strong> Loss of smell &
-				taste intensified long after people had Covid.<a
-					href="https://twitter.com/DecodingTrolls/status/1529734860801196035"><sup>*</sup></a></p>
-		</article>
-		<article>
-			<h2>Reinfections</h2>
-			<p><a href="https://doi.org/10.1038/s41467-022-30649-1">Link</a> <strong>2022-05-27</strong> Cross-reactive
-				immunity against the SARS-CoV-2 Omicron variant is low in pediatric patients with prior COVID-19 or MIS-C <a
-					href="https://twitter.com/mildanalyst/status/1530175050787299328"><sup>*</sup></a></p>
-			<p><a href="https://doi.org/10.1038/s41591-022-01840-0">Link</a> <strong>2022-05-25</strong> Tallying the natural
-				history of post-vaccine breakthrough infections (BTI) in 33,000 people with over 13 million controls gives a
-				vaccination protection from long covid of around 15%, much less than many other studies (reporting around 50%).
-				<a href="https://twitter.com/EricTopol/status/1529477481127759872"><sup>*</sup></a>
-			</p>
-			<p><a href="https://doi.org/10.1016/j.amsu.2021.103130">Link</a> <strong>2021-12</strong>
-				A higher ICU admission rate was observed in reinfection compared to first infection. Complete recovery rate
-				after reinfection stood at 97.9%.<a
-					href="https://twitter.com/EnemyInAState/status/1506311077054795787"><sup>*</sup></a>
-			</p>
-		</article>
-		<article>
-			<h2>Transmission</h2>
-			<p><a href="https://doi.org/10.1016/j.celrep.2022.110938">Link</a> <strong>2022-05-25</strong> Asymptomatic and
-				mild COVID-19 significantly remodels the maternal-fetal interface.
-				Single-cell RNA sequencing reveals immunological rewiring at the maternal-fetal interface following
-				asymptomatic/mild SARS-CoV-2 infection.
-				<a href="https://twitter.com/mildanalyst/status/1534955533819596802"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.9778/cmajo.20220026">Link</a> <strong>2022-04-12</strong> Household transmission is
-				high, and children are a major driver.<a
-					href="https://twitter.com/TRyanGregory/status/1522666354775580676"><sup>*</sup></a>
-			</p>
-		</article>
-		<article>
-			<h2>Masks</h2>
-			<p>
-				<a href="https://doi.org/10.1038/s41370-022-00442-9">Link</a> <strong>2022-04-27</strong>
-				Wearing a mask is 1,000 times more important than wiping surfaces.
-				The estimated probability of infection was about 1 per 100 exposures to SARS-CoV-2-laden aerosols through
-				inhalation and as high as 1 per 100,000 exposures from contacting contaminated surfaces in simulated
-				scenarios.<a href="https://twitter.com/TRyanGregory/status/1522658810116063233"><sup>*</sup></a>
-			</p>
-			<p>
-				<a href="https://doi.org/10.1126/sciadv.abm9128">Link</a> <strong>2022-04-20</strong>
-				Vaccination and masking by teachers and students mitigates transmission in schools.<a
-					href="https://twitter.com/TRyanGregory/status/1522658798757941248"><sup>*</sup></a>
-			</p>
-			<p><a href="https://doi.org/10.1016/j.bioactmat.2020.08.002">Link</a> <strong>2021-06-08</strong> Aerosol particle
-				escape from surgical masks due to imperfect sealing.<a
-					href="https://twitter.com/Monogrammaton/status/1464128573942362116"><sup>*</sup></a></p>
-			<p><a href="https://doi.org/10.1016/j.bioactmat.2020.08.002">Link</a> <strong>2021-01</strong> Overview of
-				filtration efficiency through masks.</p>
-			<p><a href="https://doi.org/10.1080%2F15459624.2016.1225157">Link</a> <strong>2016-12-20</strong> Comparison of
-				FDA and NIOSH facemask and respirator filtration test methods. Particulate filtration efficiency (PFE),
-				bacterial filtration efficiency (BFE) and viral filtration efficiency (VFE) are FDA methods. The NaCl aerosol
-				test is an NIOSH method. NaCl method was significantly (p &lt; 0.05) more strict.</p>
-					<p><a href="https://doi.org/10.21236%2Fad0811762">Link</a> <strong>1967-07</strong> A bearded man is a more
-						dangerous carrier than a clean-shaven man...one working with infectious microorganisms should wash his
-						beard. <a href="https://twitter.com/bioinformer/status/1096415589231484928"><sup>*</sup></a></p>
-		</article>
-		<article>
-			<h2>Treatment</h2>
-			<p>
-				<a href="https://doi.org/10.1177/0145561322112373">Link</a>
-				<strong>2022-08-25</strong>
-				Rapid initiation of twice-daily nasal saline irrigation reduces severity
-				in high-risk COVID+ outpatients.
-				<a href="https://twitter.com/bodilaha/status/1608452627800494080"><sup>*</sup></a>
-			</p>
-		</article>
-	</main>
 </body>
 
 </html>
