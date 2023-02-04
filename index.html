@@ -70,10 +70,12 @@ https://krombopulosmichael.github.io/Covid-19-research/ -->
 					doiLink.textContent = "Link";
 					pElement.appendChild(doiLink);
 					pElement.innerHTML += ` <strong${item.Category.includes('Preprint') ? ' class="preprint"' : ''}>${item.Date}</strong> ${item.Text}`;
-					const twitterLink = document.createElement("a");
-					twitterLink.href = item.Twitter;
-					twitterLink.innerHTML = "<sup>*</sup>";
-					pElement.appendChild(twitterLink);
+					if(item.Twitter){
+						const twitterLink = document.createElement("a");
+						twitterLink.href = item.Twitter;
+						twitterLink.innerHTML = "<sup>*</sup>";
+						pElement.appendChild(twitterLink);
+					}
 					articleElement.appendChild(pElement);
 				});
 				mainElement.appendChild(articleElement);
