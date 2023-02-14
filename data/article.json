@@ -177,7 +177,7 @@
 			"Text": "Immunological\n\t\t\t\tdysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection.",
 			"Twitter": "https://twitter.com/Marc_Veld/status/1481686620097196035",
 			"Category": [
-				"Immune response"
+				"Long COVID", "Immune response"
 			]
 		},
 		{
@@ -231,7 +231,8 @@
 			"Text": "ORF1abA1061S potentiates autoreactive T cell responses via epitope\n\t\t\t\tmimicry: an explanation to hepatitis of unknown cause.",
 			"Twitter": "https://twitter.com/MichiWagner4/status/1541182615666958339",
 			"Category": [
-				"Liver", "Preprint"
+				"Liver",
+				"Preprint"
 			]
 		},
 		{
@@ -321,7 +322,8 @@
 			"Text": "🐁 Neuroinvasion and anosmia are independent phenomena upon infection with SARS-CoV-2 and its variants.",
 			"Twitter": "https://twitter.com/RolandBakerIII/status/1565375837955694592",
 			"Category": [
-				"Brain","Preprint"
+				"Brain",
+				"Preprint"
 			]
 		},
 		{
@@ -448,6 +450,72 @@
 			"Twitter": "https://twitter.com/bodilaha/status/1608452627800494080",
 			"Category": [
 				"Treatment"
+			]
+		},
+		{
+			"DOI": "https://doi.org/10.1111/imm.13450",
+			"Date": "2022-02-14",
+			"Text": "Of 272 (20%) healthcare workers who seroconverted, the presence of HLA-DRB1*13:02 was associated with a 6·7-fold increased risk of case definition symptomatic COVID-19.\nIn terms of immune responsiveness, HLA-DRB1*15:02 was associated with lower nucleocapsid T-cell responses. ",
+			"Twitter": "https://twitter.com/Daltmann10/status/1580952208345923584",
+			"Category": [
+				"Susceptibility"
+			]
+		},
+		{
+			"DOI": "https://doi.org/10.1016/j.psychres.2022.114836",
+			"Date": "2022-09-04",
+			"Text": "Larger gray matter volumes in neuropsychiatric long COVID.\nSignificantly enlarged gray matter volume in long COVID patients was present in several clusters when compared to controls.",
+			"Twitter": "https://twitter.com/AndrewEwing11/status/1586506908307181568",
+			"Category": [
+				"Long COVID",
+				"Brain"
+			]
+		},
+		{
+			"DOI": "https://doi.org/10.1038/s41591-022-02051-3",
+			"Date": "2022-11-10",
+			"Text": "Each SARS-CoV-2 reinfection causes more severe disease. Compared to people who did not get reinfection, those with reinfection had 2 fold increased risk of death, 3 fold increased risk of hospitalization, 3 fold increased risk of heart problems and 3 fold increased risk of blood clotting.",
+			"Twitter": "https://twitter.com/zalaly/status/1590738395080163329",
+			"Category": [
+				"Reinfections"
+			]
+		},
+		{
+			"DOI": "https://doi.org/10.1371/journal.pone.0262442",
+			"Date": "2022-02-04",
+			"Text": "When compared to RT-qPCR, the sensitivity of Architect and Alinity SARS-CoV2 assays was 69.5% and 64.8%, respectively.",
+			"Twitter": "https://twitter.com/PergamIC/status/1256792111979966464",
+			"Category": [
+				"Detection"
+			]
+		},
+		{
+			"DOI": "https://doi.org/10.1038/s41586-022-05644-7",
+			"Date": "2022-12-19",
+			"Text": "BQ.1.1 escapes Evusheld and bebtelovimab, making all clinically available antibody drugs ineffective. BQ.1.1 and BA.2.75.2 both displayed sufficient hACE2 binding capability.",
+			"Twitter": "https://twitter.com/yunlong_cao/status/1573391234118610944",
+			"Category": [
+				"Antibodies"
+			]
+		},
+		{
+			"DOI": "https://doi.org/10.1038/s41467-022-32985-8",
+			"Date": "2022-09-21",
+			"Text": "SARS-CoV-2-specific T cell response magnitude is significantly greater in those who remain protected versus those who become infected (P<1e-4); relatively low magnitude T cell response results in a 43.2% risk of infection, whereas high magnitude reduces this risk to 5.4%.",
+			"Twitter": "https://twitter.com/Pinzie/status/1577727955966595081",
+			"Category": [
+				"T cells",
+				"Immune response",
+				"Susceptibility"
+			]
+		},
+		{
+			"DOI": "https://doi.org/10.3389/fimmu.2022.1034159",
+			"Date": "2022-12-02",
+			"Text": "Single-cell multiomics revealed the dynamics of antigen presentation, immune response and T cell activation in the COVID-19 positive and recovered individuals. Covid recovered are missing a subset of Naive T cells in general that are specific to other viruses.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1599088361716580352",
+			"Category": [
+				"Immune response"
 			]
 		}
 	]

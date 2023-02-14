@@ -58,7 +58,6 @@ https://krombopulosmichael.github.io/Covid-19-research/ -->
 				articles.sort((articleA, articleB) => {
 					return new Date(articleB.Date) - new Date(articleA.Date);
 				});
-				console.log(articles);
 				const articleElement = document.createElement("article");
 				const h2Element = document.createElement("h2");
 				h2Element.textContent = category;
