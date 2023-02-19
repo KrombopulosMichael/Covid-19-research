@@ -64,10 +64,10 @@ https://krombopulosmichael.github.io/Covid-19-research/ -->
 				articleElement.appendChild(h2Element);
 				articles.forEach(item => {
 					const pElement = document.createElement("p");
-					const doiLink = document.createElement("a");
-					doiLink.href = item.DOI;
-					doiLink.textContent = "Link";
-					pElement.appendChild(doiLink);
+					const articleURL = document.createElement("a");
+					articleURL.href = item.ArticleURL;
+					articleURL.textContent = "Link";
+					pElement.appendChild(articleURL);
 					pElement.innerHTML += ` <strong${item.Category.includes('Preprint') ? ' class="preprint"' : ''}>${item.Date}</strong> ${item.Text}`;
 					if(item.Twitter){
 						const twitterLink = document.createElement("a");

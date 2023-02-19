@@ -2,7 +2,7 @@
 	"Articles": [
 		{
 			"Date": "2022-04-12",
-			"DOI": "https://doi.org/10.1016/j.medj.2022.04.001",
+			"ArticleURL": "https://doi.org/10.1016/j.medj.2022.04.001",
 			"Text": "13% of participants continued to shed SARS-CoV-2 RNA in the feces at 4 months after diagnosis & 4% shed at 7 months. GI symptoms are associated with fecal shedding of RNA.",
 			"Twitter": "https://twitter.com/loscharlos/status/1514430252763660292",
 			"Category": [
@@ -11,7 +11,7 @@
 		},
 		{
 			"Date": "2022-03-13",
-			"DOI": "https://doi.org/10.1002/ana.26350",
+			"ArticleURL": "https://doi.org/10.1002/ana.26350",
 			"Text": "The neurons and other neural cells that SARS-CoV-2 is infecting, are shedding Spike and Nucleocapsid and levels are significantly higher in long COVID and even higher in long COVID with neuropsychiatric symptoms.",
 			"Twitter": "https://twitter.com/FreitasABR/status/1531633635346026503",
 			"Category": [
@@ -19,7 +19,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1101/2022.09.15.507787",
+			"ArticleURL": "https://doi.org/10.1101/2022.09.15.507787",
 			"Date": "2022-09-16",
 			"Text": "Convergent receptor binding domain evolution of BA.2.75 and BA.5.",
 			"Twitter": "https://twitter.com/yunlong_cao/status/1570922875590414336",
@@ -28,7 +28,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.medj.2022.04.001",
+			"ArticleURL": "https://doi.org/10.1016/j.medj.2022.04.001",
 			"Date": "2022-04-12",
 			"Text": "13% of participants continued to shed SARS-CoV-2 RNA in the feces at 4 months after\n\t\t\t\tdiagnosis & 4% shed at 7 months. GI symptoms are associated with fecal shedding of RNA.",
 			"Twitter": "https://twitter.com/loscharlos/status/1514430252763660292",
@@ -37,7 +37,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1007/s10456-022-09850-9",
+			"ArticleURL": "https://doi.org/10.1007/s10456-022-09850-9",
 			"Date": "2022-08-11",
 			"Text": "Compared with healthy controls, the capillary density of Long COVID patients was\n\t\t\t\tdecreased by 41%. Data strongly suggest that COVID leaves persistent capillary rarefication even 18 months after\n\t\t\t\tinfection.",
 			"Twitter": "https://twitter.com/loscharlos/status/1557835199039168512",
@@ -46,7 +46,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1101/2022.06.14.22276401",
+			"ArticleURL": "https://doi.org/10.1101/2022.06.14.22276401",
 			"Date": "2022-06-16",
 			"Text": "SARS-CoV-2 spike\n\t\t\t\tantigen in a majority of PASC patients up to 12 months post-diagnosis (n = 63), suggesting the presence of an\n\t\t\t\tactive persistent SARS-CoV-2 viral reservoir.",
 			"Twitter": "https://twitter.com/ysenussiMD/status/1537590072387805184",
@@ -55,7 +55,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.21203/rs.3.rs-1379777/v2",
+			"ArticleURL": "https://doi.org/10.21203/rs.3.rs-1379777/v2",
 			"Date": "2022-06-07",
 			"Text": "Presence of residual virus within the appendix and breast tissue of 2 patients who exhibited LC symptoms, 175 to\n\t\t\t\t462 days upon positive diagnosis: positive staining for viral nucleocapsid protein (NP) in the appendix, and\n\t\t\t\ttumour-adjacent region of the breast, but not within the tumour via multiplex immunohistochemistry.\n\t\t\t\tNotably, with RNAscope, both positive-sense and negative-sense (replicative intermediate) viral RNA were\n\t\t\t\tdetected.",
 			"Twitter": "https://twitter.com/EricTopol/status/1534559223354253312",
@@ -64,7 +64,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.2139/ssrn.4099429",
+			"ArticleURL": "https://doi.org/10.2139/ssrn.4099429",
 			"Date": "2022-05-04",
 			"Text": "Long COVID is very common.\n\t\t\t\tSystematic review and meta-analysis including 196 studies and 120,970 participants (mean age:\n\t\t\t\t52.3 years; 48.8% females) showed that long COVID may affect more than half of the patients, after a median of\n\t\t\t\tsix months from the diagnosis.",
 			"Twitter": "https://twitter.com/TRyanGregory/status/1522658803166158855",
@@ -73,7 +73,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.bbi.2022.04.013",
+			"ArticleURL": "https://doi.org/10.1016/j.bbi.2022.04.013",
 			"Date": "2022-04-18",
 			"Text": "In a large study with\n\t\t\t\tthousands of participants, vaccination did NOT reduce long COVID risks.",
 			"Twitter": "https://twitter.com/KunstJonas/status/1517394410719399937",
@@ -82,7 +82,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.3389/fmed.2022.868954",
+			"ArticleURL": "https://doi.org/10.3389/fmed.2022.868954",
 			"Date": "2022-04-14",
 			"Text": "Small percentage of\n\t\t\t\tco-infections in SARS-CoV-2 positive patients who died with typical COVID-19 symptoms strongly suggests that the\n\t\t\t\tmajority of SARS-CoV-2 infected patients died from and not with the virus.",
 			"Twitter": "https://twitter.com/mildanalyst/status/1534111466118430721",
@@ -91,7 +91,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41598-022-10051-z",
+			"ArticleURL": "https://doi.org/10.1038/s41598-022-10051-z",
 			"Date": "2022-04-11",
 			"Text": "Even in patients with\n\t\t\t\tmild COVID-19 who did not require supplemental oxygen or ventilatory support, sequelae were reported by 49.5% of\n\t\t\t\tthem.",
 			"Twitter": "https://twitter.com/Gab_H_R/status/1513565274200494091",
@@ -100,7 +100,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41467-022-29513-z",
+			"ArticleURL": "https://doi.org/10.1038/s41467-022-29513-z",
 			"Date": "2022-04",
 			"Text": "Almost all\n\t\t\t\tpatients still showed some of the most debilitating symptoms (e.g., fatigue) after a year.",
 			"Twitter": "https://twitter.com/KunstJonas/status/1511317611488948228",
@@ -109,7 +109,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41392-022-00931-1",
+			"ArticleURL": "https://doi.org/10.1038/s41392-022-00931-1",
 			"Date": "2022-03-09",
 			"Text": "Persistent SARS-CoV-2\n\t\t\t\tinfection in asymptomatic young adults.",
 			"Twitter": "https://twitter.com/drclairetaylor/status/1541207576225914887",
@@ -118,7 +118,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.bbi.2021.12.020",
+			"ArticleURL": "https://doi.org/10.1016/j.bbi.2021.12.020",
 			"Date": "2022-03",
 			"Text": "According to a\n\t\t\t\tmeta-analysis of 81 studies 32% of patients have fatigue at 12 weeks, 31% at 6+ months, 22% have cognitive\n\t\t\t\timpairment at 12 weeks, 21% at 6+ months.",
 			"Twitter": "https://twitter.com/ahandvanish/status/1478525881475907587",
@@ -127,7 +127,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.amsu.2022.103590",
+			"ArticleURL": "https://doi.org/10.1016/j.amsu.2022.103590",
 			"Date": "2022-05",
 			"Text": "Meta analysis shows that\n\t\t\t\t45% of post COVID patients have pulmonary fibrosis. Affected tend to be older and have suffered worse COVID\n\t\t\t\tcourse.",
 			"Twitter": "https://twitter.com/statesdj/status/1514050359865581569",
@@ -136,7 +136,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/S0140-6736(20)30937-5",
+			"ArticleURL": "https://doi.org/10.1016/S0140-6736(20)30937-5",
 			"Date": "2020-04-20",
 			"Text": "Endothelial cell\n\t\t\t\tinfection and endotheliitis in COVID-19.",
 			"Twitter": "https://twitter.com/TheLancet/status/1251178521940066306",
@@ -145,7 +145,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1101/2022.04.07.487489",
+			"ArticleURL": "https://doi.org/10.1101/2022.04.07.487489",
 			"Date": "2022-04-07",
 			"Text": "Antibody resistance of\n\t\t\t\tSARS-CoV-2 Omicron BA.1, BA.1.1, BA.2 and BA.3 Sub-lineages.",
 			"Twitter": "",
@@ -154,7 +154,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1186/s12967-021-03184-8",
+			"ArticleURL": "https://doi.org/10.1186/s12967-021-03184-8",
 			"Date": "2021-12-30",
 			"Text": "💯% of 177 infected\n\t\t\t\thealth care workers developed auto antibodies.",
 			"Twitter": "",
@@ -163,25 +163,27 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41586-021-03791-x",
+			"ArticleURL": "https://doi.org/10.1038/s41586-021-03791-x",
 			"Date": "2021-07-12",
 			"Text": "No increase in auto\n\t\t\t\tantibodies after vaccination.",
 			"Twitter": "",
 			"Category": [
-				"Antibodies"
+				"Antibodies",
+				"Vaccine"
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41590-021-01113-x",
+			"ArticleURL": "https://doi.org/10.1038/s41590-021-01113-x",
 			"Date": "2022-01-13",
 			"Text": "Immunological\n\t\t\t\tdysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection.",
 			"Twitter": "https://twitter.com/Marc_Veld/status/1481686620097196035",
 			"Category": [
-				"Long COVID", "Immune response"
+				"Long COVID",
+				"Immune response"
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1093/jmcb/mjac021",
+			"ArticleURL": "https://doi.org/10.1093/jmcb/mjac021",
 			"Date": "2022-04-22",
 			"Text": "Infection of primary human\n\t\t\t\tB and T cells by SARS-CoV-2 in vitro and in patients.",
 			"Twitter": "https://twitter.com/VengefulArzt/status/1518031752047915008",
@@ -190,7 +192,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.3389/fimmu.2021.676932",
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2021.676932",
 			"Date": "2021-05-07",
 			"Text": "Older people have\n\t\t\t\tpersistently aged T cells following covid.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1510355231636340737",
@@ -199,7 +201,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1128/mBio.02243-20",
+			"ArticleURL": "https://doi.org/10.1128/mBio.02243-20",
 			"Date": "2020-09-18",
 			"Text": "Impaired Cytotoxic CD8 + T\n\t\t\t\tCell Response in Elderly COVID-19 Patients.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1494713579873918983",
@@ -208,7 +210,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1101/2022.04.07.487556",
+			"ArticleURL": "https://doi.org/10.1101/2022.04.07.487556",
 			"Date": "2022-04-08",
 			"Text": "🐁 SARS-CoV-2 and its\n\t\t\t\tvariants, but not Omicron, induces thymic atrophy and impaired T cell development.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1512801468683730953",
@@ -217,7 +219,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41392-022-00919-x",
+			"ArticleURL": "https://doi.org/10.1038/s41392-022-00919-x",
 			"Date": "2022-03-08",
 			"Text": "🧫 ACE2-independent\n\t\t\t\tinfection of T lymphocytes by SARS-CoV-2.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1502971289018978306",
@@ -226,7 +228,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1101/2022.05.16.491922",
+			"ArticleURL": "https://doi.org/10.1101/2022.05.16.491922",
 			"Date": "2022-05-23",
 			"Text": "ORF1abA1061S potentiates autoreactive T cell responses via epitope\n\t\t\t\tmimicry: an explanation to hepatitis of unknown cause.",
 			"Twitter": "https://twitter.com/MichiWagner4/status/1541182615666958339",
@@ -236,7 +238,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s42255-022-00552-6",
+			"ArticleURL": "https://doi.org/10.1038/s42255-022-00552-6",
 			"Date": "2022-03-28",
 			"Text": "Liver injury,\n\t\t\t\tindicated by a high frequency of abnormal liver function tests, is a common clinical feature of COVID-19 in two\n\t\t\t\tindependent cohorts of patients with COVID-19 requiring hospitalization.",
 			"Twitter": "",
@@ -245,7 +247,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1073/pnas.2200960119",
+			"ArticleURL": "https://doi.org/10.1073/pnas.2200960119",
 			"Date": "2022-08-11",
 			"Text": "Our data support the model in which SARS-CoV-2 reaches the brain, infects\n\t\t\t\tastrocytes, and consequently, leads to neuronal death or dysfunction. These deregulated processes could\n\t\t\t\tcontribute to the structural and functional alterations seen in the brains of COVID-19 patients.",
 			"Twitter": "https://twitter.com/EricTopol/status/1558883821642076160",
@@ -254,7 +256,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.cell.2022.06.008",
+			"ArticleURL": "https://doi.org/10.1016/j.cell.2022.06.008",
 			"Date": "2022-06-07",
 			"Text": "Mild respiratory infection with SARS-CoV-2 can result in persistent\n\t\t\t\tneuro-inflammatory changes and consequent dysregulation of\n\t\t\t\tneural cell types important for healthy cognitive function.",
 			"Twitter": "https://twitter.com/michelle_monje/status/1536262549502676996",
@@ -263,7 +265,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1101/2022.06.02.22275916",
+			"ArticleURL": "https://doi.org/10.1101/2022.06.02.22275916",
 			"Date": "2022-06-04",
 			"Text": "Long COVID is\n\t\t\t\tassociated with extensive in vivo brain inflammation.",
 			"Twitter": "https://twitter.com/Gronnet/status/1533323291364048896",
@@ -272,7 +274,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.eclinm.2022.101417",
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2022.101417",
 			"Date": "2022-05-07",
 			"Text": "Cognitive deficits from long COVID are similar to aging the brain 20 years.",
 			"Twitter": "https://twitter.com/TRyanGregory/status/1522665545400651776",
@@ -281,7 +283,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1001/jamaneurol.2022.0154",
+			"ArticleURL": "https://doi.org/10.1001/jamaneurol.2022.0154",
 			"Date": "2022-04-11",
 			"Text": "Covid smell loss linked to damage in brain.",
 			"Twitter": "https://www.reddit.com/r/science/comments/u1mg5s/covid_smell_loss_linked_to_damage_in_brain_study/",
@@ -290,7 +292,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1002/ana.26350",
+			"ArticleURL": "https://doi.org/10.1002/ana.26350",
 			"Date": "2022-03-13",
 			"Text": "The neurons and other neural cells that SARS-CoV-2 is infecting,\n\t\t\t\tare shedding Spike and Nucleocapsid and levels are significantly higher in\n\t\t\t\tlong COVID and even higher in long COVID with neuropsychiatric symptoms.",
 			"Twitter": "https://twitter.com/FreitasABR/status/1531633635346026503",
@@ -299,7 +301,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41586-022-04569-5",
+			"ArticleURL": "https://doi.org/10.1038/s41586-022-04569-5",
 			"Date": "2022-02-21",
 			"Text": "SARS-CoV-2 is\n\t\t\t\tassociated with changes in brain structure in UK Biobank study.",
 			"Twitter": "",
@@ -308,7 +310,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.eclinm.2021.101044",
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2021.101044",
 			"Date": "2021-07-22",
 			"Text": "💯% of people\n\t\t\t\twith suspected and confirmed COVID-19 illness experienced cognitive deficits.",
 			"Twitter": "",
@@ -317,7 +319,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1101/2022.08.31.505985",
+			"ArticleURL": "https://doi.org/10.1101/2022.08.31.505985",
 			"Date": "2022-08-31",
 			"Text": "🐁 Neuroinvasion and anosmia are independent phenomena upon infection with SARS-CoV-2 and its variants.",
 			"Twitter": "https://twitter.com/RolandBakerIII/status/1565375837955694592",
@@ -327,7 +329,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1101/2022.04.17.488474",
+			"ArticleURL": "https://doi.org/10.1101/2022.04.17.488474",
 			"Date": "2022-04-18",
 			"Text": "Persistent\n\t\t\t\tpost-COVID-19 smell loss is associated with inflammatory infiltration and altered olfactory epithelial gene\n\t\t\t\texpression.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1516437084017336320",
@@ -336,7 +338,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1101/2021.08.28.21262763",
+			"ArticleURL": "https://doi.org/10.1101/2021.08.28.21262763",
 			"Date": "2021-09-08",
 			"Text": "Loss of smell &\n\t\t\t\ttaste intensified long after people had Covid.",
 			"Twitter": "https://twitter.com/DecodingTrolls/status/1529734860801196035",
@@ -345,34 +347,34 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41467-022-30649-1",
+			"ArticleURL": "https://doi.org/10.1038/s41467-022-30649-1",
 			"Date": "2022-05-27",
 			"Text": "Cross-reactive\n\t\t\t\timmunity against the SARS-CoV-2 Omicron variant is low in pediatric patients with prior COVID-19 or MIS-C",
 			"Twitter": "https://twitter.com/mildanalyst/status/1530175050787299328",
 			"Category": [
-				"Reinfections"
+				"Reinfection"
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41591-022-01840-0",
+			"ArticleURL": "https://doi.org/10.1038/s41591-022-01840-0",
 			"Date": "2022-05-25",
 			"Text": "Tallying the natural\n\t\t\t\thistory of post-vaccine breakthrough infections (BTI) in 33,000 people with over 13 million controls gives a\n\t\t\t\tvaccination protection from long covid of around 15%, much less than many other studies (reporting around 50%).",
 			"Twitter": "https://twitter.com/EricTopol/status/1529477481127759872",
 			"Category": [
-				"Reinfections"
+				"Reinfection"
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.amsu.2021.103130",
+			"ArticleURL": "https://doi.org/10.1016/j.amsu.2021.103130",
 			"Date": "2021-12",
 			"Text": "A higher ICU admission rate was observed in reinfection compared to first infection. Complete recovery rate\n\t\t\t\tafter reinfection stood at 97.9%.",
 			"Twitter": "https://twitter.com/EnemyInAState/status/1506311077054795787",
 			"Category": [
-				"Reinfections"
+				"Reinfection"
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.celrep.2022.110938",
+			"ArticleURL": "https://doi.org/10.1016/j.celrep.2022.110938",
 			"Date": "2022-05-25",
 			"Text": "Asymptomatic and\n\t\t\t\tmild COVID-19 significantly remodels the maternal-fetal interface.\n\t\t\t\tSingle-cell RNA sequencing reveals immunological rewiring at the maternal-fetal interface following\n\t\t\t\tasymptomatic/mild SARS-CoV-2 infection.",
 			"Twitter": "https://twitter.com/mildanalyst/status/1534955533819596802",
@@ -381,7 +383,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.9778/cmajo.20220026",
+			"ArticleURL": "https://doi.org/10.9778/cmajo.20220026",
 			"Date": "2022-04-12",
 			"Text": "Household transmission is\n\t\t\t\thigh, and children are a major driver.",
 			"Twitter": "https://twitter.com/TRyanGregory/status/1522666354775580676",
@@ -390,7 +392,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41370-022-00442-9",
+			"ArticleURL": "https://doi.org/10.1038/s41370-022-00442-9",
 			"Date": "2022-04-27",
 			"Text": "Wearing a mask is 1,000 times more important than wiping surfaces.\n\t\t\t\tThe estimated probability of infection was about 1 per 100 exposures to SARS-CoV-2-laden aerosols through\n\t\t\t\tinhalation and as high as 1 per 100,000 exposures from contacting contaminated surfaces in simulated\n\t\t\t\tscenarios.",
 			"Twitter": "https://twitter.com/TRyanGregory/status/1522658810116063233",
@@ -399,7 +401,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1126/sciadv.abm9128",
+			"ArticleURL": "https://doi.org/10.1126/sciadv.abm9128",
 			"Date": "2022-04-20",
 			"Text": "Vaccination and masking by teachers and students mitigates transmission in schools.",
 			"Twitter": "https://twitter.com/TRyanGregory/status/1522658798757941248",
@@ -408,7 +410,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.bioactmat.2020.08.002",
+			"ArticleURL": "https://doi.org/10.1016/j.bioactmat.2020.08.002",
 			"Date": "2021-06-08",
 			"Text": "Aerosol particle\n\t\t\t\tescape from surgical masks due to imperfect sealing.",
 			"Twitter": "https://twitter.com/Monogrammaton/status/1464128573942362116",
@@ -417,7 +419,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.bioactmat.2020.08.002",
+			"ArticleURL": "https://doi.org/10.1016/j.bioactmat.2020.08.002",
 			"Date": "2021-01",
 			"Text": "Overview of\n\t\t\t\tfiltration efficiency through masks.",
 			"Twitter": "",
@@ -426,7 +428,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1080%2F15459624.2016.1225157",
+			"ArticleURL": "https://doi.org/10.1080%2F15459624.2016.1225157",
 			"Date": "2016-12-20",
 			"Text": "Comparison of\n\t\t\t\tFDA and NIOSH facemask and respirator filtration test methods. Particulate filtration efficiency (PFE),\n\t\t\t\tbacterial filtration efficiency (BFE) and viral filtration efficiency (VFE) are FDA methods. The NaCl aerosol\n\t\t\t\ttest is an NIOSH method. NaCl method was significantly (p < 0.05) more strict.",
 			"Twitter": "",
@@ -435,7 +437,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.21236%2Fad0811762",
+			"ArticleURL": "https://doi.org/10.21236%2Fad0811762",
 			"Date": "1967-07",
 			"Text": "A bearded man is a more\n\t\t\t\t\t\tdangerous carrier than a clean-shaven man...one working with infectious microorganisms should wash his\n\t\t\t\t\t\tbeard.",
 			"Twitter": "https://twitter.com/bioinformer/status/1096415589231484928",
@@ -444,7 +446,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1177/0145561322112373",
+			"ArticleURL": "https://doi.org/10.1177/0145561322112373",
 			"Date": "2022-08-25",
 			"Text": "Rapid initiation of twice-daily nasal saline irrigation reduces severity\n\t\t\t\tin high-risk COVID+ outpatients.",
 			"Twitter": "https://twitter.com/bodilaha/status/1608452627800494080",
@@ -453,7 +455,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1111/imm.13450",
+			"ArticleURL": "https://doi.org/10.1111/imm.13450",
 			"Date": "2022-02-14",
 			"Text": "Of 272 (20%) healthcare workers who seroconverted, the presence of HLA-DRB1*13:02 was associated with a 6·7-fold increased risk of case definition symptomatic COVID-19.\nIn terms of immune responsiveness, HLA-DRB1*15:02 was associated with lower nucleocapsid T-cell responses. ",
 			"Twitter": "https://twitter.com/Daltmann10/status/1580952208345923584",
@@ -462,7 +464,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1016/j.psychres.2022.114836",
+			"ArticleURL": "https://doi.org/10.1016/j.psychres.2022.114836",
 			"Date": "2022-09-04",
 			"Text": "Larger gray matter volumes in neuropsychiatric long COVID.\nSignificantly enlarged gray matter volume in long COVID patients was present in several clusters when compared to controls.",
 			"Twitter": "https://twitter.com/AndrewEwing11/status/1586506908307181568",
@@ -472,16 +474,16 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41591-022-02051-3",
+			"ArticleURL": "https://doi.org/10.1038/s41591-022-02051-3",
 			"Date": "2022-11-10",
 			"Text": "Each SARS-CoV-2 reinfection causes more severe disease. Compared to people who did not get reinfection, those with reinfection had 2 fold increased risk of death, 3 fold increased risk of hospitalization, 3 fold increased risk of heart problems and 3 fold increased risk of blood clotting.",
 			"Twitter": "https://twitter.com/zalaly/status/1590738395080163329",
 			"Category": [
-				"Reinfections"
+				"Reinfection"
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1371/journal.pone.0262442",
+			"ArticleURL": "https://doi.org/10.1371/journal.pone.0262442",
 			"Date": "2022-02-04",
 			"Text": "When compared to RT-qPCR, the sensitivity of Architect and Alinity SARS-CoV2 assays was 69.5% and 64.8%, respectively.",
 			"Twitter": "https://twitter.com/PergamIC/status/1256792111979966464",
@@ -490,7 +492,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41586-022-05644-7",
+			"ArticleURL": "https://doi.org/10.1038/s41586-022-05644-7",
 			"Date": "2022-12-19",
 			"Text": "BQ.1.1 escapes Evusheld and bebtelovimab, making all clinically available antibody drugs ineffective. BQ.1.1 and BA.2.75.2 both displayed sufficient hACE2 binding capability.",
 			"Twitter": "https://twitter.com/yunlong_cao/status/1573391234118610944",
@@ -499,7 +501,7 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.1038/s41467-022-32985-8",
+			"ArticleURL": "https://doi.org/10.1038/s41467-022-32985-8",
 			"Date": "2022-09-21",
 			"Text": "SARS-CoV-2-specific T cell response magnitude is significantly greater in those who remain protected versus those who become infected (P<1e-4); relatively low magnitude T cell response results in a 43.2% risk of infection, whereas high magnitude reduces this risk to 5.4%.",
 			"Twitter": "https://twitter.com/Pinzie/status/1577727955966595081",
@@ -510,12 +512,210 @@
 			]
 		},
 		{
-			"DOI": "https://doi.org/10.3389/fimmu.2022.1034159",
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2022.1034159",
 			"Date": "2022-12-02",
 			"Text": "Single-cell multiomics revealed the dynamics of antigen presentation, immune response and T cell activation in the COVID-19 positive and recovered individuals. Covid recovered are missing a subset of Naive T cells in general that are specific to other viruses.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1599088361716580352",
 			"Category": [
+				"Immune response",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/diagnostics13030484",
+			"Date": "2023-01-28",
+			"Text": " No presence of the susceptible (HLA-DRB1*04) while protective allele for GCA (HLA-DRB1*15) allele was detected in two patients.",
+			"Twitter": "https://twitter.com/MajaTwitty/status/1624482944986370048",
+			"Category": [
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2022.1080822",
+			"Date": "2022-11-30",
+			"Text": "Defective antifungal immunity in patients with COVID-19",
+			"Twitter": "https://twitter.com/vipintukur/status/1598166025044119552",
+			"Category": [
+				"Long COVID",
 				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2022.11.28.22282811",
+			"Date": "2022-11-29",
+			"Text": "Evidence of viral presence in the lung up to 359 days after the acute phase of disease, including in patients with negative nasopharyngeal swab tests.",
+			"Twitter": "https://twitter.com/MedicalScitech/status/1597890018844233728",
+			"Category": [
+				"Preprint",
+				"Long COVID",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/infdis/jiaa659",
+			"Date": "2020-11-03",
+			"Text": "Some tests are more prone to seroreversion than others. Seroreversion, the opposite of seroconversion, is where antibody levels decrease in number over time.",
+			"Twitter": "https://twitter.com/AtomsksSanakan/status/1436845546967289856",
+			"Category": [
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-022-05542-y",
+			"Date": "2022-12-14",
+			"Text": "National Institute of Allergy and Infectious Disease found that autopsies of people who died from COVID19 show that the virus spread throughout the body and remained in tissue for months. The study broadened scientists’ perspectives on where SARS-CoV-2 could cause infection and persist, including the brain.",
+			"Twitter": "https://twitter.com/NIAIDNews/status/1603100534415704067",
+			"Category": [
+				"Long COVID",
+				"Viral persistence",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016%2Fj.bjorl.2022.10.016",
+			"Date": "2022-10-20",
+			"Text": "Tonsils and adenoids are important sites of SARS-CoV-2 infection in asymptomatic children. Flow cytometry revealed that CD123+ dendritic cells were the most frequently infected cell type (10.57%)  followed by CD14+ monocytes (6.32%), CD4+ T lymphocytes (1.75%), CD20+ B lymphocytes (1.67%), and in less extent CD8+ T lymphocytes cells (1.36%).",
+			"Twitter": "https://twitter.com/Aguirre1Gustavo/status/1604976826123800576",
+			"Category": [
+				"Long COVID",
+				"Kids",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s11695-022-06338-9",
+			"Date": "2022-10-13",
+			"Text": "A cohort of #covid19 survivors (~ 58% fully vaccinated with mRNA post infection) show up for bariatric surgery. 1/3 had #SARSCOV2 proteins in their stomachs/gallbladders a median of 9+ months after covid19 irrespective of vax.",
+			"Twitter": "https://twitter.com/ChristosArgyrop/status/1609286826979913728",
+			"Category": [
+				"Long COVID",
+				"Viral persistence",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1161/CIRCULATIONAHA.122.061025",
+			"Date": "DATE",
+			"Text": "Markedly elevated levels of full-length spike protein, unbound by antibodies, were detected in the plasma of individuals with post-vaccine myocarditis, whereas no free spike was detected in asymptomatic vaccinated control subjects.",
+			"Twitter": "https://twitter.com/Yash25571056/status/1611358240222380040",
+			"Category": [
+				"Antibodies",
+				"Vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-022-04835-6",
+			"Date": "2022-05-12",
+			"Text": "The role of NSP6 in the biogenesis of the SARS-CoV-2 replication organelle.",
+			"Twitter": "https://twitter.com/ejustin46/status/1612010477332185088",
+			"Category": [
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-022-27348-8",
+			"Date": "2023-01-08",
+			"Text": "SARS-CoV-2 nucleocapsid exhibits significant homology with MS-associated proteins across both 9mer and 15mer peptide groups.",
+			"Twitter": "https://twitter.com/ejustin46/status/1612126751655694336",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2022.939989",
+			"Date": "2022-09-05",
+			"Text": "Presence of residual virus in the appendix, skin, and breast tissues of 2 patients who exhibited Long COVID symptoms 163 and 426 days after symptom onset. With multiplex immunohistochemistry, viral nucleocapsid protein was detected in all three tissues. The nucleocapsid protein was further observed to co-localize with macrophage marker CD68, suggesting that immune cells were direct targets of SARS-CoV-2. Additionally, using RNAscope, the presence of viral RNA was also detected",
+			"Twitter": "https://twitter.com/elisaperego78/status/1566824365089558528",
+			"Category": [
+				"Viral persistence",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pbio.3001687",
+			"Date": "2022-06-01",
+			"Text": "Why does viral RNA sometimes persist after recovery from acute infections?",
+			"Twitter": "https://twitter.com/Virus_Immunity/status/1533343949238243330",
+			"Category": [
+				"Viral persistence",
+				"Long COVID",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/tan.14284",
+			"Date": "2021-04-25",
+			"Text": "There was a significant difference in the allele frequency of HLA-DRB1*04:01 in the severe patient compared to the asymptomatic staff group (5.1% vs. 16.7%, P = .003 after adjustment for age and sex). There was a significantly lower frequency of the haplotype DQA1*01:01-DQB1*05:01-DRB1*01:01 in the asymptomatic group compared to the background population (P = .007).",
+			"Twitter": "https://twitter.com/UniofNewcastle/status/1401829783445590018",
+			"Category": [
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.02.09.527892",
+			"Date": "2023-02-10",
+			"Text": "Long COVID manifests with T cell dysregulation, inflammation, and an uncoordinated adaptive immune response to SARS-CoV-2. One aspect highly consistent between all studies to date is the ability to detect SARS-CoV-2-specific T cells in both LC and non-LC individuals, months after infection.",
+			"Twitter": "https://twitter.com/breakfastnick/status/1625107103105810438",
+			"Category": [
+				"Preprint",
+				"Long COVID",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1021%2Facsomega.1c06551",
+			"Date": "2022-03-07",
+			"Text": "Significant alteration of reproductive function at the molecular level. Several dysregulated proteins identified.",
+			"Twitter": "https://twitter.com/TactNowInfo/status/1625931280201154593",
+			"Category": [
+				"Reproductive health"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.2139/ssrn.4356797",
+			"Date": "2023-02-16",
+			"Text": "Beyond an association, as established in many previous reports, evidence from Mendelian randomization that Covid can cause atrophy in specific brain regions.",
+			"Twitter": "https://twitter.com/EricTopol/status/1626282670509670400",
+			"Category": [
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41531-023-00467-3",
+			"Date": "2023-02-13",
+			"Text": "SARS-CoV-2-immunoreactive neurons were detected in the dorsal medulla and in the substantia nigra of five COVID-19 subjects. Viral RNA was also detected by real-time RT-PCR. The results of this study support the neuroinvasive potential of SARS-CoV-2.",
+			"Twitter": "https://twitter.com/Yash25571056/status/1626107842779553794",
+			"Category": [
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jaci.2023.01.022",
+			"Date": "2023-02-07",
+			"Text": "COVID-19 patients had reduced thymic function, which was inversely associated with the severity of the disease. Angiotensin-converting enzyme 2 (ACE2) was expressed by thymic epithelium, and in particular by medullary thymic epithelial cells (TEC). SARS-CoV-2 can target TECs and downregulate critical genes and pathways associated with epithelial cell adhesion and survival.",
+			"Twitter": "https://twitter.com/ChristosArgyrop/status/1627061664171565057",
+			"Category": [
+				"Immune response",
+				"Thymus"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/path.6035",
+			"Date": "2023-01-18",
+			"Text": "Persistent SARS-CoV-2 infection in patients seemingly recovered from COVID-19.",
+			"Twitter": "https://twitter.com/ejustin46/status/1616257197805035522",
+			"Category": [
+				"Viral persistence",
+				"COVID recovery"
+			]
+		},
+		{
+			"ArticleURL": "https://www.science.org/content/article/how-sars-cov-2-battles-our-immune-system",
+			"Date": "2022-10-13",
+			"Text": "How SARS-CoV-2 battles our immune system",
+			"Category": [
+				"Review"
 			]
 		}
 	]
