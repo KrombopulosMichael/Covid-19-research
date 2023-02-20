@@ -1,15 +1,6 @@
 {
 	"Articles": [
 		{
-			"Date": "2022-04-12",
-			"ArticleURL": "https://doi.org/10.1016/j.medj.2022.04.001",
-			"Text": "13% of participants continued to shed SARS-CoV-2 RNA in the feces at 4 months after diagnosis & 4% shed at 7 months. GI symptoms are associated with fecal shedding of RNA.",
-			"Twitter": "https://twitter.com/loscharlos/status/1514430252763660292",
-			"Category": [
-				"Long COVID"
-			]
-		},
-		{
 			"Date": "2022-03-13",
 			"ArticleURL": "https://doi.org/10.1002/ana.26350",
 			"Text": "The neurons and other neural cells that SARS-CoV-2 is infecting, are shedding Spike and Nucleocapsid and levels are significantly higher in long COVID and even higher in long COVID with neuropsychiatric symptoms.",
@@ -24,7 +15,7 @@
 			"Text": "Convergent receptor binding domain evolution of BA.2.75 and BA.5.",
 			"Twitter": "https://twitter.com/yunlong_cao/status/1570922875590414336",
 			"Category": [
-				"SARS-CoV-2 origins"
+				"SARS-CoV-2 mechanics"
 			]
 		},
 		{
@@ -33,7 +24,9 @@
 			"Text": "13% of participants continued to shed SARS-CoV-2 RNA in the feces at 4 months after\n\t\t\t\tdiagnosis & 4% shed at 7 months. GI symptoms are associated with fecal shedding of RNA.",
 			"Twitter": "https://twitter.com/loscharlos/status/1514430252763660292",
 			"Category": [
-				"Gut"
+				"Long COVID",
+				"Viral persistence",
+				"Gastrointestinal"
 			]
 		},
 		{
@@ -46,12 +39,13 @@
 			]
 		},
 		{
-			"ArticleURL": "https://doi.org/10.1101/2022.06.14.22276401",
+			"ArticleURL": "https://doi.org/10.1093/cid/ciac722",
 			"Date": "2022-06-16",
-			"Text": "SARS-CoV-2 spike\n\t\t\t\tantigen in a majority of PASC patients up to 12 months post-diagnosis (n = 63), suggesting the presence of an\n\t\t\t\tactive persistent SARS-CoV-2 viral reservoir.",
+			"Text": "SARS-CoV-2 spike antigen in a majority of PASC patients up to 12 months post-diagnosis (n = 63), suggesting the presence of an active persistent SARS-CoV-2 viral reservoir.",
 			"Twitter": "https://twitter.com/ysenussiMD/status/1537590072387805184",
 			"Category": [
-				"Long COVID"
+				"Long COVID",
+				"Viral persistence"
 			]
 		},
 		{
@@ -156,8 +150,8 @@
 		{
 			"ArticleURL": "https://doi.org/10.1186/s12967-021-03184-8",
 			"Date": "2021-12-30",
-			"Text": "💯% of 177 infected\n\t\t\t\thealth care workers developed auto antibodies.",
-			"Twitter": "",
+			"Text": "💯% of 177 infected health care workers developed auto antibodies.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1478407141014781958",
 			"Category": [
 				"Antibodies"
 			]
@@ -203,7 +197,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1128/mBio.02243-20",
 			"Date": "2020-09-18",
-			"Text": "Impaired Cytotoxic CD8 + T\n\t\t\t\tCell Response in Elderly COVID-19 Patients.",
+			"Text": "Impaired Cytotoxic CD8 + T Cell Response in Elderly COVID-19 Patients.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1494713579873918983",
 			"Category": [
 				"T cells"
@@ -212,7 +206,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1101/2022.04.07.487556",
 			"Date": "2022-04-08",
-			"Text": "🐁 SARS-CoV-2 and its\n\t\t\t\tvariants, but not Omicron, induces thymic atrophy and impaired T cell development.",
+			"Text": "🐁 SARS-CoV-2 and its variants, but not Omicron, induces thymic atrophy and impaired T cell development.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1512801468683730953",
 			"Category": [
 				"T cells"
@@ -221,7 +215,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41392-022-00919-x",
 			"Date": "2022-03-08",
-			"Text": "🧫 ACE2-independent\n\t\t\t\tinfection of T lymphocytes by SARS-CoV-2.",
+			"Text": "🧫 ACE2-independent infection of T lymphocytes by SARS-CoV-2.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1502971289018978306",
 			"Category": [
 				"T cells"
@@ -349,7 +343,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41467-022-30649-1",
 			"Date": "2022-05-27",
-			"Text": "Cross-reactive\n\t\t\t\timmunity against the SARS-CoV-2 Omicron variant is low in pediatric patients with prior COVID-19 or MIS-C",
+			"Text": "Cross-reactive immunity against the SARS-CoV-2 Omicron variant is low in pediatric patients with prior COVID-19 or MIS-C",
 			"Twitter": "https://twitter.com/mildanalyst/status/1530175050787299328",
 			"Category": [
 				"Reinfection"
@@ -358,7 +352,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41591-022-01840-0",
 			"Date": "2022-05-25",
-			"Text": "Tallying the natural\n\t\t\t\thistory of post-vaccine breakthrough infections (BTI) in 33,000 people with over 13 million controls gives a\n\t\t\t\tvaccination protection from long covid of around 15%, much less than many other studies (reporting around 50%).",
+			"Text": "Tallying the natural history of post-vaccine breakthrough infections (BTI) in 33,000 people with over 13 million controls gives a vaccination protection from long covid of around 15%, much less than many other studies (reporting around 50%).",
 			"Twitter": "https://twitter.com/EricTopol/status/1529477481127759872",
 			"Category": [
 				"Reinfection"
@@ -653,17 +647,6 @@
 			]
 		},
 		{
-			"ArticleURL": "https://doi.org/10.1101/2023.02.09.527892",
-			"Date": "2023-02-10",
-			"Text": "Long COVID manifests with T cell dysregulation, inflammation, and an uncoordinated adaptive immune response to SARS-CoV-2. One aspect highly consistent between all studies to date is the ability to detect SARS-CoV-2-specific T cells in both LC and non-LC individuals, months after infection.",
-			"Twitter": "https://twitter.com/breakfastnick/status/1625107103105810438",
-			"Category": [
-				"Preprint",
-				"Long COVID",
-				"T cells"
-			]
-		},
-		{
 			"ArticleURL": "https://doi.org/10.1021%2Facsomega.1c06551",
 			"Date": "2022-03-07",
 			"Text": "Significant alteration of reproductive function at the molecular level. Several dysregulated proteins identified.",
@@ -706,8 +689,7 @@
 			"Text": "Persistent SARS-CoV-2 infection in patients seemingly recovered from COVID-19.",
 			"Twitter": "https://twitter.com/ejustin46/status/1616257197805035522",
 			"Category": [
-				"Viral persistence",
-				"COVID recovery"
+				"Viral persistence"
 			]
 		},
 		{
@@ -716,6 +698,257 @@
 			"Text": "How SARS-CoV-2 battles our immune system",
 			"Category": [
 				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.01.29.23285160",
+			"Date": "2023-01-30",
+			"Text": "Only 9% of people with persistent SARS-CoV-2 infection reported having Long COVID",
+			"Twitter": "https://twitter.com/Aguirre1Gustavo/status/1620946352850042880",
+			"Category": [
+				"Viral persistence",
+				"Long COVID",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/DOI",
+			"Date": "2023-02-16",
+			"Text": "Muscle biopsy in-depth assessment in people with Long Covid with exercise symptoms compared with 2 control groups shows microvascular abnormalities with reduced capillaries, immune cell dysregulation, distinct gene expression signature.",
+			"Twitter": "https://twitter.com/EricTopol/status/1626358954640146432",
+			"Category": [
+				"Long COVID",
+				"Muscle",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.02.09.527892",
+			"Date": "2023-02-10",
+			"Text": "Long COVID manifests with T cell dysregulation, inflammation, and an uncoordinated adaptive immune response to SARS-CoV-2. Individuals with LC harbored increased frequencies of CD4+ T cells poised to migrate to inflamed tissues, and exhausted SARS-CoV-2-specific CD8+ T cells. They also harbored significantly higher levels of SARS-CoV-2 antibodies, and in contrast to non-LC individuals, exhibited a mis-coordination between their SARS-CoV-2-specific T and B cell responses.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1625666043254374402",
+			"Category": [
+				"Preprint",
+				"Long COVID",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.celrep.2023.112189",
+			"Date": "2023-02-16",
+			"Text": "🐁Spike protein infusion into mouse brain induces late cognitive dysfunction. Spike protein induces late hippocampal microgliosis and synapse loss. Blockage of TLR4 renders mice resistant to Spike-induced cognitive dysfunction. TLR4-2604G>A GG genotype (rs10759931) was related to poor cognitive outcomes in COVID-19 patients.",
+			"Twitter": "https://twitter.com/CoronaHeadsUp/status/1627395499941675009",
+			"Category": [
+				"Susceptibility",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciimmunol.ade2798",
+			"Date": "2022-12-22",
+			"Text": "Class switch toward non-inflammatory, spike-specific IgG4 antibodies after repeated SARS-CoV-2 mRNA vaccination.",
+			"Twitter": "https://twitter.com/EricTopol/status/1606005665448595456?s=20",
+			"Category": [
+				"Vaccine",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41418-022-00936-x",
+			"Date": "2022-01-22",
+			"Text": "T cell apoptosis characterizes severe Covid-19 disease.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1504610546884268039",
+			"Category": [
+				"T cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2022.01.10.475725",
+			"Date": "2022-01-11",
+			"Text": "Single-cell atlas reveals shared and distinct immune responses and metabolism during SARS-CoV-2 and HIV-1 infections.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1504610551896449030",
+			"Category": [
+				"T cells",
+				"Preprint",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2020.589380",
+			"Date": "2020-10-08",
+			"Text": "T-Cell Hyperactivation and Paralysis in Severe COVID-19 Infection Revealed by Single-Cell Analysis",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1504611476409135109",
+			"Category": [
+				"T cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.02.15.23285584",
+			"Date": "2023-02-16",
+			"Text": "Post-COVID syndrome is associated with capillary alterations, macrophage infiltration and distinct transcriptomic signatures in skeletal muscles.",
+			"Twitter": "https://twitter.com/1goodtern/status/1627322166168502272",
+			"Category": [
+				"Preprint",
+				"Long COVID",
+				"Arteries",
+				"Muscle"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-022-34256-y",
+			"Date": "2023-02-02",
+			"Text": "To varying degrees, viral RNA is present in extrapulmonary tissues from all subjects. The majority of the 180 viral variants identified within subjects are unique to individual tissue samples.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1625666045045350402",
+			"Category": [
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciimmunol.abk1741",
+			"Date": "2021-09-30",
+			"Text": "Detailed evaluation of the lung immune compartment revealed that dysregulated respiratory CD8+ T cell responses were associated with the impaired lung function after acute COVID-19. Single-cell transcriptomic analysis identified the potential pathogenic subsets of respiratory CD8+ T cells contributing to persistent tissue conditions after COVID-19.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1504611839258370052",
+			"Category": [
+				"Long COVID",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s13045-022-01329-w",
+			"Date": "2022-07-30",
+			"Text": "Evidence of SARS-CoV-2 spike protein on retrieved thrombi from COVID-19 patients.",
+			"Twitter": "https://twitter.com/AMannanBaig/status/1559934476968464389",
+			"Category": [
+				"Lungs",
+				"Vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.abh2939",
+			"Date": "2021-04-29",
+			"Text": "Desk shields between students in schools are the one measure that is associated with a higher risk of developing COVID symptoms.",
+			"Twitter": "https://twitter.com/alexandreafonso/status/1469960624847396869",
+			"Category": [
+				"Mitigation"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cid/ciac722",
+			"Date": "2023-02-01",
+			"Text": "Circulating spike protein in the blood of long haulers, but not controls, 12 months post diagnosis.",
+			"Twitter": "https://twitter.com/breakfastnick/status/1537750350131871744",
+			"Category": [
+				"Long COVID",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/gutjnl-2021-324280",
+			"Date": "2021-06-02",
+			"Text": "Using conventional immunohistochemistry, we detected SARS-CoV-2 nucleocapsid protein in the colon, appendix, ileum, haemorrhoid, liver, gallbladder and lymph nodes from 5 patients who recovered from COVID-19, 9-180 days after testing negative for SARS-CoV-2.",
+			"Twitter": "https://twitter.com/dronico/status/1601938895796682753",
+			"Category": [
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2213-2600(22)00060-1",
+			"Date": "2022-03-16",
+			"Text": "In pregnant women who tested positive for SARS-CoV-2, normalised fetal lung volume was significantly reduced compared with age-adjusted reference values.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1506556387002032130",
+			"Category": [
+				"Kids",
+				"Pregnancy",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jiph.2021.02.002",
+			"Date": "2021-02-08",
+			"Text": "Of the 109 patients, 29 (27%) experienced reactivation, and seven (24%) of these were symptomatic. The mean period for the real-time PCR tests for SARS-CoV-2 from negative to positive results was 17 days. Compared with patients without reactivation, those with reactivation were significantly younger and more likely to have a lymphocyte count of <1500/μL (odds ratio [OR]: 0.34, 95% confidence interval [CI]: 0.12–0.94) and two or fewer symptoms (OR: 0.20, 95% CI: 0.07–0.55) during the initial episode.",
+			"Twitter": "https://twitter.com/2dedostesta2/status/1383359899426459653",
+			"Category": [
+				"Viral persistence",
+				"Reinfection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fviro.2022.894531",
+			"Date": "2022-06-10",
+			"Text": "Electrostatic interactions are a major contributing factor for increased Omicron transmissibility relative to other variants.",
+			"Twitter": "https://twitter.com/MarionKoopmans/status/1493489175924027393",
+			"Category": [
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fmed.2021.717194",
+			"Date": "2021-11-23",
+			"Text": "One year after infection, over 25% of people had lung diffusion issues.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1491914792973615111",
+			"Category": [
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cell.2021.12.040",
+			"Date": "2021-12-27",
+			"Text": "Severe COVID-19 is marked by activated, highly cytotoxic CD16+ T cells. Immune-complex-mediated degranulation of CD16+ T cells causes endothelial cell injury. C3a-rich environment in severe COVID-19 promotes differentiation of CD16+ T cells. Activated CD16+ T cells and complement proteins are associated with fatal outcome",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1495591085715988481",
+			"Category": [
+				"T cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jinf.2022.01.012",
+			"Date": "2022-01-24",
+			"Text": "Deaths reported within 28 days of testing positive were 61% (95% confidence interval: 56% to 65%) lower in suspected COVID-19 reinfection than primary infection cases. In the unvaccinated cohort, reinfections were associated with 49% (37% to 58%) lower odds of hospital admission in cases aged 50 to 65 years in the population not identified at risk of complication for COVID-19, and 34% (17% to 48%) in those at risk.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1489037768567230467",
+			"Category": [
+				"Reinfection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2022.01.31.478476",
+			"Date": "2022-02-01",
+			"Text": "SARS-CoV-2 invades cognitive centers of the brain and induces Alzheimer’s-like neuropathology.",
+			"Twitter": "https://twitter.com/EricTopol/status/1488637332689342468",
+			"Category": [
+				"Preprint",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/pnasnexus/pgac067",
+			"Date": "2022-01-20",
+			"Text": "Omicron variant of SARS-CoV-2 exhibits an increased resilience to the antiviral type I interferon response. IFN induction by Omicron is low and comparable to the wt, whereas Delta showed an increased IFN induction. However, Omicron exceeded both the wt and the Delta strain with respect to the ability to withstand the antiviral state imposed by IFN-alpha.",
+			"Twitter": "https://twitter.com/Friedemann1/status/1484952570586087430",
+			"Category": [
+				"Viral persistence",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/bjh.17034",
+			"Date": "2020-07-20",
+			"Text": "A low count of CD4+ and CD8+ lymphocytes is a hallmark laboratory finding in the coronavirus disease 2019 (COVID-19). Using flow cytometry, significantly higher CD95 (Fas) and PD-1 expression on both CD4+ T and CD8+ T cells were observed in 42 COVID-19 patients when compared to controls. Higher CD95 expression in CD4+ cells correlated with lower CD4+ counts. A higher expression of CD95 in CD4+ and CD8+ lymphocytes correlated with a lower percentage of naive events. This suggests a shift to antigen-activated T cells, expressing molecules increasing their propensity to apoptosis and exhaustion during COVID-19 infection.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1354949527984345098",
+			"Category": [
+				"T cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41541-022-00526-5",
+			"Date": "2022-01-17",
+			"Text": "Not only are COVID-19 cases who got 2 vaccine doses reporting much less Long COVID symptoms than unvaccinated - they're reporting no more than uninfected people - suggesting vaccination brings these symptoms back to baseline.",
+			"Twitter": "https://twitter.com/epi_michael/status/1483143937359495172",
+			"Category": [
+				"Vaccine",
+				"Long COVID"
 			]
 		}
 	]
