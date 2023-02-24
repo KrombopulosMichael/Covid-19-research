@@ -950,6 +950,62 @@
 				"Vaccine",
 				"Long COVID"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.abd4585",
+			"Date": "2020-09-24",
+			"Text": "Significant proportion of severe COVID19 patients actually developed auto-antibodies against interferon type I.",
+			"Twitter": "https://twitter.com/tmprowell/status/1309331757360205825",
+			"Category": [
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41590-021-01122-w",
+			"Date": "2022-02-01",
+			"Text": "80% of peripheral T cells die during SARS Cov 2 infection, with proliferation of 20% of the CD8 T cell pool.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1628007520894607360",
+			"Category": [
+				"T cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s00417-021-05420-9",
+			"Date": "2021-10-04",
+			"Text": "Significant posterior ocular structural & vascular alterations in patients with severe COVID infections.",
+			"Twitter": "https://twitter.com/TactNowInfo/status/1612513186032537601",
+			"Category": [
+				"Eye"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-022-35638-y",
+			"Date": "2022-12-26",
+			"Text": "White Cells (monocytes) switch gene expression from an established innate immune profile to a pro-clotting signature in COVID.",
+			"Twitter": "https://twitter.com/WesElyMD/status/1610257204090896385",
+			"Category": [
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/v14051020",
+			"Date": "2022-05-09",
+			"Text": "🐁Covid infects the central nervous system in mouse models. Inflammation was consistently observed, with death of endothelial, microglial and immune cells but without their apparent infection.",
+			"Twitter": "https://twitter.com/KunstJonas/status/1524370877575540736?s=20",
+			"Category": [
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.12659/MSM.930886",
+			"Date": "2021-01-25",
+			"Text": "Alterations in brain functioning, especially in regions associated with cognition, can result from infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and are predicted to result in various psychiatric diseases.",
+			"Twitter": "https://twitter.com/xabitron1/status/1625143810245201921",
+			"Category": [
+				"Review",
+				"Brain"
+			]
 		}
 	]
 }
