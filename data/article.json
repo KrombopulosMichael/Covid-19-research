@@ -1069,6 +1069,142 @@
 				"Brain",
 				"Kids"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.02.27.530232",
+			"Date": "2023-03-01",
+			"Text": "ORF3c suppresses RIG-I- and MDA5-mediated immune activation and interacts with the signaling adaptor MAVS. In line with this, ORF3c inhibits IFN-β induction.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1631103801623994370",
+			"Category": [
+				"Preprint",
+				"SARS-CoV-2 mechanics",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.02.17.23286059",
+			"Date": "2023-02-23",
+			"Text": "Critical SARS-CoV-2 infection was characterised by an increase in activated and cytotoxic CD4+ (CTL) cells of a T follicular helper (TFH) or effector memory re-expressing CD45RA (TEMRA) phenotype.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1630664456165269509",
+			"Category": [
+				"Preprint",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.01.21.23284592",
+			"Date": "2023-01-25",
+			"Text": "Out of 48 children the presence of SARS-CoV-2 was detected in at least one specimen in 25% (20% in palatine tonsils and 16.27% in adenoids, 10.41% of nasal cytobrush, and 6.25% of nasal wash).",
+			"Twitter": "https://twitter.com/1goodtern/status/1618596533636845570",
+			"Category": [
+				"Preprint",
+				"Viral persistence",
+				"Kids"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1021/acschemneuro.0c00122",
+			"Date": "2020-03-13",
+			"Text": "Review on evidence of the COVID-19 Virus Targeting the CNS: Tissue Distribution, Host–Virus Interaction, and Proposed Neurotropic Mechanisms",
+			"Twitter": "https://twitter.com/AMannanBaig/status/1614326645858484226",
+			"Category": [
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmj-2022-072529",
+			"Date": "2023-01-11",
+			"Text": "Covid-19 infection was significantly associated with increased risks in early and late periods for anosmia and dysgeusia (hazard ratio 4.59 (95% confidence interval 3.63 to 5.80), risk difference 19.6 (95% confidence interval 16.9 to 22.4) in early period; 2.96 (2.29 to 3.82), 11.0 (8.5 to 13.6) in late period), cognitive impairment (1.85 (1.58 to 2.17), 12.8, (9.6 to 16.1); 1.69 (1.45 to 1.96), 13.3 (9.4 to 17.3)), dyspnoea (1.79 (1.68 to 1.90), 85.7 (76.9 to 94.5); 1.30 (1.22 to 1.38), 35.4 (26.3 to 44.6)), weakness (1.78 (1.69 to 1.88), 108.5, 98.4 to 118.6; 1.30 (1.22 to 1.37), 50.2 (39.4 to 61.1)), and palpitations (1.49 (1.35 to 1.64), 22.1 (16.8 to 27.4); 1.16 (1.05 to 1.27), 8.3 (2.4 to 14.1)) and with significant but lower excess risk for streptococcal tonsillitis and dizziness.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1615386150528770053",
+			"Category": [
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1097/j.pain.0000000000002097",
+			"Date": "2021-01",
+			"Text": " VEGF-A-triggered sensory neuron firing was blocked by spike protein and NRP-1 inhibitor EG00229. Pronociceptive behaviors of VEGF-A were similarly blocked through suppression of spontaneous spinal synaptic activity and reduction of electrogenic currents in sensory neurons.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1313437306955628544",
+			"Category": [
+				"Pain",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/jmv.26742",
+			"Date": "2020-12-17",
+			"Text": "Both early and late apoptotic cells in B and T lymphocytes were increased in all patients with COVID-19 (p < .05). Early apoptotic (EA) B and T lymphocytes were also higher in severe cases compared to mild cases (p = .026). There was no significant difference between lymphopenia and apoptosis in patients with COVID-19. However, patients with lymphopenia (n = 14) and severe COVID-19 (p = .013) had increased EA T lymphocytes. This study's results show that B and T lymphocytes' apoptosis increases in patients with COVID-19. In addition, enhanced T lymphocyte apoptosis is associated with disease severity in lymphopenic patients with COVID-19.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1614548404759142400",
+			"Category": [
+				"B cells",
+				"T cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-36223-7",
+			"Date": "2023-03-07",
+			"Text": "Beyond the first 30 days of infection, people with COVID-19 exhibited increased risks and 1-year burdens of incident gastrointestinal disorders spanning several disease categories including motility disorders, acid related disorders (dyspepsia, gastroesophageal reflux disease, peptic ulcer disease), functional intestinal disorders, acute pancreatitis, hepatic and biliary disease. The risks were evident in people who were not hospitalized during the acute phase of COVID-19 and increased in a graded fashion across the severity spectrum of the acute phase of COVID-19 (non-hospitalized, hospitalized, and admitted to intensive care). ",
+			"Twitter": "https://twitter.com/zalaly/status/1633098258837905416",
+			"Category": [
+				"Long COVID",
+				"Gastrointestinal"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.03.03.23286775",
+			"Date": "2023-03-06",
+			"Text": "The results of 94,812 SARS-CoV-2 PCR tests collected longitudinally from >3,000 players, staff, and affiliates of the NBA over the course of the pandemic were analysed. Relative to first infections, second infections usually featured a lower peak viral concentration and faster clearance time, especially in individuals who received a vaccine dose between their first and second infection. Furthermore, a person’s relative (rank-order) viral clearance time, compared to others infected with the same variant, was similar across first and second infections; that is, individuals who had a relatively fast clearance time in their first infection tended to also have a relatively fast clearance time in their second infection.",
+			"Twitter": "https://twitter.com/StephenKissler/status/1633165723743965185",
+			"Category": [
+				"Reinfection",
+				"Preprint",
+				"Vaccination",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.03.06.23286834",
+			"Date": "2023-03-07",
+			"Text": "Lung tissue sampling (needle biopsy), within ~2 hours of death, in 42 mechanically ventilated decedents during the Beta and Delta waves. Lung biopsy cores underwent viral culture, histopathological analysis, electron microscopy, transcriptomic profiling, immunohistochemistry and cell-based flow cytometry of deconstructed tissue. 38% (16/42) of patients had culturable virus in the lung (persisting for up to 4 weeks after symptom onset).",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1633187145677455361",
+			"Category": [
+				"Viral persistence",
+				"Preprint",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fragi.2023.1108149",
+			"Date": "2023-02-13",
+			"Text": "Characterized were immune cell and cytokine responses in 58 COVID-19 patients admitted to the hospital and 40 healthy controls of different age ranges. When the age range analysis was carried out, the immunological response to the infection was found to differ with age, being especially affected in the group of 30–39 years. In this age range, an increased exhausted T cell response and a decrease of naïve T helper lymphocytes was found in patients, as well as a reduced concentration of the pro-inflammatory TNF, IL-1β and IL-8 cytokines.",
+			"Twitter": "https://twitter.com/Yash25571056/status/1632340687038599168",
+			"Category": [
+				"T cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41577-022-00825-x",
+			"Date": "2022-12-20",
+			"Text": "PEG-specific antibodies can be induced or boosted by mRNA vaccination",
+			"Twitter": "https://twitter.com/doctorvasan/status/1606100097766264832",
+			"Category": [
+				"Vaccination",
+				"Review",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/inthealth/ihab028",
+			"Date": "2022-03-02",
+			"Text": "The highest prevalence of SARS-CoV-2-positive tears using reverse transcription polymerase chain reaction was found to be 7.5%. However, the highest prevalence of ocular conjunctivitis associated with SARS-CoV-2 was 32%. Thus, SARS-CoV-2 can evidently infect the eye, as revealed in the conjunctival secretions of COVID-19 patients.",
+			"Twitter": "https://twitter.com/mamasaurusMeg/status/1606424251258605574",
+			"Category": [
+				"Eye"
+			]
 		}
 	]
 }
