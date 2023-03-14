@@ -252,7 +252,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.cell.2022.06.008",
 			"Date": "2022-06-07",
-			"Text": "Mild respiratory infection with SARS-CoV-2 can result in persistent\n\t\t\t\tneuro-inflammatory changes and consequent dysregulation of\n\t\t\t\tneural cell types important for healthy cognitive function.",
+			"Text": "Mild respiratory infection with SARS-CoV-2 can result in persistent neuro-inflammatory changes and consequent dysregulation of neural cell types important for healthy cognitive function.",
 			"Twitter": "https://twitter.com/michelle_monje/status/1536262549502676996",
 			"Category": [
 				"Brain"
@@ -325,7 +325,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1101/2022.04.17.488474",
 			"Date": "2022-04-18",
-			"Text": "Persistent\n\t\t\t\tpost-COVID-19 smell loss is associated with inflammatory infiltration and altered olfactory epithelial gene\n\t\t\t\texpression.",
+			"Text": "Persistent post-COVID-19 smell loss is associated with inflammatory infiltration and altered olfactory epithelial gene expression.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1516437084017336320",
 			"Category": [
 				"Smell"
@@ -334,7 +334,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1101/2021.08.28.21262763",
 			"Date": "2021-09-08",
-			"Text": "Loss of smell &\n\t\t\t\ttaste intensified long after people had Covid.",
+			"Text": "Loss of smell & taste intensified long after people had Covid.",
 			"Twitter": "https://twitter.com/DecodingTrolls/status/1529734860801196035",
 			"Category": [
 				"Smell"
@@ -361,7 +361,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.amsu.2021.103130",
 			"Date": "2021-12",
-			"Text": "A higher ICU admission rate was observed in reinfection compared to first infection. Complete recovery rate\n\t\t\t\tafter reinfection stood at 97.9%.",
+			"Text": "A higher ICU admission rate was observed in reinfection compared to first infection. Complete recovery rate after reinfection stood at 97.9%.",
 			"Twitter": "https://twitter.com/EnemyInAState/status/1506311077054795787",
 			"Category": [
 				"Reinfection"
@@ -370,25 +370,27 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.celrep.2022.110938",
 			"Date": "2022-05-25",
-			"Text": "Asymptomatic and\n\t\t\t\tmild COVID-19 significantly remodels the maternal-fetal interface.\n\t\t\t\tSingle-cell RNA sequencing reveals immunological rewiring at the maternal-fetal interface following\n\t\t\t\tasymptomatic/mild SARS-CoV-2 infection.",
+			"Text": "Asymptomatic and mild COVID-19 significantly remodels the maternal-fetal interface. Single-cell RNA sequencing reveals immunological rewiring at the maternal-fetal interface following asymptomatic/mild SARS-CoV-2 infection.",
 			"Twitter": "https://twitter.com/mildanalyst/status/1534955533819596802",
 			"Category": [
-				"Transmission"
+				"Transmission",
+				"Newborn"
 			]
 		},
 		{
 			"ArticleURL": "https://doi.org/10.9778/cmajo.20220026",
 			"Date": "2022-04-12",
-			"Text": "Household transmission is\n\t\t\t\thigh, and children are a major driver.",
+			"Text": "Household transmission is high, and children are a major driver.",
 			"Twitter": "https://twitter.com/TRyanGregory/status/1522666354775580676",
 			"Category": [
-				"Transmission"
+				"Transmission",
+				"Kids"
 			]
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41370-022-00442-9",
 			"Date": "2022-04-27",
-			"Text": "Wearing a mask is 1,000 times more important than wiping surfaces.\n\t\t\t\tThe estimated probability of infection was about 1 per 100 exposures to SARS-CoV-2-laden aerosols through\n\t\t\t\tinhalation and as high as 1 per 100,000 exposures from contacting contaminated surfaces in simulated\n\t\t\t\tscenarios.",
+			"Text": "Wearing a mask is 1,000 times more important than wiping surfaces. The estimated probability of infection was about 1 per 100 exposures to SARS-CoV-2-laden aerosols through inhalation and as high as 1 per 100,000 exposures from contacting contaminated surfaces in simulated scenarios.",
 			"Twitter": "https://twitter.com/TRyanGregory/status/1522658810116063233",
 			"Category": [
 				"Masks"
@@ -445,7 +447,8 @@
 			"Text": "Rapid initiation of twice-daily nasal saline irrigation reduces severity in high-risk COVID+ outpatients.",
 			"Twitter": "https://twitter.com/bodilaha/status/1608452627800494080",
 			"Category": [
-				"Treatment"
+				"Treatment",
+				"Nose"
 			]
 		},
 		{
@@ -1099,7 +1102,8 @@
 			"Category": [
 				"Preprint",
 				"Viral persistence",
-				"Kids"
+				"Kids",
+				"Nose"
 			]
 		},
 		{
@@ -1204,6 +1208,102 @@
 			"Twitter": "https://twitter.com/mamasaurusMeg/status/1606424251258605574",
 			"Category": [
 				"Eye"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.2139/ssrn.4375620",
+			"Date": "2023-03-06",
+			"Text": "Of 1323 randomized trial participants, 1125 consented for long-term follow up, and 95.1% completed >9 months of follow up. The median age was 45 years (IQR, 37 to 54), and 56% were female (7% pregnant). The median BMI was 30 kg/m2 (IQR, 27 to 34). Overall, 8.4% reported a medical provider diagnosed them with Long COVID; cumulative incidence: 6.3% with metformin and 10.6% with matched placebo. The hazard ratio (HR) for metformin preventing Long COVID was 0.58 (95%CI, 0.38 to 0.88; P=0·009) versus placebo. The metformin effect was consistent across subgroups, including viral variants. When metformin was started within <4 days of symptom onset, the HR for Long COVID was 0.37 (95%CI, 0.15 to 0.95).  No statistical difference in Long COVID occurred in those randomized to either ivermectin (HR=0.99; 95%CI, 0.59 to 1.64) or fluvoxamine (HR=1.36; 95%CI, 0.78 to 2.34).",
+			"Twitter": "https://twitter.com/davidasinclair/status/1635361010122113024",
+			"Category": [
+				"Preprint",
+				"Long COVID",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jiph.2023.03.005",
+			"Date": "2023-03-07",
+			"Text": "New analysis of 40 studies of pediatric Covid survivors, based on 12,424 individuals under 18, showed that the prevalence of any long COVID was 23.36%.",
+			"Twitter": "https://twitter.com/elisaperego78/status/1635153712602820608",
+			"Category": [
+				"Long COVID",
+				"Kids"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pone.0282151",
+			"Date": "2023-03-08",
+			"Text": "Spike protein can directly produce cellular damage and electrophysiological dysfunction, and this may confer the intrinsic, mechanistic susceptibility for increased risk of SCD(SUDDEN CARDIAC DEATH) observed in patients with COVID-19.",
+			"Twitter": "https://twitter.com/HarrySpoelstra/status/1634197293925560325",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Myocarditis",
+				"Heart",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41392-023-01386-8",
+			"Date": "2023-03-15",
+			"Text": "The main SARS-CoV-2 protease Nsp5 cleaves the TDP-43 protein into a cytotoxic form in human neural cells. SARS-CoV-2 infection results in multilineage neural cell dysregulation, decreased new neuron generation, and a reduction in overall brain size in patients, even those with mild respiratory COVID-19",
+			"Twitter": "https://twitter.com/outbreakupdates/status/1634035202505822209",
+			"Category": [
+				"Brain",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41390-022-02266-7",
+			"Date": "2022-05-08",
+			"Text": "Despite negative SARS CoV-2 nasal PCRs from all newborns, viral RNAs and Spike protein were detected in the stool of 11 out of 14 newborns as early as the first day of life and increased over time in 6. Stool homogenates from all 14 newborns elicited elevated inflammatory IL-6 and IFN-γ from macrophages. Most newborns were clinically well except for one death from gestational autoimmune liver disease and another who developed necrotizing enterocolitis.",
+			"Twitter": "https://twitter.com/DoorenspleetR/status/1633898658444787732",
+			"Category": [
+				"Reproductive health",
+				"Long COVID",
+				"Kids",
+				"Newborn",
+				"Viral persistence",
+				"Transmission"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41590-022-01367-z",
+			"Date": "2022-12-19",
+			"Text": "Evidence for persistent tissue-specific immunity to SARS-CoV-2 in the upper respiratory tract of children after infection. Pharyngeal tissues from COVID-19-convalescent children showed persistent expansion of germinal center and antiviral lymphocyte populations associated with interferon (IFN)-γ-type responses, particularly in the adenoids, and viral RNA in both tissues. ",
+			"Twitter": "https://twitter.com/RolandBakerIII/status/1604909937842212864",
+			"Category": [
+				"Immune response",
+				"Kids"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.amepre.2022.10.007",
+			"Date": "2022-12-14",
+			"Text": "Of 194,191 adults with COVID-19 infection, 6.3% were hospitalized, 3.1% experienced a deterioration event, and 2.8% died within 90 days. Dose‒response effects were strong; for example, patients in the some activity category had higher odds of hospitalization (OR=1.43; 95% CI=1.26, 1.63), deterioration (OR=1.83; 95% CI=1.49, 2.25), and death (OR=1.92; 95% CI=1.48, 2.49) than those in the always active category. Results were generally consistent across sex, race and ethnicity, age, and BMI categories and for patients with cardiovascular disease or hypertension.",
+			"Twitter": "https://twitter.com/DocJeffD/status/1603598778317307905",
+			"Category": [
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s12668-022-01020-x",
+			"Date": "2022-09-02",
+			"Text": "In recovered COVID-19 patients, the cell-bound component of mucosal immunity reveals lympho- and eosinopenia. The neutrophils population shows cytodestruction, increased apoptosis, and decreased functional and metabolic activity of the cell.",
+			"Twitter": "https://twitter.com/RogueVictorian/status/1603605756674285568",
+			"Category": [
+				"Immune response",
+				"Nose"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/ijerph192214673",
+			"Date": "2022-11-08",
+			"Text": "People who live at high altitudes were significantly more likely to get #LongCovid (72%, vs 29% in people living at low altitudes).",
+			"Twitter": "https://twitter.com/ahandvanish/status/1596523657572093953",
+			"Category": [
+				"Long COVID",
+				"Susceptibility"
 			]
 		}
 	]
