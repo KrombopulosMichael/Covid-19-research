@@ -329,7 +329,8 @@
 			"Text": "Persistent post-COVID-19 smell loss is associated with inflammatory infiltration and altered olfactory epithelial gene expression.",
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1516437084017336320",
 			"Category": [
-				"Smell"
+				"Smell",
+				"Nose"
 			]
 		},
 		{
@@ -375,7 +376,7 @@
 			"Twitter": "https://twitter.com/mildanalyst/status/1534955533819596802",
 			"Category": [
 				"Transmission",
-				"Newborn"
+				"Newborns"
 			]
 		},
 		{
@@ -797,7 +798,7 @@
 			"Category": [
 				"Preprint",
 				"Long COVID",
-				"Arteries",
+				"Endothelium",
 				"Muscle"
 			]
 		},
@@ -865,7 +866,7 @@
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1506556387002032130",
 			"Category": [
 				"Kids",
-				"Pregnancy",
+				"Newborns",
 				"Lungs"
 			]
 		},
@@ -1249,7 +1250,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41392-023-01386-8",
 			"Date": "2023-03-15",
-			"Text": "The main SARS-CoV-2 protease Nsp5 cleaves the TDP-43 protein into a cytotoxic form in human neural cells. SARS-CoV-2 infection results in multilineage neural cell dysregulation, decreased new neuron generation, and a reduction in overall brain size in patients, even those with mild respiratory COVID-19",
+			"Text": "The main SARS-CoV-2 protease Nsp5 cleaves the TDP-43 protein into a cytotoxic form in human neural cells. SARS-CoV-2 infection results in multilineage neural cell dysregulation, decreased new neuron generation, and a reduction in overall brain size in patients, even those with mild respiratory COVID-19.",
 			"Twitter": "https://twitter.com/outbreakupdates/status/1634035202505822209",
 			"Category": [
 				"Brain",
@@ -1262,10 +1263,9 @@
 			"Text": "Despite negative SARS CoV-2 nasal PCRs from all newborns, viral RNAs and Spike protein were detected in the stool of 11 out of 14 newborns as early as the first day of life and increased over time in 6. Stool homogenates from all 14 newborns elicited elevated inflammatory IL-6 and IFN-γ from macrophages. Most newborns were clinically well except for one death from gestational autoimmune liver disease and another who developed necrotizing enterocolitis.",
 			"Twitter": "https://twitter.com/DoorenspleetR/status/1633898658444787732",
 			"Category": [
-				"Reproductive health",
 				"Long COVID",
 				"Kids",
-				"Newborn",
+				"Newborns",
 				"Viral persistence",
 				"Transmission"
 			]
