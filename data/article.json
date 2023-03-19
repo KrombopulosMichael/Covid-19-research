@@ -123,7 +123,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.amsu.2022.103590",
 			"Date": "2022-05",
-			"Text": "Meta analysis shows that\n\t\t\t\t45% of post COVID patients have pulmonary fibrosis. Affected tend to be older and have suffered worse COVID\n\t\t\t\tcourse.",
+			"Text": "Meta analysis shows that 45% of post COVID patients have pulmonary fibrosis. Affected tend to be older and have suffered worse COVID course.",
 			"Twitter": "https://twitter.com/statesdj/status/1514050359865581569",
 			"Category": [
 				"Lungs"
@@ -132,16 +132,17 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/S0140-6736(20)30937-5",
 			"Date": "2020-04-20",
-			"Text": "Endothelial cell\n\t\t\t\tinfection and endotheliitis in COVID-19.",
+			"Text": "Endothelial cell infection and endotheliitis in COVID-19.",
 			"Twitter": "https://twitter.com/TheLancet/status/1251178521940066306",
 			"Category": [
-				"Lungs"
+				"Lungs",
+				"Endothelium"
 			]
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1101/2022.04.07.487489",
 			"Date": "2022-04-07",
-			"Text": "Antibody resistance of\n\t\t\t\tSARS-CoV-2 Omicron BA.1, BA.1.1, BA.2 and BA.3 Sub-lineages.",
+			"Text": "Antibody resistance of SARS-CoV-2 Omicron BA.1, BA.1.1, BA.2 and BA.3 Sub-lineages.",
 			"Twitter": "",
 			"Category": [
 				"Antibodies"
@@ -159,17 +160,17 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41586-021-03791-x",
 			"Date": "2021-07-12",
-			"Text": "No increase in auto\n\t\t\t\tantibodies after vaccination.",
-			"Twitter": "",
+			"Text": "No increase in auto-antibodies after vaccination.",
+			"Twitter": "https://twitter.com/manopsi/status/1414844641673768960",
 			"Category": [
 				"Antibodies",
-				"Vaccine"
+				"Vaccination"
 			]
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41590-021-01113-x",
 			"Date": "2022-01-13",
-			"Text": "Immunological\n\t\t\t\tdysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection.",
+			"Text": "Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection.",
 			"Twitter": "https://twitter.com/Marc_Veld/status/1481686620097196035",
 			"Category": [
 				"Long COVID",
@@ -179,7 +180,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1093/jmcb/mjac021",
 			"Date": "2022-04-22",
-			"Text": "Infection of primary human\n\t\t\t\tB and T cells by SARS-CoV-2 in vitro and in patients.",
+			"Text": "Infection of primary human B and T cells by SARS-CoV-2 in vitro and in patients.",
 			"Twitter": "https://twitter.com/VengefulArzt/status/1518031752047915008",
 			"Category": [
 				"T cells"
@@ -592,12 +593,13 @@
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1161/CIRCULATIONAHA.122.061025",
-			"Date": "DATE",
+			"Date": "2023-01-04",
 			"Text": "Markedly elevated levels of full-length spike protein, unbound by antibodies, were detected in the plasma of individuals with post-vaccine myocarditis, whereas no free spike was detected in asymptomatic vaccinated control subjects.",
 			"Twitter": "https://twitter.com/Yash25571056/status/1611358240222380040",
 			"Category": [
 				"Antibodies",
-				"Vaccine"
+				"Vaccination",
+				"Myocarditis"
 			]
 		},
 		{
@@ -752,7 +754,7 @@
 			"Text": "Class switch toward non-inflammatory, spike-specific IgG4 antibodies after repeated SARS-CoV-2 mRNA vaccination.",
 			"Twitter": "https://twitter.com/EricTopol/status/1606005665448595456?s=20",
 			"Category": [
-				"Vaccine",
+				"Vaccination",
 				"Antibodies"
 			]
 		},
@@ -825,7 +827,7 @@
 			"Twitter": "https://twitter.com/AMannanBaig/status/1559934476968464389",
 			"Category": [
 				"Lungs",
-				"Vaccine"
+				"Vaccination"
 			]
 		},
 		{
@@ -902,7 +904,8 @@
 			"Twitter": "https://twitter.com/fitterhappierAJ/status/1495591085715988481",
 			"Category": [
 				"T cells",
-				"Immune response"
+				"Immune response",
+				"Endothelium"
 			]
 		},
 		{
@@ -950,7 +953,7 @@
 			"Text": "Not only are COVID-19 cases who got 2 vaccine doses reporting much less Long COVID symptoms than unvaccinated - they're reporting no more than uninfected people - suggesting vaccination brings these symptoms back to baseline.",
 			"Twitter": "https://twitter.com/epi_michael/status/1483143937359495172",
 			"Category": [
-				"Vaccine",
+				"Vaccination",
 				"Long COVID"
 			]
 		},
@@ -997,7 +1000,8 @@
 			"Text": "🐁Covid infects the central nervous system in mouse models. Inflammation was consistently observed, with death of endothelial, microglial and immune cells but without their apparent infection.",
 			"Twitter": "https://twitter.com/KunstJonas/status/1524370877575540736?s=20",
 			"Category": [
-				"Brain"
+				"Brain",
+				"Endothelium"
 			]
 		},
 		{
@@ -1239,7 +1243,6 @@
 			"Category": [
 				"SARS-CoV-2 mechanics",
 				"Myocarditis",
-				"Heart",
 				"Vaccination"
 			]
 		},
@@ -1304,6 +1307,97 @@
 			"Category": [
 				"Long COVID",
 				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41443-023-00687-4",
+			"Date": "2023-02-17",
+			"Text": "Prior to the widespread implementation of the COVID-19 vaccine, the incidence of newly diagnosed erectile dysfunction is higher in men with prior COVID-19 infection compared to age-matched controls. Prior COVID-19 infection was associated with a 27% increased likelihood of developing new-onset erectile dysfunction when compared to those without prior infection. 42,406 men experienced a COVID-19 infection between January 2020 and January 2021 of which 601 (1.42%) developed new onset erectile dysfunction within 6.5 months follow up. On multivariable analysis while controlling for diabetes, cardiovascular disease, smoking, obesity, hypogonadism, thromboembolism, and malignancy, prior COVID-19 infection was associated with increased risk of new onset erectile dysfunction (HR 1.27; 95% CI 1.1–1.5; P = 0.002).",
+			"Twitter": "https://twitter.com/MeetJess/status/1636397445910339585",
+			"Category": [
+				"Reproductive health"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1177/00220345211029637",
+			"Date": "2021-07-29",
+			"Text": "183 studies were included, reporting data from 64,876 patients with COVID-19 worldwide. The overall prevalence of taste disorders was 38% (95% CI = 22% to 56%, I2 = 98%). Taste disorders were associated with a positive COVID-19 test (odds ratio [OR] = 7.54, 95% CI = 5.24 to 10.86, I2 = 93%, P < 0.00001), showing high certainty of evidence. Hypogeusia, dysgeusia, and ageusia were also evaluated by a meta-analysis, and the pooled prevalence was 34% for hypogeusia, 33% for dysgeusia, and 26% for ageusia. Xerostomia was a new feature of this update, and the pooled data demonstrated a prevalence of 43% (95% CI = 36% to 50%, I2 = 71%) in patients with COVID-19. Regarding oral mucosal lesions, the most common clinical pattern was aphthous like, followed by herpes-like lesions, candidiasis, glossitis/depapillation/geographic tongue, parotitis, and angular cheilitis. Oral lesions were more frequent in the tongue, lips, and palate, presenting miscellaneous clinical aspects that are more likely to represent coinfections.",
+			"Twitter": "https://twitter.com/TactNowInfo/status/1526694511946104833",
+			"Category": [
+				"Review",
+				"Oral"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-36686-8",
+			"Date": "2023-02-09",
+			"Text": "Rapid Extracellular Antigen Profiling to characterize self- and viral-directed humoral responses after SARS-CoV-2 mRNA vaccination in 145 healthy individuals, 38 patients with autoimmune diseases, and 8 patients with mRNA vaccine-associated myocarditis confirms that most individuals generated robust virus-specific antibody responses post vaccination, but that the quality of this response is impaired in autoimmune patients on certain modes of immunosuppression. Autoantibody dynamics are remarkably stable in all vaccinated patients compared to COVID-19 patients that exhibit an increased prevalence of new autoantibody reactivities. Patients with vaccine-associated myocarditis do not have increased autoantibody reactivities relative to controls.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1636171978380914689",
+			"Category": [
+				"Antibodies",
+				"Vaccination",
+				"Myocarditis"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fnins.2023.1125208",
+			"Date": "2023-03-02",
+			"Text": "Volumes of brainstem regions for 10 ME/CFS (CCC or ICC criteria), 8 long COVID (WHO Delphi consensus), and 10 healthy control (HC) subjects were compared on 3D, T1-weighted MRI images acquired using sub-millimeter isotropic resolution using an ultra-high field strength of 7 Tesla. Group comparisons with HC detected significantly larger volumes in ME/CFS for pons (p = 0.004) and whole brainstem (p = 0.01), and in long COVID for pons (p = 0.003), superior cerebellar peduncle (p = 0.009), and whole brainstem (p = 0.005). No significant differences were found between ME/CFS and long COVID volumes. In ME/CFS, we detected positive correlations between the pons and whole brainstem volumes with “pain” and negative correlations between the midbrain and whole brainstem volumes with “breathing difficulty.” In long COVID patients a strong negative relationship was detected between midbrain volume and “breathing difficulty.”",
+			"Twitter": "https://twitter.com/Laurie_Garrett/status/1636120352878129153",
+			"Category": [
+				"Long COVID",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41579-022-00846-2",
+			"Date": "2023-01-13",
+			"Text": "Long COVID is a multisystemic illness encompassing ME/CFS, dysautonomia, impacts on multiple organ systems, and vascular and clotting abnormalities. On the basis of more than 2 years of research on long COVID and decades of research on conditions such as ME/CFS, a significant proportion of individuals with long COVID may have lifelong disabilities if no action is taken. Diagnostic and treatment options are currently insufficient, and many clinical trials are urgently needed to rigorously test treatments that address hypothesized underlying biological mechanisms, including viral persistence, neuroinflammation, excessive blood clotting and autoimmunity.",
+			"Twitter": "https://twitter.com/EricTopol/status/1613965639609372673",
+			"Category": [
+				"Long COVID",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.2139/ssrn.4366836",
+			"Date": "2023-02-24",
+			"Text": "1 year after Covid in 301 participants 25% of the participants had impaired pulmonary function which translates in 11%, 22%, and 48% of the participants with mild, moderate and severe/critical COVID-19. (no controls)",
+			"Twitter": "https://twitter.com/EricTopol/status/1629646552431235074",
+			"Category": [
+				"Preprint",
+				"Long COVID",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.03.04.531078",
+			"Date": "2023-03-06",
+			"Text": "Possible induction of protein aggregation by the SARS-CoV-2 3CL protease (3CLpro) possibly relevant in neuropathology, such as aggregation of tau, alpha-synuclein and TPD-43. Further investigations demonstrated that tau was proteolytically cleaved by the viral protease 3CL and, consequently, generated aggregates. However, more evidence is needed to confirm that COVID-19 is able to trigger neurodegenerative diseases.",
+			"Twitter": "https://twitter.com/1goodtern/status/1635537276707979264",
+			"Category": [
+				"Preprint",
+				"Brain",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12933-022-01623-4",
+			"Date": "2022-09-07",
+			"Text": "Long COVID cohort’s symptoms were found to be in line with global findings, where the most prevalent symptoms were constant fatigue (74%,) cognitive impairment (71%) and depression and anxiety (30%). Our most noteworthy findings were a reduced level of plasma Kallikrein compared to our controls, an increased level of platelet factor 4 (PF4) von Willebrand factor (VWF), and a marginally increased level of α-2 antiplasmin (α-2-AP). VWF is a well-known molecule in vascular (endothelial) injury, platelet-platelet adhesion and is generally involved in hypercoagulation, if found to be increased [11, 50] which could contribute to coagulopathies seen in patients with long COVID. We also found a significant presence of antibodies entrapped inside these microclots. See also https://www.nationalgeographic.com/magazine/article/microclots-pots-long-covid-treatment-diagnosis",
+			"Twitter": "https://twitter.com/resiapretorius/status/1572623599839899649",
+			"Category": [
+				"Long COVID",
+				"Endothelium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/d41586-021-03077-2",
+			"Date": "2021-11-12",
+			"Text": "When applied to the lung of a man who had died from COVID-19, hierarchical phase-contrast tomography revealed degraded tissue and blockages in blood vessels so small that they are usually observed using microscopes.",
+			"Twitter": "https://twitter.com/RadCentrism/status/1491636933038014464",
+			"Category": [
+				"Lungs"
 			]
 		}
 	]
