@@ -1462,6 +1462,63 @@
 			"Category": [
 				"Air monitoring"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2666-5247(23)00104-0",
+			"Date": "2023-03-24",
+			"Text": "MPXV and SARS-CoV-2 in the air of nightclubs in Spain.",
+			"Twitter": "https://twitter.com/jmcrookston/status/1640531275109879808",
+			"Category": [
+				"MonkeyP",
+				"Air monitoring"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cmi.2023.03.019",
+			"Date": "2023-03-22",
+			"Text": "Study “proving” viable sars2 virus in bioaerosols.",
+			"Twitter": "https://twitter.com/michaelmina_lab/status/1639681587192250369",
+			"Category": [
+				"Air monitoring"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41564-021-00954-4",
+			"Date": "2021-08-16",
+			"Text": "🐁In a model of SARS-CoV-2 challenge in hamster, RBD-62 significantly reduced clinical disease when administered before or after infection. A 2.9 Å cryo-electron microscopy structure of the high-affinity complex of RBD-62 and ACE2, including all rapidly spreading mutations, provides a structural basis for future drug and vaccine development and for in silico evaluation of known antibodies.",
+			"Twitter": "https://twitter.com/flowermusickids/status/1575358777490014208",
+			"Category": [
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2020.06.18.20135152",
+			"Date": "2020-06-22",
+			"Text": "Polymorphisms in the ACE2 locus associate with severity of COVID-19 infection. SNPs rs4240157, rs6632680, rs1548474, rs4830965, rs1476524 and rs2048683.",
+			"Twitter": "https://twitter.com/outbreaksci/status/1280898507860332544",
+			"Category": [
+				"Preprint",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41392-022-00919-x",
+			"Date": "2022-02-08",
+			"Text": "SARS-CoV-2 infects T lymphocytes, preferably activated CD4+ cells in vitro, independently of the ACE2 receptor and induces pronounced programmed cell death.",
+			"Twitter": "https://twitter.com/GANyborg/status/1532377503809019904",
+			"Category": [
+				"T cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-022-05245-4",
+			"Date": "2022-01-24",
+			"Text": "PFE overestimates the VFE/BFE of a respirator by 1.33 to 4.64%. Instead of ~95% viral protection, you only get ~90-93% from an N95. To get closer to 100% protection against airborne viruses, you need at least an N99 and preferably a P100 filter.",
+			"Twitter": "https://twitter.com/ToshiAkima/status/1559192031058362368",
+			"Category": [
+				"Masks"
+			]
 		}
 	]
 }
