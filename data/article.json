@@ -1519,6 +1519,66 @@
 			"Category": [
 				"Masks"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41423-021-00728-2",
+			"Date": "2021-07-21",
+			"Text": "Previously hospitalized and non-hospitalized patients remained with decreased numbers of CD1c+ myeloid DCs and pDCs seven months after SARS-CoV-2 infection.",
+			"Twitter": "https://twitter.com/oliver_phil/status/1651867727957729280",
+			"Category": [
+				"Immune response",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pone.0277984",
+			"Date": "2022-12-07",
+			"Text": "COVID-19 led to a decline in performance that was greater in the persistent symptom group than in the symptom-free group. Additionally, the persistent symptom had decreased ventilatory parameters compared to the symptom-free group. Furthermore, an improvement over time was observed in some cardiopulmonary exercise test parameters and a partial recovery was observed judging by the decrease in various symptoms.",
+			"Twitter": "https://twitter.com/LongCovidNews/status/1603482841827926019",
+			"Category": [
+				"Long COVID",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cid/ciaa630",
+			"Date": "2020-05-22",
+			"Text": "Reduced decline of CD8+ and CD4+ T-cell numbers in elderly patients treated with Thymosine α1.",
+			"Twitter": "https://twitter.com/nanogenomic/status/1482516372689014785?s=20",
+			"Category": [
+				"Treatment",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/d41586-021-00367-7",
+			"Date": "2021-02-12",
+			"Text": "Antibodies detect only proteins outside cells, T cells, by contrast, can target viral proteins expressed inside infected cells.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1360618891207184389",
+			"Category": [
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.stem.2021.12.010",
+			"Date": "2021-12-24",
+			"Text": "Single-cell RNA sequencing indicated injury and de-differentiation of infected cells with activation of profibrotic signaling pathways. Importantly, SARS-CoV-2 infection also led to increased collagen 1 protein expression in organoids. A SARS-CoV-2 protease inhibitor was able to ameliorate the infection of kidney cells by SARS-CoV-2. Our results suggest that SARS-CoV-2 can directly infect kidney cells and induce cell injury with subsequent fibrosis",
+			"Twitter": "https://twitter.com/HealthcareGlob1/status/1476014046902161411",
+			"Category": [
+				"Kidney",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2021.12.21.21268119",
+			"Date": "2021-12-23",
+			"Text": "As the olfactory marker protein (OMP-1) is a specific marker of olfactory epithelial afferents to the olfactory bulb and is severely depleted in animal model lesions of olfactory epithelium, OMP-1-immunoreactivity was quantified in the olfactory bulb of subjects dying with or without COVID-19. Additionally, olfactory bulb tyrosine hydroxylase (TH), which is often also reduced after olfactory epithelium lesions, and SNAP-25, a pan-synaptic marker, were quantified. COVID-19 cases (n = 18) were generally elderly and were not significantly different in age or gender distribution from the non-COVID-19 cases (n = 28). Both COVID-19 and non-COVID-19 cases had a wide range of neuropathological diagnoses. The area occupied by OMP-1 immunoreactivity in COVID-19 cases was significantly less, about 60% of that in control cases but amongst subjects with COVID-19, there was no significant difference between OBT-SARS-CoV-2-PCR-positive and negative cases. There were no significant group differences for TH or SNAP-25, supporting a selective effect for OMP-1.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1474461657959178243",
+			"Category": [
+				"Preprint",
+				"Nose",
+				"Brain"
+			]
 		}
 	]
 }
