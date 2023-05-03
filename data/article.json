@@ -1431,7 +1431,7 @@
 				"Immune response",
 				"Long COVID",
 				"Treatment",
-				"SARS-CoV2 mechanics"
+				"SARS-CoV-2 mechanics"
 			]
 		},
 		{
@@ -1578,6 +1578,72 @@
 				"Preprint",
 				"Nose",
 				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/infdis/jiad119",
+			"Date": "2023-04-26",
+			"Text": "Individuals co-infected with SARS-CoV-2 and CMV suffer accelerated T cell senescence, which might ultimately lead to an increased risk of cardiovascular disease.",
+			"Twitter": "https://twitter.com/vipintukur/status/1652715475779063808",
+			"Category": [
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.20944/preprints202304.0809.v1",
+			"Date": "2023-04-24",
+			"Text": "2447 clinical specimens; 557 nasopharyngeal swabs, 527 saliva samples, 464 urine specimens, 437 anal swabs, and 462 blood samples. SARS CoV-2 detection was highest in nasopharyngeal swabs regardless of the virus strain involved or the immune status of infected individuals. The duration of viral shedding varied between clinical specimens and individual patients. Prolonged shedding of potentially infectious virus varied from 10 days up to 191 days, and primarily occurred in immunosuppressed individuals. Virus was isolated in culture from 18 nasal swab or saliva samples collected 10 or more days after onset of disease. Our findings indicate that persistent SARS-CoV-2 shedding may occur in both competent or immunosuppressed individuals, at multiple clinical sites and in a minority of subjects is capable of in vitro replication.",
+			"Twitter": "https://twitter.com/Aguirre1Gustavo/status/1652300541903482881",
+			"Category": [
+				"Viral persistence",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/scisignal.abq1366",
+			"Date": "2023-04-25",
+			"Text": "Virus enters both ACE2-expressing and -deficient macrophages, but replicates and triggers antiviral responses only in ACE2-expressing cells.",
+			"Twitter": "https://twitter.com/LarisaLabzin/status/1651821788249333761",
+			"Category": [
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ajpath.2023.02.016",
+			"Date": "2023-03-22",
+			"Text": "First report to definitively localize SARS-CoV-2 to the Retinal inner and outer nuclear cells, retinal ganglion cells, and ocular surface by In Situ Hybridization",
+			"Twitter": "https://twitter.com/Aguirre1Gustavo/status/1651714240384729089",
+			"Category": [
+				"Eye"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fcimb.2022.1085397",
+			"Date": "2023-01-25",
+			"Text": "A difference between HIV-1 and SARS-CoV-2: Low susceptibility of adipocytes to HIV-1 is due to the lack of receptors rather than unsuited translational regulatory mechanisms.",
+			"Twitter": "https://twitter.com/_ppmv/status/1651288244661649409",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/sleep/zsac079.552",
+			"Date": "2022-05-25",
+			"Text": "COVID-19 patients (n=25) had significantly greater REM sleep without atonia (RSWA) than COVID-19 negative controls in the combined submentalis and anterior tibialis muscles (p = 0.00076). Most other RSWA metrics were also higher in COVID-19 patients than controls (p<0.03), except tonic muscle activity, phasic burst durations, and REM atonia index. Isolated RSWA occurred more frequently in COVID-19 (9 patients, 36%) than controls (3, 12%; p>0.05).",
+			"Twitter": "https://twitter.com/RougeMatisse/status/1651002766888665090",
+			"Category": [
+				"Brain",
+				"Sleep"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/jcm12062123",
+			"Date": "2023-03-08",
+			"Text": "Mixed-effects models predicted a clinically significant progression of vascular impairment within the period of 2–3 months following infection.",
+			"Twitter": "https://twitter.com/EnemyInAState/status/1651251252792098816",
+			"Category": [
+				"Endothelium"
 			]
 		}
 	]
