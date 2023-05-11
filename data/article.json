@@ -299,9 +299,10 @@
 			"ArticleURL": "https://doi.org/10.1038/s41586-022-04569-5",
 			"Date": "2022-02-21",
 			"Text": "SARS-CoV-2 is associated with changes in brain structure in UK Biobank study.",
-			"Twitter": "",
+			"Twitter": "https://twitter.com/ObservingAngel/status/1655783680839909380",
 			"Category": [
-				"Brain"
+				"Brain",
+				"Massive study"
 			]
 		},
 		{
@@ -1644,6 +1645,83 @@
 			"Twitter": "https://twitter.com/EnemyInAState/status/1651251252792098816",
 			"Category": [
 				"Endothelium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.abd9149",
+			"Date": "2021-08-27",
+			"Text": "Tuberculosis infects deep in the lungs. only <5 micron particles reach it, rest get filtered out. Other virions infect anywhere in lungs. <100 microns particles stay afloat, <5 microns means airborne for the WHO, but it is actually <100 microns. The error occurs be cause the number is based on tuberculosis. <100 μm represents the largest particles that remain suspended in still air for >5 s (from a height of 1.5 m), that can travel beyond 1 m from the infectious person, and can be inhaled.",
+			"Twitter": "https://twitter.com/trishgreenhalgh/status/1473568141032804359",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Transmission",
+				"Mitigation",
+				"Masks",
+				"Air monitoring"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2215-0366(21)00084-5",
+			"Date": "2021-04-06",
+			"Text": "Among 236 379 patients diagnosed with COVID-19, the estimated incidence of a neurological or psychiatric diagnosis in the following 6 months was 33.62% (95% CI 33.17–34.07), with 12.84% (12.36–13.33) receiving their first such diagnosis. For patients who had been admitted to an intensive therapy unit, the estimated incidence of a diagnosis was 46.42% (44.78–48.09) and for a first diagnosis was 25.79% (23.50–28.25).",
+			"Twitter": "https://twitter.com/SimonChapman6/status/1475175724235456515",
+			"Category": [
+				"Brain",
+				"Long COVID",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41582-021-00593-7",
+			"Date": "2021-11-18",
+			"Text": "The accumulating evidence on neurological sequelae in patients with COVID-19 is a cause for concern. Without proper care and treatment, patients with these neurological manifestations might be permanently debilitated. Moreover, the continuation of neurological symptoms in long COVID could overwhelm already fractured health-care systems. Consequently, we urgently need to understand and respond to the covert yet potentially incapacitating neurological consequences of COVID-19 in the acute and chronic phases of the disease.",
+			"Twitter": "https://twitter.com/AndrewEwing11/status/1469781056173793280",
+			"Category": [
+				"Review",
+				"SARS-CoV-2 mechanics",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1021/acschemneuro.1c00666",
+			"Date": "2021-12-03",
+			"Text": "🧫 Results point toward direct interactions between the N-protein of SARS-CoV-2 and α-synuclein as molecular basis for the observed correlation between SARS-CoV-2 infections and Parkinsonism. The effect of the presence of SARS-CoV-2 proteins on α-synuclein aggregation was investigated. It was shown, in test tube experiments, that SARS-CoV-2 spike protein (S-protein) has no effect on α-synuclein aggregation, while SARS-CoV-2 nucleocapsid protein (N-protein) considerably speeds up the aggregation process. There was formation of multiprotein complexes and eventually amyloid fibrils. Microinjection of N-protein in SH-SY5Y cells disturbed the α-synuclein proteostasis and increased cell death.",
+			"Twitter": "https://twitter.com/DelthiaRicks/status/1470816804104777728",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Brain",
+				"Parkinson",
+				"Nucleocapsid"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41591-021-01630-0",
+			"Date": "2021-12-14",
+			"Text": "Study of people aged 16 or older vaccinated for COVID-19 in England between 1 December 2020 and 24 August 2021 to investigate hospital admission or death from myocarditis, pericarditis and cardiac arrhythmias in the 1–28 days following adenovirus (ChAdOx1, n = 20,615,911) or messenger RNA-based (BNT162b2, n = 16,993,389; mRNA-1273, n = 1,006,191) vaccines or a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) positive test (n = 3,028,867) found increased risks of myocarditis associated with the first dose of ChAdOx1 and BNT162b2 vaccines and the first and second doses of the mRNA-1273 vaccine over the 1–28 days post-vaccination period, and after a SARS-CoV-2 positive test. This results in an extra two (95% confidence interval (CI) 0, 3), one (95% CI 0, 2) and six (95% CI 2, 8) myocarditis events per 1 million people vaccinated with ChAdOx1, BNT162b2 and mRNA-1273, respectively, in the 28 days following a first dose and an extra ten (95% CI 7, 11) myocarditis events per 1 million vaccinated in the 28 days after a second dose of mRNA-1273. This compares with an extra 40 (95% CI 38, 41) myocarditis events per 1 million patients in the 28 days following a SARS-CoV-2 positive test. Increased risks of pericarditis and cardiac arrhythmias following a positive SARS-CoV-2 test was observed. Similar associations were not observed with any of the COVID-19 vaccines, apart from an increased risk of arrhythmia following a second dose of mRNA-1273. Subgroup analyses by age showed the increased risk of myocarditis associated with the two mRNA vaccines was present only in those younger than 40.",
+			"Twitter": "https://twitter.com/_stah/status/1471478217676660742",
+			"Category": [
+				"Myocarditis",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cid/ciab691",
+			"Date": "2021-08-06",
+			"Text": "Thirteen participants (59%) emitted detectable levels of SARS-CoV-2 RNA in respiratory aerosols, including 3 asymptomatic and 1 presymptomatic patient. Viral loads ranged from 63-5821 N gene copies per expiratory activity per participant, with high person-to-person variation. Patients earlier in illness were more likely to emit detectable RNA. Two participants, sampled on day 3 of illness, accounted for 52% of total viral load. Overall, 94% of SARS-CoV-2 RNA copies were emitted by talking and singing. Interestingly, 7 participants emitted more virus from talking than singing. Overall, fine aerosols constituted 85% of the viral load detected in our study. Virus cultures were negative.",
+			"Twitter": "https://twitter.com/AliNouriPhD/status/1424035540022829062",
+			"Category": [
+				"Transmission",
+				"Air monitoring"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/s41586-021-03631-y",
+			"Date": "2021-05-19",
+			"Text": "High-throughput autoantibody discovery technique known as rapid extracellular antigen profiling was used to screen a cohort of 194 individuals infected with SARS-CoV-2, comprising 172 patients with COVID-19 and 22 healthcare workers with mild disease or asymptomatic infection, for autoantibodies against 2,770 extracellular and secreted proteins (members of the exoproteome). It found that patients with COVID-19 exhibit marked increases in autoantibody reactivities as compared to uninfected individuals, and show a high prevalence of autoantibodies against immunomodulatory proteins (including cytokines, chemokines, complement components and cell-surface proteins). It was established that these autoantibodies perturb immune function and impair virological control by inhibiting immunoreceptor signalling and by altering peripheral immune cell composition, and found that mouse surrogates of these autoantibodies increase disease severity in a mouse model of SARS-CoV-2 infection. ",
+			"Twitter": "https://twitter.com/nanogenomic/status/1395067532051193859",
+			"Category": [
+				"Antibodies",
+				"Immune response"
 			]
 		}
 	]
