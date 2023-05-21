@@ -1675,7 +1675,7 @@
 			"ArticleURL": "https://doi.org/10.1038/s41582-021-00593-7",
 			"Date": "2021-11-18",
 			"Text": "The accumulating evidence on neurological sequelae in patients with COVID-19 is a cause for concern. Without proper care and treatment, patients with these neurological manifestations might be permanently debilitated. Moreover, the continuation of neurological symptoms in long COVID could overwhelm already fractured health-care systems. Consequently, we urgently need to understand and respond to the covert yet potentially incapacitating neurological consequences of COVID-19 in the acute and chronic phases of the disease.",
-			"Twitter": "https://twitter.com/AndrewEwing11/status/1469781056173793280",
+			"Twitter": "https://twitter.com/0bj3ctivity/status/1474423080244154423",
 			"Category": [
 				"Review",
 				"SARS-CoV-2 mechanics",
@@ -1701,7 +1701,8 @@
 			"Twitter": "https://twitter.com/_stah/status/1471478217676660742",
 			"Category": [
 				"Myocarditis",
-				"Vaccination"
+				"Vaccination",
+				"Massive study"
 			]
 		},
 		{
@@ -1722,6 +1723,89 @@
 			"Category": [
 				"Antibodies",
 				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2021.06.01.446516",
+			"Date": "2021-06-01",
+			"Text": "Once cells are infected with SARS-CoV-2, they can infect other cells in ways which are very difficult to inhibit with antibodies.",
+			"Twitter": "https://twitter.com/sigallab/status/1400132570143133701",
+			"Category": [
+				"Antibodies",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.isci.2021.103471",
+			"Date": "2021-12-17",
+			"Text": "mtDNA gene expression is downregulated in COVID-19 blood, but not in respiratory tract. Decreased mtDNA gene expression disrupts mito-nuclear coordination. mtDNA is downregulated and rewired toward glycolysis especially in immune system cells. Mitochondrial dysfunction is central to the etiology of COVID19",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1478097573542043650",
+			"Category": [
+				"Mitochondria",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41564-022-01143-7",
+			"Date": "2022-07-07",
+			"Text": "SARS-CoV-2 Omicron is an immune escape variant with an altered cell entry pathway. The Omicron variants BA.1 and BA.2 did not induce cell syncytia in vitro and favoured a TMPRSS2-independent endosomal entry pathway, these phenotypes mapping to distinct regions of the spike protein. Impaired cell fusion was determined by the receptor-binding domain, while endosomal entry mapped to the S2 domain.",
+			"Twitter": "https://twitter.com/emcat1/status/1478055879220080644",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2105968118",
+			"Date": "2021-03-29",
+			"Text": "SARS-CoV-2 RNA can be reverse-transcribed and integrated into the genome of the infected cell and be expressed as chimeric transcripts fusing viral with cellular sequences. Importantly, such chimeric transcripts are detected in patient-derived tissues. Data suggest that, in some patient tissues, the majority of all viral transcripts are derived from integrated sequences.",
+			"Twitter": "https://twitter.com/_mariusW/status/1338275889268760576",
+			"Category": [
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ypmed.2021.106947",
+			"Date": "2021-12-30",
+			"Text": "Vaccine effectiveness study of >1.6 million people: likelihood of infection is reduced, but likelihood of severe case or death after infection is similar for unvaccinated and vaccinated. Reduction of infection 93%, hospitalization 93%, death 91%.",
+			"Twitter": "https://twitter.com/yaneerbaryam/status/1410217331515658253",
+			"Category": [
+				"Vaccination",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1056/NEJMoa2101765",
+			"Date": "2021-02-24",
+			"Text": "Vaccine effectiveness study of 1 million people: Chance of a case becoming severe is about the same for vaccinated as unvaccinated. Reduction of infection 92%; symptomatic case 94%; hospitalization 87%; severe disease 92%.",
+			"Twitter": "https://twitter.com/yaneerbaryam/status/1410218008887320576",
+			"Category": [
+				"Vaccination",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.chom.2021.12.005",
+			"Date": "2021-12-06",
+			"Text": "Pre-existing humoral immunity to human common cold coronaviruses negatively impacts the protective SARS-CoV-2 antibody response. hCCCoV antibody levels increase after SARS-CoV-2 exposure, demonstrating cross-reactivity. However, a case-control study indicates that baseline hCCCoV antibody levels are not associated with protection against SARS-CoV-2 infection. Rather, higher magnitudes of pre-existing betacoronavirus antibodies correlate with more SARS-CoV-2 antibodies following infection, an indicator of greater disease severity. Additionally, immunization with hCCCoV spike proteins before SARS-CoV-2 immunization impedes the generation of SARS-CoV-2-neutralizing antibodies in mice.",
+			"Twitter": "https://twitter.com/Jul101Vie/status/1481625291835465730",
+			"Category": [
+				"Natural immunity",
+				"Cross-reactivity",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1177/20587384211050199",
+			"Date": "2021-10-10",
+			"Text": "Sub-neutralizing antibodies can facilitate uptake by macrophages that express FcR (Fc region receptors), with stimulation of macrophages and production of cytokines. Pre-existing non-neutralizing or sub-neutralizing antibodies to viral surface proteins that were generated during a previous infection can promote the subsequent entry of viruses into the cell and therefore intensify the inflammatory process during a secondary infection with any antigenic-related virus.",
+			"Twitter": "https://twitter.com/epidatum/status/1453109512664141826",
+			"Category": [
+				"Review",
+				"Antibodies",
+				"Natural immunity",
+				"Cross-reactivity",
+				"Vaccination"
 			]
 		}
 	]
