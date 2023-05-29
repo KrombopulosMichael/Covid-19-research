@@ -21,7 +21,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.medj.2022.04.001",
 			"Date": "2022-04-12",
-			"Text": "13% of participants continued to shed SARS-CoV-2 RNA in the feces at 4 months after\n\t\t\t\tdiagnosis & 4% shed at 7 months. GI symptoms are associated with fecal shedding of RNA.",
+			"Text": "13% of participants continued to shed SARS-CoV-2 RNA in the feces at 4 months after diagnosis & 4% shed at 7 months. GI symptoms are associated with fecal shedding of RNA.",
 			"Twitter": "https://twitter.com/loscharlos/status/1514430252763660292",
 			"Category": [
 				"Long COVID",
@@ -32,7 +32,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1007/s10456-022-09850-9",
 			"Date": "2022-08-11",
-			"Text": "Compared with healthy controls, the capillary density of Long COVID patients was\n\t\t\t\tdecreased by 41%. Data strongly suggest that COVID leaves persistent capillary rarefication even 18 months after\n\t\t\t\tinfection.",
+			"Text": "Compared with healthy controls, the capillary density of Long COVID patients was decreased by 41%. Data strongly suggest that COVID leaves persistent capillary rarefication even 18 months after infection.",
 			"Twitter": "https://twitter.com/loscharlos/status/1557835199039168512",
 			"Category": [
 				"Long COVID"
@@ -51,7 +51,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.21203/rs.3.rs-1379777/v2",
 			"Date": "2022-06-07",
-			"Text": "Presence of residual virus within the appendix and breast tissue of 2 patients who exhibited LC symptoms, 175 to\n\t\t\t\t462 days upon positive diagnosis: positive staining for viral nucleocapsid protein (NP) in the appendix, and\n\t\t\t\ttumour-adjacent region of the breast, but not within the tumour via multiplex immunohistochemistry.\n\t\t\t\tNotably, with RNAscope, both positive-sense and negative-sense (replicative intermediate) viral RNA were\n\t\t\t\tdetected.",
+			"Text": "Presence of residual virus within the appendix and breast tissue of 2 patients who exhibited LC symptoms, 175 to 462 days upon positive diagnosis: positive staining for viral nucleocapsid protein (NP) in the appendix, and tumour-adjacent region of the breast, but not within the tumour via multiplex immunohistochemistry. Notably, with RNAscope, both positive-sense and negative-sense (replicative intermediate) viral RNA were detected.",
 			"Twitter": "https://twitter.com/EricTopol/status/1534559223354253312",
 			"Category": [
 				"Long COVID"
@@ -60,7 +60,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.2139/ssrn.4099429",
 			"Date": "2022-05-04",
-			"Text": "Long COVID is very common.\n\t\t\t\tSystematic review and meta-analysis including 196 studies and 120,970 participants (mean age:\n\t\t\t\t52.3 years; 48.8% females) showed that long COVID may affect more than half of the patients, after a median of\n\t\t\t\tsix months from the diagnosis.",
+			"Text": "Long COVID is very common. Systematic review and meta-analysis including 196 studies and 120,970 participants (mean age: 52.3 years; 48.8% females) showed that long COVID may affect more than half of the patients, after a median of six months from the diagnosis.",
 			"Twitter": "https://twitter.com/TRyanGregory/status/1522658803166158855",
 			"Category": [
 				"Long COVID"
@@ -69,7 +69,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.bbi.2022.04.013",
 			"Date": "2022-04-18",
-			"Text": "In a large study with\n\t\t\t\tthousands of participants, vaccination did NOT reduce long COVID risks.",
+			"Text": "In a large study with thousands of participants, vaccination did NOT reduce long COVID risks.",
 			"Twitter": "https://twitter.com/KunstJonas/status/1517394410719399937",
 			"Category": [
 				"Long COVID"
@@ -78,7 +78,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.3389/fmed.2022.868954",
 			"Date": "2022-04-14",
-			"Text": "Small percentage of\n\t\t\t\tco-infections in SARS-CoV-2 positive patients who died with typical COVID-19 symptoms strongly suggests that the\n\t\t\t\tmajority of SARS-CoV-2 infected patients died from and not with the virus.",
+			"Text": "Small percentage of co-infections in SARS-CoV-2 positive patients who died with typical COVID-19 symptoms strongly suggests that the majority of SARS-CoV-2 infected patients died from and not with the virus.",
 			"Twitter": "https://twitter.com/mildanalyst/status/1534111466118430721",
 			"Category": [
 				"Long COVID"
@@ -87,7 +87,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41598-022-10051-z",
 			"Date": "2022-04-11",
-			"Text": "Even in patients with\n\t\t\t\tmild COVID-19 who did not require supplemental oxygen or ventilatory support, sequelae were reported by 49.5% of\n\t\t\t\tthem.",
+			"Text": "Even in patients with mild COVID-19 who did not require supplemental oxygen or ventilatory support, sequelae were reported by 49.5% of them.",
 			"Twitter": "https://twitter.com/Gab_H_R/status/1513565274200494091",
 			"Category": [
 				"Long COVID"
@@ -95,17 +95,18 @@
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41467-022-29513-z",
-			"Date": "2022-04",
-			"Text": "Almost all\n\t\t\t\tpatients still showed some of the most debilitating symptoms (e.g., fatigue) after a year.",
-			"Twitter": "https://twitter.com/KunstJonas/status/1511317611488948228",
+			"Date": "2022-04-05",
+			"Text": "Data from 968 French adult patients indicate that about 10% of people infected by severe acute respiratory syndrome coronavirus 2 experience post COVID-19 disease. 85% of people with symptoms 2 months post COVID still have symptoms after 1 year.",
+			"Twitter": "https://twitter.com/bin3ry/status/1512727672182431752",
 			"Category": [
-				"Long COVID"
+				"Long COVID",
+				"Self-reported"
 			]
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41392-022-00931-1",
 			"Date": "2022-03-09",
-			"Text": "Persistent SARS-CoV-2\n\t\t\t\tinfection in asymptomatic young adults.",
+			"Text": "Persistent SARS-CoV-2 infection in asymptomatic young adults.",
 			"Twitter": "https://twitter.com/drclairetaylor/status/1541207576225914887",
 			"Category": [
 				"Long COVID"
@@ -114,7 +115,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.bbi.2021.12.020",
 			"Date": "2022-03",
-			"Text": "According to a\n\t\t\t\tmeta-analysis of 81 studies 32% of patients have fatigue at 12 weeks, 31% at 6+ months, 22% have cognitive\n\t\t\t\timpairment at 12 weeks, 21% at 6+ months.",
+			"Text": "According to a meta-analysis of 81 studies 32% of patients have fatigue at 12 weeks, 31% at 6+ months, 22% have cognitive impairment at 12 weeks, 21% at 6+ months.",
 			"Twitter": "https://twitter.com/ahandvanish/status/1478525881475907587",
 			"Category": [
 				"Long COVID"
@@ -438,7 +439,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.21236%2Fad0811762",
 			"Date": "1967-07",
-			"Text": "A bearded man is a more\n\t\t\t\t\t\tdangerous carrier than a clean-shaven man...one working with infectious microorganisms should wash his\n\t\t\t\t\t\tbeard.",
+			"Text": "A bearded man is a more dangerous carrier than a clean-shaven man...one working with infectious microorganisms should wash his beard.",
 			"Twitter": "https://twitter.com/bioinformer/status/1096415589231484928",
 			"Category": [
 				"Masks"
@@ -1806,6 +1807,105 @@
 				"Natural immunity",
 				"Cross-reactivity",
 				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41590-021-00975-5",
+			"Date": "2021-07-26",
+			"Text": "Despite some phenotypic and transcriptional recovery upon antigen clearance, exhaustion leaves durable epigenetic scars constraining future T cell immune responses.",
+			"Twitter": "https://twitter.com/StreetCred2017/status/1495180476872540165",
+			"Category": [
+				"Immune response",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-022-31897-x",
+			"Date": "2022-07-21",
+			"Text": "A nationwide questionnaire study in Denmark including 61,002 RT-PCR confirmed SARS-CoV-2 cases and 91,878 test-negative controls aged 15-years or older. 6-12 months post test, report: Physical symptoms: 29.6% + vs 13.0% - (fig 1). New self-reported medical problems: 7.2% + vs 3.3% - (fig 2). New self-reported health problems: 53.1% + vs 11.5% - (fig 3)",
+			"Twitter": "https://twitter.com/_mbdr_/status/1499852612690141192",
+			"Category": [
+				"Long COVID",
+				"Massive study",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-022-29513-z",
+			"Date": "2022-03-02",
+			"Text": "The neuroinvasiveness, neurotropism, and neurovirulence of SARS-CoV-2 for the general public.",
+			"Twitter": "https://twitter.com/DebbyvanRiel/status/1517801070973575174",
+			"Category": [
+				"Brain",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1172/jci.insight.146701",
+			"Date": "2021-11-16",
+			"Text": "In extensively immunologically characterized patients who recovered from COVID-19, T cells were exhausted, with increased PD-1+ T cells, as compared with healthy controls. Plasma levels of IL-1β, IL-1RA, and IL-8, among others, were also increased in patients who recovered from COVID-19. This altered immunophenotype was mirrored by a reduced ex vivo T cell response to both non-specific and specific stimulation, revealing a dysfunctional status of T cells, including a poor response to SARS-CoV-2 antigens. Altered levels of plasma soluble PD-L1, as well as of PD1 promoter methylation and PD1-targeting miR–15-5p, in CD8+ T cells were also observed, suggesting abnormal function of the PD-1/PD-L1 immune checkpoint axis. Notably, ex vivo blockade of PD-1 nearly normalized the aforementioned immunophenotype and restored T cell function, reverting the observed post–COVID-19 immune abnormalities; indeed, an increased T cell–mediated response to SARS-CoV-2 peptides was noted. Finally, in a neutralization assay, PD-1 blockade did not alter the ability of T cells to neutralize SARS-CoV-2 spike pseudotyped lentivirus infection. Immune checkpoint blockade ameliorates post–COVID-19 immune abnormalities and stimulates an anti–SARS-CoV-2 immune response.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1528530531171852289",
+			"Category": [
+				"T cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41380-022-01632-5",
+			"Date": "2022-05-12",
+			"Text": "In approximately one-quarter of mild-COVID-19 individuals, a specific visuoconstructive deficit was detected, which was associated with changes in molecular and structural brain imaging, and correlated with upregulation of peripheral immune markers. The findings provide evidence of neuroinflammatory burden causing cognitive deficit, in an already large and growing fraction of the world population.",
+			"Twitter": "https://twitter.com/quervain_de/status/1542898152805728260",
+			"Category": [
+				"Brain",
+				"Motor skills"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciimmunol.abq2427",
+			"Date": "2022-06-02",
+			"Text": "Omicron BA.1 breakthrough infection drives cross-variant neutralization and memory B cell formation against conserved epitopes.",
+			"Twitter": "https://twitter.com/C_A_Gustave/status/1547295479956131842",
+			"Category": [
+				"Natural immunity",
+				"Omicron",
+				"B cells",
+				"Reinfection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.abq1841",
+			"Date": "2022-06-14",
+			"Text": " Omicron infection boosted immune responses to all other variants, but responses to Omicron itself were muted. Infection with the Alpha variant provided weaker boosting for Omicron-specific responses. Furthermore, Omicron infection after previous Wuhan Hu-1 infection failed to boost neutralizing antibody and T cell responses against Omicron, revealing a profound imprinting effect and explaining why frequent reinfections occur.",
+			"Twitter": "https://twitter.com/C_A_Gustave/status/1547295479956131842",
+			"Category": [
+				"Natural immunity",
+				"Omicron",
+				"Reinfection",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(22)00410-8",
+			"Date": "2022-06-20",
+			"Text": "Post-vaccination breakthrough infections with Omicron subvariants (BA.1, BA.2) lead to a narrow, specific neutralizing antibody response setting up vulnerability to BA.4/5.",
+			"Twitter": "https://twitter.com/EricTopol/status/1539035010727936000",
+			"Category": [
+				"Natural immunity",
+				"Omicron",
+				"Reinfection",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-022-04980-y",
+			"Date": "2022-06-17",
+			"Text": "Neutralizing antibodies are largely evaded by BA.2 and BA.4/BA.5 owing to D405N and F486V mutations, and react weakly to pre-Omicron variants, exhibiting narrow neutralization breadths. The therapeutic neutralizing antibodies bebtelovimab4 and cilgavimab5 can effectively neutralize BA.2.12.1 and BA.4/BA.5, whereas the S371F, D405N and R408S mutations undermine most broadly sarbecovirus-neutralizing antibodies.",
+			"Twitter": "https://twitter.com/jianfcpku/status/1521217757282398209",
+			"Category": [
+				"Natural immunity",
+				"Omicron",
+				"Reinfection",
+				"Antibodies"
 			]
 		}
 	]
