@@ -90,7 +90,8 @@
 			"Text": "Even in patients with mild COVID-19 who did not require supplemental oxygen or ventilatory support, sequelae were reported by 49.5% of them.",
 			"Twitter": "https://twitter.com/Gab_H_R/status/1513565274200494091",
 			"Category": [
-				"Long COVID"
+				"Long COVID",
+				"Mild infection"
 			]
 		},
 		{
@@ -175,7 +176,8 @@
 			"Twitter": "https://twitter.com/Marc_Veld/status/1481686620097196035",
 			"Category": [
 				"Long COVID",
-				"Immune response"
+				"Immune response",
+				"Mild infection"
 			]
 		},
 		{
@@ -215,15 +217,6 @@
 			]
 		},
 		{
-			"ArticleURL": "https://doi.org/10.1038/s41392-022-00919-x",
-			"Date": "2022-03-08",
-			"Text": "🧫 ACE2-independent infection of T lymphocytes by SARS-CoV-2.",
-			"Twitter": "https://twitter.com/fitterhappierAJ/status/1502971289018978306",
-			"Category": [
-				"T cells"
-			]
-		},
-		{
 			"ArticleURL": "https://doi.org/10.1101/2022.05.16.491922",
 			"Date": "2022-05-23",
 			"Text": "ORF1abA1061S potentiates autoreactive T cell responses via epitope mimicry: an explanation to hepatitis of unknown cause.",
@@ -257,7 +250,8 @@
 			"Text": "Mild respiratory infection with SARS-CoV-2 can result in persistent neuro-inflammatory changes and consequent dysregulation of neural cell types important for healthy cognitive function.",
 			"Twitter": "https://twitter.com/michelle_monje/status/1536262549502676996",
 			"Category": [
-				"Brain"
+				"Brain",
+				"Mild infection"
 			]
 		},
 		{
@@ -378,7 +372,8 @@
 			"Twitter": "https://twitter.com/mildanalyst/status/1534955533819596802",
 			"Category": [
 				"Transmission",
-				"Newborns"
+				"Newborns",
+				"Mild infection"
 			]
 		},
 		{
@@ -1256,7 +1251,8 @@
 			"Twitter": "https://twitter.com/outbreakupdates/status/1634035202505822209",
 			"Category": [
 				"Brain",
-				"SARS-CoV-2 mechanics"
+				"SARS-CoV-2 mechanics",
+				"Mild infection"
 			]
 		},
 		{
@@ -1369,7 +1365,8 @@
 			"Category": [
 				"Preprint",
 				"Long COVID",
-				"Lungs"
+				"Lungs",
+				"Mild infection"
 			]
 		},
 		{
@@ -1506,7 +1503,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41392-022-00919-x",
 			"Date": "2022-02-08",
-			"Text": "SARS-CoV-2 infects T lymphocytes, preferably activated CD4+ cells in vitro, independently of the ACE2 receptor and induces pronounced programmed cell death.",
+			"Text": "🧫SARS-CoV-2 infects T lymphocytes, preferably activated CD4+ cells in vitro, independently of the ACE2 receptor and induces pronounced programmed cell death.",
 			"Twitter": "https://twitter.com/GANyborg/status/1532377503809019904",
 			"Category": [
 				"T cells",
@@ -1723,7 +1720,8 @@
 			"Twitter": "https://twitter.com/nanogenomic/status/1395067532051193859",
 			"Category": [
 				"Antibodies",
-				"Immune response"
+				"Immune response",
+				"Mild infection"
 			]
 		},
 		{
@@ -1857,7 +1855,8 @@
 			"Twitter": "https://twitter.com/quervain_de/status/1542898152805728260",
 			"Category": [
 				"Brain",
-				"Motor skills"
+				"Motor skills",
+				"Mild infection"
 			]
 		},
 		{
@@ -1906,6 +1905,89 @@
 				"Omicron",
 				"Reinfection",
 				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/v10080420",
+			"Date": "2018-08-10",
+			"Text": "🧫Influenza infects CD4/8 cells.",
+			"Twitter": "https://twitter.com/ChristosArgyrop/status/1550993325611794439",
+			"Category": [
+				"Influenza",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1128/JVI.73.13.5921-5929.2001",
+			"Date": "2001-07-01",
+			"Text": "🧫Influenza infects CD4/8 cells.",
+			"Twitter": "https://twitter.com/ChristosArgyrop/status/1550993325611794439",
+			"Category": [
+				"Influenza",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41564-023-01344-8",
+			"Date": "2023-03-23",
+			"Text": "Characterized were the 3D genome and epigenome of human cells after SARS-CoV-2 infection, finding widespread host chromatin restructuring that features widespread compartment A weakening, A–B mixing, reduced intra-TAD contacts and decreased H3K27ac euchromatin modification levels. Such changes were not found following common-cold-virus HCoV-OC43 infection.",
+			"Twitter": "https://twitter.com/RadCentrism/status/1639077559773327361",
+			"Category": [
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2022.12.03.519007",
+			"Date": "2022-12-07",
+			"Text": "Post-acute sequelae of COVID-19 (PASC) is not well explored.  A stronger, SARS-CoV-2 reactive CD8+ T cell response, characterized by IFNγ production and predominant TEMRA phenotype but low SARS-CoV-2 avidity was detected in PASC patients...persistent inflammatory response...might be responsible for the observed sequelae",
+			"Twitter": "https://twitter.com/RadCentrism/status/1641188989716828165",
+			"Category": [
+				"Viral persistence",
+				"T cells",
+				"Immune response",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2022.949787",
+			"Date": "2022-10-20",
+			"Text": "At 3-6 months after mild/asymptomatic SARS-CoV-2 infection, virus-specific antibodies in saliva were substantially induced signifying a strong reactivation of latent viruses (EBV, HHV6 and HERV-K) in both cohorts. In patients with ME/CFS, antibody responses were significantly stronger, in particular EBV-encoded nuclear antigen-1 (EBNA1) IgG were elevated in patients with ME/CFS, but not in HDs. EBV-VCA IgG was also elevated at baseline prior to SARS-infection in patients compared to HDs.",
+			"Twitter": "https://twitter.com/ejustin46/status/1642722334623645697",
+			"Category": [
+				"Immune response",
+				"Viral persistence",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s00439-023-02549-x",
+			"Date": "2023-04-01",
+			"Text": "Even asymptomatic, & mild diseased patients may evolve with important neurological & psychiatric symptoms, as confusion, memory loss, cognitive decline, chronic fatigue, associated or not with anxiety and depression",
+			"Twitter": "https://twitter.com/outbreakupdates/status/1642826739800764416",
+			"Category": [
+				"Brain",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bbih.2023.100595",
+			"Date": "2023-01-28",
+			"Text": "Converging findings from laboratory and population survey data support the conclusion that symptomatic COVID-19 infection is associated with task-related, functional imaging and self-reported indices of cognitive dysfunction as well as psychiatric symptoms. In some cases, these findings appear to be more amplified among women than men, and among older women than younger. Participants who previously had COVID-19 perform worse on two specific cognitive tasks, but brain imaging showed that during these tasks, there was a lack of oxygen reaching the sections of the brain that would normally be fully engaged.",
+			"Twitter": "https://twitter.com/MeetJess/status/1642670375472443392",
+			"Category": [
+				"Brain",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.02.09.527892",
+			"Date": "2023-02-10",
+			"Text": "SARS-CoV-2-specific CD4 T cells with tissue homing markers and CD8 T cells with exhaustion. Dis-coordinated responses between antibodies and T cells.  Also important differences in women. ",
+			"Twitter": "https://twitter.com/MichaelPelusoMD/status/1624239108041375745",
+			"Category": [
+				"T cells",
+				"Immune response",
+				"Viral persistence"
 			]
 		}
 	]
