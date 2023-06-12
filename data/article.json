@@ -1989,6 +1989,89 @@
 				"Immune response",
 				"Viral persistence"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(22)00449-2",
+			"Date": "2022-08-25",
+			"Text": "A prospective, longitudinal cohort study…on young Swiss Armed Forces (SAF) personnel…We found a significant trend towards metabolic disorders, higher…BMI…lower aerobic threshold…higher blood cholesterol…in participants >6 months post Covid-19.",
+			"Twitter": "https://twitter.com/RadCentrism/status/1539466023849537536",
+			"Category": [
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-37368-1",
+			"Date": "2022-06-06",
+			"Text": "The proportion of blood CD8+ T cells expressing the mucosal homing receptor β7 is low in PASC patients. PASC is defined by persisting immunological dysfunction as late as six months following SARS-CoV-2 infection, including alterations in mucosal immune parameters, redistribution of mucosal CD8+β7Integrin+ T cells and IgA, indicative of potential viral persistence and mucosal involvement in the etiopathology of PASC",
+			"Twitter": "https://twitter.com/MarionKoopmans/status/1643144656765558784",
+			"Category": [
+				"T cells",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.01.16.23284612",
+			"Date": "2023-01-18",
+			"Text": "COVID-19 induces senescence and exhaustion of t cells in younger and older patients with mild/moderate and severe disease during a seven-day interval.",
+			"Twitter": "https://twitter.com/ejustin46/status/1615806316458528769",
+			"Category": [
+				"T cells",
+				"Mild infection",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.04.04.535604",
+			"Date": "2023-04-05",
+			"Text": "In mouse models and human post-mortem tissues, spike protein occurs in the skull marrow, brain meninges, and brain parenchyma. The injection of the spike protein alone caused cell death in the brain, highlighting a direct effect on brain tissue. Furthermore, the presence of spike protein was observed in the skull of the deceased long after their COVID-19 infection, suggesting that the spike’s persistence may contribute to long-term neurological symptoms. The spike protein was associated with neutrophil-related pathways and dysregulation of the proteins involved in the PI3K-AKT as well as complement and coagulation pathway.  ",
+			"Twitter": "https://twitter.com/erturklab/status/1643902019088908289",
+			"Category": [
+				"Viral persistence",
+				"Brain",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.04.03.23287902",
+			"Date": "2023-04-04",
+			"Text": "Para-infectious brain injury in COVID19 persists at follow-up despite attenuated cytokine & autoantibody responses: brain injury biomarkers (Tau, GFAP, NfL, UCH-L1) were elevated in acute sera, significant increase for NfL & UCH-L1, in altered consciousness.",
+			"Twitter": "https://twitter.com/BagaiDr/status/1644220784888668160",
+			"Category": [
+				"Preprint",
+				"Brain",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.arr.2023.101932",
+			"Date": "2023-04-19",
+			"Text": "SARS-CoV-2 targeting nephrogenic cells via interactions with their surface receptors, including ACE-2 and TMPRSS2 and viral damage lead to renal injury as a direct mechanism, several indirect mechanisms also exist contributing to kidney injury and disease in patients with COVID-19 including ischemic and toxic injury.",
+			"Twitter": "https://twitter.com/HarrySpoelstra/status/1645344558362796033",
+			"Category": [
+				"Kidney",
+				"SARS-CoV-2 mechanics",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmj.m4470",
+			"Date": "2020-11-17",
+			"Text": "Damage to multiple organs presents in young, low risk patients. Almost 70% had impairments in one or more organs, 4 months after their initial symptoms of SARS-CoV-2 infection.",
+			"Twitter": "https://twitter.com/BagaiDr/status/1645417723231621121",
+			"Category": [
+				"Long COVID",
+				"Kids"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2221652120",
+			"Date": "2023-04-10",
+			"Text": "T9I mutation in SARS-CoV-2 Envelope increases MHC class I down-regulation and T-cell evasion ",
+			"Twitter": "https://twitter.com/dfocosi/status/1645774105659035649",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"T cells"
+			]
 		}
 	]
 }
