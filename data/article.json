@@ -2072,6 +2072,100 @@
 				"SARS-CoV-2 mechanics",
 				"T cells"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s13073-023-01173-8",
+			"Date": "2023-04-05",
+			"Text": "Study showing mutations in tlr3 and tlr7 cause mortality increase.",
+			"Twitter": "https://twitter.com/exosome/status/1644419646442057733",
+			"Category": [
+				"Susceptibility",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ijid.2023.03.029",
+			"Date": "2023-03-20",
+			"Text": "Compared with patients infected with pre-Omicron variants, comparable SARS-CoV-2 RNA copy numbers were detectable in aerosol samples of patients infected with Omicron despite being fully vaccinated. Patients infected with Omicron also showed a slight increase in viral aerosol shedding during breathing activities and were more likely to have persistent aerosol shedding beyond 7 days after disease onset.",
+			"Twitter": "https://twitter.com/HarrySpoelstra/status/1644956497368035329",
+			"Category": [
+				"Viral persistence",
+				"Vaccination",
+				"Omicron",
+				"Transmission"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jhin.2023.03.004",
+			"Date": "2023-03-12",
+			"Text": "Air purification systems, using electrostatic precipitator technology or HEPA filter, realized a 97% to 99% reduction in viral load in air in 1 h.",
+			"Twitter": "https://twitter.com/BarryHunt008/status/1645038882352766977",
+			"Category": [
+				"Mitigation"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-023-32275-3",
+			"Date": "2023-04-10",
+			"Text": "New paper comparing Long COVID patients to matched controls found significantly reduced blood flow all over the brain - frontal, temporal, & parietal lobes.",
+			"Twitter": "https://twitter.com/ahandvanish/status/1646018019506749441",
+			"Category": [
+				"Long COVID",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2213-8587(22)00044-4",
+			"Date": "2022-03-21",
+			"Text": "People who get COVID-19 have a greater risk (HR 1·40, 95% CI 1·36–1·44) of developing diabetes up to a year later and and an increased risk (1·85, 1·78–1·92) of incident antihyperglycaemic use, even after a mild SARS-CoV-2 infection, compared with those who never had the disease. Study was performed ona cohort of of 181 280 participants who had a positive COVID-19 test between March 1, 2020, and Sept 30, 2021, and survived the first 30 days of COVID-19; a contemporary control (n=4 118 441) that enrolled participants between March 1, 2020, and Sept 30, 2021; and a historical control (n=4 286 911) that enrolled participants between March 1, 2018, and Sept 30, 2019.",
+			"Twitter": "https://twitter.com/CC14_CC14/status/1646409523408646144",
+			"Category": [
+				"Massive study",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.04.07.23288243",
+			"Date": "2023-04-12",
+			"Text": "Mild SARS-CoV-2 infection increases autoantibodies associated with systemic lupus erythematosus and inflammatory myopathies in long COVID patients with persistent neurologic symptoms to a greater extent than COVID convalescent controls at 8 months post-infection. Mild SARS-CoV-2 infection can induce persistent humoral autoimmunity in both long COVID patients and healthy COVID convalescents.",
+			"Twitter": "https://twitter.com/ejustin46/status/1646551837342851073",
+			"Category": [
+				"Preprint",
+				"Antibodies",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41584-023-00964-y",
+			"Date": "2023-04-12",
+			"Text": "High risk of autoimmune diseases after COVID-19.",
+			"Twitter": "https://twitter.com/ejustin46/status/1646430052958060544",
+			"Category": [
+				"Review",
+				"Antibodies",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.04.12.536671",
+			"Date": "2023-04-13",
+			"Text": "SARS-CoV-2 effectively suppresses interferon (IFN) expression, leading to B cell and CD8+ T cell leukopenia, induces the expression of unproductive splicing isoforms of interferon, class I MHC and splicing machinery genes.",
+			"Twitter": "https://twitter.com/ejustin46/status/1646719768831971330",
+			"Category": [
+				"SARS-Cov-2 mechanics",
+				"T cells",
+				"B cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cid/ciab933",
+			"Date": "2021-10-30",
+			"Text": "Evidence that portable HEPA air filters with UV sterilisation removed SARS-CoV-2 (& a range of other bacterial, viral, and fungal) bioaerosols from the air in a COVID-19 ward.",
+			"Twitter": "https://twitter.com/Caro_Dew_/status/1647016722459942913",
+			"Category": [
+				"Mitigation"
+			]
 		}
 	]
 }
