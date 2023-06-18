@@ -2166,6 +2166,99 @@
 			"Category": [
 				"Mitigation"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/nar/gkad199",
+			"Date": "2023-03-23",
+			"Text": "Persistent childhood viruses are found in adult tissues, including internal organs, indicating the existence of a unique microbiome in our organs- the virome. Integration of quantitative (qPCR) and qualitative (hybrid-capture sequencing) revealed the genetic make-up and unique composition of the known eukaryotic human DNA virome in nine organs (colon, liver, lung, heart, brain, kidney, skin, blood, hair) of 31 Finnish individuals. The analysis identified the DNAs of 17 species, primarily herpes-, parvo-, papilloma- and anello-viruses (>80% prevalence), typically persisting in low copies (mean 540 copies/ million cells).",
+			"Twitter": "https://twitter.com/awesome_viruses/status/1646860267681087490",
+			"Category": [
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.neubiorev.2023.105150",
+			"Date": "2023-03-31",
+			"Text": "People those who tested positive for COVID-19 had more brain shrinkage. The damage occurs predominantly in areas of the brain that are associated with odour, ambiguity, strokes, reduced attention, headaches, sensory abnormalities, depression, and mental abilities for few months after the first infection.",
+			"Twitter": "https://twitter.com/CoronaHeadsUp/status/1647684633453117442",
+			"Category": [
+				"Review",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41591-021-01296-8",
+			"Date": "2021-02-26",
+			"Text": "Asymptomatic people took up to 3.5 weeks to clear SARS-CoV-2 from their saliva. One week shorter than the symptomatic. Levels of COVID in the saliva correlated with symptoms, including taste loss. Upon recovery, the asymptomatic cohort exhibited sustained salivary IgG antibodies against SARS-CoV-2. Suggesting virus in saliva for a while.",
+			"Twitter": "https://twitter.com/jmcrookston/status/1643351577049063426",
+			"Category": [
+				"Viral persistence",
+				"Transmission",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamapediatrics.2023.0631",
+			"Date": "2023-04-17",
+			"Text": "Of 173 infected children very few developed antibody after Omicron infection (18%), versus 68% (in a group of 54 infected) for prior variants. Almost all vaccinated participants (324 of 325) were positive for anti-RBD-WT IgG and had the highest IgG levels.",
+			"Twitter": "https://twitter.com/RajeevJayadevan/status/1650159482381676544",
+			"Category": [
+				"Omicron",
+				"Antibodies",
+				"Kids",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/jmv.28745",
+			"Date": "2023-04-18",
+			"Text": "During the 1-year follow-up period, patients with COVID-19 had a higher risk of HZ compared with those without COVID-19 (HR: 1.59; 95% CI: 1.49–1.69). In addition, compared with the control group patients, those with COVID-19 had a higher risk of HZ ophthalmicus (HR: 1.31; 95% CI: 1.01–1.71), disseminated zoster (HR: 2.80; 95% CI: 1.37–5.74), zoster with other complications (HR: 1.46; 95% CI: 1.18–1.79), and zoster without complications (HR: 1.66; 95% CI: 1.55–1.77). Kaplan–Meier curve analysis (log-rank p < 0.05) results indicated that the risk of HZ remained significantly higher in patients with COVID-19 compared with those without COVID-19. Finally, the higher risk of HZ in the COVID-19 cohort compared with that in the non-COVID-19 cohort remained consistent across subgroup analyses regardless of vaccine status, age, or sex. The risk of HZ within a 12-month follow-up period was significantly higher in patients who had recovered from COVID-19 compared with that in the control group.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1650379064778321920",
+			"Category": [
+				"Immune response",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3201/eid2811.221109",
+			"Date": "2022-09-23",
+			"Text": "Findings indicate that the time between confirmed primary infections and reinfections with different Omicron subvariants is frequently shorter than the 90-day definition of reinfections used by the CDC. Furthermore, the time can be shorter than the 60-day definition of reinfections used by the ECDC.",
+			"Twitter": "https://twitter.com/ejustin46/status/1654144453316149248",
+			"Category": [
+				"Reinfection",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.7554/eLife.86015",
+			"Date": "2023-05-04",
+			"Text": "This review focuses on the emerging literature supporting the role(s) that viral persistence or reactivation of viruses may play in PASC. Persistence of SARS-CoV-2 RNA or antigens is reported in some organs, yet the mechanism by which they do so and how they may be associated with pathogenic immune responses is unclear. Understanding the mechanisms of persistence of RNA, antigen or other reactivated viruses and how they may relate to specific inflammatory responses that drive symptoms of PASC may provide a rationale for treatment.",
+			"Twitter": "https://twitter.com/biotechbuzznews/status/1654185538553798658",
+			"Category": [
+				"Review",
+				"Viral persistence",
+				"SARS-CoV-2 mechanics",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2200960119",
+			"Date": "2022-08-11",
+			"Text": "SARS-CoV-2 is found in the human brain, where it infects astrocytes and to a lesser extent, neurons. Astrocytes are susceptible to SARS-CoV-2 infection through a noncanonical mechanism that involves spike–NRP1 interaction and respond to the infection by remodeling energy metabolism, which in turn, alters the levels of metabolites used to fuel neurons and support neurotransmitter synthesis. The altered secretory phenotype of infected astrocytes then impairs neuronal viability.",
+			"Twitter": "https://twitter.com/TactNowInfo/status/1654258237921808386",
+			"Category": [
+				"Brain",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.lfs.2023.121750",
+			"Date": "2023-05-02",
+			"Text": "🐁Coronavirus induces an osteoporotic phenotype in mice dependent on TNF and on macrophage/osteoclast infection.",
+			"Twitter": "https://twitter.com/ahandvanish/status/1654588956082618370",
+			"Category": [
+				"Osteoporosis"
+			]
 		}
 	]
 }
