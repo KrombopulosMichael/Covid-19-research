@@ -2259,6 +2259,97 @@
 			"Category": [
 				"Osteoporosis"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1212/NXI.0000000000200097",
+			"Date": "2023-05-05",
+			"Text": " Immunophenotyping of CSF compared with healthy volunteers(HVs) showed that patients with neuro-postacute sequelae of SARS-CoV-2 infection had lower frequencies of effector memory phenotype both for CD4+ T cells (p < 0.0001) and for CD8+ T cells (p = 0.002), an increased frequency of antibody-secreting B cells (p = 0.009), and increased frequency of cells expressing immune checkpoint molecules. On autonomic testing, there was evidence for decreased baroreflex-cardiovagal gain (p = 0.009) and an increased peripheral resistance during tilt-table testing (p < 0.0001) compared with HVs, without excessive plasma catecholamine responses.",
+			"Twitter": "https://twitter.com/NIH/status/1654584892074913793",
+			"Category": [
+				"T cells",
+				"B cells",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fped.2023.1179402",
+			"Date": "2023-05-05",
+			"Text": "First case series about moderate to severe hepatitis in COVID-19 neonatal patients via horizontal transmission. Besides fever and respiratory symptoms, the clinical doctor should pay much attention to evaluating the risk of liver function injury after SARS-CoV-2 variants infection, which is usually asymptomatic and has a delayed onset.",
+			"Twitter": "https://twitter.com/RadCentrism/status/1654870986087596032",
+			"Category": [
+				"Liver",
+				"Kids"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.lanepe.2023.100595",
+			"Date": "2023-05-28",
+			"Text": "Of 185 patients with post-COVID-19 condition (PCC) at 4 months post-discharge, 181 were alive at the 24-month assessment and 165 agreed to participate. Of those, 21% (35/165) had been readmitted to hospital for various causes in the interim period. The majority of patients (139/165, 84%) reported persisting problems affecting everyday life at 24 months. Significant improvements were seen in the prevalence and magnitude of some symptoms/limitations compared with four months post-discharge. Cognitive, sensorimotor, and fatigue symptoms were the most common persisting symptoms at 24 months. No clear difference was evident between individuals treated in the intensive care unit (ICU) and non-ICU-treated individuals. Approximately half of those who were on sick leave related to PCC at four months after infection were on sick leave at 24 months.",
+			"Twitter": "https://twitter.com/WesElyMD/status/1655554533634834432",
+			"Category": [
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.2215/CJN.0000000000000106",
+			"Date": "2023-02-01",
+			"Text": "Biopsy indication was increased serum creatinine and/or new-onset proteinuria. Glomerulopathies (20/27, 74%) were more common than tubulointerstitial diseases in postvaccination patients, with necrotizing GN (8/27, 30%) and primary podocytopathies and other GN types (6/27, 22% each) the most common forms. Acute tubular injury was the most common kidney disease in patients with COVID-19, followed by thrombotic microangiopathy (TMA) and necrotizing GN. The postvaccination and COVID-19 infection groups had similar kidney function recovery rates (69% and 73%, respectively). Furthermore, the frequencies of necrotizing GN, pauci-immune GN, TMA, or primary podocytopathies at our center did not increase between 2019 and 2021.",
+			"Twitter": "https://twitter.com/ChristosArgyrop/status/1655937518502838272",
+			"Category": [
+				"Kidney",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/pnasnexus/pgad033",
+			"Date": "2023-03-14",
+			"Text": "Viral-load timecourses in the earliest stage of acute SARS-CoV-2 infection differed substantially among specimen types and participants. In only 2 of the 14 participants, viral loads became quantifiable in all three specimen types at the same timepoint; in most (11 out of 14) participants, saliva or throat swabs were positive first, while nasal swabs remained negative or at low, inconsistently detectable viral loads for up to the first 6–7 days of infection. However, later in the infection, peak viral loads in nasal swabs were significantly higher than in saliva or throat swabs. Surprisingly, several participants reported zero symptoms on the day of their peak viral Floads, all of which were >106 copies/mL. Overall, we found only a weak relationship between viral load and symptoms. Importantly, individuals had infectious viral loads in 42% of timepoints at which no symptoms were reported ",
+		"Twitter": "https://twitter.com/ejustin46/status/1656519456200245248",
+			"Category": [
+				"Detection",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2023.9050",
+			"Date": "2023-04-20",
+			"Text": "Despite a reduction in severe outcomes in waves 5 and 6, the burden of COVID-19 on Canadian hospitals was substantial. Among 1 513 065 admissions, the proportion of adult (n = 51 679) and pediatric (n = 4035) patients hospitalized with laboratory-confirmed COVID-19 was highest in waves 5 and 6 of the pandemic compared with waves 1 to 4 (77.3 vs 24.7 per 1000 patient admissions). Despite this, the proportion of patients with positive test results for COVID-19 who were admitted to an ICU, received mechanical ventilation, received extracorporeal membrane oxygenation, and died were each significantly lower in waves 5 and 6 when compared with waves 1 through 4. Admission to the ICU and in-hospital all-cause death rates were significantly higher among those who were unvaccinated against COVID-19 when compared with those who were fully vaccinated (incidence rate ratio, 4.3 and 3.9, respectively) or fully vaccinated with an additional dose (incidence rate ratio, 12.2 and 15.1, respectively).",
+			"Twitter": "https://twitter.com/johnjljacobs/status/1656205392035061760",
+			"Category": [
+				"Massive study",
+				"Mild infection",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.tins.2022.02.006",
+			"Date": "2022-03-02",
+			"Text": "This article, outlines the distinctions between neuroinvasiveness, neurotropism, and neurovirulence. It discusses the current knowledge of these distinct features underlying the pathogenesis of SARS-CoV-2-associated neurological complications. Lastly, it briefly discusses the advantages and limitations of different experimental models, and how these approaches can further be leveraged to advance the field.",
+			"Twitter": "https://twitter.com/CellPressNews/status/1656757316782288900",
+			"Category": [
+				"Review",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jns.2020.116824",
+			"Date": "2020-05-15",
+			"Text": "If you have damage to your amygdala and/or ventromedial hypothalamus, the virus could certainly lead to aggressive behavior. The virus does infect the hypothalamus in pathology samples of autopsied victims of COVID-19. It is known to target the cardiopulmonary brain centers.",
+			"Twitter": "https://twitter.com/nanogenomic/status/1267048475314675717",
+			"Category": [
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/DOI",
+			"Date": "2023-01-16",
+			"Text": "Random-effects inverse-variance models were used to evaluate the pooled prevalence (PP) and its 95% confidence interval (CI) of long-term symptoms. Random effects were used to estimate the pooled odds ratios (OR) and its 95% CI of different long-term symptoms between symptomatic and asymptomatic infections. Five studies involving a total of 1643 cases, including 597 cases of asymptomatic and 1043 cases of symptomatic SARS-CoV-2 infection were included in this meta-analysis. The PPs of long-term consequences after asymptomatic SARS-CoV-2 infections were 17.13% (95%CI, 7.55–26.71%) for at least one symptom, 15.09% (95%CI, 5.46–24.73%) for loss of taste, 14.14% (95%CI, −1.32–29.61%) for loss of smell, and 9.33% (95%CI, 3.07–15.60) for fatigue. Compared with symptomatic SARS-CoV-2 infection, asymptomatic infection was associated with a significantly lower risk of developing COVID-19-related sequelae (p < 0.05), with 80% lower risk of developing at least one symptom (OR = 0.20, 95%CI, 0.09–0.45), 81% lower risk of fatigue (OR = 0.19, 95%CI, 0.08–0.49), 90% lower risk of loss of taste/smell (OR = 0.10, 95%CI, 0.02–0.58). These results suggested that there were long-term effects of asymptomatic SARS-CoV-2 infection, such as loss of taste or smell, fatigue, cough and so on. However, the risk of developing long-term symptoms in asymptomatic SARS-CoV-2 infected persons was significantly lower than those in symptomatic SARS-CoV-2 infection cases.",
+			"Twitter": "https://twitter.com/ejustin46/status/1656671162880098305",
+			"Category": [
+				"Review",
+				"Long COVID",
+				"Mild infection"
+			]
 		}
 	]
 }
