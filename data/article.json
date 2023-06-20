@@ -2002,11 +2002,12 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41467-023-37368-1",
 			"Date": "2022-06-06",
-			"Text": "The proportion of blood CD8+ T cells expressing the mucosal homing receptor β7 is low in PASC patients. PASC is defined by persisting immunological dysfunction as late as six months following SARS-CoV-2 infection, including alterations in mucosal immune parameters, redistribution of mucosal CD8+β7Integrin+ T cells and IgA, indicative of potential viral persistence and mucosal involvement in the etiopathology of PASC",
+			"Text": "The proportion of blood CD8+ T cells expressing the mucosal homing receptor β7 is low in PASC patients. PASC is defined by persisting immunological dysfunction as late as six months following SARS-CoV-2 infection, including alterations in mucosal immune parameters, redistribution of mucosal CD8+β7Integrin+ T cells and IgA, indicative of potential viral persistence and mucosal involvement in the etiopathology of PASC.",
 			"Twitter": "https://twitter.com/MarionKoopmans/status/1643144656765558784",
 			"Category": [
 				"T cells",
-				"Long COVID"
+				"Long COVID",
+				"Viral persistence"
 			]
 		},
 		{
@@ -2121,7 +2122,8 @@
 			"Twitter": "https://twitter.com/CC14_CC14/status/1646409523408646144",
 			"Category": [
 				"Massive study",
-				"Mild infection"
+				"Mild infection",
+				"Diabetes"
 			]
 		},
 		{
@@ -2304,7 +2306,7 @@
 			"ArticleURL": "https://doi.org/10.1093/pnasnexus/pgad033",
 			"Date": "2023-03-14",
 			"Text": "Viral-load timecourses in the earliest stage of acute SARS-CoV-2 infection differed substantially among specimen types and participants. In only 2 of the 14 participants, viral loads became quantifiable in all three specimen types at the same timepoint; in most (11 out of 14) participants, saliva or throat swabs were positive first, while nasal swabs remained negative or at low, inconsistently detectable viral loads for up to the first 6–7 days of infection. However, later in the infection, peak viral loads in nasal swabs were significantly higher than in saliva or throat swabs. Surprisingly, several participants reported zero symptoms on the day of their peak viral Floads, all of which were >106 copies/mL. Overall, we found only a weak relationship between viral load and symptoms. Importantly, individuals had infectious viral loads in 42% of timepoints at which no symptoms were reported ",
-		"Twitter": "https://twitter.com/ejustin46/status/1656519456200245248",
+			"Twitter": "https://twitter.com/ejustin46/status/1656519456200245248",
 			"Category": [
 				"Detection",
 				"Mild infection"
@@ -2349,6 +2351,95 @@
 				"Review",
 				"Long COVID",
 				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s42826-023-00157-4",
+			"Date": "2023-04-05",
+			"Text": "🐁K18-hACE2 mice were intranasally infected with 1×10<sup>5</sup> PFU of the original Wuhan strain and the Omicron variant of SARS-CoV-2. A follow-up was conducted 7 days post infection. All Wuhan-infected mice showed > 20% body weight loss, defined as the lethal condition, whereas two out of five Omicron-infected mice (40%) lost > 20% body weight. Histopathological analysis based on H&E staining revealed inflammatory responses in the brains of these two Omicron-infected mice. Immunostaining analysis of viral nucleocapsid protein revealed severe infection of neuron cells in the brains of these two Omicron-infected mice. Lymphoid depletion and apoptosis were observed in the spleen of Omicron-infected mice with brain infection.",
+			"Twitter": "https://twitter.com/ejustin46/status/1657427848804683776",
+			"Category": [
+				"Mild infection",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jpeds.2023.113463",
+			"Date": "2023-05-10",
+			"Text": "There were 332 first-positive, 243 reinfected, and 311 test-negative children and young people who filled in the online questionnaires at 0, 3, and 6 months after testing and were included in the analytic sample, representing 5.9% of those invited (886/15 089). The Delphi research definition of long COVID in children and young people requires a positive laboratory confirmation of SARS-CoV-2 infection.11 We excluded the need for a positive PCR test for the ‘always tested negative’ group to determine how many met this long COVID definition.11 Although the prevalence of long COVID at both 3 months and 6 months differed by infection status (P<sub>χ<sup>2</sup></sub> < .001), there was no evidence of difference between first positives and reinfected (P<sub>χ<sup>2</sup></sub> = .17). Thirteen percent of the reinfected group (ie, those who tested positive previously) met the long COVID definition at baseline (32/243); of these, 41% (13/32) had long COVID at both 3 and 6 months. ",
+			"Twitter": "https://twitter.com/Sandyboots2020/status/1657796725791244291",
+			"Category": [
+				"Long COVID",
+				"Kids"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1096/fj.202300149R",
+			"Date": "2023-04-18",
+			"Text": "🐁🧫Open reading frame 3a (ORF3a), a SARS-CoV-2 accessory protein that is a key pathological factor of the virus caused the rapid onset of neurological impairment, neurodegeneration, and neuroinflammation. ORF3a expression blocked autophagy progression in the brain and caused the neuronal accumulation of α-synuclein and glycosphingolipids, all of which are linked to neurodegenerative disease. Studies with ORF3-expressing HeLa cells confirmed that ORF3a disrupted the autophagy–lysosomal pathway and blocked glycosphingolipid degradation, resulting in their accumulation",
+			"Twitter": "https://twitter.com/RadCentrism/status/1658603397451481089",
+			"Category": [
+				"Brain",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.05.12.23289898",
+			"Date": "2023-05-16",
+			"Text": "Among 228,940 children aged 0–5 years, the risk for first-time medically attended RSV during 10/2022–12/2022 was 6.40% for children with prior COVID-19 infection, higher than 4.30% for the matched children without COVID-19 (risk ratio or RR: 1.40, 95% CI: 1.27–1.55); and among 99,105 children aged 0–1 year, the overall risk was 7.90% for those with prior COVID-19 infection, higher than 5.64% for matched children without (RR: 1.40, 95% CI: 1.21–1.62). These data provide evidence that COVID-19 contributed to the 2022 surge of severe pediatric RSV cases.",
+			"Twitter": "https://twitter.com/ejustin46/status/1658907434906263569",
+			"Category": [
+				"Immune response",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.05.17.541098",
+			"Date": "2023-05-17",
+			"Text": "SARS-CoV-2 infection in the central nervous system triggers downstream effects altering tau function, eventually leading to the impairment of neuronal function.",
+			"Twitter": "https://twitter.com/limits_stop/status/1659208647552151553",
+			"Category": [
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-023-06034-3",
+			"Date": "2023-05-17",
+			"Text": "Genome-wide association study finds 49 genes & multiple new drug options were found for severe COVID.",
+			"Twitter": "https://twitter.com/kennethbaillie/status/1658856466617384960",
+			"Category": [
+				"Susceptibility",
+				"Treatment",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fped.2023.1200877",
+			"Date": "2023-05-19",
+			"Text": "In children, COVID-19 infection may induce musculoskeletal symptoms beyond multisystem inflammatory syndrome, which can be detected at imaging. So far, diagnostic imaging has been rarely applied to investigate these findings. Its use is strongly encouraged, especially in terms of ultrasound and MR to better understand the extension and behavior of this type of disease expression at diagnosis and during follow-up aiming to improve the overall therapeutic management.",
+			"Twitter": "https://twitter.com/Drferremd/status/1659562387266056194",
+			"Category": [
+				"Kids",
+				"Muscle",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2021.101019",
+			"Date": "2021-07-15",
+			"Text": "Online survey of people with suspected and confirmed COVID-19, distributed via COVID-19 support groups (e.g. Body Politic, Long COVID Support Group, Long Haul COVID Fighters) and social media (e.g. Twitter, Facebook). Data were collected from September 6, 2020 to November 25, 2020. Responses from 3762 participants were analyzed with confirmed (diagnostic/antibody positive; 1020) or suspected (diagnostic/antibody negative or untested; 2742) COVID-19, from 56 countries, with illness lasting over 28 days and onset prior to June 2020. The prevalence of 203 symptoms in 10 organ systems were estimated and 66 symptoms were traced over seven months. The impact on life, work, and return to baseline health was measured.",
+			"Twitter": "https://twitter.com/HarryBoby4/status/1659483354939420672",
+			"Category": [
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2217119120",
+			"Date": "2023-05-15",
+			"Text": "Hyperglycemia is a prevalent complication in hospitalized COVID-19 patients that occurs regardless of the diabetes history and is associated with a worse clinical outcome.",
+			"Twitter": "https://twitter.com/CoronaHeadsUp/status/1660308518065283078",
+			"Category": [
+				"Diabetes"
 			]
 		}
 	]
