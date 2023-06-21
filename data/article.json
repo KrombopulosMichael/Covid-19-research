@@ -2288,7 +2288,9 @@
 			"Text": "Of 185 patients with post-COVID-19 condition (PCC) at 4 months post-discharge, 181 were alive at the 24-month assessment and 165 agreed to participate. Of those, 21% (35/165) had been readmitted to hospital for various causes in the interim period. The majority of patients (139/165, 84%) reported persisting problems affecting everyday life at 24 months. Significant improvements were seen in the prevalence and magnitude of some symptoms/limitations compared with four months post-discharge. Cognitive, sensorimotor, and fatigue symptoms were the most common persisting symptoms at 24 months. No clear difference was evident between individuals treated in the intensive care unit (ICU) and non-ICU-treated individuals. Approximately half of those who were on sick leave related to PCC at four months after infection were on sick leave at 24 months.",
 			"Twitter": "https://twitter.com/WesElyMD/status/1655554533634834432",
 			"Category": [
-				"Long COVID"
+				"Long COVID",
+				"Sweden",
+				"Self-reported"
 			]
 		},
 		{
@@ -2556,6 +2558,107 @@
 				"Preprint",
 				"UV-C",
 				"United States"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.mcpro.2023.100523",
+			"Date": "2023-03-03",
+			"Text": "🐒Monkeys exhibited minimal to mild pulmonary pathology but moderate to severe central nervous system (CNS) pathology. Results indicated that CSF proteome changes after infection resolution corresponded with bronchial virus abundance during early infection and revealed substantial differences between the infected non-human primates and their age-matched uninfected controls, suggesting these differences could reflect altered secretion of CNS factors in response to SARS-CoV-2-induced neuropathology. Infected animals exhibited highly scattered data distributions compared to their corresponding controls indicating the heterogeneity of the CSF proteome change and the host response to the viral infection. Dysregulated CSF proteins were preferentially enriched in functional pathways associated with progressive neurodegenerative disorders, hemostasis, and innate immune responses that could influence neuroinflammatory responses following COVID-19. Mapping these dysregulated proteins to the Human Brain Protein Atlas found that they tended to be enriched in brain regions that exhibit more frequent injury following COVID-19. It, therefore, appears reasonable to speculate that such CSF protein changes could serve as signatures for neurologic injury, identify important regulatory pathways in this process, and potentially reveal therapeutic targets to prevent or attenuate the development of neurologic injuries following COVID-19.",
+			"Twitter": "https://twitter.com/ejustin46/status/1645259654908223488",
+			"Category": [
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"United States"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.stem.2020.10.001",
+			"Date": "2020-10-13",
+			"Text": "🧫SARS-CoV-2 damages choroid plexus epithelium, leading to leakage across this important barrier that normally prevents entry of pathogens, immune cells and cytokines into cerebrospinal fluid and the brain.",
+			"Twitter": "https://twitter.com/avivi/status/1316352145407578113",
+			"Category": [
+				"Brain",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.4103/1673-5374.360273",
+			"Date": "2022-11-09",
+			"Text": "Evidence for pathogens leading to Alzheimer's Disease (AD) adds to the presumption of long-term neuropsychiatric sequelae of COVID-19. Carefully tracking the neurological impact of COVID-19 emerges as a major scientific challenge. Reported results regarding the cognitive decline in a significant portion of COVID-19 patients, Aβ and tau pathways altered by SARS-CoV-2, neurotoxic glial profile in response to the virus, and brain changes in discrete regions related to learning/memory, suppose a possible etiological link between this viral infection and AD.",
+			"Twitter": "https://twitter.com/HarrySpoelstra/status/1665299991546429441",
+			"Category": [
+				"Review",
+				"Brain",
+				"Argentine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41380-021-01309-5",
+			"Date": "2021-09-14",
+			"Text": "Pharmacological or genetic downregulation of ASM protects against infection. The neutralization or degradation of ceramides on the cell surface also protects against infection. The addition of exogenous ceramide after the downregulation of ASM by pharmacological inhibition restores infection with SARS-CoV-2. Thus, ceramide on the cell surface is necessary for infection with SARS-CoV-2. The ASM/ceramide system may be important not only for virus entry into the cell but also for the release of cytokines such as IL-6. Antidepressants reduce the level of proinflammatory cytokines in preclinical studies and patients with major depressive disorder. Importantly, reduced IL-6 levels were also found in COVID-19 patients treated with the FIASMA hydroxyzine. The ASM/ceramide system can help to explain the typical risk factors for a lethal COVID-19 course since ceramide abundance is increased in advanced age, hypertension or obesity, and the increased rate of thromboembolic complications in the setting of COVID-19 can also be explained by the ASM/ceramide system. The ASM/ceramide system may also help to explain the negative effect of chloroquine in the therapy of patients with COVID-19.",
+			"Twitter": "https://twitter.com/RadCentrism/status/1579621700655665153",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Review",
+				"Germany",
+				"France",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.xcrm.2020.100142",
+			"Date": "2020-11-17",
+			"Text": "🧫Pseudoviral SARS-CoV-2 induces the acid sphingomyelinase/ceramide system. Inhibition of acid sphingomyelinase prevents cellular infection with SARS-CoV-2. Neutralization of ceramide in vitro blocks infection with pseudoviral SARS-CoV-2.",
+			"Twitter": "https://twitter.com/RadCentrism/status/1579621700655665153",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Germany",
+				"USA",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciadv.adg2248",
+			"Date": "2023-06-07",
+			"Text": "🧫SARS-CoV-2 infection induces fusion between neurons and between neurons and glia in mouse and human brain organoids. This is caused by the viral fusogen, as it is fully mimicked by the expression of the SARS-CoV-2 spike (S) protein or the unrelated fusogen p15 from the baboon orthoreovirus. Neuronal fusion is a progressive event, and it leads to the formation of multicellular syncytia, and it causes the spread of large molecules and organelles. Last, using Ca2+ imaging, it is shown that fusion severely compromises neuronal activity.",
+			"Twitter": "https://twitter.com/Aguirre1Gustavo/status/1666859920237506569",
+			"Category": [
+				"Brain",
+				"Australia"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(23)00299-2",
+			"Date": "2023-06-08",
+			"Text": "Outpatient treatment with metformin reduced long COVID incidence by about 41%, with an absolute reduction of 4·1%, compared with placebo. Metformin has clinical benefits when used as outpatient treatment for COVID-19 and is globally available, low-cost, and safe. Overall, 93 (8·3%) of 1126 participants reported receipt of a long COVID diagnosis by day 300. The cumulative incidence of long COVID by day 300 was 6·3% (95% CI 4·2–8·2) in participants who received metformin and 10·4% (7·8–12·9) in those who received identical metformin placebo (hazard ratio [HR] 0·59, 95% CI 0·39–0·89; p=0·012). The metformin beneficial effect was consistent across prespecified subgroups. When metformin was started within 3 days of symptom onset, the HR was 0·37 (95% CI 0·15–0·95). There was no effect on cumulative incidence of long COVID with ivermectin (HR 0·99, 95% CI 0·59–1·64) or fluvoxamine (1·36, 0·78–2·34) compared with placebo.",
+			"Twitter": "https://twitter.com/boulware_dr/status/1666935635054034945",
+			"Category": [
+				"Treatment",
+				"Long COVID",
+				"United States"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.athplu.2023.06.002",
+			"Date": "2023-06-02",
+			"Text": "Both the first infection and reinfection with SARS-CoV-2 cause endothelial dysfunction and increase cardiac event risk. Statins can be considered a supportive regimen during the entire period of endothelial dysfunction.",
+			"Twitter": "https://twitter.com/HarrySpoelstra/status/1667481560625340416",
+			"Category": [
+				"Reinfection",
+				"Endothelium",
+				"Heart",
+				"Finland",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bbi.2004.08.001",
+			"Date": "2004-10-01",
+			"Text": "Patterns of Epstein–Barr virus (EBV) reactivation in 32 astronauts and 18 healthy age-matched control subjects were characterized by quantifying EBV shedding. Saliva samples were collected from astronauts before, during, and after 10 space shuttle missions of 5–14 days duration. At one time point or another, EBV was detected in saliva from each of the astronauts. Of 1398 saliva specimens from 32 astronauts, polymerase chain reaction analysis showed that 314 (23%) were positive for EBV DNA. Examination by flight phase showed that 29% of the saliva specimens collected from 28 astronauts before flight were positive for EBV DNA, as were 16% of those collected from 25 astronauts during flight and 16% of those collected after flight from 23 astronauts.",
+			"Twitter": "https://twitter.com/renesugar/status/1667258745578205185",
+			"Category": [
+				"Epstein-Barr",
+				"Viral persistence"
 			]
 		}
 	]
