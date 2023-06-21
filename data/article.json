@@ -2442,6 +2442,120 @@
 			"Category": [
 				"Diabetes"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/ijms24109047",
+			"Date": "2023-05-20",
+			"Text": "T cells in peripheral blood mononuclear cells (PBMC) isolated from ICU COVID-19 patients (ICU), moderate severity patients (MS), convalescent plasma donors (CCP), and healthy donors who have not experienced COVID-19 (HD) were analyzed. There was a statistically significant decrease in the proportion of T cells (CD3+) in the ICU and MS groups; moreover, the percentage of CD3+ cells was lower in the non-survivors from the ICU group. The NKT-like cell subset was decreased in patients with lethal outcome of COVID-19, which implies an antiviral role of this cell subpopulation and emphasizes its prognostic value. Along with an increase in the expression levels of HLA-DR and PD-1, and elevated IL-6 serum concentration, an increase in the CD16+ cell proportion among CD56− T cells may be considered the factor associated with increased COVID-19-mediated mortality. Moreover, a decrease in the expression of the NKG2D and NKG2A NK cell receptors observed in T cells of COVID-19 patients can potentially serve as prognostic indicators of the disease severity. Along with the depletion and hyperactivation of T cells, an elevated granzyme B level and a tendency to an increased TCR-independent functional activity were observed in CD56+ cells of patients with COVID-19.",
+			"Twitter": "https://twitter.com/ejustin46/status/1660116401233842177",
+			"Category": [
+				"T cells",
+				"Immune response",
+				"Russia"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fmicb.2023.1192832",
+			"Date": "2023-05-22",
+			"Text": "Investigated were autopsy materials obtained from 21 cadaveric donors with documented first infection or reinfection at the time of death.  autopsy materials obtained from 21 cadaveric donors with documented first infection or reinfection at the time of death. All tissues analyzed showed the presence of SARS-CoV-2 genomic RNA but at dissimilar levels ranging from 1.01 × 102 copies/mL to 1.14 × 108 copies/mL, even among those cases who had been COVID-19 vaccinated. Importantly, different amounts of replication-competent virus were detected in the culture media from the studied tissues. The highest viral load were measured in the lung (≈1.4 × 106 copies/mL) and heart (≈1.9 × 106 copies/mL) samples. Additionally, based on partial Spike gene sequences, SARS-CoV-2 characterization revealed the presence of multiple Omicron sub-variants exhibiting a high level of nucleotide and amino acid identity among them.",
+			"Twitter": "https://twitter.com/Aguirre1Gustavo/status/1661007800812863489",
+			"Category": [
+				"Omicron",
+				"Viral persistence",
+				"Reinfection",
+				"Gastrointestinal",
+				"Kidney",
+				"Heart",
+				"Liver",
+				"Lungs",
+				"Vaccination",
+				"Argentine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2301145120",
+			"Date": "2023-05-22",
+			"Text": "Findings demonstrate that age and exercise increase aerosol particle emission. In contrast, sex or BMI only have minor effects. In terms of volume, older subjects emit on average five times as much dry volume (i.e., the residue of dried aerosol particles) than younger subjects.",
+			"Twitter": "https://twitter.com/Perbess/status/1660878382232477696",
+			"Category": [
+				"Transmission",
+				"Masks"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2217232120",
+			"Date": "2023-05-23",
+			"Text": "Among all 11 MRI markers tested, significant differences were found in global measures of mean diffusivity (MD) and extracellular free water which were elevated in the white matter of post-SARS-CoV-2 individuals compared to matched controls (free water: 0.148 ± 0.018 vs. 0.142 ± 0.017, P < 0.001; MD [10−3 mm2/s]: 0.747 ± 0.021 vs. 0.740 ± 0.020, P < 0.001). Group classification accuracy based on diffusion imaging markers was up to 80%.",
+			"Twitter": "https://twitter.com/RadCentrism/status/1661401399098494976",
+			"Category": [
+				"Brain",
+				"Mild infection",
+				"Germany",
+				"United States"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jama.2023.8823",
+			"Date": "2023-05-25",
+			"Text": "A total of 9764 participants (89% SARS-CoV-2 infected; 71% female; 16% Hispanic/Latino; 15% non-Hispanic Black; median age, 47 years [IQR, 35-60]) met selection criteria. Adjusted odds ratios were 1.5 or greater (infected vs uninfected participants) for 37 symptoms. Symptoms contributing to postacute sequelae of SARS-CoV-2 infection (PASC) score included postexertional malaise, fatigue, brain fog, dizziness, gastrointestinal symptoms, palpitations, changes in sexual desire or capacity, loss of or change in smell or taste, thirst, chronic cough, chest pain, and abnormal movements. Among 2231 participants first infected on or after December 1, 2021, and enrolled within 30 days of infection, 224 (10% [95% CI, 8.8%-11%]) were PASC positive at 6 months.",
+			"Twitter": "https://twitter.com/DGBassani/status/1661859345687085056",
+			"Category": [
+				"Long COVID",
+				"Self-reported",
+				"United States"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s13760-023-02291-1",
+			"Date": "2023-05-25",
+			"Text": "A review discussing possibility that neurogenesis is stopped in the hippocampus with COVID infection, especially Long COVID.",
+			"Twitter": "https://twitter.com/AndrewEwing11/status/1662467221556273152",
+			"Category": [
+				"Brain",
+				"Review",
+				"Long COVID",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/diagnostics13111905",
+			"Date": "2023-05-29",
+			"Text": "A nailfold video capillaroscopy(NVC) is a safe, easy, and non-invasive method to evaluate microcirculation alteration. To date, considering the existing studies, there does not appear to be a pattern for NVC that is specific to SARS-CoV-2 infection, but there are indeed searchable alterations that occur in a statistically significant manner.",
+			"Twitter": "https://twitter.com/HarrySpoelstra/status/1663505440271941634",
+			"Category": [
+				"Detection",
+				"Endothelium",
+				"Italy",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2023.102000",
+			"Date": "2023-05-11",
+			"Text": "A total of 535,186 and 16,400 patients were diagnosed with COVID-19 from Hong Kong Hospital Authority (HKHA) and UK Biobank (UKB), of whom 253,872 (47.4%) and 7613 (46.4%) were male, with a mean age (±SD) of 53.6 (17.8) years and 65.0 (8.5) years, respectively. Patients with COVID-19 incurred greater risk of heart failure (HR 1.82; 95% CI 1.65, 2.01), atrial fibrillation (1.31; 1.16, 1.48), coronary artery disease (1.32; 1.07, 1.63), deep vein thrombosis (1.74; 1.27, 2.37), chronic pulmonary disease (1.61; 1.40, 1.85), acute respiratory distress syndrome (1.89; 1.04, 3.43), interstitial lung disease (3.91; 2.36, 6.50), seizure (2.32; 1.12, 4.79), anxiety disorder (1.65; 1.29, 2.09), post-traumatic stress disorder (1.52; 1.23, 1.87), end-stage renal disease (1.76; 1.31, 2.38), acute kidney injury (2.14; 1.69, 2.71), pancreatitis (1.42; 1.10, 1.83), cardiovascular (2.86; 1.25, 6.51) and all-cause mortality (4.16; 2.11, 8.21) mortality during their post-acute phase of infection.",
+			"Twitter": "https://twitter.com/LongCovidSOS/status/1663512412761235456",
+			"Category": [
+				"Heart",
+				"Kidney",
+				"Lungs",
+				"Pancreas",
+				"Endothelium",
+				"Massive study",
+				"United Kingdom",
+				"China",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.05.17.23290115",
+			"Date": "2023-05-25",
+			"Text": "Recent interest in commercial devices containing germicidal ultraviolet lamps with a peak emission wavelength at 222 nm (GUV222) has focused on mitigating virus transmission indoors and disinfecting indoor spaces while posing minimum risk to human tissue. However, 222 nm light can produce ozone (O3) in air. O3 is an undesirable component of indoor air because of health impacts from acute to chronic exposure and its ability to degrade indoor air quality through oxidation chemistry.",
+			"Twitter": "https://twitter.com/Poppendieck/status/1661900511061352449",
+			"Category": [
+				"Treatment",
+				"Preprint",
+				"UV-C"
+			]
 		}
 	]
 }
