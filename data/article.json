@@ -41,7 +41,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1093/cid/ciac722",
 			"Date": "2022-06-16",
-			"Text": "SARS-CoV-2 spike antigen in a majority of PASC patients up to 12 months post-diagnosis (n = 63), suggesting the presence of an active persistent SARS-CoV-2 viral reservoir.",
+			"Text": "SARS-CoV-2 spike antigen in a majority of post-acute sequelae of SARS-CoV-2 infection patients up to 12 months post-diagnosis (n = 63), suggesting the presence of an active persistent SARS-CoV-2 viral reservoir.",
 			"Twitter": "https://twitter.com/ysenussiMD/status/1537590072387805184",
 			"Category": [
 				"Long COVID",
@@ -1938,7 +1938,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1101/2022.12.03.519007",
 			"Date": "2022-12-07",
-			"Text": "Post-acute sequelae of COVID-19 (PASC) is not well explored.  A stronger, SARS-CoV-2 reactive CD8+ T cell response, characterized by IFNγ production and predominant TEMRA phenotype but low SARS-CoV-2 avidity was detected in PASC patients...persistent inflammatory response...might be responsible for the observed sequelae",
+			"Text": "Post-acute sequelae of COVID-19 (PASC) is not well explored. A stronger, SARS-CoV-2 reactive CD8+ T cell response, characterized by IFNγ production and predominant TEMRA phenotype but low SARS-CoV-2 avidity was detected in PASC patients...persistent inflammatory response...might be responsible for the observed sequelae",
 			"Twitter": "https://twitter.com/RadCentrism/status/1641188989716828165",
 			"Category": [
 				"Viral persistence",
@@ -2001,7 +2001,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41467-023-37368-1",
 			"Date": "2022-06-06",
-			"Text": "The proportion of blood CD8+ T cells expressing the mucosal homing receptor β7 is low in PASC patients. PASC is defined by persisting immunological dysfunction as late as six months following SARS-CoV-2 infection, including alterations in mucosal immune parameters, redistribution of mucosal CD8+β7Integrin+ T cells and IgA, indicative of potential viral persistence and mucosal involvement in the etiopathology of PASC.",
+			"Text": "The proportion of blood CD8+ T cells expressing the mucosal homing receptor β7 is low in post-acute sequelae of SARS-CoV-2 infection (PASC) patients. PASC is defined by persisting immunological dysfunction as late as six months following SARS-CoV-2 infection, including alterations in mucosal immune parameters, redistribution of mucosal CD8+β7Integrin+ T cells and IgA, indicative of potential viral persistence and mucosal involvement in the etiopathology of PASC.",
 			"Twitter": "https://twitter.com/MarionKoopmans/status/1643144656765558784",
 			"Category": [
 				"T cells",
@@ -2233,13 +2233,14 @@
 		{
 			"ArticleURL": "https://doi.org/10.7554/eLife.86015",
 			"Date": "2023-05-04",
-			"Text": "This review focuses on the emerging literature supporting the role(s) that viral persistence or reactivation of viruses may play in PASC. Persistence of SARS-CoV-2 RNA or antigens is reported in some organs, yet the mechanism by which they do so and how they may be associated with pathogenic immune responses is unclear. Understanding the mechanisms of persistence of RNA, antigen or other reactivated viruses and how they may relate to specific inflammatory responses that drive symptoms of PASC may provide a rationale for treatment.",
+			"Text": "This review focuses on the emerging literature supporting the role(s) that viral persistence or reactivation of viruses may play in post-acute sequelae of SARS-CoV-2 infection (PASC). Persistence of SARS-CoV-2 RNA or antigens is reported in some organs, yet the mechanism by which they do so and how they may be associated with pathogenic immune responses is unclear. Understanding the mechanisms of persistence of RNA, antigen or other reactivated viruses and how they may relate to specific inflammatory responses that drive symptoms of PASC may provide a rationale for treatment.",
 			"Twitter": "https://twitter.com/biotechbuzznews/status/1654185538553798658",
 			"Category": [
 				"Review",
 				"Viral persistence",
 				"SARS-CoV-2 mechanics",
-				"Long COVID"
+				"Long COVID",
+				"United States"
 			]
 		},
 		{
