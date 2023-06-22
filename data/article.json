@@ -2699,6 +2699,29 @@
 				"Masks",
 				"Japan"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bbi.2023.06.015",
+			"Date": "2023-06-15",
+			"Text": "🐁SARS-CoV-2 transmission to the fetal brain occurs at later stages of gestation in a human ACE2 knock-in (ACE2-KI) mouse model. SARS-CoV-2 targets blood vessel-comprising endothelial cells, neurons, glia, and choroid plexus cells in the fetal brain. Following in utero infection, developmental and neurological consequences are seen in neonatal mice. COVID-19 infection in pregnant hACE2-KI mice replicates infection severity and effects seen in pregnant women.",
+			"Twitter": "https://twitter.com/vipintukur/status/1670651714301751297",
+			"Category": [
+				"Brain",
+				"Newborns",
+				"Endothelium",
+				"United States"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-022-29801-8",
+			"Date": "2022-04-19",
+			"Text": "Individuals with COVID-19 were estimated to have significant DNAm age acceleration for Hannum, PhenoAge, skinHorvath and GrimAge clocks and significant DNAm TL attrition acceleration compared with healthy individuals (all p < 0.0001). The same phenomena were observed in the young (age < 50) and old (age ≥ 50) populations. Together, an accelerated epigenetic aging in patients with SARS-CoV-2 infection was found. An increasing acceleration of epigenetic aging in the sequential samples of healthy, non-severe and severe groups was found. The accelerated DNAm ages at initial phases were partly reversed at the later phases in some COVID-19 patients by using the five epigenetic clocks, while the reversible outcome of accelerated attrition of DNAm TL from initial to later phases was found only in one patient. COVID-19 syndrome might accelerate epigenetic aging in SARS-CoV-2 infected patients, and this process would be partly reversible in the clinical disease phases.",
+			"Twitter": "https://twitter.com/ejustin46/status/1670635370730467328",
+			"Category": [
+				"Kids",
+				"Mild infection",
+				"China"
+			]
 		}
 	]
 }
