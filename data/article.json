@@ -1977,7 +1977,9 @@
 			"Twitter": "https://twitter.com/MeetJess/status/1642670375472443392",
 			"Category": [
 				"Brain",
-				"Mild infection"
+				"Mild infection",
+				"Canada",
+				"United States"
 			]
 		},
 		{
@@ -2030,7 +2032,9 @@
 			"Category": [
 				"Viral persistence",
 				"Brain",
-				"SARS-CoV-2 mechanics"
+				"SARS-CoV-2 mechanics",
+				"Germany",
+				"Denmark"
 			]
 		},
 		{
@@ -2404,7 +2408,8 @@
 			"Text": "SARS-CoV-2 infection in the central nervous system triggers downstream effects altering tau function, eventually leading to the impairment of neuronal function.",
 			"Twitter": "https://twitter.com/limits_stop/status/1659208647552151553",
 			"Category": [
-				"Brain"
+				"Brain",
+				"Italy"
 			]
 		},
 		{
@@ -2415,7 +2420,8 @@
 			"Category": [
 				"Susceptibility",
 				"Treatment",
-				"SARS-CoV-2 mechanics"
+				"SARS-CoV-2 mechanics",
+				"United Kingdom"
 			]
 		},
 		{
@@ -2442,10 +2448,12 @@
 		{
 			"ArticleURL": "https://doi.org/10.1073/pnas.2217119120",
 			"Date": "2023-05-15",
-			"Text": "Hyperglycemia is a prevalent complication in hospitalized COVID-19 patients that occurs regardless of the diabetes history and is associated with a worse clinical outcome.",
+			"Text": "SARS-CoV-2 infects and replicates in liver cells, stimulates glucose production. Hyperglycemia is a prevalent complication in hospitalized COVID-19 patients that occurs regardless of the diabetes history and is associated with a worse clinical outcome.",
 			"Twitter": "https://twitter.com/CoronaHeadsUp/status/1660308518065283078",
 			"Category": [
-				"Diabetes"
+				"Liver",
+				"Diabetes",
+				"Brazil"
 			]
 		},
 		{
@@ -2721,6 +2729,60 @@
 				"Kids",
 				"Mild infection",
 				"China"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s43587-023-00421-1",
+			"Date": "2023-05-22",
+			"Text": "Data from aerosol monitoring of 3 Belgian nursing home outbreaks: SARS-CoV-2 was detected in aerosol samples up to 52 days after the initial infection.",
+			"Twitter": "https://twitter.com/EricTopol/status/1660664141332488193",
+			"Category": [
+				"Air monitoring",
+				"Belgium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2213-2600(23)00142-X",
+			"Date": "2023-05-10",
+			"Text": "A pathophysiological model of Long COVID based on persistence of the SARS-CoV-2 virus, and review of all the supportive evidence.",
+			"Twitter": "https://twitter.com/EricTopol/status/1656431507966427136",
+			"Category": [
+				"Viral persistence",
+				"Long COVID",
+				"Review",
+				"Canada"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmjmed-2022-000385",
+			"Date": "2022-08-03",
+			"Text": "10-12 studies showed Long COVID protection if vaccination given prior to infection. After infection was too variable to assess",
+			"Twitter": "https://twitter.com/bagger_blue/status/1645387766744903683",
+			"Category": [
+				"Vaccination",
+				"Review",
+				"Australia"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41564-023-01352-8",
+			"Date": "2023-04-03",
+			"Text": "🐹A nasal vaccine induced superior mucosal and systemic immunity vs #SARSCoV2 variants compared with mRNA (Pfizer) and adenovirus-vector vaccines by serology, histopathology, scRNA -seq in hamsters.",
+			"Twitter": "https://twitter.com/EricTopol/status/1642908867410690048",
+			"Category": [
+				"Vaccination",
+				"Germany"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmjmed-2022-000229",
+			"Date": "2023-02-01",
+			"Text": "In this study, covid-19 vaccination reduced the severity of symptoms and the effect of long covid on patients' social, professional, and family lives at 120 days in those with persistent symptoms of infection. 910 patients were included in the analyses (455 in the vaccinated group and 455 in the control group). By 120 days, vaccination had reduced the number of long covid symptoms (mean 13.0 (standard deviation 9.4) in the vaccinated group v 14.8 (9.8) in the control group; mean difference -1.8, 95% confidence interval -3.0 to -0.5) and doubled the rate of patients in remission (16.6% v 7.5%, hazard ratio 1.93, 95% confidence interval 1.18 to 3.14). Vaccination reduced the effect of long covid on patients' lives (mean score on the impact tool 24.3 (standard deviation 16.7) v 27.6 (16.7); mean difference -3.3, 95% confidence interval -5.7 to -1.0) and the proportion of patients with an unacceptable symptom state (38.9% v 46.4%, risk difference -7.4%, 95% confidence interval -14.5% to -0.3%). In the vaccinated group, two (0.4%) patients reported serious adverse events requiring admission to hospital.",
+			"Twitter": "https://twitter.com/EricTopol/status/1630716220105453568",
+			"Category": [
+				"Vaccination",
+				"Long COVID",
+				"France"
 			]
 		}
 	]
