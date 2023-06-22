@@ -1468,7 +1468,8 @@
 			"Twitter": "https://twitter.com/jmcrookston/status/1640531275109879808",
 			"Category": [
 				"MonkeyP",
-				"Air monitoring"
+				"Air monitoring",
+				"Spain"
 			]
 		},
 		{
@@ -1477,7 +1478,8 @@
 			"Text": "Study “proving” viable sars2 virus in bioaerosols.",
 			"Twitter": "https://twitter.com/michaelmina_lab/status/1639681587192250369",
 			"Category": [
-				"Air monitoring"
+				"Air monitoring",
+				"Canada"
 			]
 		},
 		{
@@ -2660,6 +2662,42 @@
 			"Category": [
 				"Epstein-Barr",
 				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2023.1123155",
+			"Date": "2023-05-23",
+			"Text": "Soluble LLT1 protein treatment of NK cells significantly reduces i) the proportion of CD161+ natural killer (NK) cells, ii) the ability of NK cells to control SARS-CoV-2 infection in A549ACE2/TMPRSS2 cells and iii) the production of granzyme B by NK cells and their cytotoxicity capacity, yet not degranulation level.",
+			"Twitter": "https://twitter.com/THAILANDMEDICA1/status/1667681512295378945",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Natural killer cells",
+				"Immune response",
+				"Poland"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.01.03.22284042",
+			"Date": "2023-01-05",
+			"Text": "Long COVID diagnoses occur closer to the index date for infection or reinfection in the Omicron BA epoch. We report lower albumin levels leading up to reinfection and a statistically significant association of severity between first infection and reinfection (chi-squared value: 9446.2, p-value: 0). More severe initial infection = more severe re-infection. Mild initial infection doesn’t guarantee mild reinfection; two-thirds of severe reinfections had a mild initial episode.",
+			"Twitter": "https://twitter.com/RajeevJayadevan/status/1665225700914151425",
+			"Category": [
+				"Preprint",
+				"Reinfection",
+				"Long COVID",
+				"Mild infection",
+				"United States"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s11356-023-27944-9",
+			"Date": "2023-06-07",
+			"Text": "In a typical outpatient setting, the required indoor CO2 is < 620 ppm with no mask, ~ 1000 ppm with a surgical mask and ~16000 ppm with an N95. In a typical inpatient setting, the required indoor CO2 is < below 540 ppm with no mask, ~ 770 ppm with a surgical mask, and ~ 8200 ppm with an N95.",
+			"Twitter": "https://twitter.com/Iamgoingtosleep/status/1668554424048910336",
+			"Category": [
+				"Air monitoring",
+				"Masks",
+				"Japan"
 			]
 		}
 	]
