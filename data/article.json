@@ -2470,7 +2470,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.3389/fmicb.2023.1192832",
 			"Date": "2023-05-22",
-			"Text": "Investigated were autopsy materials obtained from 21 cadaveric donors with documented first infection or reinfection at the time of death. All tissues analyzed showed the presence of SARS-CoV-2 genomic RNA but at dissimilar levels ranging from 1.01 × 102 copies/mL to 1.14 × 108 copies/mL, even among those cases who had been COVID-19 vaccinated. Importantly, different amounts of replication-competent virus were detected in the culture media from the studied tissues. The highest viral load were measured in the lung (≈1.4 × 106 copies/mL) and heart (≈1.9 × 106 copies/mL) samples. Additionally, based on partial Spike gene sequences, SARS-CoV-2 characterization revealed the presence of multiple Omicron sub-variants exhibiting a high level of nucleotide and amino acid identity among them.",
+			"Text": "Investigated were autopsy materials obtained from 21 cadaveric donors with documented first infection or reinfection at the time of death. All tissues analyzed showed the presence of SARS-CoV-2 genomic RNA but at dissimilar levels ranging from 1.01 × 10<sup>2</sup> copies/mL to 1.14 × 10<sup>8</sup> copies/mL, even among those cases who had been COVID-19 vaccinated. Importantly, different amounts of replication-competent virus were detected in the culture media from the studied tissues. The highest viral load were measured in the lung (≈1.4 × 10<sup>6</sup> copies/mL) and heart (≈1.9 × 10<sup>6</sup> copies/mL) samples. Additionally, based on partial Spike gene sequences, SARS-CoV-2 characterization revealed the presence of multiple Omicron sub-variants exhibiting a high level of nucleotide and amino acid identity among them.",
 			"Twitter": "https://twitter.com/Aguirre1Gustavo/status/1661007800812863489",
 			"Category": [
 				"Omicron",
@@ -2783,6 +2783,108 @@
 				"Vaccination",
 				"Long COVID",
 				"France"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2023.1216211",
+			"Date": "2023-06-21",
+			"Text": "Mendelian randomization and meta-analyses indicated that COVID-19 was causally associated with increased risk for calculus of the lower urinary tract (OR: 1.2984 per doubling in odds of COVID‐19, 95% CI: 1.0752–1.5680, p = 0.007) and sexual dysfunction (OR: 1.0931, 95% CI: 1.0292–1.1610, p = 0.004). Intriguingly, COVID-19 might exert a slight causal protective effect on the progression of urinary tract infections (UTIs) and bladder cancer (BLCA).",
+			"Twitter": "https://twitter.com/vipintukur/status/1671733661656571906",
+			"Category": [
+				"Reproductive health",
+				"Positive effect",
+				"China"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.laheal.2023.05.001",
+			"Date": "2023-06-22",
+			"Text": "The language skills of 110 adults who reported experiencing Long COVID. Among these individuals, 99 adults reported significant cognitive-linguistic difficulties as part of their ongoing COVID symptoms.",
+			"Twitter": "https://twitter.com/CoronaHeadsUp/status/1672354615621189632",
+			"Category": [
+				"Brain",
+				"Long COVID",
+				"China"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jama.2023.8674",
+			"Date": "2023-05-22",
+			"Text": "The incidence rate of type 1 diabetes was 29.9 (95% binomial CI, 27.7-32.2; 705 cases) per 100 000 person-years between January 2020 and December 2021 vs 19.5 (95% CI, 17.8-21.4; 460 cases) between January 2018 and December 2019 (P < .001). The incidence rate of type 1 diabetes during the pandemic was 28.5 (95% CI, 26.3-30.9; 620 cases) per 100 000 person-years in the absence of a preceding or concurrent COVID-19 diagnosis. In comparison, the incidence rate of type 1 diabetes was 55.2 (95% CI, 37.1-81.5; 27 cases) per 100 000 person-years in the same quarter as the COVID-19 diagnosis (P < .001 vs COVID-19 negative). The incidence rate was 38.8 (95% CI, 25.6-58.1; 25 cases) in the next 2 quarters (P = .16) and 50.7 (95% CI, 34.3-74.4; 28 cases) in later quarters (6-15 months after COVID-19 infection; P = .004). The age- and sex-adjusted hazard ratio for type 1 diabetes development in 2020-2021 was 1.57 (95% CI, 1.32-1.88; P < .001) with any COVID-19 diagnosis and 1.69 (95% CI, 1.31-2.18; P < .001) when only virus-confirmed cases were considered.",
+			"Twitter": "https://twitter.com/ChristosArgyrop/status/1672636157174374400",
+			"Category": [
+				"Diabetes",
+				"Massive study",
+				"Kids",
+				"Germany"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.05.19.541367",
+			"Date": "2023-05-22",
+			"Text": "SARS-CoV-2 viruses are accumulating protein-coding changes at substantially faster rates than endemic viruses.",
+			"Twitter": "https://twitter.com/ejustin46/status/1660870394625048576",
+			"Category": [
+				"Antibodies",
+				"Reinfection",
+				"Preprint",
+				"United States"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ymthe.2023.05.004",
+			"Date": "2023-08-02",
+			"Text": "Removal of the furin cleavage site from SARS-CoV-2 live attenuated virus is a promising strategy to increase vaccine safety and prevent vaccine transmission without compromising vaccine efficacy.",
+			"Twitter": "https://twitter.com/MeetJess/status/1673124245008703488",
+			"Category": [
+				"Vaccination",
+				"Germany"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fmed.2023.1208181",
+			"Date": "2023-06-29",
+			"Text": "Saliva samples from two cohorts for IgG against human adenovirus (HAdV) were tested: patients with ME/CFS (n = 84) and healthy controls (n = 94), with either mild/asymptomatic SARS-CoV-2 infection or no infection. A significantly elevated anti-HAdV IgG response after SARS-CoV-2 infection was detected exclusively in the patient cohort. Longitudinal/time analysis, before and after COVID-19, in the very same individuals confirmed HAdV IgG elevation after. In plasma there was no HAdV IgG elevation. COVID-19 may have triggered reactivation of dormant HAdV in the oral mucosa of chronic fatigue patients indicating an exhausted dysfunctional antiviral immune response in ME/CFS, allowing reactivation of adenovirus upon stress encounter such as COVID-19.",
+			"Twitter": "https://twitter.com/ejustin46/status/1674541044459794439",
+			"Category": [
+				"Viral persistence",
+				"Long COVID",
+				"Sweden"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2022.101783",
+			"Date": "2023-01-10",
+			"Text": "Between January 1st, 2020 and December 31st, 2021, 3,814,479 participants were included in the study (888,463 cases and 2,926,016 controls). After matching, the COVID-19 cohort exhibited significantly higher risks of rheumatoid arthritis (aHR:2.98, 95% CI:2.78–3.20), ankylosing spondylitis (aHR:3.21, 95% CI:2.50–4.13), systemic lupus erythematosus (aHR:2.99, 95% CI:2.68–3.34), dermatopolymyositis (aHR:1.96, 95% CI:1.47–2.61), systemic sclerosis (aHR:2.58, 95% CI:2.02–3.28), Sjögren's syndrome (aHR:2.62, 95% CI:2.29–3.00), mixed connective tissue disease (aHR:3.14, 95% CI:2.26–4.36), Behçet's disease (aHR:2.32, 95% CI:1.38–3.89), polymyalgia rheumatica (aHR:2.90, 95% CI:2.36–3.57), vasculitis (aHR:1.96, 95% CI:1.74–2.20), psoriasis (aHR:2.91, 95% CI:2.67–3.17), inflammatory bowel disease (aHR:1.78, 95%CI:1.72–1.84), celiac disease (aHR:2.68, 95% CI:2.51–2.85), type 1 diabetes mellitus (aHR:2.68, 95%CI:2.51–2.85) and mortality (aHR:1.20, 95% CI:1.16–1.24).",
+			"Twitter": "https://twitter.com/TactNowInfo/status/1674649770780946432",
+			"Category": [
+				"Gastrointestinal",
+				"Eye",
+				"Massive study",
+				"United STates",
+				"Taiwan"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/infdis/jiad230",
+			"Date": "2023-06-27",
+			"Text": "🐹Although natural infection induced effective antiviral immunity, breakthrough infections in hamsters with BQ.1.1 and XBB.1 Omicron subvariants after receiving the 3-dose mRNA-lipid nanoparticle vaccine resulted in only faintly induced humoral immunity, supporting the possibility of imprinted immunity.",
+			"Twitter": "https://twitter.com/vipintukur/status/1674667292515524614",
+			"Category": [
+				"Reinfection",
+				"Natural immunity",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamapsychiatry.2023.1321",
+			"Date": "2023-05-31",
+			"Text": " In this case-control study, TSPO V<sub>T</sub> was higher in patients with COVID-DC. Greater TSPO V<sub>T</sub> is evidence for an inflammatory change of elevated gliosis in the brain of an individual with COVID-DC. Gliosis may be consequent to inflammation, injury, or both, particularly in the ventral striatum and dorsal putamen, which may explain some persistent depressive and cognitive symptoms, including slowed motor speed, low motivation or energy, and anhedonia, after initially mild to moderate COVID-19 illness.",
+			"Twitter": "https://twitter.com/joshfink429/status/1674761713990737920",
+			"Category": [
+				"Brain",
+				"Long COVID",
+				"Canada"
 			]
 		}
 	]
