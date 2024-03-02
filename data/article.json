@@ -1159,7 +1159,7 @@
 			]
 		},
 		{
-			"ArticleURL": "https://doi.org/10.1101/2023.03.03.23286775",
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-41941-z",
 			"Date": "2023-03-06",
 			"Text": "The results of 94,812 SARS-CoV-2 PCR tests collected longitudinally from >3,000 players, staff, and affiliates of the NBA over the course of the pandemic were analysed. Relative to first infections, second infections usually featured a lower peak viral concentration and faster clearance time, especially in individuals who received a vaccine dose between their first and second infection. Furthermore, a person’s relative (rank-order) viral clearance time, compared to others infected with the same variant, was similar across first and second infections; that is, individuals who had a relatively fast clearance time in their first infection tended to also have a relatively fast clearance time in their second infection.",
 			"Twitter": "https://x.com/StephenKissler/status/1633165723743965185",
@@ -2942,6 +2942,44 @@
 				"Long COVID",
 				"Immune response",
 				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3233/ADR-220090",
+			"Date": "2023-02-14",
+			"Text": " COVID-19 causes severe neurological complications in people with dementia. COVID-19 appears to accelerate disease progression in all types of dementia. Specifically, the worsening was seen in attention (p = 0.019), memory (p < 0.001), fluency (p = 0.006), language (p < 0.001), and visuospatial (p < 0.001) domains. Executive functions assessed by the Clock-Drawing test (p = 0.021) and the Trail-Making Test Part B (p = 0.016) also deteriorated significantly. There were a significant increase of periventricular white matter (p = 0.002) and deep white matter hyperintensities (p = 0.001), and global cortical atrophy (p = 0.025) on neuroimaging following COVID-19 infection in the follow-up period.",
+			"Twitter": "https://twitter.com/angel_leigh/status/1677096600668184578",
+			"Category": [
+				"Brain",
+				"Parkinson",
+				"India",
+				"Spain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/infdis/jiad260",
+			"Date": "2023-07-07",
+			"Text": "Persons showing both antibody and T-cell responses had the lowest risk of mortality or ICU admission suggesting that dual contribution of humoral and cellular immunity is important to prevent against disease progression.",
+			"Twitter": "https://twitter.com/vipintukur/status/1677643934967926796",
+			"Category": [
+				"Omicron",
+				"Immune response",
+				"T cells",
+				"Vaccination",
+				"Antibodies",
+				"Spain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.virs.2023.06.011",
+			"Date": "2023-08-10",
+			"Text": "The SARS-CoV-2-specific T cell response's magnitude and breadth were correlated inversely with the time that had elapsed from disease onset and age. The mean magnitude of SARS-CoV-2-specific CD4 and CD8 T cell responses decreased about 82% and 76%, respectively, over the time period of ten months after infection. SARS-CoV-2-specific T cell responses waned significantly in 75% of convalescent individuals during the follow-up.",
+			"Twitter": "https://twitter.com/fitterhappierAJ/status/1677613742157176832",
+			"Category": [
+				"T cells",
+				"Reinfection",
+				"China",
+				"Germany"
 			]
 		}
 	]
