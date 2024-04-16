@@ -2981,6 +2981,28 @@
 				"China",
 				"Germany"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.7326/M20-1176",
+			"Date": "2020-04-17",
+			"Text": "Ocular fluids from SARS-CoV-2-infected patients may contain infectious virus, and hence may be a potential source of infection.",
+			"Twitter": "https://x.com/ABsteward/status/1251270868593971201",
+			"Category": [
+				"Eye",
+				"Italy"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.2139/ssrn.4479598",
+			"Date": "2023-06-19",
+			"Text": "Compared with COVID-19-recovered and uninfected controls, respectively, subjects with long COVID were more likely to show thickening and hyperechogenic vagus nerve in neck ultrasounds (mean ± SD left vagus nerve cross-sectional area: 2.4 ± 0.97mm2 vs. 2 ± 0.52mm2 vs. 1.9 ± 0.73 mm2, p=0.080), flattened diaphragmatic curve (47% vs 6% vs 14%, p=0.007), reduced esophageal peristalsis (34% vs 0% vs 21%, p=0.020), gastroesophageal reflux (34% vs 19% vs 7%, p=0.130), hiatal hernia (25% vs 0% vs 7%, p=0.050) and reduced maximal inspiratory pressure in functional respiratory tests (62% vs. 6% vs. 17%, p ≤0.001).",
+			"Twitter": "https://x.com/loscharlos/status/1680818479140831232",
+			"Category": [
+				"Long COVID",
+				"Nerves",
+				"Spain",
+				"United States"
+			]
 		}
 	]
 }
