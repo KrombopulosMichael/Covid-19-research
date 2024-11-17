@@ -3003,6 +3003,88 @@
 				"Spain",
 				"United States"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-024-47720-8",
+			"Date": "2024-04-17",
+			"Text": "Improvement of immune dysregulation and health-related quality of life in individuals with long COVID at 24-months following SARS-CoV-2 infection.",
+			"Twitter": "https://x.com/ChristosArgyrop/status/1696606403417309621",
+			"Category": [
+				"Long COVID",
+				"Immune response",
+				"Reinfection",
+				"T cells",
+				"Australia"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.11.01.24316555",
+			"Date": "2024-11-04",
+			"Text": "Brain blood clots in small study were full of amyloids. Harmful amyloids are various misfolded proteins with certain chemical & structural characteristics that also make them tough & prone to tangle together. Prions are also among amyloids.",
+			"Twitter": "https://x.com/dbkell/status/1853509945263829447",
+			"Category": [
+				"Endothelium",
+				"United Kingdom",
+				"South Africa",
+				"Denmark"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-024-46497-0",
+			"Date": "2024-03-11",
+			"Text": "The risk of an arterial thrombotic event, e.g. heart attack or stroke, on day zero of COVID infection was; 73x higher for vaccinated people, and 255x higher for unvaccinated.",
+			"Twitter": "https://x.com/BlakeMMurdoch/status/1852368534829212063",
+			"Category": [
+				"Massive study",
+				"United Kingdom",
+				"Myocarditis"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12943-024-02153-1",
+			"Date": "2024-11-06",
+			"Text": "SARS-CoV-2 infection can inhibit the growth and spread of certain solid tumors, including colon and kidney cancers. The key mechanism involves the SARS-CoV-2 nucleocapsid (N) protein, which can interact with a protein called YBX1.",
+			"Twitter": "https://x.com/ejustin46/status/1856561646342144335",
+			"Category": [
+				"Positive effects",
+				"China",
+				"Nucleocapsid"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.04.13.24305771",
+			"Date": "2024-04-16",
+			"Text": "Having a prior Post-acute sequelae of COVID-19 (PASC) increases the chances of having more PASC in subsequent infections.",
+			"Twitter": "https://x.com/RadCentrism/status/1856335429668073702",
+			"Category": [
+				"Long COVID",
+				"United States",
+				"Reinfection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41380-024-02822-z",
+			"Date": "2024-11-09",
+			"Text": "Maternal COVID-19 infection is associated with offspring neurodevelopmental disorders",
+			"Twitter": "https://x.com/DrEricDing/status/1856121385996693946",
+			"Category": [
+				"Newborns",
+				"Vaccination",
+				"China"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s10072-024-07854-5",
+			"Date": "2024-11-09",
+			"Text": "Long COVID can come with neuroinvasiveness, neurotropism and neurovirulence; persistent systemic inflammation and cytokine storm; prolonged neuroinflammation; blood-brain barrier disruption; generation of autoantibodies; microvasculitis; prolonged endothelial dysfunction, platelet activation, and enhanced thrombin generation; silent hypoxia and associated issues; dysregulated levels of neurotransmitters like serotonin and dopamine; amyloid aggregation; tau phosphorylation; protein misfolding; neuronal death; changes in grey matter volume; prolonged immunological dysfunction; dysregulation of the cholinergic system; chronic alteration of the extended autonomic system including neuroendocrine and neuroimmune systems; altered gut-brain axis functioning; and post-traumatic stress disorder, increased amygdala and hippocampal activity.",
+			"Twitter": "https://x.com/Yash25571056/status/1855194645074153727",
+			"Category": [
+				"Review",
+				"Long COVID",
+				"United Kingdom",
+				"India",
+				"China"
+			]
 		}
 	]
 }
