@@ -2624,7 +2624,7 @@
 			"Category": [
 				"SARS-CoV-2 mechanics",
 				"Germany",
-				"USA",
+				"United States",
 				"Brain"
 			]
 		},
@@ -3084,6 +3084,102 @@
 				"United Kingdom",
 				"India",
 				"China"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmjpo-2023-002410",
+			"Date": "2024-12-09",
+			"Text": "Hepatitis is a known complication of multisystem inflammatory syndrome in children following COVID-19, and SARS-CoV-2 has been linked to increased susceptibility to infection post-COVID-19, which may suggest complex causal pathways including a possible interaction with adeno-associated virus 2 (AAV-2) infection/reactivation in hosts that are genetically susceptible or sensitised to infection. Based on the Bradford Hill criteria and modelling, human adenovirus (HAdv) alone is unlikely to be the cause of the recent increase in hepatitis in children. The causal link between SARS-CoV-2, and to a lesser degree AAV-2, appears substantially stronger but remains unproven.",
+			"Twitter": "https://x.com/Globalbiosec/status/1866550694137958683",
+			"Category": [
+				"Cross-reactivity",
+				"Kids",
+				"Review",
+				"Australia",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-021-92068-4",
+			"Date": "2021-06-21",
+			"Text": "Findings suggest the pancreatic adenocarcinoma as the most possible malignancy occurring after sever infection with SARS-CoV family.",
+			"Twitter": "https://x.com/Amal4Solutions/status/1864724319177245096",
+			"Category": [
+				"Iran",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2415119121",
+			"Date": "2024-12-02",
+			"Text": "Using single-cell genomics it is shown that T cells in myalgic encephalomyelitis/chronic fatigue syndrome (ME) cases are epigenetically predisposed toward terminal exhaustion and that exhaustion markers are upregulated following exercise challenge.",
+			"Twitter": "https://x.com/EricTopol/status/1863686430431535478",
+			"Category": [
+				"Viral persistence",
+				"T cells",
+				"United States"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.chom.2024.11.007",
+			"Date": "2024-08-26",
+			"Text": "SARS-CoV-2 spike protein persists in the skull-meninges-brain axis in COVID-19 patients. Spike protein is sufficient to induce brain pathological and behavioral changes in mice. Spike protein enhances brain vulnerability and exacerbates neurological damage in mice. mRNA vaccines reduce, but do not eliminate, the spike burden",
+			"Twitter": "https://x.com/internetuserf12/status/1862552434029068502",
+			"Category": [
+				"Viral persistence",
+				"Brain",
+				"Long COVID",
+				"SARS-CoV-2 mechanics",
+				"Germany",
+				"China",
+				"United States",
+				"Denmark",
+				"Turkey"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.11.26.624714",
+			"Date": "DATE",
+			"Text": "This study identifies a region in the SARS-CoV-2 S2 spike protein with sequence homology to bacterial super-antigens (termed P3).",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1862131545831825901",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Canada"
+			]
+		},
+		{
+			"ArticleURL": "https://ici.radio-canada.ca/nouvelle/2116352/covid-longue-sras-cov2-pandemie-risque",
+			"Date": "2024-10-30",
+			"Text": "Risk of long COVID reaches 37% after three infections, according to INSPQ. The risk of long COVID is estimated at: 13% after infection; 23% during a second infection; 37% during a third infection.",
+			"Twitter": "https://x.com/dlingenfelter/status/1861185898437845502",
+			"Category": [
+				"Long COVID",
+				"Mild infection",
+				"Canada"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1080/15321819.2024.2429538",
+			"Date": "2024-11-17",
+			"Text": "Receptors like ACE2 and neuropilin-1 allow the virus to enter cells. Differences in these receptors due to genetics, age can impact infection risk",
+			"Twitter": "https://x.com/ejustin46/status/1858753266969878743",
+			"Category": [
+				"Susceptibility",
+				"Review",
+				"Egypt"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12883-024-03959-8",
+			"Date": "2024-09-11",
+			"Text": "Long COVID patients reported persistent cognitive symptoms such as memory problems and brain fog, with higher levels of fatigue and reduced quality of life compared to controls. Despite subjective cognitive complaints, cognitive tests did not reveal significant differences between groups, except for the TMT-A (p = 0.05). MRI analysis revealed decreased volume in the cerebellum (p = 0.03), lingual gyrus (p = 0.04), and inferior parietal regions (p = 0.03), and reduced cortical thickness in several areas, including the left and right postcentral gyri (p = 0.02, p = 0.03) and precuneus (p = 0.01, p = 0.02).",
+			"Twitter": "https://x.com/Yash25571056/status/1858656092789895422",
+			"Category": [
+				"Brain",
+				"Long COVID",
+				"Argentina",
+				"United States"
 			]
 		}
 	]
