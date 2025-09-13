@@ -312,13 +312,15 @@
 			]
 		},
 		{
-			"ArticleURL": "https://doi.org/10.1101/2022.08.31.505985",
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-40228-7",
 			"Date": "2022-08-31",
-			"Text": "🐁 Neuroinvasion and anosmia are independent phenomena upon infection with SARS-CoV-2 and its variants.",
+			"Text": "🐁 Neuroinvasion and anosmia are independent phenomena upon infection with SARS-CoV-2 and its variants. All strains and variants tested (Wuhan, Gamma, Delta, Omicron/BA.1, and the ORF7ab‐deleted mutant) showed ability to infect (or at least presence of virus) in the olfactory bulbs. Viral titers and RNA loads in olfactory bulbs were above detection for all groups. Evidence supports the olfactory pathway (sensory neurons in nose → olfactory epithelium → olfactory bulb neurons) as a route for brain invasion. No strong evidence was found for infection spreading via blood vessels or widespread brain infection beyond olfactory bulbs in this model. Retrograde and anterograde movement along axons was observed in in vitro neuron-epithelial systems. The original Wuhan strain caused the most severe clinical signs (e.g. weight loss), followed by Gamma, then Delta, and Omicron/BA.1 caused the mildest signs. Wuhan strain: high rate of full anosmia (complete loss) in many animals. Gamma: fewer full anosmia, but many animals had impaired smell. Delta & Omicron/BA.1: no detectable olfactory deficits in the behavioral test used – they did not lose smell. Removing ORF7ab from the Wuhan strain reduced incidence of anosmia: only ~25% of animals with ORF7-deleted virus showed anosmia vs ~62.5% with wild-type Wuhan. However, deletion of ORF7ab did not reduce neuroinvasion: virus still reached olfactory bulbs, etc.",
 			"Twitter": "https://x.com/RolandBakerIII/status/1565375837955694592",
 			"Category": [
 				"Brain",
-				"Preprint"
+				"Nose",
+				"France",
+				"Switzerland"
 			]
 		},
 		{
@@ -1944,13 +1946,14 @@
 		{
 			"ArticleURL": "https://doi.org/10.1101/2022.12.03.519007",
 			"Date": "2022-12-07",
-			"Text": "Post-acute sequelae of COVID-19 (PASC) is not well explored. A stronger, SARS-CoV-2 reactive CD8+ T cell response, characterized by IFNγ production and predominant TEMRA phenotype but low SARS-CoV-2 avidity was detected in PASC patients...persistent inflammatory response...might be responsible for the observed sequelae",
+			"Text": "Post-acute sequelae of COVID-19 (PASC) is not well explored. A stronger, SARS-CoV-2 reactive CD8+ T cell response, characterized by IFNγ production and predominant TEMRA phenotype but low SARS-CoV-2 avidity was detected in PASC patients...persistent inflammatory response...might be responsible for the observed sequelae.",
 			"Twitter": "https://x.com/RadCentrism/status/1641188989716828165",
 			"Category": [
 				"Viral persistence",
 				"T cells",
 				"Immune response",
-				"Preprint"
+				"Preprint",
+				"Germany"
 			]
 		},
 		{
@@ -3248,6 +3251,28 @@
 				"Reinfection",
 				"France",
 				"Vietnam"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bbi.2023.11.028",
+			"Date": "2023-12-13",
+			"Text": "Long COVID with cognitive impairment is associated with abnormal cortical thickening in cognition-related brain areas and elevated inflammatory markers (IL-10, IFNγ, sTREM2), suggesting neuroinflammation-driven brain changes that may underpin cognitive symptoms. Long COVID patients had lower MoCA scores than both control groups (mean 25.9 vs 27.2–28.0). Elevated IL-10, IFNγ, and sTREM2 in long-COVID with cognitive impairment, no consistent increases in classical pro-inflammatory cytokines (IL-6, TNFα). sTREM2 increase suggests microglial activation and neuronal injury, similar to early Alzheimer’s disease.",
+			"Twitter": "https://x.com/vipintukur/status/1683312467496280064",
+			"Category": [
+				"Brain",
+				"Germany",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.07.27.23293177",
+			"Date": "2023-07-31",
+			"Text": "There is evidence that viral RNA may persist in certain tissues for a long time after COVID-19 infection (up to nearly two years in some cases). This is associated with ongoing immune activation (particularly T cells) in various body regions. T cell activation doesn’t only occur in people with Long COVID symptoms. Certain tissues (gut wall, spinal cord) show stronger association with symptoms. That suggests some, but not all, of the immune activation may contribute to symptom persistence. The study investigated long-term tissue-level immune activation and viral persistence in people after SARS-CoV-2 infection, including in those with Long COVID symptoms. It uses imaging and tissue biopsies to look for evidence that virus or immune activation might linger long after acute infection. 24 people who had had COVID-19, imaged at times ranging 27 to 910 days after acute infection. Some had Long COVID symptoms, some didn’t. PET imaging using a tracer called [^18F]F-AraG, which specifically marks activated T lymphocytes. That allows anatomical quantification of T cell activation in various tissues. For a subset of Long COVID participants, colorectal tissue biopsies (rectosigmoid) were examined for presence of SARS-CoV-2 RNA via in situ hybridization, and via immunohistochemistry. Blood plasma protein profiling showed that people with more Long COVID symptoms (>5) and higher tissue uptake had elevated markers of immune activation/inflammation. In biopsied colorectal (rectosigmoid) tissue from a subset of Long COVID participants, SARS-CoV-2 RNA (spike gene) was detected in lamina propria cells. The period after infection ranged from ~158 to ~676 days. In spinal cord and gut wall in particular, the degree of T cell activation was associated with presence of Long COVID symptoms. Elevated activation in a variety of tissues, even long after infection (up to ~2.5 years). T cell activation (measured by PET tracer uptake) was higher in the post-acute COVID group compared to controls in many anatomical sites: brainstem, spinal cord, gut wall, bone marrow, hilar lymphoid tissue, cardiopulmonary tissue, nasopharyngeal tissue, etc. ",
+			"Twitter": "https://x.com/Yash25571056/status/1686365268225011712",
+			"Category": [
+				"Preprint",
+				"USA",
+				"Long COVID"
 			]
 		}
 	]
