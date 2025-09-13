@@ -246,11 +246,13 @@
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.cell.2022.06.008",
-			"Date": "2022-06-07",
-			"Text": "Mild respiratory infection with SARS-CoV-2 can result in persistent neuro-inflammatory changes and consequent dysregulation of neural cell types important for healthy cognitive function.",
+			"Date": "2022-06-12",
+			"Text": "🐁Respiratory COVID impairs hippocampal neurogenesis, causes prominent neuroinflammation including persistent loss of oligodendrocytes and myelinated axons.",
 			"Twitter": "https://x.com/michelle_monje/status/1536262549502676996",
 			"Category": [
+				"USA",
 				"Brain",
+				"Nerves",
 				"Mild infection"
 			]
 		},
@@ -1264,7 +1266,8 @@
 				"Kids",
 				"Newborns",
 				"Viral persistence",
-				"Transmission"
+				"Transmission",
+				"Autoimmunity"
 			]
 		},
 		{
@@ -1333,7 +1336,8 @@
 			"Category": [
 				"Antibodies",
 				"Vaccination",
-				"Myocarditis"
+				"Myocarditis",
+				"Autoimmunity"
 			]
 		},
 		{
@@ -2139,7 +2143,8 @@
 			"Category": [
 				"Preprint",
 				"Antibodies",
-				"Mild infection"
+				"Mild infection",
+				"Autoimmunity"
 			]
 		},
 		{
@@ -2150,7 +2155,8 @@
 			"Category": [
 				"Review",
 				"Antibodies",
-				"Mild infection"
+				"Mild infection",
+				"Autoimmunity"
 			]
 		},
 		{
@@ -2862,7 +2868,8 @@
 				"Eye",
 				"Massive study",
 				"United States",
-				"Taiwan"
+				"Taiwan",
+				"Autoimmunity"
 			]
 		},
 		{
@@ -3180,6 +3187,67 @@
 				"Long COVID",
 				"Argentina",
 				"United States"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.4269/ajtmh.17-0042",
+			"Date": "2017-12-04",
+			"Text": "Ivermectin doesn't kill the virus. It doesn't even kill the adult parasite it targets. It only paralyzes the larvae so its a protracted treatment. And because its a neurologic, IVM can cause brain damage. In as little as 15mg dose, IVM can cause stroke-like symptoms.",
+			"Twitter": "https://x.com/RTheatheist/status/1466869642178166784",
+			"Category": [
+				"Ivermectin",
+				"Treatment",
+				"Sweden"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2217119120",
+			"Date": "2023-05-15",
+			"Text": " SARS-CoV-2 causes hyperglycemia directly, regardless of corticoid use, stress due to hospitalization, body weight and diabetes. SARS-CoV-2 infection was independently associated with hyperglycemia, regardless of diabetic history and beta cell function. SARS-CoV-2 infects and replicates in hepatocytes. Infected hepatocytes increase glucose production and this is associated with induction of phosphoenolpyruvate carboxykinase activity (a rate-limiting enzyme for hepatic glucose production through gluconeogenesis).",
+			"Twitter": "https://x.com/vipintukur/status/1682090195594915840",
+			"Category": [
+				"Brazil",
+				"Liver",
+				"SARS-CoV-2 mechanics",
+				"Diabetes"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1542/peds.2022-060351",
+			"Date": "DATE",
+			"Text": "The 31 studies included 15,000 children, and researchers recorded more than 20 persistent symptoms. 16.2% (95% confidence interval [CI], 8.5% to 28.6%) of the pediatric participants experienced 1 or more persistent symptoms at least 3 months post COVID-19. Symptoms included fatigue, depression, sleep disturbance, cough, throat pain, and gastrointestinal symptoms. The three most common persistent symptoms seen in the studies were sore throat with a pooled estimate of 14.8% (95% CI, 4.8% to 37.5%); persistent fever, with an estimate of 10.9 (95% CI, 2.4% to 38.2%); and sleep disturbance, with an estimate of 10.3% (95% CI, 4.9% to 20.4%).",
+			"Twitter": "https://x.com/CIDRAP/status/1682463666069811202",
+			"Category": [
+				"Kids",
+				"Long COVID",
+				"Canada",
+				"China",
+				"Netherlands",
+				"Review",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2023.102086",
+			"Date": "2023-07-21",
+			"Text": "Individuals who had been infected with COVID-19 and had symptoms lasting ≥ 12 weeks showed lower accuracy on cognitive tasks compared to uninfected individuals. Those with shorter symptom duration (<12 weeks) or who had recovered to their own satisfaction did not show significant deficits compared to uninfected groups. The deficit in accuracy for those with ≥12 weeks of symptoms was not trivial: it's comparable to the cognitive effect of being hospitalized during COVID, or having moderate psychological distress, or being ~10 years older in age. Reaction time (speed) was not significantly affected overall. In longitudinal follow-up (≈ 9-month follow-up after initial testing), those with long symptom duration or ongoing symptoms generally showed little recovery in cognitive accuracy deficits. The deficits persisted at almost two years after infection in some individuals. Among participants who reported that they had recovered / felt back to normal after their COVID illness, no detectable deficits in cognitive accuracy were observed compared to uninfected people.",
+			"Twitter": "https://x.com/JeremyFarrar/status/1682438410873479176",
+			"Category": [
+				"United Kingdom",
+				"Brain",
+				"Mild infection",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/v15040967",
+			"Date": "2023-04-14",
+			"Text": "The prevalence of hospitalization tended to be higher during the first infection than the second infection. But transfer to the ICU tended to be lower during the first infection (0.71%, 7/984) than the second infection (1.52%, 15/984). No clear evidence of different clinical patterns between primary and second infection were found.",
+			"Twitter": "https://x.com/ejustin46/status/1648524148518576131",
+			"Category": [
+				"Reinfection",
+				"France",
+				"Vietnam"
 			]
 		}
 	]
