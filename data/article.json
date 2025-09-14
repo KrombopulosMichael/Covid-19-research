@@ -2645,7 +2645,8 @@
 			"Twitter": "https://x.com/Aguirre1Gustavo/status/1666859920237506569",
 			"Category": [
 				"Brain",
-				"Australia"
+				"Australia",
+				"Finland"
 			]
 		},
 		{
@@ -3150,7 +3151,7 @@
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1101/2024.11.26.624714",
-			"Date": "DATE",
+			"Date": "2024-12-04",
 			"Text": "This study identifies a region in the SARS-CoV-2 S2 spike protein with sequence homology to bacterial super-antigens (termed P3).",
 			"Twitter": "https://x.com/fitterhappierAJ/status/1862131545831825901",
 			"Category": [
@@ -3218,7 +3219,7 @@
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1542/peds.2022-060351",
-			"Date": "DATE",
+			"Date": "2023-07-21",
 			"Text": "The 31 studies included 15,000 children, and researchers recorded more than 20 persistent symptoms. 16.2% (95% confidence interval [CI], 8.5% to 28.6%) of the pediatric participants experienced 1 or more persistent symptoms at least 3 months post COVID-19. Symptoms included fatigue, depression, sleep disturbance, cough, throat pain, and gastrointestinal symptoms. The three most common persistent symptoms seen in the studies were sore throat with a pooled estimate of 14.8% (95% CI, 4.8% to 37.5%); persistent fever, with an estimate of 10.9 (95% CI, 2.4% to 38.2%); and sleep disturbance, with an estimate of 10.3% (95% CI, 4.9% to 20.4%).",
 			"Twitter": "https://x.com/CIDRAP/status/1682463666069811202",
 			"Category": [
@@ -3355,6 +3356,89 @@
 				"Reinfection",
 				"Hybrid immunity",
 				"Canada"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1056/EVIDoa2300046",
+			"Date": "2023-07-20",
+			"Text": "Researchers analyzed biopsies of fungiform papillae—the taste structures on the tongue in 16 individuals with long-term taste loss compared to pre-pandemic and never-infected controls. Using microscopy, immunofluorescence, and RNA in situ hybridization, they found SARS-CoV-2 proteins (spike and nucleocapsid) in the epithelial layers and lamina propria of the papillae. In several cases, negative-strand RNA was also detected, indicating active viral replication in taste tissue up to 40 weeks after infection. The infected papillae showed disrupted taste bud architecture, with missing or misshapen buds and a loss of neurite fibers that normally connect to sensory nerves. Patients with partial recovery over time displayed regrowth of nerve fibers and restoration of papilla structure, while viral protein clearance appeared patchy across the tongue. These findings provide strong evidence that long-term taste dysfunction in COVID-19 is linked to local viral persistence and structural damage rather than solely systemic inflammation. The results underscore that some Long COVID symptoms may stem from direct viral reservoirs in sensory tissues, highlighting the importance of exploring antiviral and regenerative strategies for treatment.",
+			"Twitter": "https://x.com/NIHAging/status/1695067301391810784",
+			"Category": [
+				"Viral persistence",
+				"Tongue",
+				"Oral",
+				"SARS-CoV-2 mechanics",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.lanepe.2023.100724",
+			"Date": "2023-09-04",
+			"Text": "Over two years, most of the 341 people who developed long COVID in a cohort of 548 COVID-19 survivors did not fully recover: only ~8% recovered in the first 24 months. Risk of developing long COVID was higher in females, those with lower education, and those who experienced symptoms like fatigue, headache, tachycardia, respiratory issues, or neurocognitive complaints during acute infection. Certain factors (ICU stay, smell/taste loss, cardiovascular problems) increased odds of recovery, while muscle pain, attention impairment, and breathing or heart rate problems reduced it. Long COVID is not uniform but clusters into subtypes: patients in the “less complex” fatigue-dominated cluster had much better recovery odds than those with more symptoms.",
+			"Twitter": "https://x.com/loscharlos/status/1699115262543638662",
+			"Category": [
+				"Spain",
+				"Long COVID",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41590-023-01601-2",
+			"Date": "2023-09-18",
+			"Text": "Multiple studies reviewed by Proal et al. identify SARS-CoV-2 RNA or proteins in gut mucosa, skin, olfactory tissues, and other organs from months up to over a year post-infection—even when PCR tests from the respiratory tract are negative. Immune system readouts in these patients often show signs of ongoing activation: broadened or elevated T cell responses, presence of viral protein in plasma or extracellular vesicles, sometimes immune exhaustion markers.",
+			"Twitter": "https://x.com/microbeminded2/status/1698719941472498013",
+			"Category": [
+				"USA",
+				"Sweden",
+				"South Africa",
+				"United Kingdom",
+				"Long COVID",
+				"Review",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-021-03491-6",
+			"Date": "2021-04-07",
+			"Text": "SARS-CoV-2 spike protein triggers infected cells (especially in lung tissue) to fuse into syncytia, which may worsen disease by damaging tissue structure and function. By screening over 3,000 already approved drugs, they found 83 compounds that block spike-driven cell fusion, many of which also reduce viral replication and protect cells in culture. Among these, niclosamide stood out as effective by dampening calcium oscillations and interfering with TMEM16F activity. TMEM16 (ion channel / scramblase) proteins play a central role in syncytium formation by facilitating exposure of phosphatidylserine on cell surfaces.",
+			"Twitter": "https://x.com/ELHopkins/status/1700431623575982161",
+			"Category": [
+				"Treatment",
+				"SARS-CoV-2 mechanics",
+				"United Kingdom",
+				"Italy"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/biom13091338",
+			"Date": "2023-09-01",
+			"Text": "SARS-CoV-2 infection typically induces strong IgG1 and IgG3 antibody responses, which are good at neutralization, activating complement, and stimulating inflammation. However, in some severe COVID-19 cases, elevated levels of IgG4 have been observed—a subclass of antibodies known for reduced inflammatory activity and poor complement activation. Rubio-Casillas et al. propose that the virus may induce IgG4 synthesis as a strategy to reduce immune pressure and promote immune tolerance, perhaps allowing residual viral antigen or infection to persist.",
+			"Twitter": "https://x.com/CharlesRixey/status/1700890299311272101",
+			"Category": [
+				"Immune response",
+				"Antibodies",
+				"SARS-CoV-2 mechanics",
+				"Review",
+				"USA",
+				"Mexico",
+				"Saudi Arabia",
+				"Egypt"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-022-35638-y",
+			"Date": "2022-12-26",
+			"Text": "Children who recover from SARS-CoV-2 infection generate strong and lasting immune responses focused on the viral Spike protein. These responses do not just disappear: over months, many maintain both antibodies and T cell reactivity. Crucially, the antibodies and T cells are not only specific to the infecting strain, but often cross-react with newer variants’ spike proteins—though with reduced strength for more divergent variants.",
+			"Twitter": "https://x.com/WesElyMD/status/1610257204090896385",
+			"Category": [
+				"United Kingdom",
+				"France",
+				"Immune response",
+				"Antibodies",
+				"T cells",
+				"Kids",
+				"Natural immunity",
+				"Cross-reactivity"
 			]
 		}
 	]
