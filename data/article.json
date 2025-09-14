@@ -1758,7 +1758,8 @@
 			"Twitter": "https://x.com/emcat1/status/1478055879220080644",
 			"Category": [
 				"SARS-CoV-2 mechanics",
-				"Omicron"
+				"Omicron",
+				"United Kingdom"
 			]
 		},
 		{
@@ -3273,6 +3274,87 @@
 				"Preprint",
 				"USA",
 				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41398-024-03108-2",
+			"Date": "2023-07-23",
+			"Text": "Sample: 13 COVID-positive cases and 27 control participants; mean age ~24 years, age range 13-25. All participants had baseline (pre-COVID) MRI (structural + resting-state functional MRI) and cognitive testing, and then follow-up after some got infected. Cognitive test used: spatial working memory from the CANTAB battery. Analyses: Volumetric_Δ: change in cortical/subcortical volumes pre→post COVID vs controls. Eigenvector Centrality_Δ (ECΔ): change in centrality in various brain regions (a measure from functional connectivity / network analysis) pre→post COVID vs controls. Decline in volume of the left hippocampus in COVID-positive group vs controls (Volumetric_Δ significantly different; p ≈ 0.041). In particular, reduced EC_Δ in the left amygdala was observed in the COVID+ group. COVID+ participants showed reduced performance in spatial working memory compared to controls post-infection. Importantly, the reduction in connectivity (EC_Δ) in the left amygdala mediated the relationship between having had COVID-19 and poorer spatial working memory. These effects were observed even though infections were mild and in young people; suggesting that even mild COVID-19 may lead to lasting structural/functional brain changes and modest cognitive changes.",
+			"Twitter": "https://x.com/outbreakupdates/status/1686483441880104960",
+			"Category": [
+				"Brain",
+				"Long COVID",
+				"Mild infection",
+				"Kids",
+				"USA",
+				"Italy",
+				"Germany"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.7554/eLife.84790",
+			"Date": "2023-01-11",
+			"Text": "SARS-CoV-2 RNA (including antisense strand, indicating active replication) was detected in CD4⁺ T cells that had been exposed ex vivo. Also, in samples from COVID-19 patients, CD4⁺ T cells (but not CD8⁺ T cells) from peripheral blood carried viral RNA; similarly, in bronchoalveolar lavage (lung fluid) of severe patients, a small percentage of CD4⁺ T cells had SARS-CoV-2 RNA. Molecular modeling (docking + molecular dynamics simulations) suggested that the Spike RBD of SARS-CoV-2 can bind to the N-terminal domain (NTD) of CD4, in a region that overlaps the ACE2 binding domain. The interaction was confirmed by co-immunoprecipitation: Spike protein and CD4 physically bind in assays. Infection of CD4⁺ T cells altered their function: some effects on gene expression (immune response genes) and possibly exhaustion or changes that could affect helper T cell function. (E.g. suppression of cytokine production, modulation of immune activation.). Proportion of CD4⁺ T cells infected in vivo appears small; it’s not yet clear how much direct infection contributes vs other causes of T cell depletion or dysfunction.",
+			"Twitter": "https://x.com/KyleMcnease/status/1688679887995912192",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"T cells",
+				"Lungs",
+				"Viral persistence",
+				"Brazil",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2666-5247(23)00115-5",
+			"Date": "2023-06-26",
+			"Text": "Discuss findings from autopsy, biopsy, surgical specimens, and studies of children with acute infection, multisystem inflammatory syndrome (MIS-C), long COVID, etc. Children can have SARS-CoV-2 RNA or antigens remaining in various tissues (not only in the respiratory tract) for weeks to months after infection. This occurs independent of disease severity, meaning even kids with mild illness sometimes show evidence of persistence. There are reports of systemic spread in children (i.e., presence in organs/tissues beyond the nose/throat) in some autopsy / biopsy cases. ",
+			"Twitter": "https://x.com/ejustin46/status/1673528715693703169",
+			"Category": [
+				"Review",
+				"Kids",
+				"Mild infection",
+				"Viral persistence",
+				"United Kingdom",
+				"Italy"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ebiom.2023.104729",
+			"Date": "2023-07-12",
+			"Text": "Peripheral blood mononuclear cells (PBMCs) from Long COVID patients show elevated expression and activity of indoleamine 2,3-dioxygenase-2 (IDO2) (vs infected non-Long COVID and controls). In brain tissue (from the two autopsy cases), IDO2 is also expressed long after infection. Long COVID PBMCs show reduced mitochondrial function (lower respiration / spare capacity). Lower intracellular amino acids, and lower levels of metabolites of the Krebs (TCA) cycle. Increased signs of autophagy, and signs of apoptosis in some cases. The degradation products of tryptophan (kynurenine metabolites) are altered: specific patterns correlate with severity/symptomology. The enzyme IDO2 seems to be a driver of these changes. Ex vivo, using an AHR (aryl hydrocarbon receptor) antagonist reduces IDO2 expression and reduces autophagy in PBMCs. Brain tissue sample is very limited (only two Long COVID autopsy cases), so generalizability for brain findings is uncertain.",
+			"Twitter": "https://x.com/miketweetchap/status/1689561101074116608",
+			"Category": [
+				"Long COVID",
+				"Brain",
+				"Treatment",
+				"Netherlands"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cell.2022.01.018",
+			"Date": "2022-03-17",
+			"Text": "After mRNA vaccination, germinal centre (GC) B cells specific to SARS-CoV-2 spike persist for many months. The lymph node (LN) aspirates showed robust spike-specific GC activity even weeks after vaccination. This supports durable maturation of the antibody response. Antibodies elicited by vaccination do neutralize multiple variants, but (unsurprisingly) neutralization is lower for more antigenically divergent variants. Prior infection + vaccination (“hybrid” immunity) generally gives broader and stronger neutralization compared to vaccination alone. Evidence of “immune imprinting” (sometimes called “original antigenic sin” in other viral systems) was observed.",
+			"Twitter": "https://x.com/ScottBoydLab/status/1694247077998653533",
+			"Category": [
+				"B cells",
+				"Vaccination",
+				"Antibodies",
+				"Hybrid immunity",
+				"USA",
+				"Mongolia"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2023.102148",
+			"Date": "2023-08-21",
+			"Text": "Having had a prior Omicron infection (BA.1/BA.2) was associated with higher risk of reinfection with Omicron (likely BA.5) during this period, especially in the 9–29 days after the first Omicron infection. The hazard ratio for reinfection was very high in that early window. Those who got reinfected had lower neutralizing antibody titres (for both ancestral strain and Omicron BA.1), and lower anti-RBD IgG and IgA antibodies after their initial Omicron infection, compared to those who did not get reinfected. Time since last vaccine dose, age, sex, frailty, and number of facility outbreaks were not significantly associated with reinfection risk in the group already with prior Omicron infection. Some different vaccine brand combinations (mRNA-1273 vs BNT162b2) showed small signals of different risk, but overall hybrid immunity in this older cohort was quite heterogeneous. The study investigated 750 older adults (residents of long-term care and retirement homes) who were highly vaccinated (four doses of monovalent mRNA vaccine) to see how well hybrid immunity (vaccine + infection) protects against reinfection, particularly with Omicron subvariants. In a subset of 318 of these residents, immunologic assays were done (antibody levels, neutralization, T cell memory) in the three months before that observation period.",
+			"Twitter": "https://x.com/ccleighton/status/1693616179561054613",
+			"Category": [
+				"Vaccination",
+				"Reinfection",
+				"Hybrid immunity",
+				"Canada"
 			]
 		}
 	]
