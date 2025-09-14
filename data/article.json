@@ -3431,6 +3431,88 @@
 				"Natural immunity",
 				"Cross-reactivity"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s13073-023-01227-x",
+			"Date": "2023-09-12",
+			"Text": "After SARS-CoV-2 infection, circulating immune cells (T, B, NK cells, monocytes) show altered gene expression that persists well into the post-acute period. Many genes involved in inflammation (especially NF-κB, AP-1, TNF pathways) are upregulated, including genes that are normally regulated in an anti-inflammatory direction under low-dose IL-2 therapy. These pro-inflammatory shifts are detectable for at least 2 months after symptom onset, and in some cases up to 3-4 months. The pattern is distinct from what is seen in influenza or sepsis, suggesting a COVID-specific immune perturbation.",
+			"Twitter": "https://x.com/ejustin46/status/1702522259229831401",
+			"Category": [
+				"Immune response",
+				"Long COVID",
+				"T cells",
+				"B cells",
+				"SARS-CoV-2 mechanics",
+				"United Kingdom",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.09.10.23295343",
+			"Date": "2023-09-12",
+			"Text": "Many individuals who recover from COVID-19 experience persistent neurological symptoms well beyond the acute phase, according to this survey study. Symptoms such as headaches, dizziness, memory or concentration difficulties (“brain fog”), and sensory disturbances are common, and can persist for many months. The study finds that even those with initially mild COVID-19, or who are relatively young, report such long-term neurological sequelae, though risks are higher among those who had more severe acute illness.",
+			"Twitter": "https://x.com/ejustin46/status/1702677031387902047",
+			"Category": [
+				"USA",
+				"Preprint",
+				"Long COVID",
+				"Brain",
+				"Mild infection",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.08.06.23293706",
+			"Date": "2023-08-09",
+			"Text": "In a largely triple-vaccinated adult population infected with the SARS-CoV-2 Omicron variant in Western Australia, approximately 18% reported new or ongoing symptoms consistent with Long COVID three months after infection. Fatigue and problems with concentration were the most commonly reported symptoms in this study by the Western Australia Department of Health. Individuals at higher risk included women, middle-aged adults (50-69), those with pre-existing health conditions, people living in rural/remote areas, and those with fewer vaccine doses. Nearly one in five people who had been working or studying before their infection cut back or stopped these activities.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1702753094126236079",
+			"Category": [
+				"Preprint",
+				"Long COVID",
+				"Vaccination",
+				"Omicron",
+				"Self-reported",
+				"Susceptibility",
+				"Australia"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cell.2023.07.019",
+			"Date": "2023-08-18",
+			"Text": "Severe SARS-CoV-2 infection leads to lasting epigenetic reprogramming in hematopoietic stem and progenitor cells (HSPCs), detectable up to a year after acute illness. These changes include altered chromatin accessibility favoring inflammatory gene programs and increased myelopoiesis. The amplified epigenetic “memory” gets transmitted to downstream innate immune cells (e.g., monocytes), which display hyper-responsive inflammatory behavior even months later. early high levels of IL-6 during infection contribute to establishing this epigenetic memory, and blocking IL-6 signaling in a mouse model mitigates some of the persistent immune reprogramming. These findings suggest that long-term immune alterations after COVID-19 aren’t just in mature immune cells but are rooted at the stem/progenitor level.",
+			"Twitter": "https://x.com/NIH/status/1692589066964066684",
+			"Category": [
+				"USA",
+				"Netherlands",
+				"Immune response",
+				"Long COVID",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/clc.23886",
+			"Date": "2022-07-19",
+			"Text": "In a group of patients evaluated on average 5.5 months after SARS-CoV-2 infection, researchers found biopsy-proven chronic myocarditis in the heart tissue, including persistent viral RNA (virus presence), ongoing inflammation, and elevated levels of anti-heart autoantibodies. Endomyocardial biopsies confirmed inflammation and viral persistence well beyond the acute phase, even in patients without prior cardiac disease.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1607764205016317955",
+			"Category": [
+				"Myocarditis",
+				"Viral persistence",
+				"Long COVID",
+				"Russia"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/jrh.12796",
+			"Date": "2023-09-16",
+			"Text": "In a predominantly Latino, low-education, farmworker population in California, nearly 62% of those who had had a SARS-CoV-2 infection (suspected or confirmed) reported at least one symptom persisting beyond 28 days—meeting a standard operational definition of long COVID. These lingering symptoms (fatigue, dyspnea, smell/taste disturbance) were associated with markers of inflammation (higher CRP), higher BMI, and poorer mental & physical health metrics compared to non-infected or short-symptom individuals.",
+			"Twitter": "https://x.com/julierehmeyer/status/1703790201628500098",
+			"Category": [
+				"Long COVID",
+				"Immune response",
+				"Self-reported",
+				"Mild infection",
+				"USA"
+			]
 		}
 	]
 }
