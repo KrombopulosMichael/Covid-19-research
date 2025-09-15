@@ -3623,6 +3623,138 @@
 				"Self-reported",
 				"USA"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1128/jvi.02202-13",
+			"Date": "2014-01-15",
+			"Text": "Two host proteases, TMPRSS2 and ADAM17, both cleave the ACE2 receptor, but only TMPRSS2’s action increases Spike-mediated viral entry in cell culture. TMPRSS2 cleaves ACE2 in a way that augments virus uptake, while ADAM17's cleavage results in shedding of soluble ACE2, which doesn’t facilitate entry.",
+			"Twitter": "https://x.com/LongDesertTrain/status/1708301438642729378",
+			"Category": [
+				"Germany",
+				"SARS-CoV-2 mechanics",
+				"Treatment",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-38867-x",
+			"Date": "2023-06-03",
+			"Text": "In an immunocompromised individual with prolonged Omicron BA.1 infection, SARS-CoV-2 evolved into a novel sub-lineage (BA.1.23) over several weeks, accumulating key spike mutations associated with immune escape. This evolved variant was subsequently transmitted to at least three other patients, some of whom also developed persistent infection, demonstrating that evolution in one host can produce a transmissible, immune-evasive lineage. The study also documents minority viral variants (miSNVs) that later become fixed or appear in onward-transmitted cases, showing intrahost variation as a pool for adaptation. BA.1.23 exhibits substantially reduced neutralization by sera from boosted vaccination or previous BA.1 infection, more so than BA.1 itself.",
+			"Twitter": "https://x.com/ejustin46/status/1708372227610095806",
+			"Category": [
+				"Viral persistence",
+				"Reinfection",
+				"Antibodies",
+				"Natural immunity",
+				"Omicron",
+				"Colombia",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2023.101884",
+			"Date": "2023-02-27",
+			"Text": "Eighteen years after surviving SARS, many of the former patients still experience lasting health problems: persistent fatigue, reduced lung function, bone issues (osteoporosis, hip necrosis), and structural lung lesions on CT imaging. While emotional and mental health appear largely recovered, physical and social functioning lag behind that of matched controls. Functional measures, such as respiratory capacity and hip joint performance, remain impaired though somewhat improved compared to earlier follow-ups. At the molecular level, the SARS survivors show long-term abnormalities in metabolism (amino acids, lipids), increased activity of immune pathways (especially B cells, cytotoxic CD8+ T cells), and decreased function in antigen presentation by CD4+ T cells.",
+			"Twitter": "https://x.com/ahandvanish/status/1640111606410489862",
+			"Category": [
+				"China",
+				"Long COVID",
+				"Immune response",
+				"Lungs",
+				"Natural immunity",
+				"Self-reported",
+				"T cells",
+				"B cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cell.2023.08.044",
+			"Date": "2023-09-29",
+			"Text": "Infants infected with SARS-CoV-2 (Omicron or earlier variants) develop robust and long-lived antibody immunity, with (unlike in many adult studies) antibody levels showing no decay for nearly a year (≈300 days) after infection. Their immune reactions in nasal mucosa activate antiviral and interferon pathways early, while systemic inflammation is muted. These findings contrast with adult immune dynamics, where antibodies often wane more quickly and systemic cytokine responses are larger.",
+			"Twitter": "https://x.com/BrodinPetter/status/1708793819649421615",
+			"Category": [
+				"Germany",
+				"USA",
+				"Kids",
+				"Immune response",
+				"Antibodies",
+				"Natural immunity",
+				"Cross-reactivity",
+				"Mild infection",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fncel.2023.1125109",
+			"Date": "2023-03-14",
+			"Text": "SARS-CoV-2 infection can disrupt the blood–brain barrier (BBB). Mechanisms include inflammation, endothelial injury, and cytokine-driven permeability increases that allow viral particles, immune cells, and inflammatory molecules to cross into the brain.",
+			"Twitter": "https://x.com/outbreakupdates/status/1708545070452875674",
+			"Category": [
+				"Mexico",
+				"Review",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Endothelium",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.7759/cureus.46126",
+			"Date": "2023-09-28",
+			"Text": "A pilot study in Central India compared young athletes aged 20–30 who had recovered from COVID-19 with those never infected. The post-COVID group had significantly lower VO₂ max and higher resting heart and respiratory rates, indicating reduced cardiorespiratory fitness despite clinical recovery.",
+			"Twitter": "https://x.com/outbreakupdates/status/1709870194514866480",
+			"Category": [
+				"India",
+				"Lungs",
+				"Muscle",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cid/ciad582",
+			"Date": "2023-09-28",
+			"Text": "In this study of symptomatic adults during the Omicron era, researchers found that SARS-CoV-2 viral loads typically peak 4–5 days after symptom onset, rather than at onset as observed early in the pandemic. As a result, rapid antigen tests are much less sensitive in the first two days of symptoms (30–60%) but reach over 80% sensitivity by day 4. In comparison, influenza A viral loads peaked earlier, on day 2, matching pre-pandemic expectations.",
+			"Twitter": "https://x.com/PaulSaxMD/status/1710605695953858737",
+			"Category": [
+				"USA",
+				"Omicron",
+				"Mild infection",
+				"Self-reported",
+				"Susceptibility",
+				"Influenza",
+				"Reinfection",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ajem.2023.09.051",
+			"Date": "2023-11-08",
+			"Text": "Three previously healthy adults with severe long COVID, suffering from disabling fatigue, cognitive impairment, and exercise intolerance for months after infection each received the casirivimab/imdevimab monoclonal antibody cocktail (against spike protein SARS-CoV-2), leading to rapid, complete remission of all symptoms within one week. The recovery was confirmed by family members and sustained for at least two years.",
+			"Twitter": "https://x.com/healingfromlc/status/1710572243749609535",
+			"Category": [
+				"Long COVID",
+				"Viral persistence",
+				"Brain",
+				"Muscle",
+				"Self-reported",
+				"Antibodies",
+				"Treatment",
+				"Monoclonal antibodies",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12985-023-02191-z",
+			"Date": "2023-10-16",
+			"Text": "This cohort study of 248 hospitalized COVID-19 patients found that a subset developed autoantibodies, particularly anti-phospholipid antibodies (16.5%) and, less frequently, antinuclear antibodies (2%). Many of these antibodies persisted for months (e.g., 69% of IgM anti-β2-GPI remained positive), suggesting a durable autoimmune response triggered by SARS-CoV-2 infection. While most autoantibody-positive patients did not experience worse outcomes, IgG anticardiolipin positivity was associated with more severe clinical trajectories.",
+			"Twitter": "https://x.com/outbreakupdates/status/1714448975980326981",
+			"Category": [
+				"Long COVID",
+				"Autoimmunity",
+				"Antibodies",
+				"Massive study",
+				"Korea"
+			]
 		}
 	]
 }
