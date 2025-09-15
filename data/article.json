@@ -3600,6 +3600,29 @@
 				"Myocarditis",
 				"USA"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s44161-023-00336-5",
+			"Date": "2023-09-28",
+			"Text": "Researchers analyzed autopsy samples from COVID-19 patients and used advanced imaging and RNA assays (RNAscope, including antisense strand detection) to locate viral RNA in coronary plaques. They found SARS-CoV-2 viral RNA, including replicative (antisense) strands, in macrophages within coronary plaques in all examined cases. Plaques with foam cell macrophages (i.e. cholesterol-loaded macrophages) were especially prone to infection. Blocking the entry cofactor NRP-1 reduces infection, suggesting one mechanistic pathway. Infected macrophages and ex vivo plaque tissues mount a strong inflammatory response with release of key cytokines implicated in plaque instability and cardiovascular events.",
+			"Twitter": "https://x.com/calirunnerdoc/status/1707445677767446905",
+			"Category": [
+				"USA",
+				"Endothelium",
+				"Viral persistence",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.12659/AJCR.940564",
+			"Date": "2023-09-21",
+			"Text": "A previously healthy 62-year-old man developed rapidly progressive neurologic decline—dementia, movement abnormalities, myoclonus—concurrent with COVID-19 infection, with CSF positivity for 14-3-3 protein and no alternative explanations found. Clinical, imaging, and lab findings fulfilled criteria for probable prion disease, though MRI and EEG results were nonspecific. He deteriorated quickly and died within weeks.",
+			"Twitter": "https://x.com/LauraMiers/status/1707485718178598994",
+			"Category": [
+				"Brain",
+				"Self-reported",
+				"USA"
+			]
 		}
 	]
 }
