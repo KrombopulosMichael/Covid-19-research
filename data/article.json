@@ -3513,6 +3513,93 @@
 				"Mild infection",
 				"USA"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-024-51893-7",
+			"Date": "2024-08-29",
+			"Text": "A prospective cohort study monitoring 136 SARS-CoV-2-infected individuals from within days of diagnosis found that those who later reported persistent symptoms at 4 months (i.e., PASC/Long COVID) had higher early viral loads in nasal swabs, more prolonged infectious virus shedding, and higher plasma nucleocapsid antigen during acute infection than those who fully recovered. Also, they mounted a delayed Spike IgG antibody response compared to non-PASC participants in the early days of illness. Cytokine/inflammatory markers during acute infection did not clearly distinguish future PASC from recovery, suggesting that it’s the viral burden and the ability to mount early humoral responses that may drive long COVID risk.",
+			"Twitter": "https://x.com/inkblue01/status/1704854377339723944",
+			"Category": [
+				"Long COVID",
+				"Antibodies",
+				"Immune response",
+				"Mild infection",
+				"Viral persistence",
+				"USA",
+				"Mexico"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/diagnostics13182980",
+			"Date": "2023-09-18",
+			"Text": "Investigators analyzed sudden, unexplained deaths during the COVID-19 era by performing post-mortem molecular testing of tissue to detect SARS-CoV-2 RNA. They found that in some cases classified as unexplained, viral RNA was detectable, indicating that COVID-19 might have contributed to mortality in cases where it was not clinically identified.",
+			"Twitter": "https://x.com/BiologistBunk/status/1704984484494663858",
+			"Category": [
+				"Detection",
+				"Viral persistence",
+				"Poland"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41392-023-01459-8",
+			"Date": "2023-05-09",
+			"Text": "The SARS-CoV-2 nucleocapsid (N) protein suppresses apoptosis (cell death) by stabilizing the host anti-apoptotic protein MCL-1, via interaction with USP15 that removes K63-linked ubiquitin from MCL-1. This leads to protection of infected cells from the mitochondrial pro-apoptotic protein Bak, allowing infected cells to survive longer and enabling better viral replication. The effect is demonstrated in multiple cell types, lung organoids, and in mouse models. This anti-apoptotic mechanism isn’t unique to SARS-CoV-2: N protein expression enhances replication of other viral pathogens (IAV, DENV, ZIKV) in co-infection settings, while pharmacologic inhibition of MCL-1 diminishes this effect.",
+			"Twitter": "https://x.com/RealCheckMarker/status/1663154440235372545",
+			"Category": [
+				"China",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Treatment",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2213-2600(23)00262-X",
+			"Date": "2023-09-22",
+			"Text": "About five months after hospitalisation for moderate to severe COVID-19, a majority (≈61%) of patients exhibit MRI evidence of abnormalities in at least two organs (lung, brain, kidney) compared to non-COVID controls (≈27%). The most notable findings include parenchymal lung damage, white matter lesions and regional brain volume loss, and kidney changes such as altered MRI T1 and impaired corticomedullary differentiation. Heart and liver imaging did not show substantially increased abnormalities in COVID versus control groups. Patients more likely to have multiorgan MRI abnormalities tended to be older, with more comorbidities, and had more severe acute disease (e.g., elevated CRP).",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1705942075563270626",
+			"Category": [
+				"Brain",
+				"Lungs",
+				"Kidneys",
+				"Long COVID",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-023-06649-6",
+			"Date": "2023-09-25",
+			"Text": "After the rollout of molnupiravir in 2022, SARS-CoV-2 genome sequence databases show distinct mutational signatures (notably elevated G→A and C→T transitions) in certain long phylogenetic branches. These mutational patterns are highly consistent with those seen in clinical cases treated with molnupiravir, especially in specific nucleotide sequence contexts. The study links these long branches to molnupiravir usage by geography, patient age groups, and through matching the mutation spectra of treated vs untreated viruses.",
+			"Twitter": "https://x.com/theosanderson/status/1706327002154668430",
+			"Category": [
+				"Treatment",
+				"Molnupiravir",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s43856-021-00044-w",
+			"Date": "2021-10-29",
+			"Text": "COVID-19 can cause hearing loss, tinnitus, vertigo, and balance problems (“audiovestibular symptoms”) in some patients. This study shows that the inner ear’s hair cells and Schwann cells are biologically capable of SARS-CoV-2 infection: they express the receptor ACE2 and proteases (TMPRSS2, FURIN), and in tissue explants, organoids, and OPC models the virus infects hair cells.",
+			"Twitter": "https://x.com/TactNowInfo/status/1706514935553912968",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Ear",
+				"Nerves",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41541-023-00742-7",
+			"Date": "2023-09-27",
+			"Text": "This autopsy study created specific PCR tests to track where COVID-19 mRNA vaccines go in the body and for how long after injection. In people who died of other causes, vaccine mRNA was routinely detectable for up to 30 days in several tissues. In a subset, myocardial tissue also contained vaccine mRNA during that window; these samples more often showed healing injury and more macrophages than hearts without detectable vaccine mRNA.",
+			"Twitter": "https://x.com/Yash25571056/status/1707249627094028676",
+			"Category": [
+				"mRNA vaccine",
+				"Vaccination",
+				"Myocarditis",
+				"USA"
+			]
 		}
 	]
 }
