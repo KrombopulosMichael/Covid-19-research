@@ -3755,6 +3755,74 @@
 				"Massive study",
 				"Korea"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s42255-021-00347-1",
+			"Date": "2021-02-03",
+			"Text": "🧫Using human pancreatic tissue and cell models, researchers show that SARS-CoV-2 infects and replicates in both endocrine and exocrine pancreatic cells. In β cells, infection correlates with fewer insulin secretory granules and blunted insulin release in response to glucose, while exocrine cell infection points to wider pancreatic involvement. Infectious virus was recoverable, confirming productive replication in the pancreas.",
+			"Twitter": "https://x.com/ejustin46/status/1710699579698561383",
+			"Category": [
+				"Pancreas",
+				"Canada",
+				"Germany",
+				"Austria",
+				"SARS-CoV-2 mechanics",
+				"Gastrointestinal",
+				"Diabetes"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41590-023-01637-4",
+			"Date": "2023-10-23",
+			"Text": "Severe COVID-19 patients often exhibit gut fungal dysbiosis, particularly overgrowth of Candida albicans. This is associated with elevated antifungal antibodies, systemic neutrophilia, and lasting transcriptional changes in granulocyte progenitors, indicating durable immune reprogramming. These immune changes persisted for up to a year after recovery, suggesting that gut fungi act as long-term drivers of systemic inflammation.🐁In mouse models, Candida colonization exacerbated lung inflammation during SARS-CoV-2 infection, while antifungal therapy or IL-6 receptor blockade/tocilizumab mitigated these effects. Patients treated with tocilizumab also showed reduced antifungal antibodies and immune reprogramming.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1716705461053907437",
+			"Category": [
+				"Long COVID",
+				"Gastrointestinal",
+				"Endothelium",
+				"Treatment",
+				"Autoimmunity",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamainternmed.2023.5099",
+			"Date": "2023-10-23",
+			"Text": "In a large cohort of U.S. Medicare patients aged 65+, early outpatient treatment for COVID-19 with nirmatrelvir-ritonavir (Paxlovid) was associated with a modest but statistically significant reduction in the risk of developing post-COVID-19 condition (Long COVID) symptoms at 4-12 weeks after infection. The untreated group had a ~14.5% incidence of PCC; treatment with nirmatrelvir lowered that to ~11.8%, for an absolute risk reduction of ~2.7%. Molnupiravir also showed some benefit but smaller, with an absolute risk reduction of ~0.8%. Overall, among 3 975 690 outpatients with COVID-19, 57% remained in the study after exclusion. Among them, 19.5% received nirmatrelvir and 2.6% received molnupiravir.",
+			"Twitter": "https://x.com/arijitchakrav/status/1716939243191513205",
+			"Category": [
+				"Treatment",
+				"Long COVID",
+				"USA",
+				"Massive study",
+				"Paxlovid"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.21203/rs.3.rs-3486610/v1",
+			"Date": "2023-10-26",
+			"Text": "This methodological critique shows that mask trials/meta-analyses conflate infections occurring inside the study’s controlled setting with those acquired outside it, mathematically biasing effect estimates toward the null and yielding over-narrow confidence intervals. A simple correction using the fraction of outside infections (b) reveals that many “no difference” conclusions are uninformative: a wide range of true effects could produce observed risk ratios near 1 when b is large. Re-examining key datasets (including Loeb 2022) and the Cochrane review under this framework, the authors argue that N95s likely provide substantially greater protection than surgical masks, and that accounting for source control and two-way masking magnifies benefits. They also note that reported “adverse events” are mostly mild (discomfort, skin irritation, headaches).",
+			"Twitter": "https://x.com/yaneerbaryam/status/1717967507384885726",
+			"Category": [
+				"USA",
+				"Masks",
+				"Mitigation",
+				"Transmission",
+				"Review",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1128/JVI.00096-08",
+			"Date": "2008-03-26",
+			"Text": "This study shows that SARS-CoV can persistently replicate in human renal tubular epithelial cells, maintaining productive infection with limited cell damage. Over serial passages, the virus evolved, repeatedly selecting M-protein mutations that conferred a fitness advantage in kidney cells—evidence that intrahost/tissue microenvironments can shape coronavirus evolution. ",
+			"Twitter": "https://x.com/theAcidRoach/status/1379391605103341571",
+			"Category": [
+				"Italy",
+				"Viral persistence",
+				"Kidney",
+				"SARS-CoV-2 mechanics"
+			]
 		}
 	]
 }
