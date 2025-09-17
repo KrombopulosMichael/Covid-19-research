@@ -3823,6 +3823,21 @@
 				"Kidney",
 				"SARS-CoV-2 mechanics"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.07.27.23293177",
+			"Date": "2023-07-31",
+			"Text": "A May 2023 US survey of >41,000 adults found that 6% of adults had Long COVID at the time of the survey, 11% had ever had it, and 15% of those infected developed it. Symptoms typically persisted for ~9 months, with one in four cases lasting ≥1 year. Risk factors for Long COVID included female sex, lower household income, co-morbidities (especially diabetes, obesity, mental health conditions), and being unvaccinated. Vaccination and booster doses were associated with lower odds of Long COVID. The leading symptoms were fatigue, brain fog, breathing difficulties, and pain, often linked to reduced health and ability to work.",
+			"Twitter": "https://x.com/inkblue01/status/1720552092165693477",
+			"Category": [
+				"Long COVID",
+				"Preprint",
+				"Self-reported",
+				"Brain",
+				"Susceptibility",
+				"Massive study",
+				"USA"
+			]
 		}
 	]
 }
