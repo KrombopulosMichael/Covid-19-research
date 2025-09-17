@@ -3838,6 +3838,84 @@
 				"Massive study",
 				"USA"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41590-023-01661-4",
+			"Date": "2023-11-02",
+			"Text": "🐁In macaques, replication-competent SARS-CoV-2 was found in alveolar macrophages up to 18 months post-infection, revealing the lung as a long-term viral reservoir. Viral replication was controlled by interferon-γ (IFN-γ), mainly produced by NK cells and CD8+ T cells. However, in cases of viral persistence, NK cells displayed impaired IFN-γ secretion, weakening viral clearance. IFN-γ simultaneously limited viral replication but increased MHC-E expression on macrophages, which blocked NK cell-mediated killing, creating a double-edged effect. Some macaques overcame persistence by generating adaptive NK cells able to bypass MHC-E inhibition.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1720983458996998485",
+			"Category": [
+				"USA",
+				"France",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Lungs",
+				"Immune response",
+				"T cells",
+				"Nucleocapsid",
+				"NK cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jama.2022.5906",
+			"Date": "2022-05-02",
+			"Text": "Pregnant individuals infected with SARS-CoV-2 (6012 of them) have significantly higher risks of serious illness (hospitalization, ICU admission) compared to non-pregnant women of reproductive age also infected, especially for older mothers, those with hypertension or higher BMI, and when infection occurs later in gestation. The study found that preterm birth is markedly more common among SARS-CoV-2 positive pregnancies than among uninfected pregnancies, even if the infection was mild and not hospitalised. However, for other outcomes such as stillbirth, preeclampsia, and cesarean delivery, the differences were less pronounced or not statistically significant. Also, the data precede the Omicron wave, and almost all affected individuals were unvaccinated; vaccination (at least two doses) appeared protective, as none in that subgroup had adverse maternal outcomes in this cohort.",
+			"Twitter": "https://x.com/Bet_the_ChE/status/1721450104815525992",
+			"Category": [
+				"Canada",
+				"Reproductive health",
+				"Vaccination",
+				"Susceptibility",
+				"Newborns",
+				"Mild infection",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-021-03207-w",
+			"Date": "2021-01-18",
+			"Text": "Over the first six months following SARS-CoV-2 infection, the levels of circulating antibodies (especially IgM, IgG) and plasma neutralizing titers drop substantially. However, the immune system retains robust memory via RBD-specific memory B cells, which do not diminish in number and in fact evolve: they acquire more somatic hypermutation and greater neutralizing breadth and potency, even against some RBD mutations. This suggests that although antibody levels fall, the quality of the memory response improves over time. Additionally, antigen persistence in the gut appears to be present in 7 out of 14 individuals up to ~4 months post-infection. Such persistent antigen may help sustain germinal centre activity, driving the ongoing evolution of memory B cells.",
+			"Twitter": "https://x.com/inkblue01/status/1721869172466979173",
+			"Category": [
+				"Antibodies",
+				"Immune response",
+				"Viral persistence",
+				"B cells",
+				"Natural immunity",
+				"Cross-reactivity",
+				"Susceptibility",
+				"Mild infection",
+				"Switzerland",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciadv.adh7968",
+			"Date": "2023-10-12",
+			"Text": "Pilot human study using ^89Zr-labelled minibody tracers targeting CD8 to perform total-body PET imaging, coupled with kinetic modelling, to map where CD8⁺ T cells reside and move in both healthy individuals and convalescent COVID-19 patients. Imaging at about 2 months after infection shows elevated tracer uptake in the bone marrow of convalescent patients compared to controls, and follow-up at 4 months suggests this elevated bone marrow uptake remains or even increases. These imaging findings are mirrored by blood assays showing increased CD8+ T cell counts, more activation, and greater memory cell prevalence in the convalescent group.",
+			"Twitter": "https://x.com/bhanlon15/status/1721900280495952381",
+			"Category": [
+				"Immune response",
+				"T cells",
+				"Detection",
+				"Natural immunity",
+				"Lungs",
+				"Liver",
+				"Nose"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ajmo.2024.100076",
+			"Date": "2023-11-07",
+			"Text": "Using data from 276 essential workers who had cognitive testing both before and after SARS-CoV-2 infection, the researchers found that COVID-19 is associated with a decline in processing speed (cognitive throughput) exceeding what was observed among 217 uninfected individuals. This decline is substantial enough to be equivalent to a decade of aging in that domain. Those with persistent symptoms (Long COVID/PASC) or more severe initial illness show greater decline, indicating a dose-response or severity effect. Other cognitive domains (memory, executive function etc.) showed fewer strong or consistent changes. The findings imply that COVID-19 may have lasting cognitive effects even among individuals not hospitalized, especially if symptoms continue. Monitoring of cognitive health post-COVID may be important, especially for those with lingering symptoms.",
+			"Twitter": "https://x.com/vipintukur/status/1722082879407288669",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Mild infection",
+				"Susceptibility"
+			]
 		}
 	]
 }
