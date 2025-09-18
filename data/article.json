@@ -3901,6 +3901,8 @@
 				"Natural immunity",
 				"Lungs",
 				"Liver",
+				"United Kingdom",
+				"USA",
 				"Nose"
 			]
 		},
@@ -3915,6 +3917,131 @@
 				"Long COVID",
 				"Mild infection",
 				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-023-47539-1",
+			"Date": "2023-11-19",
+			"Text": "Long COVID (PACS) in non-hospitalized individuals around 18 months post-infection is associated with widespread dysregulation of molecular systems, spanning coagulation (hemostasis), metabolic processes, immune/inflammatory signalling, and vascular / angiogenic pathways. The degree of dysregulation is large: about 200 proteins out of 700 analysed were differentially expressed, most (over 90 %) upregulated, many altered cytokines, and significant perturbations in lipid mediators like sphingolipids. These changes suggest lingering disturbances in cardiovascular homeostasis, immune activation, microvascular / endothelial function, and metabolic balance. Although POTS (an autonomic dysfunction marked by orthostatic tachycardia) is commonly observed in some PACS patients and is clinically prominent, this study did not find a distinct molecular profile that separates PACS + POTS from PACS without POTS.",
+			"Twitter": "https://x.com/outbreakupdates/status/1726439212042367232",
+			"Category": [
+				"Long COVID",
+				"Immune response",
+				"Endothelium",
+				"Susceptibility",
+				"Detection",
+				"Mild infection",
+				"Sweden"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s43587-023-00519-6",
+			"Date": "2023-11-13",
+			"Text": "🧫Brain aging involves an accumulation of senescent cells that drive inflammation and transcriptomic “ageing” in human brain organoids. Applying senolytic drugs (dasatinib+quercetin, navitoclax/ABT-737) selectively clears senescent cells, dampens neuroinflammation, and shifts molecular aging clocks toward a younger profile.",
+			"Twitter": "https://x.com/bhanlon15/status/1727334980265914694",
+			"Category": [
+				"USA",
+				"Australia",
+				"Germany",
+				"Russia",
+				"Chile",
+				"United Kingdom",
+				"Brain",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-42726-0",
+			"Date": "2023-11-17",
+			"Text": "Using very large cohorts (over 850,000 first COVID-19 cases, 72,000+ reinfections, and more than 3 million negative-test controls) from Spain and the UK, this study finds that about one in five COVID-19 cases have at least one symptom lasting at least 3 months after infection. However, many people without COVID also have similarly persistent symptoms, meaning distinguishing Long COVID from background symptomatology in the general population is challenging. The study identifies altered smell/taste as the most specific symptom associated with COVID-19, consistently more common among COVID patients than matched negative controls. The risk of persistent symptoms is higher after reinfection than after first infection, and the overall burden of post-acute symptoms declined over time during the study period.",
+			"Twitter": "https://x.com/falsel_net/status/1728097237945688252",
+			"Category": [
+				"Netherlands",
+				"Spain",
+				"USA",
+				"United Kingdom",
+				"Massive study",
+				"Long COVID",
+				"Self-reported",
+				"Reinfection",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/qjmed/hcad262",
+			"Date": "2023-11-21",
+			"Text": "Early, proactive nasal and oral interventions during acute COVID-19 can prevent new-onset smell and taste loss. In this double-blind RCT (n=379), both a saline-only regimen and a regimen with budesonide nasal spray + chlorhexidine mouthwash cut the prevalence of olfactory/gustatory dysfunction by ~3–5× compared with no intervention and also reduced symptom severity.",
+			"Twitter": "https://x.com/inkblue01/status/1728394587830407646",
+			"Category": [
+				"China",
+				"Nose",
+				"Oral",
+				"Treatment",
+				"Mitigation",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-023-06651-y",
+			"Date": "2023-09-25",
+			"Text": "Klein et al. conducted a cross-sectional immune phenotyping study of ~275 individuals divided into three groups: those with Long COVID (LC) (persistent symptoms), convalescent COVID (recoveries without persistent symptoms, CC), and healthy controls without known infection. Individuals with Long COVID had higher antibody responses against SARS-CoV-2 antigens (especially Spike, S1, RBD) compared with convalescent people without persistent symptoms, even after accounting for vaccination status. They also showed elevated antibody reactivity against other viral pathogens, particularly Epstein-Barr virus antigens. Immune cell subset differences: LC group had higher levels of non-conventional monocytes (CD14^lowCD16^hi), lower levels of certain dendritic cell subsets (cDC1), elevated activated and double-negative B cell subsets. T-cell cytokine production upon stimulation (e.g., IL-2, IL-4, IL-6 from CD4+; some increase also in CD8+) was higher in LC vs controls. Lower cortisol levels also characterize the LC cohort. Autoantibody profiling found many private autoantigen (and GPCR) reactivities but no large difference in number of autoantibody types vs controls; no strong correlation with severity/symptom clusters.",
+			"Twitter": "https://x.com/ejustin46/status/1728631452537901151",
+			"Category": [
+				"Long COVID",
+				"Antibodies",
+				"Immune response",
+				"T cells",
+				"Viral persistence",
+				"Autoimmunity",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.11.26.568730",
+			"Date": "2023-12-06",
+			"Text": "A new monovalent mRNA booster targeting the XBB.1.5 spike protein induces strong neutralizing antibody responses in previously vaccinated individuals, including against a spectrum of SARS-CoV-2 Omicron subvariants. The booster increases both the potency and breadth of neutralization compared to pre-booster levels, demonstrating that updating vaccine antigen to match emerging variants can meaningfully improve cross-variant protection.",
+			"Twitter": "https://x.com/ejustin46/status/1729580872074985838",
+			"Category": [
+				"Omicron",
+				"Vaccination",
+				"Antibodies",
+				"Cross-reactivity",
+				"Natural immunity",
+				"Hybrid immunity",
+				"Preprint",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.xcrm.2023.101266",
+			"Date": "2023-11-08",
+			"Text": "Severe COVID-19 patients often show immune dysregulation not explained solely by ACE2-mediated infection. This study demonstrates that receptor for advanced glycation end products (RAGE) acts as an alternative receptor for SARS-CoV-2, enabling viral entry into monocytes, which normally lack ACE2. Single-cell analyses revealed that RAGE pathway activation is a robust marker of disease severity at admission, declining as patients recover. Direct binding of SARS-CoV-2 Spike RBD to RAGE was confirmed experimentally, and inhibition with small-molecule antagonists blocked monocyte infection. The authors also identify candidate therapeutics, including baricitinib and simvastatin, that may dampen RAGE-mediated immune responses.",
+			"Twitter": "https://x.com/Yash25571056/status/1730365081349914958",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"NK cells",
+				"Susceptibility",
+				"Treatment",
+				"Detection",
+				"Diabetes",
+				"Italy",
+				"China"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1080/1354750X.2020.1861099",
+			"Date": "2021-01-13",
+			"Text": "Comparing sRAGE levels in healthy controls, asymptomatic COVID-19 patients, and those with lung involvement, the study finds that asymptomatic individuals have elevated sRAGE relative to controls, while those with lung involvement have significantly reduced sRAGE, especially in older age. Inflammatory markers like CRP, ferritin, and fibrinogen are higher in lung-involved cases, reinforcing the link between inflammation, lung pathology, and disease severity. These results suggest that the soluble RAGE receptor may act in part as a protective “decoy” against maladaptive RAGE pathway activation in COVID-19, and that reductions in its level associate with worse lung disease.",
+			"Twitter": "https://x.com/allwillbelost/status/1730380085130371255",
+			"Category": [
+				"Lungs",
+				"Immune response",
+				"SARS-CoV-2 mechanics",
+				"Susceptibility",
+				"Turkey"
 			]
 		}
 	]
