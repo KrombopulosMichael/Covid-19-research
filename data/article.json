@@ -72,7 +72,8 @@
 			"Text": "In a large study with thousands of participants, vaccination did NOT reduce long COVID risks.",
 			"Twitter": "https://x.com/KunstJonas/status/1517394410719399937",
 			"Category": [
-				"Long COVID"
+				"Long COVID",
+				"United Kingdom"
 			]
 		},
 		{
@@ -4042,6 +4043,50 @@
 				"SARS-CoV-2 mechanics",
 				"Susceptibility",
 				"Turkey"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.12.03.23299331",
+			"Date": "2023-12-04",
+			"Text": "This study assessed whether people with Post-COVID Condition (PCC, aka Long COVID) exhibit generalized cognitive slowing, compared to people who had COVID but do not have long COVID symptoms (No-PCC), and people who never had COVID (No-COVID). The authors recruited ~270 PCC patients from two clinics in the UK and Germany, and used two web-based cognitive tasks: a Simple Reaction Time (SRT) task, and a more sustained attention task Number Vigilance Test (NVT). They also collected self-report measures of fatigue, depression, sleep quality. They found that PCC patients had substantially slowed reaction times even on the simple task: large delays vs both control groups, consistent across both clinic sites. In SRT, many PCC patients fell multiple standard deviations behind controls. On NVT (more demanding), PCC patients showed slower responses (~150–200 ms slower than both No-COVID and No-PCC controls) and less vigilance. The cognitive slowing was not strongly associated with depression or sleep disturbance (though those were elevated), suggesting that slowing is not entirely explained by mood or sleep problems.",
+			"Twitter": "https://x.com/outbreakupdates/status/1731851782861504667",
+			"Category": [
+				"Germany",
+				"United Kingdom",
+				"Long COVID",
+				"Brain",
+				"Self-reported",
+				"Mild infection",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2023.45626",
+			"Date": "2023-11-30",
+			"Text": "In men infected with the Omicron variant, early post-infection brain imaging reveals detectable structural changes: decreased gray matter thickness in the precuneus and lateral occipital cortex, along with reduced hippocampal volume ratio, relative to pre-infection baselines. A group of 98 male participants had brain MRIs and neuropsychiatric assessments before Omicron wave (“pre-Omicron baseline”), and 61 of them were re-evaluated in the acute/post-Omicron period (mean ~ a few weeks after infection). Some (~17) also had 3-month follow-ups. These neuroanatomical changes occur even though most participants had mild infection and were relatively young (mean age ~43), and follow-up at ~3 months indicates many systemic symptoms improve, but the brain structural differences persist. Clinically, these imaging changes are associated with detectable neuropsychiatric effects: heightened anxiety correlates with cortical thinning in the precuneus; cognitive tests like word fluency link with hippocampal volume. Left precuneus thickness: decreased by about 0.14 mm post-infection compared with pre-Omicron baseline. Right lateral occipital thickness: decreased by ~0.12 mm. Right hippocampus volume ratio (to total intracranial volume): decreased by ~0.02%. Correlations: thinner left precuneus correlated with higher anxiety scores (r ≈ –0.29); smaller right hippocampal ratio correlated with lower word fluency (r ≈ 0.25).",
+			"Twitter": "https://x.com/vipintukur/status/1732102703189279133",
+			"Category": [
+				"China",
+				"Omicron",
+				"Brain",
+				"Long COVID",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fcell.2023.1296986",
+			"Date": "2023-12-06",
+			"Text": "HIV-1 and SARS-CoV-2 differ in how they damage stem-progenitor cells but may share common downstream effects. HIV-1 infects CD4⁺ T cells and indirectly suppresses differentiation of CD34⁺ hematopoietic stem-progenitor cells (HSPCs), in part via altered secretion of miRNAs from infected T cells; this leads to impaired hematopoiesis. By contrast, SARS-CoV-2 directly infects CD133⁺ endothelial stem-progenitor cells (ESPCs) via ACE2, which then likely release miRNAs that dysregulate immune cells (e.g. CD4⁺ T lymphocytes) that themselves do not express ACE2, contributing to cytokine storms and immune dysfunction.",
+			"Twitter": "https://x.com/Yash25571056/status/1732279223413592418",
+			"Category": [
+				"USA",
+				"Endothelium",
+				"T cells",
+				"Immune response",
+				"SARS-CoV-2 mechanics",
+				"Antibodies",
+				"Viral persistence",
+				"Review"
 			]
 		}
 	]
