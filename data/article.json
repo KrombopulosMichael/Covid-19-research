@@ -518,7 +518,8 @@
 			"Twitter": "https://x.com/fitterhappierAJ/status/1599088361716580352",
 			"Category": [
 				"Immune response",
-				"T cells"
+				"T cells",
+				"India"
 			]
 		},
 		{
@@ -4381,6 +4382,48 @@
 				"Detection",
 				"Susceptibility",
 				"Italy"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.12.19.572363",
+			"Date": "2023-12-19",
+			"Text": "🧫The paper demonstrates that SARS-CoV-2 spike protein (and heat-inactivated virus) triggers robust mitochondrial and inflammatory responses in human microglial cells. Treated microglia show elevated cytokine and ACE2 expression, activation of HIF-1α and NLRP3 inflammasome, enhanced reactive oxygen species, and morphological changes such as mitochondrial fragmentation and signs of apoptosis. The spike protein alone is sufficient to perturb mitochondrial bioenergetics, raising both basal and maximal oxygen consumption rates.",
+			"Twitter": "https://x.com/ejustin46/status/1737677847601266776",
+			"Category": [
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Immune response",
+				"Preprint",
+				"Mitochondria",
+				"Lithuania"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s40478-024-01761-8",
+			"Date": "2024-05-03",
+			"Text": "COVID-19 is frequently associated with smell loss, which has led to speculation that SARS-CoV-2 might trigger inflammation or neurodegenerative changes in the olfactory pathway. To test this, the authors performed post-mortem immunohistochemical studies of the olfactory bulb and tract in 22 COVID-19 patients versus controls (healthy and those with known neurological and neurodegenerative conditions). They assessed microglial activation (via CD68) and presence of characteristic protein-pathologies (phosphorylated α-synuclein, phosphorylated tau, amyloid-β) particularly in the anterior olfactory nucleus (AON). They found that COVID-19 per se did not show a widespread, COVID-specific elevation in microglial activation or proteinopathy in the olfactory bulb/tract compared to healthy controls. Most increases in neurodegenerative markers (tau, α-synuclein) were observed in individuals already having known disease (e.g. Parkinson’s, Alzheimer’s). Also, age was inversely correlated with microglial activation in COVID-19 cases.",
+			"Twitter": "https://x.com/ejustin46/status/1737677166836380059",
+			"Category": [
+				"Switzerland",
+				"Germany",
+				"Canada",
+				"USA",
+				"Nose"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.56367/OAG-041-10397",
+			"Date": "2024-02-27",
+			"Text": "SARS-CoV-2 can invade the brain, especially targeting the hypothalamus, via both bloodstream and olfactory (nose-to-brain) routes, infecting neurons such as GnRH neurons and support cells such as tanycytes. Evidence includes detection of viral RNA and spike protein in brain tissues of deceased COVID-19 patients, hormonal profiles in male survivors showing low testosterone without expected gonadotropin feedback, and correlations of these hormonal disruptions with long COVID symptoms like brain fog, metabolic dysregulation, and perhaps sexual/reproductive issues.",
+			"Twitter": "https://x.com/ejustin46/status/1738060774403182726",
+			"Category": [
+				"France",
+				"Germany",
+				"Spain",
+				"Brain",
+				"Long COVID",
+				"Viral persistence"
 			]
 		}
 	]
