@@ -4088,6 +4088,156 @@
 				"Viral persistence",
 				"Review"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-023-48258-3",
+			"Date": "2023-12-06",
+			"Text": "From 1,547 records screened, 25 studies (total 29,213 participants) were included (search to 12 Feb 2023). The pooled incidence of any Long-COVID symptom was 48.6% (95% CI 37.4–59.8). Psychiatric conditions were most frequent, with PTSD ≈ 25% (95% CI 21.1–30.4). Older age (p = 0.027) and hospitalization during acute infection (p = 0.05) were associated with higher Long-COVID frequency. ",
+			"Twitter": "https://x.com/NateB_Panic/status/1732510084859564126",
+			"Category": [
+				"Long COVID",
+				"Italy",
+				"Mozambique",
+				"Uganda",
+				"Brain",
+				"Susceptibility",
+				"Review",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1080/09273972.2023.2278639",
+			"Date": "2023-12-05",
+			"Text": "In a cross-sectional OCT study of 56 people recovered from COVID-19 vs 40 controls, Poças et al. found thinning of ganglion-cell/retinal nerve fiber layers and thickening of the subfoveal choroid, indicating a non-glaucomatous neuropathy-like pattern plus vascular changes in the eye after infection.",
+			"Twitter": "https://x.com/vipintukur/status/1732769826962084296",
+			"Category": [
+				"Eye",
+				"Brain",
+				"Nerves",
+				"Long COVID",
+				"Detection",
+				"Portugal"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciimmunol.adh0687",
+			"Date": "2023-12-08",
+			"Text": "Vaccination added on top of previous COVID-19 infection meaningfully improves both the number and quality of spike-specific CD4⁺ and CD8⁺ T cells. The enhanced functionality includes increased cytokine production, polyfunctionality, and effector gene expression. Although markers commonly associated with inhibition or exhaustion (PD-1, TIM-3) are upregulated following vaccination, these do not appear to impair functionality, suggesting that hybrid immunity maintains robust effector potential rather than pushing T cells into dysfunction. In contrast, T cells targeting non-spike viral proteins do not receive a comparable boost from vaccination and instead tend to wane or stay the same over time.",
+			"Twitter": "https://x.com/SciImmunology/status/1733199867332173913",
+			"Category": [
+				"Sweden",
+				"United Kingdom",
+				"China",
+				"USA",
+				"Vaccination",
+				"Immune response",
+				"T cells",
+				"Hybrid immunity",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s40478-023-01662-2",
+			"Date": "2023-12-08",
+			"Text": "This study investigated skeletal muscle pathology in long COVID patients suffering from persistent fatigue, muscle weakness, and exercise intolerance. Biopsies revealed structural vascular changes, including fewer capillaries and thickened basement membranes, alongside immune alterations such as increased CD169⁺ macrophages and complement system activation. Viral RNA was absent, suggesting that symptoms are driven by immune-mediated and vascular sequelae rather than viral persistence. Transcriptomic profiling confirmed upregulation of immune and angiogenesis genes and downregulation of metabolic and mitochondrial pathways, while serum proteomics showed increased complement proteins.",
+			"Twitter": "https://x.com/dlingenfelter/status/1733708673586024481",
+			"Category": [
+				"Long COVID",
+				"Muscle",
+				"Immune response",
+				"Mitochondria",
+				"Pain",
+				"Endothelium",
+				"Germany"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/biomedicines10020382",
+			"Date": "2022-02-04",
+			"Text": "🧫Healthy human neutrophils exposed to SARS-CoV-2 or to supernatant from infected epithelial cells show dysfunctional degranulation: the release of the primary granule enzyme myeloperoxidase is reduced, while elastase release is variably affected, and there is increased shedding of the neutrophil surface CD16 receptor. These changes indicate that SARS-CoV-2 can directly—or through infected epithelia—modulate neutrophil function in ways that may compromise their capacity to respond appropriately. Furthermore, these modified neutrophils negatively affect lymphocyte populations when co-cultured or via their secreted products: there is measurable reduction in B cell, CD4+ T cell, and CD8+ T cell numbers.",
+			"Twitter": "https://x.com/TactNowInfo/status/1733693635994980538",
+			"Category": [
+				"USA",
+				"Immune response",
+				"SARS-CoV-2 mechanics",
+				"T cells",
+				"B cells",
+				"Neutrophils"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cell.2020.06.034",
+			"Date": "2020-08-06",
+			"Text": "🧫A time‐resolved, large‐scale view of how SARS-CoV-2 infection reshapes host cell signaling by measuring phosphorylation and protein abundance changes in infected cells showed activation of CK2 and p38 MAPK signaling, suppression of mitotic kinases (which leads to cell cycle arrest), and cytoskeletal changes such as the formation of filopodia bearing viral particles. The infection also induced cytokine responses, suggesting the virus triggers innate immune signaling along with hijacking of host cell machinery. By integrating the phosphoproteomics data with drug‐kinase interaction maps, the authors identified several kinases whose inhibition (e.g. of CK2, p38, CDKs, AXL, PIKFYVE) reduced virus replication in vitro",
+			"Twitter": "https://x.com/ejustin46/status/1733870564295561563",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Viral persistence",
+				"Treatment",
+				"USA",
+				"United Kingdom",
+				"France",
+				"Germany",
+				"Filopedia"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s00418-022-02152-7",
+			"Date": "2022-09-29",
+			"Text": "🧫SARS-CoV-2 remodels the cytoskeleton of infected cells to possibly facilitate spread between cells. The authors used high-resolution microscopy to show that infected cells produce more and longer filopodia, that filopodia from different cells form bridges, and that tunneling nanotubes may provide routes for intercellular viral transfer. Viral particles are observed bound to filopodia, within vesicles, and in regions of cell contact, suggesting multiple means by which the virus may move from cell to cell beyond just release into the extracellular space. These structural changes include rearrangements in actin, microtubules, and intermediate filaments, as well as increased ribosomal activity and mitochondrial alterations in infected cells. The 3D reconstructions permitted visualization of “viral extrusion” zones and clusters of filopodial connections at sites of high viral load.",
+			"Twitter": "https://x.com/ejustin46/status/1733870578195476592",
+			"Category": [
+				"Spain",
+				"Filopedia",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Transmission",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-022-07867-0",
+			"Date": "2022-03-08",
+			"Text": "🧫This study uses helium-ion microscopy to uncover alternative intra-cytoplasmic transmission routes for SARS-CoV-2 in infected Vero E6 cells, highlighting tunneling nanotubes (TNT), cell fusion (syncytia), and extracellular vesicles (EV) as key mechanisms. TNT, extending over 40 microns, connect infected cells for direct cytoplasmic exchange, while syncytia form multinucleated clusters via spike protein-induced fusion, and EVs bud from membranes to potentially shuttle viral RNA. By proposing drugs like colchicine, niclosamide, and chloroquine as targeted interventions, the research offers pathophysiological insights and therapeutic avenues, though it notes limitations such as the need for human cell validation and specific viral markers.",
+			"Twitter": "https://x.com/ejustin46/status/1733870596809699466",
+			"Category": [
+				"Filopedia",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Treatment",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciadv.abo0171",
+			"Date": "2022-08-20",
+			"Text": "🧫SARS-CoV-2 typically infects cells by binding to the ACE2 receptor, which is expressed in many epithelial tissues but is scarcely present in neuronal cells. Yet neurological symptoms are common in acute COVID-19 and long COVID, and viral RNA has been found in brains of some patients. To address how neurons might become infected despite low ACE2, the authors studied co-cultures of permissive Vero E6 epithelial cells (which are infected in the usual way) and non-permissive neuronal cells. They found that SARS-CoV-2 triggers formation of tunneling nanotubes (TNTs) between cells, through which the virus can travel. Inside TNTs, they observed double-membrane vesicles and other structures associated with viral replication (such as nonstructural protein 3, dsRNA), indicating that not only is virus cargo transported but replication-related events occur.",
+			"Twitter": "https://x.com/ejustin46/status/1733870604523106616",
+			"Category": [
+				"France",
+				"Italy",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Viral persistence",
+				"Nerves",
+				"Filopedia"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2022.10.19.512957",
+			"Date": "2022-10-20",
+			"Text": "🧫SARS-CoV-2 infection promotes formation of actin-rich filopodia in host cells by activating Cdc42 and engaging actin regulators such as fascin, formins, and the Arp2/3 complex. These filopodia act as “highways” for virus particles or virus-like particles, which use two modes — “surfing” along the filopodial shaft or “grabbing” via attachment then retraction — to reach entry hotspots on target cells more efficiently than via non-protruded plasma membrane. Disrupting either Cdc42 activity or the actin crosslinker fascin significantly reduces viral entry.",
+			"Twitter": "https://x.com/ejustin46/status/1733870617387020665",
+			"Category": [
+				"Preprint",
+				"SARS-CoV-2 mechanics",
+				"Transmission",
+				"Filopedia",
+				"China",
+				"Finland"
+			]
 		}
 	]
 }
