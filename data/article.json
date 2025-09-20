@@ -568,7 +568,8 @@
 			"Category": [
 				"Long COVID",
 				"Viral persistence",
-				"Brain"
+				"Brain",
+				"USA"
 			]
 		},
 		{
@@ -936,7 +937,9 @@
 			"Twitter": "https://x.com/Friedemann1/status/1484952570586087430",
 			"Category": [
 				"Viral persistence",
-				"SARS-CoV-2 mechanics"
+				"SARS-CoV-2 mechanics",
+				"Inteferon",
+				"Germany"
 			]
 		},
 		{
@@ -965,7 +968,21 @@
 			"Text": "Significant proportion of severe COVID19 patients actually developed auto-antibodies against interferon type I.",
 			"Twitter": "https://x.com/tmprowell/status/1309331757360205825",
 			"Category": [
-				"Antibodies"
+				"Antibodies",
+				"Inteferon",
+				"France",
+				"USA",
+				"Estonia",
+				"Netherlands",
+				"Italy",
+				"France",
+				"Canada",
+				"Australia",
+				"Belgium",
+				"Spain",
+				"Sweden",
+				"Denmark",
+				"Norway"
 			]
 		},
 		{
@@ -1271,7 +1288,9 @@
 			"Twitter": "https://x.com/RolandBakerIII/status/1604909937842212864",
 			"Category": [
 				"Immune response",
-				"Kids"
+				"Kids",
+				"Inteferon",
+				"USA"
 			]
 		},
 		{
@@ -2164,7 +2183,10 @@
 				"SARS-CoV-2 mechanics",
 				"T cells",
 				"B cells",
-				"Immune response"
+				"Immune response",
+				"Inteferon",
+				"Brazil",
+				"USA"
 			]
 		},
 		{
@@ -3854,7 +3876,8 @@
 				"Immune response",
 				"T cells",
 				"Nucleocapsid",
-				"NK cells"
+				"NK cells",
+				"Inteferon"
 			]
 		},
 		{
@@ -4229,7 +4252,7 @@
 			"ArticleURL": "https://doi.org/10.1101/2022.10.19.512957",
 			"Date": "2022-10-20",
 			"Text": "🧫SARS-CoV-2 infection promotes formation of actin-rich filopodia in host cells by activating Cdc42 and engaging actin regulators such as fascin, formins, and the Arp2/3 complex. These filopodia act as “highways” for virus particles or virus-like particles, which use two modes — “surfing” along the filopodial shaft or “grabbing” via attachment then retraction — to reach entry hotspots on target cells more efficiently than via non-protruded plasma membrane. Disrupting either Cdc42 activity or the actin crosslinker fascin significantly reduces viral entry.",
-			"Twitter": "https://x.com/ejustin46/status/1733870617387020665",
+			"Twitter": "https://x.com/ejustin46/status/1735689921396912222",
 			"Category": [
 				"Preprint",
 				"SARS-CoV-2 mechanics",
@@ -4237,6 +4260,127 @@
 				"Filopedia",
 				"China",
 				"Finland"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2023.46783",
+			"Date": "2023-12-08",
+			"Text": "This study assessed documentation of Long COVID (post-COVID-19 condition, PCC) among nearly 389,000 U.S. veterans who tested positive for SARS-CoV-2 during the period October 2021 to January 2023. They found that by 12 months after infection, about 5.3% had the ICD-10 code U09.9 in their medical record, indicating a formal clinical recognition of Long COVID. Patients more likely to have this code were older, female, Hispanic or Latino, had more comorbidities or severe acute COVID infection (hospitalization/ventilation), and had more symptoms during the acute phase. Vaccination (especially booster doses) was associated with lower likelihood of Long COVID documentation. Among those who did receive the U09.9 code, the most frequently documented persistent symptoms included shortness of breath, fatigue or exhaustion, cough, cognitive impairment (“brain fog”), and disturbances in smell or taste. The study also found considerable variation across regions and VA facilities in how often U09.9 was used, with higher usage in places with dedicated Long COVID or PCC clinics.",
+			"Twitter": "https://x.com/ejustin46/status/1734791465107128671",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Vaccination",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(23)00684-9",
+			"Date": "2023-12-14",
+			"Text": "This study rigorously compared long-term health impacts of hospitalization for COVID-19 versus hospitalization for seasonal influenza, following patients for up to 18 months. It found that COVID-19 survivors face substantially greater risks of death, hospital readmission, and new health problems in a wide array of organ systems. The COVID-19 cohort had higher rates for ~68% of the measured adverse health outcomes, whereas influenza predominantly affected pulmonary outcomes more severely. Importantly, although both diseases show significant long‐term burdens beyond the immediate acute phase, COVID-19’s effects are more multi‐systemic: the disease imposes greater risk of long‐term damage across cardiovascular, neurological, kidney, metabolic, mental health, and other systems. Influenza remains more exclusively a respiratory illness in this comparison.",
+			"Twitter": "https://x.com/zalaly/status/1735444957618462945",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.12.12.571262",
+			"Date": "2023-12-13",
+			"Text": "Syncytia formation by SARS-CoV-2 increases the virus’s resistance to interferons and neutralizing antibodies. The study shows that spike protein variants that promote more cell-cell fusion (i.e. more fusogenic S proteins) are better able to withstand interferon treatment in vitro, in airway organ cultures, and in hACE2 transgenic mice. At the same time, higher fusogenicity correlates with reduced neutralization by antibody reagents, meaning that immune pressure favors variants that can fuse infected cells into syncytia. Despite the replication cost of forming syncytia under low immune pressure, the authors suggest that the immune environment in the host selects for fusogenic spike variants. These findings explain why variants with more cell-cell fusion capacity (such as certain Delta or Omicron derivatives) are being selected, and highlight syncytia formation as a mechanism of immune evasion by SARS-CoV-2.",
+			"Twitter": "https://x.com/ejustin46/status/1735330563546886303",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Antibodies",
+				"Preprint",
+				"Omicron",
+				"Natural immunity",
+				"USA",
+				"Interferon"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41419-021-03527-9",
+			"Date": "2021-02-08",
+			"Text": "🧫SARS-CoV-2 infection causes distinctive ultrastructural changes in host cells compared to SARS-CoV-1, especially a marked accumulation of lipid droplets in infected cells (both in cultured Vero E6 cells and in type II lung pneumocytes of COVID-19 patients). These lipid droplets often contact mitochondria, and in some cases viral particles are located in or near lipolysosome-like structures, suggesting that lipid metabolic changes are part of the cytopathic effect. Other hallmarks include vacuole formation, mitochondrial swelling/damaged cristae, and general organelle disruption.",
+			"Twitter": "https://x.com/ejustin46/status/1735689987088150658",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Italy",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.celrep.2022.111573",
+			"Date": "2022-10-12",
+			"Text": "🐒SARS-CoV-2 in rhesus macaques can directly infect neurons in the olfactory cortex (and connected regions) within a week of infection, as shown by detection of viral nucleocapsid, spike proteins, and dsRNA. The infection is more pronounced in older and diabetic animals. Although glial cells also show viral markers, neurons carry the bulk of productive infection signals. The virus appears to spread along olfactory neural circuitry, reaching secondary olfactory regions especially in aged animals. Accompanying this neurotropism is strong neuroinflammation and vascular disruption: glial activation, microglial‐mediated synaptic pruning (loss of synaptic markers), myelin degradation, blood vessel and BBB alterations, neutrophil recruitment, among others.",
+			"Twitter": "https://x.com/DaniBeckman/status/1733167819444142464",
+			"Category": [
+				"USA",
+				"Brain",
+				"Nose"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.18632/aging.205297",
+			"Date": "2023-12-12",
+			"Text": "Omicron SARS-CoV-2 variant, which favors entry via clathrin-mediated endocytosis (CME), more strongly induces premature cellular senescence compared to the Delta variant. In lung tissues from deceased patients, Omicron infection was associated with elevated expression of senescence markers such as p16 and p21. Experiments in cultured cells and lung tissue confirm that Omicron but not Delta triggers senescence‐associated secretory phenotypes (SASP) and related gene expression changes.",
+			"Twitter": "https://x.com/outbreakupdates/status/1736177346510483706",
+			"Category": [
+				"Omicron",
+				"Immune response",
+				"Germany",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41591-023-02521-2",
+			"Date": "2023-08-21",
+			"Text": "This large VA cohort study followed 138,818 people with SARS-CoV-2 infection and nearly 6 million controls for 2 years and evaluated mortality, hospitalization and 80 prespecified post-acute sequelae. Risks for many sequelae declined over time — 69% of examined sequelae among nonhospitalized people became not significant by 2 years — but a set of pulmonary, coagulation/hematologic, gastrointestinal, musculoskeletal and metabolic outcomes (including new or worsened diabetes) remained elevated at 2 years, and hospitalized patients retained higher mortality and more persistent sequelae",
+			"Twitter": "https://x.com/LauraMiers/status/1736127668733542623",
+			"Category": [
+				"Long COVID",
+				"Massive study",
+				"Lungs",
+				"Gastrointestinal",
+				"Brain",
+				"Kidney",
+				"Diabetes",
+				"Pain",
+				"Muscle",
+				"Endothelium",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.12.18.571720",
+			"Date": "2023-12-19",
+			"Text": "🧫The authors used cultured human nasal epithelial cells to compare common cold viruses with more severe coronaviruses and influenza, finding that mild viruses trigger fast interferon (IFN) responses that mediate viral clearance in the nose. By contrast, lethal coronaviruses (like MERS-CoV) or SARS-CoV-2 employ mechanisms to delay or suppress IFN signaling, leading to persistent replication in nasal epithelium. Elevated temperature (37°C) strengthens IFN responses and helps suppress replication in many viruses. A noteworthy finding is that the Omicron BA.1 variant of SARS-CoV-2 partly behaves like a mild virus in some respects (stronger IFN induction) but resists IFN‐mediated suppression and is not cleared by nasal epithelium, showing reduced temperature sensitivity.",
+			"Twitter": "https://x.com/vipintukur/status/1737455699590844782",
+			"Category": [
+				"USA",
+				"Interferon",
+				"Nose",
+				"Immune response",
+				"SARS-CoV-2 mechanics",
+				"Omicron",
+				"Viral persistence",
+				"Preprint",
+				"Natural immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12979-023-00401-4",
+			"Date": "2023-12-18",
+			"Text": "Elderly hospitalized COVID-19 patients with higher levels of bacterial DNA in their blood early in admission had significantly worse outcomes: increased mortality, more severe immune dysregulation (higher neutrophils, lower IFN-α), and a higher likelihood of having diabetes. After controlling for age, frailty, COPD, and other laboratory markers, BB-DNA remained an independent predictor of in-hospital death. The findings support the idea that bacterial translocation—possibly from impaired mucosal or intestinal barriers—contributes to pathogenesis in severe COVID-19 in older patients, and that BB-DNA may serve as a useful prognostic biomarker.",
+			"Twitter": "https://x.com/outbreakupdates/status/1737425919243960642",
+			"Category": [
+				"Immune response",
+				"Detection",
+				"Susceptibility",
+				"Italy"
 			]
 		}
 	]
