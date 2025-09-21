@@ -4588,6 +4588,19 @@
 				"Air monitoring",
 				"United Kingdom"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1542/peds.2022-058271",
+			"Date": "2023-04-06",
+			"Text": "Two infant cases are described where maternal COVID-19 infection in the second trimester, despite maternal recovery before delivery and negative neonatal PCR tests, was followed by serious neurologic injury in the newborns: seizures, developmental delay, microcephaly, brain tissue atrophy. Examination of the placentas showed SARS-CoV-2 viral proteins, vascular malperfusion, elevated inflammatory and oxidative stress markers, and reduced hCG. In one fatal case, SARS-CoV-2 proteins were also found in the infant’s brain at autopsy, suggesting possible direct brain infection. The study suggests that in utero exposure to SARS-CoV-2 can lead to brain injury via placental inflammation and dysfunction, even in absence of vertical transmission detectable at birth, and that current fetal monitoring may miss these harms.",
+			"Twitter": "https://x.com/inkblue01/status/1739631310157529593",
+			"Category": [
+				"USA",
+				"Brain",
+				"Newborns",
+				"Kids",
+				"Natural immunity"
+			]
 		}
 	]
 }
