@@ -710,14 +710,16 @@
 			]
 		},
 		{
-			"ArticleURL": "https://doi.org/10.1101/2023.01.29.23285160",
+			"ArticleURL": "https://doi.org/10.1038/s41586-024-07029-4",
 			"Date": "2023-01-30",
-			"Text": "Only 9% of people with persistent SARS-CoV-2 infection reported having Long COVID",
+			"Text": "In this study, the authors used large-scale genomic surveillance data from the UK (Office for National Statistics COVID Infection Survey, ONS-CIS) covering November 2020 to August 2022, to estimate how often SARS-CoV-2 infections persist beyond typical durations. They identified 381 people whose viral RNA levels remained at high titre for at least 30 days, and among those 54 had persistence of at least 60 days. They estimate that about 0.7-3.5% of infections persist ≥ 30 days, and about 0.1-0.5% persist ≥ 60 days. People with persistent infections were ~55% more likely to self-report Long COVID (i.e. post-acute COVID-19 symptoms) than people whose infections cleared more quickly, however, Only 9% of people with persistent SARS-CoV-2 infection reported having Long COVID",
 			"Twitter": "https://x.com/Aguirre1Gustavo/status/1620946352850042880",
 			"Category": [
 				"Viral persistence",
 				"Long COVID",
-				"Preprint"
+				"United Kingdom",
+				"Australia",
+				"Massive study"
 			]
 		},
 		{
@@ -4424,6 +4426,167 @@
 				"Brain",
 				"Long COVID",
 				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/ijms242317039",
+			"Date": "2023-12-01",
+			"Text": "The article argues that the spike protein of SARS-CoV-2 not only uses ACE2 but also binds heavily sialylated glycan structures on red blood cells, platelets, and endothelial cells, leading to RBC aggregation, microvascular blockage, hypoxia, and vascular damage. These processes help explain a number of severe outcomes in COVID-19, including thrombosis, myocarditis, and multi‐organ hypoxia. The authors also correlate known risk factors such as age, obesity, and diabetes with higher RBC clotting/aggregability, which may magnify the impact of glycan‐mediated binding. They contrast SARS-CoV-2 with benign human betacoronaviruses that express hemagglutinin esterase (which cleaves sialic acids), suggesting this difference helps explain virulence.",
+			"Twitter": "https://x.com/outbreakupdates/status/1738028169536385028",
+			"Category": [
+				"USA",
+				"Canada",
+				"SARS-CoV-2 mechanics",
+				"Endothelium",
+				"Treatment",
+				"Myocarditis",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.isci.2023.108641",
+			"Date": "2023-12-22",
+			"Text": "🧫This study demonstrates that SARS-CoV-2 can persist in human cardiac microtissues derived from induced pluripotent stem cells without causing immediate, severe dysfunction, for at least several weeks. However, when these persistently infected tissues are exposed to additional stress (hypoxia/low oxygen), they suffer cardiac functional decline, reactivation of viral activity, elevated ACE2 expression, and damage to vascular network structure.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1738520641316233398",
+			"Category": [
+				"Viral persistence",
+				"Myocarditis",
+				"Endothelium",
+				"Long COVID",
+				"Mild infection",
+				"SARS-CoV-2 mechanics",
+				"Japan"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.15252/msb.20209610",
+			"Date": "2020-07-26",
+			"Text": "Hikmet et al. mapped where the human ACE2 protein is present across a wide range of tissues and cell types, combining immunohistochemistry and transcriptomic data. They found that ACE2 is abundantly expressed in non-respiratory tissues (intestine, kidney, heart, reproductive tissues, etc.), while in the respiratory tract the expression is low or limited to few cells in some individuals. These findings suggest that while ACE2 is likely to mediate viral entry, the low abundance in lung/airway tissues might mean other factors (co-receptors, or small specialized cell subsets) are important for SARS-CoV-2 infection of the respiratory tract.",
+			"Twitter": "https://x.com/C_A_G0101/status/1738623760255639838",
+			"Category": [
+				"Sweden",
+				"SARS-CoV-2 mechanics",
+				"Susceptibility",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.isci.2023.108357",
+			"Date": "2023-10-27",
+			"Text": "This study reveals that immune cells in the blood (PBMCs) of COVID-19 patients and convalescent individuals harbor diverse intracellular bacterial species, and that the abundance of particular bacteria differs between healthy, infected, and recovered states. By analyzing non-human RNA reads from single-cell sequencing, the authors identified 76 bacterial species overall, of which 16 showed statistically significant differences across health groups. Notably, certain bacteria were enriched in specific immune cell types (memory B cells, naïve T cells, Tregs, etc.), and some pathogenic species were especially elevated during acute SARS-CoV-2 infection, hinting at possible interactions between bacterial presence and disease state. The findings suggest that scRNA-seq can go beyond profiling host transcripts to also detect intracellular microbes, potentially opening a window into how such microbes may contribute to immune modulation or disease severity in COVID-19. However, the functional roles of these intracellular microbes remain unclear, and whether they are causative, opportunistic, or simply passengers during infection and recovery is not resolved by this work.",
+			"Twitter": "https://x.com/RadCentrism/status/1738795968047526365",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Detection",
+				"India",
+				"Rwanda"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.euroneuro.2023.11.001",
+			"Date": "2023-12-07",
+			"Text": "More than one-third of individuals assessed around 11 months after COVID-19 infection exhibited cognitive impairment. Neurocognitive functioning was inversely correlated with LDH (lactate dehydrogenase) blood levels, a potential biomarker of disease severity. Common risk factors for having cognitive problems included older age, male sex, less education, greater disease severity during the acute phase, and specific symptoms like anosmia and dyspnea. Those with impaired cognition also tended to have higher levels of depression, anxiety, post-traumatic stress, and worse general functioning. In this study, from 1,344 screened, only 736 entered the screening phase, and 402 completed the baseline in-depth assessment. Those who stayed were older, more often male, less educated, had more severe COVID-19, and worse MoCA scores than those who dropped out.",
+			"Twitter": "https://x.com/Yash25571056/status/1739137364784787526",
+			"Category": [
+				"Italy",
+				"Brain",
+				"Long COVID",
+				"Pain",
+				"Antibodies",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jtha.2023.02.033",
+			"Date": "2023-08-17",
+			"Text": "This study shows that the capacity of neutrophils to generate NETs when exposed to plasma (NETosis induction) is a sensitive measure that tracks with both acute COVID-19 severity and long COVID, more so than measurement of NET fragments like MPO-DNA complexes. In acute disease, markers of platelet activation and coagulation were elevated, and NETosis induction correlated with these and with how severe/long the disease was. Treatment (dexamethasone) and recovery reduce this induction. In long COVID, even after convalescence, patients maintain a heightened NETosis induction capacity despite having similar levels of NET fragments to other recovered patients.",
+			"Twitter": "https://x.com/ejustin46/status/1739318865782345805",
+			"Category": [
+				"Long COVID",
+				"Immune response",
+				"Neutrophils",
+				"Detection",
+				"Israel",
+				"USA",
+				"Belgium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/ofid/ofad500.2466",
+			"Date": "2023-11-27",
+			"Text": "Vaccination with mRNA COVID-19 vaccines in children aged 5-17 years who are exposed to the Omicron variant is associated with significantly reduced odds of experiencing post-COVID conditions (PCC; symptoms persisting or new one month after infection). Fully vaccinated children had about 34% lower odds of reporting one or more PCC symptoms, 48% lower odds of reporting two or more symptoms, and roughly 47% lower odds of respiratory symptoms compared to unvaccinated children. The analysis controlled for factors like age, health status, etc.",
+			"Twitter": "https://x.com/CDCDirector/status/1737972974857122040",
+			"Category": [
+				"Vaccination",
+				"Long COVID",
+				"Kids",
+				"Natural immunity",
+				"Antibodies",
+				"Cross-reactivity",
+				"Omicron",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-41879-2",
+			"Date": "2023-10-24",
+			"Text": "A survey (n ≈ 276,840 respondents) found that most people who get symptomatic COVID-19 in England recover within 1–2 weeks. However, a significant fraction continue to have symptoms: about 7.5% report symptoms lasting 12 weeks or more (Long COVID), and ≈5.2% still have symptoms at 52 weeks or beyond. Key risk factors for longer symptom persistence include female sex, having pre-existing health conditions, more severe initial illness, earlier infection (wild-type variant), and higher socio-economic deprivation. Conversely, people infected during the Omicron-dominant period were much less likely to have persistent symptoms. Those with long-lasting symptoms report substantially worse quality of life, mental health, and more frequent, burdensome symptoms (such as fatigue, difficulty thinking or concentrating, breathlessness, loss of smell or taste) compared to both recovered COVID cases and people never infected.",
+			"Twitter": "https://x.com/CDCDirector/status/1737972974857122040",
+			"Category": [
+				"United Kingdom",
+				"Long COVID",
+				"Vaccination",
+				"Natural immunity",
+				"Susceptibility",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.21203/rs.3.rs-43462/v1",
+			"Date": "2020-07-16",
+			"Text": "This preprint compares immune cell profiles of HIV/AIDS and COVID-19 patients and finds that both diseases cause reductions in several lymphocyte subpopulations. CD4+ T helper cells are similarly depleted in both, but COVID-19 shows much more severe depletion of CD8+ cytotoxic T cells and NK cells. B cell counts are somewhat reduced in both, though not significantly different across the diseases. These distinct patterns suggest that while both viruses lead to lymphopenia, the immune dysregulation in COVID-19 involves more profound suppression of CD8+ T cells and innate immune NK cells, which may contribute to the acute disease severity.",
+			"Twitter": "https://x.com/ProtonicStorm/status/1538291892349194240",
+			"Category": [
+				"Italy",
+				"T cells",
+				"B cells",
+				"NK cells",
+				"Immune response",
+				"Antibodies",
+				"Preprint",
+				"SARS-CoV-2 mechanics",
+				"Susceptibility",
+				"Transmission"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ijid.2023.12.001",
+			"Date": "2023-12-05",
+			"Text": "In a cohort of infants born in a low-income region of Brazil, children exposed in utero to maternal SARS-CoV-2 infection (among mothers unvaccinated at the time) were followed for the first year of life and compared with unexposed children. Neurodevelopmental evaluations at multiple time points revealed that about 20% of exposed infants had neurodevelopmental delays by 12 months, compared to under 6% in controls, giving a relative risk of about 3.44. These delays were particularly evident in fine motor and personal-social domains. The pattern of impairment varied over time in exposed infants: high at 4 months, low at 6 months, rising again at 12 months. 137 children were followed for one year: 69 with prenatal exposure (“exposed group”, EG) and 68 unexposed (“control group”, CG). Neurodevelopment was assessed repeatedly (at 1,2,3,4,5,6,9,12 months) using the Guide for Monitoring Child Development in the Integrated Management of Childhood Illness context. For the exposed group, additional assessments at 4, 6, and 12 months used the Ages & Stages Questionnaire (ASQ-3). Demographics between groups were broadly similar.",
+			"Twitter": "https://x.com/Kidsdoc1Rick/status/1732909541996536139",
+			"Category": [
+				"Kids",
+				"Newborns",
+				"Brain",
+				"Long COVID",
+				"Natural immunity",
+				"Brazil"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cid/ciab933",
+			"Date": "2021-10-30",
+			"Text": "Portable HEPA-filter + UV air filtration devices can effectively remove airborne SARS-CoV-2 RNA in a hospital ward environment, especially in less severe settings (non-ICU). When the filters were active, SARS-CoV-2 was not detected in multiple air samples; when inactive, it was again detectible. The ICU, however, showed lower baseline detection and the filtration made less difference in detection of SARS-CoV-2 specifically. Beyond SARS-CoV-2, the filtration systems also reduced the presence of other airborne pathogens (bacteria, fungi, etc.) in both settings.",
+			"Twitter": "https://x.com/andymoz78/status/1441355141051936772",
+			"Category": [
+				"Transmission",
+				"Detection",
+				"Masks",
+				"Air monitoring",
+				"United Kingdom"
 			]
 		}
 	]
