@@ -4653,6 +4653,39 @@
 				"Muscle",
 				"Mild infection"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.12.24.23300512",
+			"Date": "2023-12-28",
+			"Text": "People who had received the XBB.1.5-adapted vaccine had substantially lower odds of testing positive among those seeking care, with adjusted odds ratios around 0.4 for hospitalization, ED/urgent care, and outpatient settings—meaning roughly 60% or so lower risk compared to those who did not have the adapted vaccine. Older vaccine versions (non-XBB.1.5) provided much less protection in comparison.",
+			"Twitter": "https://x.com/outbreakupdates/status/1740869035838103608",
+			"Category": [
+				"Vaccination",
+				"Immune response",
+				"Antibodies",
+				"Omicron",
+				"mRNA vaccine",
+				"Preprint",
+				"Susceptibility",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/nrmicro1343",
+			"Date": "2006-02-01",
+			"Text": "Coronaviruses like the mouse hepatitis virus can infect the central nervous system (CNS) and establish both acute and persistent infection. In acute infection, virus‐specific T cells are crucial: CD8⁺ T cells kill infected microglia and astrocytes, while interferon-γ is required to suppress virus in oligodendrocytes. To avoid excessive damage in CNS tissue, after the acute phase, cytolytic T cell functions are downregulated and virus‐specific antibody responses in the CNS increase. These antibodies are necessary to prevent reappearance of infectious virus; even during persistence, the virus remains replication competent and can resurface without antibody control.",
+			"Twitter": "https://x.com/DaniBeckman/status/1741338854290784470",
+			"Category": [
+				"USA",
+				"Brain",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Viral persistence",
+				"Review",
+				"Natural immunity",
+				"Interferon"
+			]
 		}
 	]
 }
