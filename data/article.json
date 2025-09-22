@@ -479,7 +479,8 @@
 			"Text": "Each SARS-CoV-2 reinfection causes more severe disease. Compared to people who did not get reinfection, those with reinfection had 2 fold increased risk of death, 3 fold increased risk of hospitalization, 3 fold increased risk of heart problems and 3 fold increased risk of blood clotting.",
 			"Twitter": "https://x.com/zalaly/status/1590738395080163329",
 			"Category": [
-				"Reinfection"
+				"Reinfection",
+				"USA"
 			]
 		},
 		{
@@ -4600,6 +4601,57 @@
 				"Newborns",
 				"Kids",
 				"Natural immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-42320-4",
+			"Date": "2023-12-22",
+			"Text": "During acute COVID-19 illness, patients hospitalized with neurological complications show elevated biomarkers of neuroglial damage (NfL, GFAP, tTau, UCH-L1), along with elevated cytokines and the presence of autoantibodies, particularly in those with altered consciousness. This suggests that both innate and adaptive immune dysregulation are involved in the brain injury that occurs in COVID-19. The study identifies specific inflammatory mediators (e.g. IL-6, IL-12p40, HGF, CCL2, IL-1RA) that correlate with the severity of neurological involvement. Autoantibodies against neuronal/glial proteins are more frequent among those with neurological symptoms. Beyond the acute phase, even after systemic inflammation and autoantibody levels decline, markers of brain injury (notably NfL and GFAP) remain elevated in people who had neurological complications. This indicates that some forms of brain injury in COVID-19 may be long-lasting or slow to resolve, despite resolution of overt inflammation.",
+			"Twitter": "https://x.com/CIDRAP/status/1740107560034734453",
+			"Category": [
+				"Brain",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Autoimmunity",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/ndt/gfad121",
+			"Date": "2023-06-22",
+			"Text": "This study followed over 2,200 adult patients with COVID-19 in recovery clinics in British Columbia, examining their kidney function, primarily through eGFR, over 12 months from about 3 months post infection. While roughly half maintained “normal” kidney filtration rates, there was on average a decline of ~3 mL/min/1.73 m² over that year—about a 3.4% decrease from baseline. Only a small minority (<5%) had severely reduced kidney function. Urine protein levels (via UACR) were also part of the analyses, though the most pronounced findings concerned the eGFR declines.",
+			"Twitter": "https://x.com/PrognosticChats/status/1740394808760582320",
+			"Category": [
+				"Canada",
+				"Kidney",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2666-7568(23)00187-3",
+			"Date": "2023-11",
+			"Text": "The PROTECT study of over 3,100 UK adults aged 50+ found that during the COVID-19 pandemic there was a measurable acceleration of decline in working memory and executive function compared with pre-pandemic trajectories, with the first pandemic year showing the biggest drop. Some of the decline in working memory persisted into the second pandemic year. Subgroups—people with mild cognitive impairment and those who had COVID-19—had larger declines. Self-reported lifestyle and psychosocial factors such as reduced physical activity, increased alcohol consumption, depression, and loneliness were associated with worse cognitive outcomes. Whether or not participants had had COVID-19 was based on self-report rather than confirmed PCR/antibody testing.",
+			"Twitter": "https://x.com/PrognosticChats/status/1740394526223880397",
+			"Category": [
+				"United Kingdom",
+				"USA",
+				"Brain",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-44432-3",
+			"Date": "2024-01-04",
+			"Text": "Long COVID patients who experience post-exertional malaise show substantially reduced exercise capacity compared to recovered controls, largely due to impairments in skeletal muscle rather than cardiovascular or purely ventilatory limitations. Their muscles have more fatigue-prone, glycolytic fibers, smaller oxidative fibers, and reduced mitochondrial oxidative phosphorylation. After an exercise challenge, these impairments worsen: metabolic disturbances intensify, muscle damage increases, immune cell infiltration occurs, and amyloid‐containing deposits accumulate in muscle tissue. Importantly, the study did not find elevated levels of SARS-CoV-2 nucleocapsid protein in skeletal muscle of Long COVID patients relative to controls, before or after PEM induction, implying that viral persistence (at least of that protein in muscle) is not the main driver of these muscle deficits.",
+			"Twitter": "https://x.com/PrognosticChats/status/1742922349064953980",
+			"Category": [
+				"Netherlands",
+				"Portugal",
+				"Long COVID",
+				"Viral persistence",
+				"Muscle",
+				"Mild infection"
 			]
 		}
 	]
