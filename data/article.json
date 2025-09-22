@@ -196,7 +196,8 @@
 			"Text": "Older people have persistently aged T cells following covid.",
 			"Twitter": "https://x.com/fitterhappierAJ/status/1510355231636340737",
 			"Category": [
-				"T cells"
+				"T cells",
+				"Ireland"
 			]
 		},
 		{
@@ -4685,6 +4686,37 @@
 				"Review",
 				"Natural immunity",
 				"Interferon"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fcimb.2016.00112",
+			"Date": "2016-09-30",
+			"Text": "🐁In rats, RSV reinfection caused worse kidney injury than primary infection, with higher protein leakage in urine, lower serum albumin, and structural glomerular damage (podocyte effacement, mesangial proliferation). These effects were dose-dependent and timing-dependent, peaking when the reinfection came 14 days after the first exposure. Mechanistically, reinfection skewed immunity: dendritic cells matured, CD8 T cells increased, the CD4/CD8 ratio decreased, and IL-6/IL-17 surged. RSV F protein persisted in glomeruli up to day 56, implying direct viral involvement in addition to immune-mediated injury. Overall, RSV can directly and indirectly worsen renal damage during reinfection.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1741596144978002278",
+			"Category": [
+				"Reinfection",
+				"Kidney",
+				"Immune response",
+				"T cells",
+				"Viral persistence",
+				"Lungs",
+				"China"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2022.27241",
+			"Date": "2022-08-17",
+			"Text": "More than half (56%) of adults in a Los Angeles County cohort who seroconverted during the Omicron wave were unaware that they had been infected with SARS-CoV-2. Among those unaware, only a small proportion had symptoms, which they often attributed to non-COVID causes. Awareness was somewhat greater among younger individuals, males, and healthcare workers. The study highlights that many Omicron infections go undetected by individuals themselves, even among vaccinated populations.",
+			"Twitter": "https://x.com/dlingenfelter/status/1741881136828371362",
+			"Category": [
+				"USA",
+				"Immune response",
+				"Detection",
+				"Vaccination",
+				"Self-reported",
+				"Mild infection",
+				"Natural immunity",
+				"Omicron"
 			]
 		}
 	]
