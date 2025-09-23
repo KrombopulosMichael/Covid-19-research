@@ -187,7 +187,11 @@
 			"Text": "Infection of primary human B and T cells by SARS-CoV-2 in vitro and in patients.",
 			"Twitter": "https://x.com/VengefulArzt/status/1518031752047915008",
 			"Category": [
-				"T cells"
+				"T cells",
+				"B cells",
+				"Brazil",
+				"Viral persistence",
+				"USA"
 			]
 		},
 		{
@@ -784,7 +788,8 @@
 			"Category": [
 				"T cells",
 				"Preprint",
-				"Immune response"
+				"Immune response",
+				"USA"
 			]
 		},
 		{
@@ -4729,6 +4734,108 @@
 				"Brain",
 				"Mild infection",
 				"India"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2023.1335352",
+			"Date": "2024-01-03",
+			"Text": "This study followed 29 hospitalized COVID-19 patients for one year and tested many immune markers during the acute infection to see which might predict development of long COVID. Of all the measures tested — including cytokines, T cell activation, exhaustion, NK/monocyte profiles — the only strong predictor was the degree of apoptosis (programmed cell death) in CD4⁺ helper T cells during the acute phase: people with higher levels were significantly more likely to report long COVID one year later.The findings suggest that early loss of CD4⁺ T cells may set the stage for downstream problems (viral persistence, latent virus reactivation, immune dysregulation, etc.) that contribute to long COVID.",
+			"Twitter": "https://x.com/BagaiDr/status/1743060870014304628",
+			"Category": [
+				"France",
+				"Canada",
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12879-023-08944-z",
+			"Date": "2024-01-04",
+			"Text": "The authors conclude that azvudine has satisfactory effectiveness and acceptable safety in this older cohort, suggesting it could be considered a treatment option for elderly patients with mild to moderate COVID-19. From treatment initiation to nucleic acid negative (NANC) conversion, the median was 8 days for azvudine vs 9 days for nirmatrelvir/ritonavir. Those on azvudine had a median time from symptom onset to NANC of 14 days, compared to 15 days for nirmatrelvir/ritonavir, and 19 days for standard of care. However, being observational and with a small sample size, the findings would need confirmation in larger or randomized studies.",
+			"Twitter": "https://x.com/outbreakupdates/status/1743057360292118950",
+			"Category": [
+				"China",
+				"Treatment",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/ene.15435",
+			"Date": "2022-06-23",
+			"Text": "This study examined 16 individuals experiencing long-term fatigue, weakness, or myalgia 5 to 14 months after a COVID-19 infection of mild to moderate severity. Through electromyographic testing and detailed examination of muscle biopsies (light and electron microscopy), the authors found that a large proportion of patients exhibit structural muscle changes: atrophy, signs of fiber regeneration, mitochondrial dysfunction (loss of COX activity, abnormal cristae, subsarcolemmal mitochondrial accumulation), inflammation involving T cells and HLA-ABC expression, and significant capillary injury including alterations in the basal lamina and capillary cells. These findings indicate that skeletal muscle pathology — a myopathy — is likely a significant contributor to fatigue in long COVID. The involvement of mitochondrial impairment and microvascular damage suggests that reduced energy supply and oxygen/nutrient delivery play a role.",
+			"Twitter": "https://x.com/healingfromlc/status/1743621473925820624",
+			"Category": [
+				"Denmark",
+				"Long COVID",
+				"Muscle",
+				"Immune response",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-023-50024-4",
+			"Date": "2024-01-09",
+			"Text": "In this 2-year follow-up of COVID-19 cases from early 2020 in Korea, over 60% of participants who completed all follow-ups continued to report at least one symptom of long COVID, most commonly fatigue, memory issues, concentration difficulties, and insomnia. Although overall quality of life improved over time, a substantial proportion still suffered from anxiety or depression even after two years post-infection. Despite high vaccine uptake after infection (most had at least two doses), neither vaccination status nor number of doses showed a statistically meaningful reduction in neuropsychiatric long COVID symptoms at 24 months.",
+			"Twitter": "https://x.com/CIDRAP/status/1744818434121036248",
+			"Category": [
+				"Korea",
+				"Long COVID",
+				"Vaccination",
+				"Susceptibility",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41591-024-03309-8",
+			"Date": "2024-09-23",
+			"Text": "This study followed 351 individuals who were hospitalized with COVID-19 and assessed them about a year later, comparing them to nearly 3,000 matched controls. It found that cognitive deficits were still present at 1 year, affecting multiple cognitive domains (not just memory or executive function), and these deficits occurred even in people who had not been diagnosed with neurological complications during their acute COVID-19 illness. Biomarker tests revealed elevated levels of brain injury markers (such as GFAP and NfL), and MRI scans showed reduced grey matter volume in key brain regions (notably the anterior cingulate cortex). The severity of the initial illness, having had encephalopathy, and psychiatric symptoms post-COVID were associated with worse outcomes. Although there was some improvement over time in the subset with longitudinal data, recovery seemed only partial and appeared to plateau.",
+			"Twitter": "https://x.com/gkwood3/status/1744650520420045219",
+			"Category": [
+				"United Kingdom",
+				"Chile",
+				"Netherlands",
+				"Denmark",
+				"Germany",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s42770-023-01018-x",
+			"Date": "2023-06-03",
+			"Text": "A vaccinated adult male in Brazil, who had no underlying health conditions, first contracted an Omicron BA.1.1 infection. Sixteen days after the first infection was detected, he acquired a second distinct infection with Omicron BA.2, confirmed by RT-qPCR and genetic sequencing. Both infections produced symptoms lasting about a week, with a return to daily activities in between.",
+			"Twitter": "https://x.com/feliciahsiehsw/status/1744975887110656395",
+			"Category": [
+				"Reinfection",
+				"Omicron",
+				"Viral persistence",
+				"Immune response",
+				"Vaccination",
+				"Antibodies",
+				"Transmission",
+				"Brazil"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1055/a-2180-9872",
+			"Date": "2024-01-05",
+			"Text": "This cross-sectional study examined endoscopic biopsies from 249 patients with a prior PCR-confirmed COVID-19 infection. Using immunohistochemistry, SARS-CoV-2 nucleocapsid proteins were detected in 30.5% of cases, with significantly higher prevalence in upper GI tract biopsies than in lower GI samples. Viral persistence was not linked to vaccination status, number of infections, or time since the last infection. Instead, smoking and diabetes were identified as major risk factors for persistent gut infection.",
+			"Twitter": "https://x.com/breakfastnick/status/1745053580287983863",
+			"Category": [
+				"Egypt",
+				"Netherlands",
+				"Long COVID",
+				"Viral persistence",
+				"Gastrointestinal",
+				"Nucleocapsid",
+				"Immune response",
+				"Diabetes",
+				"Susceptibility",
+				"Detection"
 			]
 		}
 	]
