@@ -4837,6 +4837,21 @@
 				"Susceptibility",
 				"Detection"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41590-023-01724-6",
+			"Date": "2024-01-11",
+			"Text": "Long COVID (LC) is associated with lasting immune changes: eight months after acute SARS-CoV-2 infection, people with LC show evidence of ongoing systemic inflammation, immune cell subset perturbations, and elevated antibody levels compared to people who have fully recovered. Specifically, CD4+ T cell populations in LC are more likely to express markers that allow them to home to inflamed tissues, and SARS-CoV-2-specific CD8+ T cells show exhaustion signatures. There is also a miscoordination between T-cell and B-cell (antibody) responses in LC, suggesting that though both adaptive arms are active, they are not working in a well-orchestrated way. These immune irregularities may underlie the persistent symptoms seen in LC — such as fatigue, cognitive issues, sleep disturbances — perhaps driven by ongoing antigen exposure or dysregulated immune signaling. The study’s depth (multi-omics) provides pieces of a mechanism: immune dysregulation, chronic inflammation, and maladapted adaptive immunity. However, due to sample size and diversity among LC patients, more work is needed (including studying tissues, not just blood) to fully map causation and heterogeneity.",
+			"Twitter": "https://x.com/DaniBeckman/status/1745523375588696193",
+			"Category": [
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Viral persistence",
+				"USA",
+				"Germany"
+			]
 		}
 	]
 }
