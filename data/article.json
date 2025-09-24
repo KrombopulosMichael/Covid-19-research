@@ -767,7 +767,8 @@
 			"Twitter": "https://x.com/EricTopol/status/1606005665448595456?s=20",
 			"Category": [
 				"Vaccination",
-				"Antibodies"
+				"Antibodies",
+				"Germany"
 			]
 		},
 		{
@@ -4920,6 +4921,110 @@
 				"Antibodies",
 				"Vaccination",
 				"Review",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1542/peds.2023-064326",
+			"Date": "2024-01-12",
+			"Text": "In a large national cohort of Brazilian children hospitalized with severe acute respiratory infection, this study compared in-hospital mortality across SARS-CoV-2 and seasonal respiratory viruses. SARS-CoV-2 was the predominant virus and carried the highest 30-day fatality risk (~6.5 %) compared with influenza, RSV, adenovirus, other viruses, or coinfections. After adjusting for competing risks, SARS-CoV-2 positivity was associated with a roughly threefold higher hazard of death relative to SARS-CoV-2–negative cases. Across viral etiologies, lower oxygen saturation at admission, presence of comorbidities, and being hospitalized in the North or Northeast regions of Brazil were independent predictors of death.",
+			"Twitter": "https://x.com/DaniBeckman/status/1746630925159727513",
+			"Category": [
+				"Kids",
+				"Brazil",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/gutjnl-2020-322294",
+			"Date": "2021-01-07",
+			"Text": "This pilot study provides evidence that SARS-CoV-2 actively replicates in the gut of nearly half of hospitalized COVID-19 patients, including those without gastrointestinal symptoms. From 15 hospitalized COVID-19 patients, the authors detected active viral transcription in 7 (47%) patients, even in the absence of GI symptoms. Viral transcriptional signatures persisted in stool for days after clearance from the respiratory tract, suggesting prolonged quiescent GI infection and a potential role in fecal–oral transmission. Patients with high fecal viral activity had stool microbiota enriched in opportunistic pathogens (Collinsella aerofaciens, Collinsella tanakaei, Streptococcus infantis, Morganella morganii) and showed increased bacterial functional capacity for nucleotide, amino acid biosynthesis, and glycolysis. In contrast, those with low or no viral activity had more short-chain fatty acid–producing bacteria (Parabacteroides merdae, Bacteroides stercoris, Alistipes onderdonkii, Lachnospiraceae species), which are linked to immune regulation.",
+			"Twitter": "https://x.com/dlingenfelter/status/1747044300909924711",
+			"Category": [
+				"China",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Gastrointestinal",
+				"Transmission",
+				"Detection",
+				"Immune response",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1182/bloodadvances.2020003471",
+			"Date": "2020-12-08",
+			"Text": "Diorio et al. show that children hospitalized with SARS-CoV-2 infection, including those with minimal symptoms, frequently have elevated levels of the complement activation biomarker sC5b9 compared to healthy controls, and many meet clinical criteria for thrombotic microangiopathy (TMA). The elevation in sC5b9 was seen across minimal, severe COVID-19, and MIS-C groups, and correlated with markers of renal stress (e.g. creatinine).",
+			"Twitter": "https://x.com/happyhexer/status/1747385369270882541",
+			"Category": [
+				"Kids",
+				"Immune response",
+				"Endothelium",
+				"Detection",
+				"Kidney",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-43391-z",
+			"Date": "2024-01-15",
+			"Text": "Analyzing over 2.17 million SARS-CoV-2 raw-read datasets with a unified workflow, the study estimates co-infection in ~0.35% of cases and uses two complementary methods to detect intra-host recombination. Co-infections tracked periods of variant co-circulation (especially Delta–Omicron BA.1), and recombination signals were most detectable where lineage-defining mutations are dense. Because artefacts (PCR chimeras, primer bias, contamination) can masquerade as recombinants, the authors lay out practical safeguards (including a ~0.1 recombinant-read threshold) and show hotspots at gene boundaries plus three intergenic hotspots for Delta–Omicron BA.1.",
+			"Twitter": "https://x.com/DALupton/status/1747758257878487345",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Detection",
+				"Omicron",
+				"Massive study",
+				"Hungary",
+				"Netherlands",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.adg7942",
+			"Date": "2024-01-19",
+			"Text": "This study followed 113 COVID-19 patients up to one year post-infection (plus healthy controls) to investigate why some develop Long COVID while others recover. Long COVID is associated with a sustained abnormal activation of the complement system (both classical and alternative pathways) that doesn’t return to baseline, unlike in people who recover. In addition, those with active Long COVID show elevated markers of blood cell damage, platelet activation, and monocyte-platelet interactions, all hinting at ongoing inflammation and coagulation (thromboinflammation). The study also found that higher antibody levels against herpesviruses might be contributing to triggering the classical complement pathway. The results point to specific protein signatures in blood that could serve as biomarkers to distinguish Long COVID patients from recovered ones, and suggest that complement and coagulation pathways are potential therapeutic targets.",
+			"Twitter": "https://x.com/DaniBeckman/status/1748365549715997170",
+			"Category": [
+				"Switzerland",
+				"USA",
+				"Sweden",
+				"Long COVID",
+				"Immune response",
+				"Antibodies",
+				"Viral persistence",
+				"Detection",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.stem.2023.12.012",
+			"Date": "2024-01-17",
+			"Text": "The authors differentiated dopaminergic (DA) neurons from human pluripotent stem cells (hPSCs), exposed them to SARS-CoV-2, and assessed infection, transcriptional changes, and cell state. They observed that only a minority (~5 %) of DA neurons become infected, but that is sufficient to trigger downstream senescence and inflammation. The authors validated this phenomenon using postmortem human substantia nigra tissue from COVID-19 patients, finding SARS-CoV-2 transcripts (though at low levels) and an inflammatory/senescence signature, along with reduced numbers of neuromelanin-positive and tyrosine-hydroxylase-positive DA neurons in severely affected patients. They also performed a drug screen and identified FDA-approved drugs (riluzole, metformin, imatinib) that can reduce viral infection and rescue the senescence phenotype in DA neurons.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1748126060636418099",
+			"Category": [
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Immune response",
+				"Treatment",
+				"USA",
+				"Netherlands",
+				"Italy"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.01.17.24301374",
+			"Date": "2024-01-18",
+			"Text": "This medRxiv preprint compares antibody subclass responses after repeated mRNA versus protein-based COVID-19 vaccination. Consistent with prior observations, repeated mRNA vaccination is associated with higher proportions of Spike-specific IgG4 and lower Fc-effector surrogates (markers tied to ADCP/ADCC/ADCD). Repeated dosing with Novavax (protein subunit), by contrast, did not show notable IgG4 increases and instead boosted IgG3, a subclass associated with stronger FcγRIIIa binding and historically linked to potent neutralization.",
+			"Twitter": "https://x.com/vipintukur/status/1748321694962315644",
+			"Category": [
+				"Preprint",
+				"Vaccination",
+				"mRNA vaccine",
+				"Antibodies",
+				"B cells",
+				"Immune response",
 				"USA"
 			]
 		}
