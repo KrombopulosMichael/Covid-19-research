@@ -4852,6 +4852,76 @@
 				"USA",
 				"Germany"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2023.1221961",
+			"Date": "2023-07-20",
+			"Text": "Long COVID patients, prior to vaccination, display two distinct types of adaptive immune responses. One group (LC+) is seropositive and shows strong, coordinated antibody and CD4+ T cell responses to SARS-CoV-2 (and breadth comparable to recovered people), while the other (LC−) is seronegative by standard assays, with low or undetectable antibody responses and only partially detectable T cell responses even with more sensitive assays. Both groups report persistent symptoms of similar severity, indicating that immune response strength or detectability does not map straightforwardly onto symptom burden. These findings suggest that long COVID is not a single immunological state but may have (at least) two subtypes: one where the immune system has mounted a strong antiviral adaptive response but symptoms persist (potentially via immunopathology or chronic antigen exposure), and another where the antiviral response is weak, which might allow antigen persistence or inadequate clearance.",
+			"Twitter": "https://x.com/TomasoAntonacci/status/1745529012468810052",
+			"Category": [
+				"France",
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Viral persistence",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.imlet.2020.06.002",
+			"Date": "2020-06-06",
+			"Text": "Kloc et al. propose that nicotine might modulate lung macrophage responses via nicotinic acetylcholine receptors (notably α7 nAChR) to suppress excessive pro-inflammatory cytokine release (a cytokine storm) in COVID-19, offering a mechanistic hypothesis for observed lower-than-expected rates of smokers among severe COVID-19 cases. They suggest that nicotine stimulation of cholinergic pathways in macrophages could tip the balance toward controlled inflammation rather than runaway immune activation. They emphasize that their suggestion is theoretical, not clinical advice, and that many variables (dose, timing, receptor expression, comorbidities) complicate the idea.",
+			"Twitter": "https://x.com/dianaberrent/status/1746265257180643412",
+			"Category": [
+				"Treatment",
+				"Lungs",
+				"Immune response",
+				"Susceptibility",
+				"USA",
+				"Poland",
+				"France"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciadv.adg5461",
+			"Date": "2024-01-03",
+			"Text": "🐁The study shows that mice lacking adaptive immune cells (B and T lymphocytes) infected with mouse-adapted SARS-CoV-2 do not lose weight and exhibit minimal lung inflammation and cytokine release, despite supporting viral replication. Thus, while adaptive immunity is required to clear the virus, its activation also drives much of the tissue pathology associated with COVID-19.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1746665602066825258",
+			"Category": [
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Lungs",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s00134-022-06721-1",
+			"Date": "2022-06-09",
+			"Text": "This clinical trial in critically ill COVID-19 patients under mechanical ventilation tested whether nicotine patches might reduce mortality or improve recovery, hypothesizing that nicotine’s interaction with the nicotinic cholinergic system could modulate inflammation or ACE2 expression. However, the study found no significant effects — 28-day mortality was the same in nicotine and placebo arms (28% each), and secondary endpoints (ventilator-free days, extubation timing, organ failure support) also showed no advantage. Nicotine was well tolerated with few adverse events, but conferred no clinical benefit.",
+			"Twitter": "https://x.com/vk_wilde/status/1700464110754795819",
+			"Category": [
+				"Treatment",
+				"Lungs",
+				"France"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/microorganisms9071389",
+			"Date": "2021-06-27",
+			"Text": "SARS-CoV-2 and HIV-1 share some superficial similarities—they are both enveloped, positive single-stranded RNA viruses with spike glycoproteins mediating entry—but differ substantially in their replication cycles, host interactions, and immune evasion strategies. SARS-CoV-2 does not integrate into the host genome, replicates in the cytoplasm with proofreading, and uses ACE2 (plus proteases) for cell entry, leading to a relatively faster replication cycle. In contrast, HIV-1 reverse-transcribes its RNA, integrates into host DNA, uses CD4 plus co-receptors for entry, has high error rates (hence high diversity), and establishes latent infection, which makes eradication extremely difficult. Because of these mechanistic differences, their interactions with the immune system diverge: HIV-1’s dense glycan shield, latent reservoirs, and high mutation rate impede development of broadly neutralizing antibodies, while SARS-CoV-2 tends to be more “open” to vaccine-elicited neutralizing immune responses, despite also evolving escape variants.",
+			"Twitter": "https://x.com/ejustin46/status/1746393040753746168",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Antibodies",
+				"Vaccination",
+				"Review",
+				"USA"
+			]
 		}
 	]
 }
