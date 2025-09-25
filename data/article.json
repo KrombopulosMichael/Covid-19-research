@@ -2201,15 +2201,6 @@
 			]
 		},
 		{
-			"ArticleURL": "https://doi.org/10.1093/cid/ciab933",
-			"Date": "2021-10-30",
-			"Text": "Evidence that portable HEPA air filters with UV sterilisation removed SARS-CoV-2 (& a range of other bacterial, viral, and fungal) bioaerosols from the air in a COVID-19 ward.",
-			"Twitter": "https://x.com/Caro_Dew_/status/1647016722459942913",
-			"Category": [
-				"Mitigation"
-			]
-		},
-		{
 			"ArticleURL": "https://doi.org/10.1093/nar/gkad199",
 			"Date": "2023-03-23",
 			"Text": "Persistent childhood viruses are found in adult tissues, including internal organs, indicating the existence of a unique microbiome in our organs- the virome. Integration of quantitative (qPCR) and qualitative (hybrid-capture sequencing) revealed the genetic make-up and unique composition of the known eukaryotic human DNA virome in nine organs (colon, liver, lung, heart, brain, kidney, skin, blood, hair) of 31 Finnish individuals. The analysis identified the DNAs of 17 species, primarily herpes-, parvo-, papilloma- and anello-viruses (>80% prevalence), typically persisting in low copies (mean 540 copies/ million cells).",
@@ -4591,7 +4582,7 @@
 			"Twitter": "https://x.com/andymoz78/status/1441355141051936772",
 			"Category": [
 				"Transmission",
-				"Detection",
+				"Mitigation",
 				"Masks",
 				"Air monitoring",
 				"United Kingdom"
@@ -5026,6 +5017,77 @@
 				"B cells",
 				"Immune response",
 				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-52005-7",
+			"Date": "2024-01-19",
+			"Text": "This study examined 97 non-hospitalized individuals recovering from mild COVID-19 (about 2–3 months post-infection) without psychiatric comorbidities, comparing them to 77 matched controls. Clinically, many post-COVID participants reported memory loss (36 %), fatigue (31 %), headache (29 %), somnolence (35 %), and showed deficits on tests of verbal fluency and memory (e.g. ~21 % had impaired phonemic verbal fluency). In DTI analyses, the post-COVID group showed higher axial diffusivity (AD) in certain white matter tracts compared to controls (suggesting microstructural white matter alteration), though no differences were found in fractional anisotropy (FA), mean diffusivity (MD), or radial diffusivity (RD). In rs-fMRI of the default mode network (posterior cingulate seed), there were no significant group differences in connectivity after correction, and no strong correlations between imaging metrics and cognitive scores or fatigue/sleepiness measures.",
+			"Twitter": "https://x.com/outbreakupdates/status/1748470214713385033",
+			"Category": [
+				"Brazil",
+				"Brain",
+				"Long COVID",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.adn1077",
+			"Date": "2024-01-18",
+			"Text": "Persistent complement activation and its crosstalk with coagulation and endothelial injury may underlie many features of Long COVID, such as microvascular damage, chronic inflammation, and prolonged immune activation. Ruf emphasizes that complement dysregulation can perpetuate tissue injury long after viral clearance, creating a feedback loop of immune/coagulation damage.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1748747299415625814",
+			"Category": [
+				"Germany",
+				"USA",
+				"Long COVID",
+				"Immune response",
+				"Endothelium",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/jleuko/qiae017",
+			"Date": "2024-01-20",
+			"Text": "The authors characterize antibodies to the SARS-CoV-2 membrane (M) protein in infected individuals, showing that although such antibodies fail to neutralize the virus, they can trigger Fc-dependent effector functions (notably ADCC) by engaging Fc receptor–bearing cells. In particular, M-directed antibodies from critically ill patients exhibited stronger activation of cytotoxic responses compared to antibodies from those with milder disease. In a clinical correlation analysis, elevated anti-M IgG levels were strongly associated with lung injury, outperforming associations seen with anti-S or anti-N antibodies.",
+			"Twitter": "https://x.com/vipintukur/status/1748762536441237805",
+			"Category": [
+				"Antibodies",
+				"Immune response",
+				"Lungs",
+				"Detection",
+				"Spain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.01.14.24301293",
+			"Date": "2024-04-24",
+			"Text": "The study used whole-blood digital transcriptomics in a GP-based cohort (48 LC, 12 matched controls; up to 39-month follow-up) and found systemic SARS-CoV-2 RNA persistence in a large subset of Long COVID patients—including antisense viral RNA consistent with ongoing replication. A two-gene classifier (host FYN + viral antisense RNA) discriminated LC from controls with ~94% AUC and ~94%/92% sensitivity/specificity. Host-side signals (elevated ACE2/TMPRSS2, DPP4/FURIN, memory-B and platelet transcripts) and a depressed immunometabolism score (inversely related to viral load) offered mechanistic links to LC biology and symptoms; platelet signatures tracked with viral load, and higher viral RNA associated with worse emotional scores. More COVID-19 vaccine doses associated with lower odds of high viral RNA.",
+			"Twitter": "https://x.com/inkblue01/status/1748699042731741338",
+			"Category": [
+				"Belgium",
+				"Long COVID",
+				"Viral persistence",
+				"Detection",
+				"Immune response",
+				"B cells",
+				"Nucleocapsid",
+				"SARS-CoV-2 mechanics",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-020-2294-9",
+			"Date": "2020-06-25",
+			"Text": "Thao et al. (2020) develop a yeast-based synthetic genomics system for rapid assembly and rescue of full-length RNA virus genomes, including SARS-CoV-2. By amplifying overlapping viral DNA fragments, co-transforming them into yeast for in vivo recombination into a yeast artificial chromosome, and using T7 polymerase–mediated in vitro transcription, the authors were able to reconstitute infectious virus in cell culture. They demonstrate this method’s effectiveness with SARS-CoV-2 and other RNA virus families, and show that recombinant viruses replicate with kinetics similar to isolates and that the genomic constructs are stable over yeast passages. This platform reduces the delay between sequence release and functional virus generation, enabling faster experimental characterization of emerging variants or engineered modifications (e.g. reporter insertions), which is especially valuable during outbreak response. The authors propose this as a general, rapid reverse-genetics tool for RNA viruses, facilitating downstream studies (e.g. pathogenesis, antiviral testing, vaccine design).",
+			"Twitter": "https://x.com/Dissenting2020/status/1747923753089032490",
+			"Category": [
+				"Russia",
+				"Germany",
+				"Switzerland",
+				"SARS-CoV-2 mechanics",
+				"Detection",
+				"Transmission",
+				"Synthetic genomics"
 			]
 		}
 	]
