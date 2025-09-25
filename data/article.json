@@ -5089,6 +5089,35 @@
 				"Transmission",
 				"Synthetic genomics"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.01.20.576353",
+			"Date": "2024-01-23",
+			"Text": "The preprint presents evidence that binding of the SARS-CoV-2 spike protein (especially from Omicron subvariants) to the ACE2 receptor is temperature dependent, with higher affinity at warmer temperatures (such as those in the nasal/upper airway environment). They show that some mutations in the Omicron spike further enhance this temperature sensitivity, and that this enhanced binding correlates with greater infectivity in respiratory epithelial model systems. These findings support the idea that the transmission advantage of recent Omicron lineages may in part stem from an improved ability to bind ACE2 under physiological temperatures encountered in the upper respiratory tract.",
+			"Twitter": "https://x.com/ejustin46/status/1749780121660051951",
+			"Category": [
+				"Canada",
+				"USA",
+				"Omicron",
+				"SARS-CoV-2 mechanics",
+				"Transmission",
+				"Immune response",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12879-023-08710-1",
+			"Date": "2024-01-23",
+			"Text": "In a cohort of hospital employees with predominantly mild acute COVID-19, about 50% reported ongoing symptoms 90 days or more after infection, indicating a substantial burden of long COVID even in non-hospitalized individuals. The most persistent symptoms varied, and symptom clusters and temporal patterns were analyzed to better understand their co-occurrence and evolution. Predictors of prolonged symptom duration included female gender, a greater number of initial symptoms, and presence of comorbid conditions.",
+			"Twitter": "https://x.com/ejustin46/status/1750034343911677992",
+			"Category": [
+				"Long COVID",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Susceptibility",
+				"Detection",
+				"Germany"
+			]
 		}
 	]
 }
