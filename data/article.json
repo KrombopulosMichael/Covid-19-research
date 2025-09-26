@@ -1381,7 +1381,8 @@
 			"Twitter": "https://x.com/EricTopol/status/1613965639609372673",
 			"Category": [
 				"Long COVID",
-				"Review"
+				"Review",
+				"USA"
 			]
 		},
 		{
@@ -5117,6 +5118,176 @@
 				"Susceptibility",
 				"Detection",
 				"Germany"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cvr/cvac195",
+			"Date": "2023-06-08",
+			"Text": "COVID-19 infection is associated with a substantially increased short-term risk of cardiovascular disease (CVD) events and death: within 21 days of diagnosis, individuals with COVID-19 had hazard ratios of ~4 to 5 for new CVD and ~67 to 81 for all-cause mortality compared to matched controls. Even after surviving the acute phase, COVID-19 patients remained at elevated long-term risk: over 18 months, the risk of new cardiovascular events remained ~30–40% higher (HR ~1.3–1.4), and mortality ~4- to 5-fold higher than in non-infected controls.",
+			"Twitter": "https://x.com/Sunny_Rae1/status/1750116282601529464",
+			"Category": [
+				"Myocarditis",
+				"Susceptibility",
+				"China"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fmed.2021.778434",
+			"Date": "2021-12-01",
+			"Text": "This study of ~13,600 adults over 12 months demonstrates that individuals hospitalized with COVID-19 (i.e. “severe” cases) face a significantly elevated risk of all-cause mortality in the following year compared both to noninfected individuals and those with mild/moderate infection. The hazard ratio for 12-month mortality was ~2.5 versus COVID-negative and ~1.9 versus mild cases, even after adjusting for age, sex, race, and comorbidities. Importantly, most of the post-acute deaths (≈ 80 %) were from causes other than respiratory or cardiovascular disease, implying a broader, systemic impact of severe COVID-19.",
+			"Twitter": "https://x.com/Sunny_Rae1/status/1750116282601529464",
+			"Category": [
+				"Long COVID",
+				"Susceptibility",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.abm8108",
+			"Date": "2022-03-10",
+			"Text": "Merad et al. provide a sweeping review of COVID-19 immunology, synthesizing what has been learned about how innate and adaptive immune responses respond to SARS-CoV-2 infection. They emphasize that a properly timed and regulated immune response is crucial: insufficient early antiviral defense (e.g. interferon) or overactive inflammation can both lead to worse outcomes. The review also explores how pathological immune activation (cytokine storms, complement, endothelial damage) contributes to severe disease. The article also considers post-acute and chronic consequences of COVID-19, discussing how persistent immune activation, dysregulation, or even residual viral persistence may underlie long COVID.",
+			"Twitter": "https://x.com/Sunny_Rae1/status/1750116282601529464",
+			"Category": [
+				"Switzerland",
+				"USA",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Antibodies",
+				"Endothelium",
+				"Viral persistence",
+				"Long COVID",
+				"Treatment",
+				"Susceptibility",
+				"Review",
+				"Natural immunity",
+				"Cross-reactivity",
+				"Hybrid immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.7861/clinmed.2020-0896",
+			"Date": "2021-01-21",
+			"Text": "Long COVID may include a significant autonomic dysfunction component, resulting in symptoms of orthostatic intolerance (such as dizziness, palpitations, fatigue) and impaired regulation of blood pressure and heart rate. Dani et al. outline the rationale that SARS-CoV-2 or the consequent immune response might damage autonomic neural circuits, endothelial support, or reflex arcs, giving rise to a dysregulated autonomic state. They argue that clinicians should recognize and evaluate for autonomic dysfunction in post-COVID patients, and provide a framework of supportive treatments (e.g. increased fluids/salt, compression, graded activity) while noting that stronger evidence is needed.",
+			"Twitter": "https://x.com/Sunny_Rae1/status/1750116282601529464",
+			"Category": [
+				"United Kingdom",
+				"Long COVID",
+				"Review",
+				"Nerves",
+				"Endothelium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12933-021-01359-7",
+			"Date": "2021-08-23",
+			"Text": "Pretorius et al. demonstrate that individuals with Long COVID harbor persistent amyloid microclots in their plasma, which resist breakdown by standard fibrinolytic processes. Compared to controls, these microclots trap elevated levels of coagulation and inflammatory proteins — especially α₂-antiplasmin, fibrinogen chains, and Serum Amyloid A — suggesting a dysregulated balance between clot formation and clot dissolution in Long COVID. These findings suggest that microvascular obstruction from persistent, fibrinolysis‐resistant microclots may contribute to Long COVID symptoms, and the authors propose that targeted anti‐clotting or fibrinolytic therapies might help mitigate this phenomenon.",
+			"Twitter": "https://x.com/Sunny_Rae1/status/1750116282601529464",
+			"Category": [
+				"Long COVID",
+				"Viral persistence",
+				"Endothelium",
+				"Treatment",
+				"Susceptibility",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2024.102434",
+			"Date": "2024-01-25",
+			"Text": "194 people with Long COVID (PCC) show markedly slower cognitive processing than both 63 people who had COVID but did not develop long-term symptoms, and 113 uninfected controls. Using simple reaction time and vigilance tasks, the researchers found that over half of PCC participants responded more than two standard deviations slower than controls, even in a brief 30-second task. This slowing remained significant after adjusting for fatigue, depression, anxiety, sleep issues, or PTSD, suggesting it reflects a core cognitive impairment rather than secondary symptoms.",
+			"Twitter": "https://x.com/outbreakupdates/status/1750695825468997824",
+			"Category": [
+				"Long COVID",
+				"Detection",
+				"Brain",
+				"Germany",
+				"United Kingdom"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.mcpro.2021.100134",
+			"Date": "2021-08-13",
+			"Text": "Vanderboom et al. applied high-resolution proteomics and phosphoproteomics to nasopharyngeal swabs from SARS-CoV-2–infected and uninfected individuals, identifying over 7,500 proteins. They found a strong upregulation of interferon-driven antiviral signaling (e.g. MX1, ISG15, STAT1, RIG-I, CXCL10) accompanied by downregulation of proteasome components, E3 ubiquitin ligases, and translational machinery. Phosphoproteomic analysis revealed altered phosphorylation in antiviral effectors and ciliary proteins (CEP131, CFAP57), and diminished phosphorylation of AKT and PKC family kinases.",
+			"Twitter": "https://x.com/tohmes1/status/1638856491938488320",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Detection",
+				"Nose",
+				"Antibodies",
+				"India",
+				"USA"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-52005-7",
+			"Date": "2024-01-19",
+			"Text": "Scardua-Silva et al. performed a cross-sectional case–control study comparing 97 individuals who had experienced mild (non-hospitalized) COVID-19 (median ~79 days after diagnosis) with 77 matched healthy controls. The participants were selected to exclude those with current or prior anxiety or depression. The COVID group reported higher rates of fatigue (83 %), memory complaints, and reduced performance on verbal fluency and logical memory tasks. Using diffusion tensor imaging, the authors detected increased axial diffusivity in white matter tracts compared to healthy controls, indicating possible microstructural changes, while resting-state connectivity did not show significant alterations after correction.",
+			"Twitter": "https://x.com/RolandBakerIII/status/1751272644517998603",
+			"Category": [
+				"Brazil",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"Detection",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-024-45043-2",
+			"Date": "2024-01-26",
+			"Text": "Prior infection with the common cold coronavirus OC43 can prime T cells that recognize SARS-CoV-2. In human-HLA transgenic mice, this pre-exposure lowered SARS-CoV-2 lung virus levels and disease, and the protection depended in part on CD4⁺ T cells. A key cross-reactive CD8⁺ response targeted a conserved nucleocapsid epitope; cross-reactive anti-spike antibodies were not detected.",
+			"Twitter": "https://x.com/ejustin46/status/1751063513307427012",
+			"Category": [
+				"USA",
+				"T cells",
+				"Immune response",
+				"Cross-reactivity",
+				"Natural immunity",
+				"Lungs",
+				"Nucleocapsid",
+				"Interferon",
+				"Positive effect"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.isci.2023.108641",
+			"Date": "2023-12-22",
+			"Text": "🧫Murata et al. developed a 3D human cardiac microtissue (human induced pluripotent stem cell-derived) platform to model persistent SARS-CoV-2 infection, finding that mild infection can persist for at least a month with minimal immediate functional impairment. Under simulated ischemic (hypoxic) stress, however, the tissues show viral reactivation, upregulation of ACE2 and spike protein, functional decline, and vascular disruption. They also measured inflammatory cytokines (IL-6, TNF-α, IL-1β) and found elevation in the culture supernatants after hypoxia/reperfusion stress. Their findings support a scenario where latent or chronic SARS-CoV-2 in the heart might act as a “time bomb,” triggering overt cardiac injury under additional stress.",
+			"Twitter": "https://x.com/ejustin46/status/1753266709119504564",
+			"Category": [
+				"Japan",
+				"Viral persistence",
+				"SARS-CoV-2 mechanics",
+				"Myocarditis",
+				"Endothelium",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmj-2023-075387",
+			"Date": "2024-02-01",
+			"Text": "This BMJ clinical review outlines how to recognise and manage cognitive dysfunction after covid-19 in primary care. Cognitive complaints—commonly memory, attention and concentration problems—are frequent in long covid, fluctuate over time and can substantially limit daily life and work. Many patients improve within a year, but persistence beyond 12 months predicts slower recovery. Evidence on mechanisms is still mixed and heterogeneous. The article recommends a structured assessment: document symptom pattern and functional impact, exclude alternative explanations and red flags, and recognise that routine screens may miss executive-function deficits. Management is supportive—education, pacing and energy management, sleep optimisation, vocational accommodations, cognitive rehab/compensatory strategies, and addressing comorbidities—while acknowledging the absence of proven disease-specific pharmacologic treatments.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1753516792138342463",
+			"Category": [
+				"United Kingdom",
+				"Brain",
+				"Long COVID",
+				"Detection",
+				"Treatment",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.wroa.2024.100221",
+			"Date": "2024-04-04",
+			"Text": "Mutations in the SARS-CoV-2 N gene (specifically in the region targeted by the N1 qPCR probe) can lead to significant underestimation of viral RNA levels in wastewater surveillance using RT-qPCR. The authors combine mutation detection in field wastewater samples over 2021–2022 with controlled experiments using mutant synthetic templates to show that even a single nucleotide change in the probe binding region can reduce assay sensitivity. As a result, N1 results can be depressed relative to N2, particularly during later Omicron waves when such mutations became common. The authors argue that reliance on a single qPCR target is risky in the face of viral evolution. They recommend multiplexing assays, ongoing assay validation, and quality control protocols to ensure wastewater surveillance remains accurate even as SARS-CoV-2 variants emerge and mutate.",
+			"Twitter": "https://x.com/medrxivpreprint/status/1754189334419288380",
+			"Category": [
+				"Canada",
+				"Detection",
+				"Transmission"
 			]
 		}
 	]
