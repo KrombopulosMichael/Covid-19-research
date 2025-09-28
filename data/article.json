@@ -5289,6 +5289,32 @@
 				"Detection",
 				"Transmission"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/ndt/gfae026",
+			"Date": "2024-02-02",
+			"Text": "Osiaevi et al. (2024) propose that capillary rarefication — a permanent or long-lasting reduction in capillary density — may be a contributing mechanism to symptoms in Long COVID. The editorial draws on prior evidence of microvascular and endothelial damage after SARS-CoV-2 infection, and suggests that when capillary networks are diminished, tissues receive less oxygen and nutrients, aggravating fatigue, muscle weakness, and organ dysfunction that characterize Long COVID. They also emphasize that microvascular injury, impaired angiogenesis, and endothelial dysfunction could drive this capillary loss, and recommend further research into interventions aimed at reversing or compensating for microvascular deficits.",
+			"Twitter": "https://x.com/hjanders_hans/status/1754055194361405668",
+			"Category": [
+				"Germany",
+				"Long COVID",
+				"Endothelium",
+				"Immune response",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-44667-0",
+			"Date": "2024-02-05",
+			"Text": "🐁Many viral infections are linked to neurological complications, but the culprit isn’t always the virus itself. In Zika-infected mice, neurological disease tracked with NKG2D⁺ CD8⁺ T-cell infiltration into the brain, not with how much virus was present. Blocking these CD8⁺ cells or their NKG2D receptor prevented paralysis, while cytokine stimulation (IL-12/18) lowered viral load but worsened neurological symptoms, indicating antigen-independent “bystander” cytotoxicity as the damaging mechanism. Thus, CD8⁺ T cells acting through NKG2D can drive neuropathology during viral infection, making this pathway a promising therapeutic target.",
+			"Twitter": "https://x.com/LizBalint/status/1754538945591881998",
+			"Category": [
+				"Canada",
+				"Brain",
+				"T cells",
+				"Immune response",
+				"Nerves"
+			]
 		}
 	]
 }
