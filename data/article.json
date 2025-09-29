@@ -5315,6 +5315,94 @@
 				"Immune response",
 				"Nerves"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41579-021-00542-7",
+			"Date": "2021-04-06",
+			"Text": "This review compares influenza and SARS-CoV-2 in the respiratory tract, examining how viral tropism, host immune responses, and tissue damage intersect to produce a spectrum of disease severities. While the host immune response is essential for clearance, it can also drive pathology, particularly when dysregulated. Influenza binds to sialic acids on epithelial cells (mostly upper airway), with avian vs. human adaptation defined by α2,3 vs. α2,6 linkages. SARS-CoV-2 binds to ACE2 (with TMPRSS2 and other proteases assisting entry), expressed in subsets of ciliated cells, type II alveolar cells, and other epithelia. This narrower receptor distribution partly explains distinct tissue targets and pathogenesis. Influenza tends to infect upper respiratory tract cells more readily (though severe strains can descend into alveoli). SARS-CoV-2 can infect both upper and lower respiratory tract, with significant consequences in alveolar regions and vascular compartments — this contributes to severe pneumonia and ARDS-like pathology. Influenza has a short incubation period (1–2 days) and rapid onset of symptoms, so transmission peaks around or after symptom onset. SARS-CoV-2 has a longer incubation (4–6 days) and allows pre-symptomatic transmission, which has major implications for pandemic spread. Influenza typically induces a brisk interferon response, sometimes protective but also damaging if excessive. SARS-CoV-2 often shows a blunted or delayed interferon response, with later excessive inflammation (e.g., cytokine storm) contributing to pathology. Influenza usually causes epithelial necrosis and damage in conducting airways, with repair via proliferation of basal and alveolar type II cells. SARS-CoV-2 often involves diffuse alveolar damage, endothelial injury, microvascular thrombosis, and sometimes long-lasting epithelial dysplasia or fibrosis — more extensive and protracted repair failure than typical influenza.",
+			"Twitter": "https://x.com/ejustin46/status/1754357307792568391",
+			"Category": [
+				"USA",
+				"Lungs",
+				"Immune response",
+				"Endothelium",
+				"T cells",
+				"Review",
+				"Transmission",
+				"Susceptibility",
+				"Detection",
+				"Influenza",
+				"Cross-reactivity",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S0140-6736(24)01987-1",
+			"Date": "2024-11-01",
+			"Text": "In older adults (age 60+), SARS-CoV-2 infection appears to be temporally associated with an elevated risk of developing new-onset dementia, based on a meta-analysis of observational studies. The stronger associations are observed at longer follow-up intervals (around one year), and more severe COVID-19 may further increase the risk compared to milder cases. The authors note, however, that this increased risk is not clearly higher than risks seen after other respiratory infections like influenza. Because the studies included vary greatly in their design, dementia definitions, follow-up durations, and adjustment covariates the conclusions should be interpreted cautiously.",
+			"Twitter": "https://x.com/BagaiDr/status/1755409559571632239",
+			"Category": [
+				"United Kingdom",
+				"Brain",
+				"Long COVID",
+				"Influenza"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/infdis/jiae037",
+			"Date": "2024-01-25",
+			"Text": "This matched cohort leveraged pre-infection lung tests to quantify how mild COVID-19 alters lung function over time. Compared with uninfected controls, cases showed a significant additional decline in forced expiratory volume in 1 second from before infection to ~6 months after; forced vital capacity behaved similarly. Between 6 and 24 months, the excess decline attenuated and was not significant, and diffusing capacity for carbon monoxide improved modestly, but overall the data suggest incomplete recovery two years after a mild infection.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1755294080114852111",
+			"Category": [
+				"Denmark",
+				"Lungs",
+				"Long COVID",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2215-0366(20)30462-4",
+			"Date": "2020-11-09",
+			"Text": "In a US EHR study of 62k people with COVID-19, new psychiatric diagnoses in the 14–90 days after infection were more common than after several other acute health events, especially for anxiety, insomnia, and (in older adults) dementia. About 18% had any psychiatric diagnosis and ~6% had a first-ever psychiatric diagnosis in that window. People with a psychiatric diagnosis in the prior year were also more likely to receive a COVID-19 diagnosis (RR≈1.65), even after matching on known medical risks—implying a bidirectional association between COVID-19 and psychiatric conditions, while not proving causality.",
+			"Twitter": "https://x.com/DrEricDing/status/1326038189971288064",
+			"Category": [
+				"United Kingdom",
+				"USA",
+				"Brain",
+				"Susceptibility",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmj-2022-072117",
+			"Date": "2022-09-22",
+			"Text": "BMJ’s practice update equips primary care with a structured approach to long covid: recognise common symptom clusters; take a careful history (including post-exertional worsening); rule out alternative causes; and address symptoms with personalised, supportive care. Practical tips include conservative return-to-activity using pacing; screening for autonomic problems; targeted respiratory and sleep management; and attention to mental health, work/benefits, and caregiver needs. Clear referral thresholds and an at-a-glance infographic support day-to-day decisions. The article stresses that evidence for disease-modifying treatments remains limited; most care is symptomatic and rehabilitative, ideally delivered via integrated, community-based services. It highlights the importance of consistent terminology and patient-centred communication, and signposts resources for both clinicians and patients.",
+			"Twitter": "https://x.com/ejustin46/status/1755449891617227191",
+			"Category": [
+				"Long COVID",
+				"Treatment",
+				"United Kingdom",
+				"Review",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2022.38804",
+			"Date": "2022-10-27",
+			"Text": "Using a large, nationally reweighted U.S. online survey of adults with prior test-confirmed COVID-19, the authors estimate that ~14% had symptoms persisting ≥2 months, translating to ~1.7% of U.S. adults at the study timepoint. Older age (above 40) and female sex were linked to higher odds, while higher education, higher income, and living in urban areas were linked to lower odds. Risk appeared lower for infections during Epsilon and Omicron predominance versus ancestral-strain periods, and prior completion of a primary vaccination series was associated with reduced odds of long COVID. Commonly reported symptoms included fatigue, loss of smell, brain fog, memory problems, and sleep disruption.",
+			"Twitter": "https://x.com/DaniBeckman/status/1756117668971880777",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Vaccination",
+				"Omicron",
+				"Self-reported",
+				"Susceptibility",
+				"Mitigation",
+				"Brain",
+				"Mild infection",
+				"Massive study"
+			]
 		}
 	]
 }
