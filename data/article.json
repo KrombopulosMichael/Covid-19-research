@@ -5550,6 +5550,118 @@
 				"Lungs",
 				"Review"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.02.11.24302636",
+			"Date": "2024-02-13",
+			"Text": "Severe long-COVID patients (selected from >1,000 non-hospitalized infections) showed high, persistent anti-SARS-CoV-2 IgG and heightened innate signatures, but blunted expansion of memory CD8⁺ T cells. Plasma viral markers were inconsistently positive across assays, suggesting that serology (elevated IgG) may be a more sensitive surrogate of ongoing antigen exposure than current blood persistence assays. These findings support viral persistence as a driver of severe long COVID and argue for exploring extended antiviral therapy to target potential tissue reservoirs. Symptom/immunologic patterns didn’t form clear clusters, underscoring long COVID’s heterogeneity.",
+			"Twitter": "https://x.com/dlingenfelter/status/1757900747281441001",
+			"Category": [
+				"Sweden",
+				"USA",
+				"Belgium",
+				"Italy",
+				"France",
+				"United Kingdom",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Detection",
+				"Treatment",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s00284-023-03603-7",
+			"Date": "2024-02-14",
+			"Text": "This study followed 55 infected healthcare workers during the Delta wave to compare SARS-CoV-2 viral-load decline after no vaccination, a single ChAdOx1 dose, or two ChAdOx1 doses given <6 weeks apart. By day 5 after PCR positivity, the single-dose group showed significantly lower viral RNA and a faster early decline than both the short-interval double-dose group and the unvaccinated. The authors suggest that when the second ChAdOx1 dose is given too soon, anti-vector (adenoviral) immunity may dampen the desired effect, leading to a slower fall in viral RNA. Because the cohort was small, observational, and confined to Delta-era HCWs, and because outcomes were PCR RNA rather than cultured virus or transmission events, the findings mainly highlight a possible short-term kinetic disadvantage of short-interval ChAdOx1 boosting—not a definitive statement on infectiousness or on other vaccines/variants.",
+			"Twitter": "https://x.com/vipintukur/status/1757975906986152242",
+			"Category": [
+				"India",
+				"Vaccination",
+				"Immune response",
+				"Antibodies",
+				"Detection",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ijregi.2024.01.006",
+			"Date": "2024-01-15",
+			"Text": "This study examined chest CT scans of COVID-19 patients in Vietnam, documenting that lung abnormalities are common even in mild and moderate disease (up to ~45 %) and identifying ground-glass opacities, consolidations, opacities, and nodular lesions as the dominant patterns. Patients infected with the Delta variant had more severe lung injury patterns compared to those with Alpha or Omicron, and individuals vaccinated with at least two doses had lower risk of CT-detectable lung injury. Interestingly, younger patients (<18 years) were less likely to exhibit lung abnormalities, but the extent of lung injury on imaging did not clearly alter treatment outcomes in this cohort. The authors suggest that CT imaging might help detect otherwise subclinical lung damage in COVID-19, even in cases classified clinically as mild, to better guide management and prevent complications. They also interpret that non-Omicron strains tend to impose more lung burden and that vaccination confers a protective effect on lung involvement. However, they note that imaging findings do not necessarily translate into worse outcomes and should be interpreted in clinical context.",
+			"Twitter": "https://x.com/ejustin46/status/1757964626828943854",
+			"Category": [
+				"Vietnam",
+				"Lungs",
+				"Detection",
+				"Vaccination",
+				"Omicron",
+				"Susceptibility",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.02.13.580068",
+			"Date": "2024-09-03",
+			"Text": "Choi et al. conducted a serosurvey among 79 domestic cats in New York City during 2020–2021, detecting SARS-CoV-2–specific antibodies in 16% overall (and up to 44% in fall 2020). Over half of those antibody-positive cats also had measurable neutralizing activity. There was no clear correlation between seropositivity and respiratory symptoms or typical demographic factors. The study supports the notion that spillover from humans to cats occurred during the early pandemic, even if cat infections were largely subclinical. The study is limited by its modest sample size and the fact that the cats were drawn from an animal hospital population rather than a randomized community sample, raising potential sampling bias. Temporal sampling was uneven, and the high prevalence in fall 2020 may reflect selection or outbreak effects rather than stable prevalence. The study is cross-sectional (with limited longitudinal follow-up), so it cannot resolve directionality of transmission (e.g. cat-to-human) or dynamics of viral shedding. Finally, the serological and neutralization assays, while sensitive, cannot distinguish between recent versus past infection, nor necessarily detect low-level exposures.",
+			"Twitter": "https://x.com/ejustin46/status/1758315938321928586",
+			"Category": [
+				"USA",
+				"Preprint",
+				"Detection",
+				"Susceptibility",
+				"Immune response",
+				"Antibodies",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41593-024-01573-y",
+			"Date": "2024-02-16",
+			"Text": "This study profiled post-mortem brainstem, cerebellum, and olfactory tissues from individuals who died of COVID-19 at different disease stages using single-nucleus transcriptomics, spatial transcriptomics, and proteomics. In acute cases, the brainstem showed a pronounced type I interferon inflammatory response that was attenuated in late-phase cases. Spatial mapping revealed two patterns: a neuronal response centered on cranial nerve nuclei and a diffuse perivascular pattern involving oligodendrocytes, microglia, and astrocytes. The authors infer that local immune reactions, likely triggered by systemic inflammation, can disturb brain function without ongoing viral persistence in the CNS. This provides a plausible explanation for neurologic symptoms during and after acute infection and emphasizes neuroinflammation—not direct neurotropism—as a key mechanism.",
+			"Twitter": "https://x.com/vipintukur/status/1758714425601572938",
+			"Category": [
+				"Germany",
+				"Brain",
+				"Immune response",
+				"Interferon",
+				"Endothelium",
+				"Nerves",
+				"Nose"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2024.102500",
+			"Date": "2024-02-05",
+			"Text": "This study used data from the UK Biobank to compare 112,311 individuals with a history of SARS-CoV-2 infection to large control cohorts and found consistently higher risks of developing chronic respiratory diseases such as asthma (HR 1.49), bronchiectasis (1.30), COPD (1.59), interstitial lung disease (1.81), pulmonary vascular disease (1.59), and lung cancer (1.39) over a median follow-up of ~0.8 years (up to 2.7 years). The risks were higher among those with more severe COVID-19, and analyses over time showed that the risk of asthma and bronchiectasis continued rising while risks for COPD, ILD, PVD and lung cancer declined. In those with SARS-CoV-2 reinfection versus a single infection, the hazards for respiratory outcomes were even more elevated (e.g. asthma HR ~3.0).",
+			"Twitter": "https://x.com/vipintukur/status/1758914967812575366",
+			"Category": [
+				"China",
+				"USA",
+				"Lungs",
+				"Long COVID",
+				"Respiratory disease",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Vaccination",
+				"Reinfection",
+				"Treatment",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pgph.0002884",
+			"Date": "2024-02-01",
+			"Text": "In a cohort of 207 Indian adults (mean age 48.7 years, 68.1% male), assessed on average 63 days after COVID-19 onset, 35% exhibited a restrictive ventilatory defect (TLC < 80%), 8.3% had obstructive defect, and 44.4% had reduced diffusing capacity (DLCO < 80%). Those who suffered COVID-19 pneumonia (moderate to critical WHO categories) had significantly worse lung function (e.g. FVC% 77.85 vs 88.18, DLCO% 75.30 vs 89.20), lower exercise oxygen saturations (94.89% vs 97.73%), and worse quality-of-life by SGRQ (mean 29.2 vs 11.0) than the mild group. Additionally, severe/critical cases had more pronounced radiographic abnormalities (RALE score median 1.5 vs 0) and functional deficits.",
+			"Twitter": "https://x.com/BigBadDenis/status/1759361507689968104",
+			"Category": [
+				"India",
+				"Lungs",
+				"Mild infection",
+				"Long COVID"
+			]
 		}
 	]
 }
