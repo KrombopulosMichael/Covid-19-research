@@ -5403,6 +5403,153 @@
 				"Mild infection",
 				"Massive study"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciimmunol.adj9285",
+			"Date": "2024-02-09",
+			"Text": "This human SARS-CoV-2 challenge in previously uninfected adults mapped early immune dynamics in the nose and blood. About half became infected. Interferon-related mediators surged early, T cells (CD4⁺/CD8⁺) activated quickly with proliferative phenotypes, and antibodies emerged around day 10; nasal antibodies plateaued earlier than systemic ones. Statistical modeling linked stronger CD8⁺ T-cell responses and rapid mucosal IgA to better viral control, pointing to these as desirable targets for interventions aimed at reducing viral replication and transmission.",
+			"Twitter": "https://x.com/vipintukur/status/1757834640847745499",
+			"Category": [
+				"Australia",
+				"United Kingdom",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Interferon",
+				"Nose",
+				"Transmission",
+				"Mild infection",
+				"Natural immunity",
+				"Sketchy ethics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/jmv.28722",
+			"Date": "2023-04-16",
+			"Text": "This MR study by Li et al. investigated whether genetic predisposition to COVID-19 (severe disease, hospitalization, or infection) could causally influence the risk of developing various cancers. The authors found “suggestive” evidence that higher liability to severe COVID-19 is associated with increased risks of cancers such as HER2-positive breast cancer, esophageal cancer, colorectal cancer, stomach cancer, and colon cancer; and that liability to infection may be associated with stomach cancer risk. However, these associations were not definitive. The authors addressed pleiotropy and heterogeneity, but the magnitude of the associations is small, and the study is limited by MR assumptions, population stratification, and the possibility that the genetic instruments may act through pleiotropic pathways.",
+			"Twitter": "https://x.com/ejustin46/status/1648028790998593541",
+			"Category": [
+				"Cancer",
+				"China",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.compbiomed.2023.106855",
+			"Date": "2023-04-09",
+			"Text": "Lung cancer and COVID-19 share a number of dysregulated genes, particularly 36 genes whose expression is altered in both disease contexts. These genes cluster in biological processes tied to cell cycle control, DNA repair, immune modulation, and cellular stress responses. Through network analyses, the authors highlight several genes (hub nodes) as potential key mediators, and explore candidate drug compounds that might target these genes or their pathways. Overall, the study suggests that COVID-19 may aggravate lung cancer progression via shared molecular mechanisms, and that some of these molecules may be actionable in the context of co-morbid disease. However, the study is limited in that it is purely computational and based on secondary (public) transcriptomic datasets; there is no experimental or clinical validation of the proposed signatures or drug targets. Moreover, because the datasets derive from different sources (with potential batch effects, differences in sample handling, heterogeneity of patient populations), the overlap of genes may partly reflect technical or sampling artifacts rather than true biological intersection. The approach also does not resolve causality (i.e., whether COVID-19 drives those changes in lung cancer, or vice versa). Finally, since the analysis focuses on lung cancer patients and shared genes, the findings may not generalize to noncancer populations or reflect complexities of the in vivo microenvironment (e.g., spatial heterogeneity, tumor–immune cell interactions).",
+			"Twitter": "https://x.com/ejustin46/status/1652560107283050499",
+			"Category": [
+				"Bangladesh",
+				"Lungs",
+				"Cancer",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fcimb.2023.1280686",
+			"Date": "2023-11-03",
+			"Text": "🐁Kim et al. present a xenograft model in immunodeficient mice using human Calu-3 lung cells to sustain in vivo long-term replication of SARS-CoV-2 over 30 days. Within the tumor xenografts, virus persisted, accumulated mutations (predominantly in the spike protein), and certain variants arose that showed greater replication in the Calu-3 environment without cytopathic effect. When tested in K18-ACE2 mice, the variant isolates were attenuated (less lethal) relative to the parental strain, yet induced cross-reactive neutralizing antibodies and protective immunity upon rechallenge. This model demonstrates how SARS-CoV-2 can evolve under prolonged replication pressure in a permissive tissue niche, yielding variants with altered replication–virulence trade-offs. However, because the host mice are immunodeficient and lack immunological selective pressures, and because the experiment spans only 30 days, the extent to which the mutations and dynamics recapitulate persistent infection in humans is uncertain.",
+			"Twitter": "https://x.com/ejustin46/status/1730064131598713024",
+			"Category": [
+				"Korea",
+				"Cancer",
+				"Lungs",
+				"Viral persistence",
+				"Immune response",
+				"Antibodies",
+				"T cells",
+				"SARS-CoV-2 mechanics",
+				"Transmission"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2023.1166680",
+			"Date": "2023-05-18",
+			"Text": "This review article collates and synthesizes existing evidence on the role of the chaperone protein HSPA5 (GRP78/BiP) when expressed on the cell surface, particularly its overexpression in many cancers and its potential role as a SARS-CoV-2 receptor or cofactor. The authors argue that because HSPA5 is highly expressed in many tumors and possibly upregulated under stress, it represents a plausible alternative or supplementary entry point for the virus, especially in malignancy contexts. They further describe docking and expression analyses suggesting that SARS-CoV-2 spike variants could bind HSPA5, and propose that targeting HSPA5 (via antibodies, small molecules, or natural products) might have therapeutic or prognostic value in both cancer and COVID-19.",
+			"Twitter": "https://x.com/ejustin46/status/1664105454291546113",
+			"Category": [
+				"China",
+				"Egypt",
+				"Review",
+				"SARS-CoV-2 mechanics",
+				"Cancer",
+				"Immune response",
+				"Antibodies",
+				"Natural immunity",
+				"Cross-reactivity",
+				"mRNA vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/cancers6042155",
+			"Date": "2014-10-09",
+			"Text": "Viruses account for roughly 10–15% of human cancers. This review explains that viral oncogenesis converges on DNA damage and genomic instability: viral oncoproteins inactivate tumor suppressors (e.g., p53/pRB) and chronic inflammation/oxidative stress from infection and co-factors (smoking, alcohol, radiation, co-infections) create DNA breaks that fuel mutations and chromosomal aberrations. For viruses like HPV, HBV and MCV, integration of viral DNA into host genomes is a pivotal carcinogenic trigger that elevates oncogene expression; activation yet manipulation of DNA damage response pathways (e.g., ATM/Chk2) further enables transformation. Given decade-long latencies, the authors highlight opportunities for prevention and early interception but note that antioxidant strategies remain unproven. ",
+			"Twitter": "https://x.com/ejustin46/status/1703718059767136574",
+			"Category": [
+				"USA",
+				"Cancer",
+				"Review",
+				"Viral persistence",
+				"Immune response",
+				"Endothelium",
+				"Liver",
+				"Epstein-Barr",
+				"T cells",
+				"Reproductive health"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-023-05874-3",
+			"Date": "2023-04-05",
+			"Text": "The paper shows that ambient PM2.5 is associated with higher rates of EGFR-mutant lung adenocarcinoma in never-smokers across multiple cohorts. In engineered mouse lungs that already carry EGFR/KRAS drivers, brief PM2.5 exposure promotes tumor formation via inflammation—especially macrophage-derived IL-1β—that shifts mutant AT2 cells into a regenerative, tumor-permissive state. Ultra-deep sequencing reveals that many “healthy” lungs already contain rare EGFR or KRAS driver mutations, implying that pollution mainly promotes cancers from existing clones rather than initiating them. This promotion model helps explain lung cancer in never-smokers and underscores the value of air-quality policies and potentially anti-inflammatory interception strategies targeting IL-1β.",
+			"Twitter": "https://x.com/ejustin46/status/1648540507373551616",
+			"Category": [
+				"United Kingdom",
+				"USA",
+				"Serbia",
+				"The Netherlands",
+				"Belgium",
+				"Hungary",
+				"Denmark",
+				"Australia",
+				"Germany",
+				"Sweden",
+				"Taiwan",
+				"Canada",
+				"Korea",
+				"Italy",
+				"Taiwan",
+				"China",
+				"Lungs",
+				"Cancer",
+				"Immune response",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fonc.2022.923467",
+			"Date": "2022-06-07",
+			"Text": "🧫This work demonstrates that the SARS-CoV-2 membrane (M) protein augments malignant characteristics in triple-negative breast cancer (TNBC) cells, enhancing migration, invasion, proliferation, stemness, and metastasis in vivo, mediated through activation of NFκB and STAT3 signaling and upregulation of inflammatory cytokines and EMT genes. In contrast, a more hormone-dependent breast cancer cell line (MCF-7) was less responsive to direct M protein treatment in terms of proliferation and metastasis. Moreover, M protein–treated aggressive BCCs can exert paracrine influences on otherwise non-aggressive BCCs, driving them toward more malignant phenotypes via secreted cytokines and EMT induction. The findings raise the possibility that SARS-CoV-2 infection might exacerbate breast cancer progression, particularly in TNBC patients, and suggest that inhibition of NFκB or STAT3 pathways might ameliorate such adverse effects. However, translation to human disease remains speculative, pending further validation in clinical and primary tumor settings.",
+			"Twitter": "https://x.com/ejustin46/status/1622968728437592064",
+			"Category": [
+				"Japan",
+				"Cancer",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fcell.2023.1149499",
+			"Date": "2023-05-11",
+			"Text": "MALAT1 is a long non-coding RNA that, although non-coding, can influence gene regulation by binding to miRNAs, RNAs, proteins, or chromatin, thereby modulating processes such as apoptosis, proliferation, migration, EMT, and inflammation. This review highlights evidence that MALAT1 is dysregulated in multiple lung pathologies (e.g. asthma, COPD, ARDS, IPF, pulmonary hypertension, lung cancer), with multiple proposed mechanistic axes (miRNA sponging, signaling pathway regulation) linking MALAT1 to disease processes. Experimental targeting of MALAT1 (e.g. via antisense oligonucleotides or pharmacological agents) in preclinical models has shown potential in mitigating lung injury or remodeling. While the review is comprehensive in mapping the literature, the authors also stress that many of the existing findings are from in vitro or animal studies, and causal, in vivo confirmation (especially in human tissues) remains limited. They highlight gaps such as small sample sizes, imbalance or heterogeneity in datasets, lack of mechanistic/histological validation in some disease contexts, and the need for translational and clinical assessment before MALAT1-based diagnostics or therapies can be reliably considered.",
+			"Twitter": "https://x.com/ejustin46/status/1658164453672640529",
+			"Category": [
+				"China",
+				"USA",
+				"Lungs",
+				"Review"
+			]
 		}
 	]
 }
