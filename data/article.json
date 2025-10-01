@@ -1319,8 +1319,10 @@
 			"Text": "In recovered COVID-19 patients, the cell-bound component of mucosal immunity reveals lympho- and eosinopenia. The neutrophils population shows cytodestruction, increased apoptosis, and decreased functional and metabolic activity of the cell.",
 			"Twitter": "https://x.com/RogueVictorian/status/1603605756674285568",
 			"Category": [
+				"Russia",
 				"Immune response",
-				"Nose"
+				"Nose",
+				"Neutrophils"
 			]
 		},
 		{
@@ -5661,6 +5663,91 @@
 				"Lungs",
 				"Mild infection",
 				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/jmv.29671",
+			"Date": "2024-10-02",
+			"Text": "🐁In K18-hACE2 mice, intranasal SARS-CoV-2 caused marked blood-brain barrier (BBB) disruption by 5 days, with IgG leakage, microhemorrhages, loss of ZO-1/Claudin-5, and pericyte depletion. The vasculature showed endothelial activation (VCAM1, COX-2) and brain tissue exhibited astrogliosis (GFAP) and microglial activation (IBA1). Similar barrier breakdown and inflammatory signatures were found at the choroid plexus blood – cerebral spinal fluid (CSF) barrier. Many outcomes were significant with n = 3; p < 0.001. Brain sections stained positive for SARS-CoV-2 nucleocapsid protein.",
+			"Twitter": "https://x.com/ejustin46/status/1756531074920759322",
+			"Category": [
+				"USA",
+				"Brain",
+				"Endothelium",
+				"Immune response",
+				"Nucleocapsid",
+				"Long COVID",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/life14020237",
+			"Date": "2024-02-06",
+			"Text": "This study of 18 patients with peripheral arterial thrombosis (7 of whom had prior SARS-CoV-2 positivity) found SARS-CoV-2 RNA in 50% of endothelial biopsies and all thrombotic clots, with viral nucleoprotein detected in 15% of endothelium and 50% of clots. Patients with viral presence had significantly lower plasma levels of the anticoagulant PROS1, and among them, those whose tissue was positive for virus had even lower PROS1 than those without. Viral entry receptor ACE2 and CD147 were upregulated in affected tissues from SARS-CoV-2–positive patients. The authors propose that in situ vascular persistence of SARS-CoV-2 may enable localized cleavage of PROS1 by the viral papain-like protease (PLpro), impairing anticoagulant balance and contributing to COVID-19–associated coagulopathies.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1757168755224859022",
+			"Category": [
+				"Italy",
+				"Endothelium",
+				"Viral persistence",
+				"SARS-CoV-2 mechanics",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/ofid/ofad635",
+			"Date": "2023-12-18",
+			"Text": "This population-level longitudinal study followed 6,833,423 residents of Madrid over the first three years of the COVID-19 pandemic (2020–2022), linking administrative and clinical registries to quantify confirmed infections, hospitalizations, and 30-day mortality. About 21.4% of residents had a confirmed COVID-19 diagnosis and 1.5% required hospitalization. The 30-day mortality among confirmed infections was 1.6%, declining over time (from 11.4% early 2020 to 0.4% in early 2022), while among hospitalized patients the 30-day mortality was 10.8%, decreasing from 14.0% to 6.0% over the same period. Risk of death was higher with older age, male gender, greater socioeconomic deprivation, and underlying comorbidities, reflecting consistent predictors of worse outcomes. The authors present this as a framework for cross-regional comparisons of COVID-19 burden. However, limitations include possible underascertainment of infections, reliance on administrative coding, lack of variant-level or long-term outcome analyses, and limited generalizability to other settings.",
+			"Twitter": "https://x.com/_MiguelHernan/status/1757078895206256699",
+			"Category": [
+				"USA",
+				"Spain",
+				"Transmission",
+				"Susceptibility",
+				"Immune response",
+				"Vaccination",
+				"Review",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fgene.2022.805903",
+			"Date": "2022-05-23",
+			"Text": "This study used a bidirectional Mendelian randomization framework to test whether genetically determined leukocyte telomere length causally influences COVID-19 susceptibility or severity. Using ~20 LTL‐associated SNPs and large genome-wide association studies (GWAS) datasets from the COVID-19 Host Genetics Initiative (e.g. 38,984 cases vs 1,644,784 controls for susceptibility), the authors found no significant associations in either direction, and no detectable genetic correlation between telomere length and COVID-19 outcomes. Sensitivity analyses and alternate instrument sets yielded consistent null results. While observational studies had linked shorter telomeres to more severe COVID-19, the MR evidence here argues against a strong causal role of telomere length (as proxied by common genetic variants) in COVID-19 risk or severity—at least in European ancestry populations. The authors caution that their power is limited (instruments explain only a small proportion of LTL variance), and nonlinear effects or contributions of extremely short telomeres cannot be excluded.",
+			"Twitter": "https://x.com/narrenhut/status/1756485652106121487",
+			"Category": [
+				"China",
+				"Susceptibility",
+				"Detection",
+				"Review",
+				"Aging"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/ijms22116151",
+			"Date": "2021-06-07",
+			"Text": "In a case–control study of 117 COVID-19 survivors versus 144 controls, the authors report significant biological age acceleration in survivors (DeltaAge 10.45 ± 7.29 years vs 3.68 ± 8.17; p < 0.0001). 76.6% of survivors were classified as biologically “older” than expected. The effect was strongest in participants <60 years, with no sex differences. Survivors also had shorter leukocyte telomeres (3.03 ± 2.39 kb vs 10.67 ± 11.69 kb, p < 0.0001) and lower ACE2 mRNA in blood (0.000380 vs 0.001390 2^−ΔCt; p < 0.0001); DPP-4 expression was unchanged. The authors suggest SARS-CoV-2 may leave a persistent aging-like epigenetic and telomeric footprint consistent with post-COVID sequelae. However, the study is cross-sectional without pre-infection baselines, uses a limited 4-CpG clock, and shows group imbalances (e.g., BMI, lung disease). Results should be validated with longitudinal, multi-clock epigenetic profiling and standardized TL assays across diverse tissues and cohorts.",
+			"Twitter": "https://x.com/yaneerbaryam/status/1475459017480810497",
+			"Category": [
+				"Italy",
+				"Long COVID",
+				"Aging",
+				"SARS-CoV-2 mechanics",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(23)00815-0",
+			"Date": "2024-02-07",
+			"Text": "This review argues that persistent SARS-CoV-2 infection—ongoing replication lasting well beyond the acute phase—occurs in a subset of patients, particularly the immunocompromised, and is likely under-recognized. The authors highlight tissue reservoirs (including outside the lungs) as a key driver, emphasize the need for diagnostics that detect replication rather than mere exposure, and warn that within-host evolution during these prolonged courses can generate variants with immune-escape potential. They call for standardized definitions, tailored treatment strategies (e.g., extended/combination antivirals and case-specific antibody approaches), and surveillance to track intra-host evolution and potential spread.",
+			"Twitter": "https://x.com/BagaiDr/status/1757221353529422188",
+			"Category": [
+				"USA",
+				"Viral persistence",
+				"Review",
+				"Detection",
+				"Treatment",
+				"Immune response",
+				"Transmission"
 			]
 		}
 	]
