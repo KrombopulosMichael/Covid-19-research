@@ -718,7 +718,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41586-024-07029-4",
 			"Date": "2023-01-30",
-			"Text": "In this study, the authors used large-scale genomic surveillance data from the UK (Office for National Statistics COVID Infection Survey, ONS-CIS) covering November 2020 to August 2022, to estimate how often SARS-CoV-2 infections persist beyond typical durations. They identified 381 people whose viral RNA levels remained at high titre for at least 30 days, and among those 54 had persistence of at least 60 days. They estimate that about 0.7-3.5% of infections persist ≥ 30 days, and about 0.1-0.5% persist ≥ 60 days. People with persistent infections were ~55% more likely to self-report Long COVID (i.e. post-acute COVID-19 symptoms) than people whose infections cleared more quickly, however, Only 9% of people with persistent SARS-CoV-2 infection reported having Long COVID",
+			"Text": "In this study, the authors used large-scale genomic surveillance data from the UK (Office for National Statistics COVID Infection Survey, ONS-CIS) covering November 2020 to August 2022, to estimate how often SARS-CoV-2 infections persist beyond typical durations. They identified 381 people whose viral RNA levels remained at high titre for at least 30 days, and among those 54 had persistence of at least 60 days. They estimate that about 0.7-3.5% of infections persist ≥ 30 days, and about 0.1-0.5% persist ≥ 60 days. People with persistent infections were ~55% more likely to self-report Long COVID (i.e. post-acute COVID-19 symptoms) than people whose infections cleared more quickly, however, only 9% of people with persistent SARS-CoV-2 infection reported having Long COVID",
 			"Twitter": "https://x.com/Aguirre1Gustavo/status/1620946352850042880",
 			"Category": [
 				"Viral persistence",
@@ -2418,7 +2418,8 @@
 			"Twitter": "https://x.com/RadCentrism/status/1658603397451481089",
 			"Category": [
 				"Brain",
-				"SARS-CoV-2 mechanics"
+				"SARS-CoV-2 mechanics",
+				"USA"
 			]
 		},
 		{
@@ -5748,6 +5749,119 @@
 				"Treatment",
 				"Immune response",
 				"Transmission"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.amjmed.2024.02.010",
+			"Date": "2025-02-11",
+			"Text": "This cross-sectional study of U.S. adults using the 2022 BRFSS survey estimated that about 21.7 % of people with prior COVID-19 reported persistent post-COVID symptoms. The most common complaints were fatigue (5.7 %), shortness of breath (4.2 %), and loss of smell or taste (3.8 %). After adjusting for covariates, risk factors for long COVID included female sex, overweight or obesity (BMI ≥ 25), being uninsured, prior pulmonary disease, depression, arthritis, former smoking status, and shorter sleep duration (< 7 hours). Older age (> 64 years), Black race, and higher household income were paradoxically associated with lower odds of reporting long COVID.",
+			"Twitter": "https://x.com/Yash25571056/status/1760060638511165632",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Self-reported",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41593-024-01576-9",
+			"Date": "2024-02-22",
+			"Text": "This study links brain fog in long COVID to blood–brain barrier (BBB) leakiness measured with DCE-MRI in 11 brain-fog patients versus 11 long-COVID without brain fog and 10 recovered controls; leakage localized to bilateral temporal and frontal regions. Blood profiling in 76 acute COVID patients showed graded increases in inflammatory and endothelial/coagulation markers with severity, and higher S100β in those with brain fog. Structural MRI (vs 60 healthy controls) found reduced brain/white-matter volumes and increased CSF in brain-fog patients, with BBB disruption correlating with these changes. Mechanistically, PBMC RNA-seq suggested coagulation dysregulation and dampened adaptive immunity in brain-fog; long-COVID PBMCs adhered more to brain endothelium, and patient serum or S1 spike protein activated endothelial cells (↑TNF/TGFβ/ICAM1/VCAM1). The authors propose that sustained systemic inflammation plus focal BBB dysfunction underlies cognitive symptoms and highlight TGF-β as a candidate biomarker/target.",
+			"Twitter": "https://x.com/DaniBeckman/status/1760771622590623982",
+			"Category": [
+				"Ireland",
+				"Brain",
+				"Long COVID",
+				"Endothelium",
+				"Immune response",
+				"T cells",
+				"SARS-CoV-2 mechanics",
+				"Detection",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.adl0867",
+			"Date": "2024-02-22",
+			"Text": "This article argues that the enigma of long COVID offers a unique opportunity to understand how a viral infection can transition into a chronic, multi-system disease. The authors survey plausible biological mechanisms—viral persistence, immune dysregulation, endothelial/microvascular injury, latent virus reactivation, autonomic dysfunction, and metabolic disruption—while emphasizing that long COVID is likely heterogeneous rather than a single uniform disease. They call for deeper mechanistic, tissue-based, and longitudinal studies to discriminate causal drivers from secondary signals. They also highlight that some early empirical findings support components of this framework (e.g. persistent viral antigens in plasma, viral RNA in tissues), but emphasize the urgent need for stronger causal evidence, standardized cohorts, biomarker platforms, and interventional trials. The authors conclude that solving long COVID could illuminate general principles of post-infectious sequelae and pave the path toward precision therapeutics.",
+			"Twitter": "https://x.com/_CatintheHat/status/1760757295728750770",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"Endothelium",
+				"T cells",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmjopen-2023-073084",
+			"Date": "2024-02-21",
+			"Text": "This WHO-affiliated systematic review/meta-analysis pooled 182 studies (10,023 participants) to quantify SARS-CoV-2 RNA in body fluids relevant to sexual activity. Pooled detection was 82.6% in saliva, 31.8% in faeces/rectal swabs, 3.8% in urine, 2.7% in vaginal secretions, and 1.6% in semen; viable virus was reported in saliva and faeces. Reported maximum persistence reached 210 days in faeces/rectal secretions, 121 days in semen, 112 days in saliva, 77 days in urine, and 13 days in vaginal fluids. The findings suggest that while sexual transmission via semen/vaginal fluids appears unlikely (low detection and no culture positivity), intimate contact remains a risk through saliva and potential faecal exposure.",
+			"Twitter": "https://x.com/ejustin46/status/1761228234413294079",
+			"Category": [
+				"Switzerland",
+				"Cuba",
+				"Brazil",
+				"USA",
+				"Uruguay",
+				"Transmission",
+				"Detection",
+				"Gastrointestinal",
+				"Oral",
+				"Reproductive health",
+				"Viral persistence",
+				"Review",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-023-43661-w",
+			"Date": "2023-11-30",
+			"Text": "Using a nationwide Scottish cohort of 198,096 adults (98,666 infected; 99,430 matched never-infected), the authors estimated the true prevalence of long-COVID by subtracting background symptom rates seen in never-infected people and adjusting for confounders. They found an adjusted attributable prevalence of 6.6% at 6 months, 6.5% at 12 months, and 10.4% at 18 months after infection; crude gaps were 13.8%, 12.8%, and 16.3%, respectively. Attributable prevalence was higher in women and in later variant periods (Alpha ~3.9% vs Delta ~6.7% and Omicron ~7.9% at 6 months). Because symptoms are largely non-specific and assessment relied on self-report with PCR-based ascertainment (no antigen tests), misclassification and residual confounding remain important limitations.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1762528197143400754",
+			"Category": [
+				"United Kingdom",
+				"Long COVID",
+				"Omicron",
+				"Self-reported",
+				"Massive study",
+				"Vaccination",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(25)00476-1",
+			"Date": "2025-09-30",
+			"Text": "In a RECOVER-EHR study across 40 U.S. pediatric hospitals during the Omicron (Jan 2022–Oct 2023) period, the 6-month incidence of Long COVID was ~904 per million after a first infection vs ~1,884 per million after a second—more than doubling risk. Elevated risks spanned demographics, vaccination status, and initial illness severity. Sequelae with higher post-reinfection risk included myocarditis, blood clots, acute kidney injury, respiratory symptoms, fatigue, and cognitive issues. ",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1973196319461351542",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Reinfection",
+				"Kids",
+				"Omicron",
+				"Vaccination",
+				"Myocarditis",
+				"Lungs",
+				"Kidney",
+				"Brain",
+				"Pain",
+				"Nerves",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s13052-024-01609-w",
+			"Date": "2024-02-27",
+			"Text": "This prospective observational study in Turkey compared 30 infants who had SARS-CoV-2 infection in the neonatal period (≥ 34 weeks gestation) with 60 matched controls to assess neurodevelopment at 18–24 months using the Bayley-II scale. The SARS-CoV-2–positive group showed worse psychomotor development (PDI) and more mildly delayed performances (MDPs; PDI p = 0.05, MDPs p = 0.03). Among those infected with the Delta variant, both mental (MDI) and psychomotor (PDI) scores were significantly lower (p = 0.03 for both). The infected infants also had reduced head circumference during the first year (p < 0.001), though by the second year, the head circumference difference had largely resolved.",
+			"Twitter": "https://x.com/outbreakupdates/status/1762674857337049162",
+			"Category": [
+				"Turkey",
+				"Brain",
+				"Newborns",
+				"Kids"
 			]
 		}
 	]
