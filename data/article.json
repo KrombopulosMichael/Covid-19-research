@@ -253,12 +253,13 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.cell.2022.06.008",
 			"Date": "2022-06-12",
-			"Text": "🐁Respiratory COVID impairs hippocampal neurogenesis, causes prominent neuroinflammation including persistent loss of oligodendrocytes and myelinated axons.",
+			"Text": "🐁Mild respiratory SARS-CoV-2 infection in mice, even without neuroinvasion, triggers persistent white-matter–selective microglial activation, reduced hippocampal neurogenesis, oligodendrocyte loss, and myelin degradation well after viral clearance. Elevated levels of the chemokine CCL11 are found in cerebrospinal fluid/serum of infected mice, and systemic CCL11 treatment in naïve mice reproduces microglial reactivity and blunted neurogenesis. In human post-COVID cases with lingering cognitive (“brain fog”) symptoms, plasma CCL11 levels are higher than in those without such symptoms, and postmortem brain tissue shows increased microglial reactivity in white matter compared to controls. By comparing with mild influenza infection, the authors show that while some neural changes are shared, the persistence of white-matter microglial activation and oligodendroglial/myelin loss appears more sustained in the SARS-CoV-2 setting. These findings suggest mechanisms linking even mild COVID infection to enduring cognitive deficits via neuroinflammation, white-matter injury, and chemokine-mediated microglial dysregulation. However, limitations include small human sample sizes, correlative human findings, lack of stratification by age/variant/vaccination, and reliance on a specific mouse model that may not capture the full spectrum of human disease.",
 			"Twitter": "https://x.com/michelle_monje/status/1536262549502676996",
 			"Category": [
 				"USA",
 				"Brain",
 				"Nerves",
+				"Influenza",
 				"Mild infection"
 			]
 		},
@@ -1887,6 +1888,7 @@
 			"Text": "In approximately one-quarter of mild-COVID-19 individuals, a specific visuoconstructive deficit was detected, which was associated with changes in molecular and structural brain imaging, and correlated with upregulation of peripheral immune markers. The findings provide evidence of neuroinflammatory burden causing cognitive deficit, in an already large and growing fraction of the world population.",
 			"Twitter": "https://x.com/quervain_de/status/1542898152805728260",
 			"Category": [
+				"Brazil",
 				"Brain",
 				"Motor skills",
 				"Mild infection"
@@ -5862,6 +5864,166 @@
 				"Brain",
 				"Newborns",
 				"Kids"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.48101/ujms.v128.9807",
+			"Date": "2023-10-11",
+			"Text": "This paper reports on four individuals with B-cell depletion (from rituximab, one also on epcoritamab) who developed persistent SARS-CoV-2 infection over periods from 45 to 242 days, which was difficult to diagnose because upper airway PCR tests occasionally became negative; in two cases, only bronchoalveolar lavage (BAL) sampling revealed persistent viral presence. After the persistent infection was identified, all four patients were treated with antiviral therapies (including remdesivir, nirmatrelvir/ritonavir, or a combination), and viral clearance was eventually achieved in all.",
+			"Twitter": "https://x.com/LongDesertTrain/status/1762637824543650292",
+			"Category": [
+				"Sweden",
+				"Viral persistence",
+				"Immune response",
+				"Antibodies",
+				"Treatment",
+				"Detection",
+				"B cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s13690-023-01225-w",
+			"Date": "2023-12-13",
+			"Text": "In a cohort of 7,039 undergraduates at a Spanish university during the 2020–21 year, 658 (9.3 %) were diagnosed with COVID-19 via frequent PCR testing. Among the infected, only 4.0 % achieved “outstanding academic” performance versus 7.3 % in the uninfected group. Adjusted regression analysis yielded an odds ratio of 0.57 (95 % CI 0.38–0.86), indicating that SARS-CoV-2 infection was significantly associated with lower likelihood of top academic marks. ",
+			"Twitter": "https://x.com/pjavidan/status/1762977452241158561",
+			"Category": [
+				"Spain",
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Self-reported",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-55191-6",
+			"Date": "2024-02-29",
+			"Text": "In a case–control study six months after COVID-19 (n=37 convalescents; controls n=40), the authors found reduced PD-1 on CD8+ T cells in convalescents and elevated plasma IFN-γ (with lower IL-7). Convalescent plasma lowered PD-1 on T cells from healthy donors, and IFN-γ neutralization restored PD-1 on CD8+ cells. Spike protein—but not nucleocapsid—provoked IFN-γ responses only in convalescents (ELISpot n=6). Single-cell analyses and perturbation experiments suggest IFN-γ reduces PD-1 via the AKT/GSK3β pathway (AKT agonism and inhibition modulated PD-1 and p-GSK3β accordingly). About 35% reported lingering symptoms. Overall, the work proposes an IFN-γ↔PD-1 axis that could sustain pre-exhausted CD8+ T cells months after infection, a potential immunologic substrate for long-COVID features.",
+			"Twitter": "https://x.com/vipintukur/status/1763389473335943369",
+			"Category": [
+				"China",
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"Interferon",
+				"Antibodies",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciadv.adf9742",
+			"Date": "2023-06-23",
+			"Text": "This study uses a Bayesian hierarchical model to generate monthly estimates of excess mortality in 3,127 U.S. counties from March 2020 to February 2022, finding 1,179,024 excess deaths during that period (634,830 in the first year, 544,194 in the second). The relative excess mortality (excess vs expected deaths) fell in large metropolitan counties from ~24.0 % in year 1 to ~17.1 % in year 2, while it rose in non-metropolitan areas from ~20.2 % to ~21.9 %. The spatial pattern of excess deaths shifted over time: early in the pandemic, excess mortality clustered in large urban counties (especially in the Northeast), but later waves brought stronger increases in rural counties, particularly in the South and West. The authors attribute part of this shift to differential vaccination uptake, rural health resource constraints, and challenges in accurate death attribution, and call for more attention to rural communities and improvements in mortality surveillance.",
+			"Twitter": "https://x.com/RadCentrism/status/1763668151957626936",
+			"Category": [
+				"USA",
+				"Vaccination",
+				"Massive study",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-55148-9",
+			"Date": "2024-03-01",
+			"Text": "Researchers profiled PBMC immune subsets in 24 children and 41 adults with first-wave, primary SARS-CoV-2 infection (sampling at ~11–12 days post-symptom onset), analyzed 57 adult samples across mild/moderate/severe disease, and followed 18 adults through recovery. Adults displayed more lung-homing CCR4+ CD8+ T cells and exhausted CD56^dim NK cells, while children had fewer lung-homing CD8 cells and an IFN-prone CD56^bright NK exhaustion profile; children also showed more CD5+ translational B cells. Severity-linked patterns included higher IgM memory B cells and atypical CD11c+ IgD+CD27+ B2 cells in mild cases, versus more Igs− B cells, CD56^dim CX3CR1+ NK, CCR6^hi CD28^hi CD4 T_cm, and PD-1+ TIGIT+ CD8 T_em in severe cases. Several severity-associated subsets (e.g., IgM memory B cells) remained stable during recovery (~2 months), suggesting baseline immune features tied to susceptibility; others (e.g., CX3CR1+ NK) declined (p = 3.0×10⁻³), consistent with infection-related signatures.",
+			"Twitter": "https://x.com/vipintukur/status/1763800875515179358",
+			"Category": [
+				"Netherlands",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"NK cells",
+				"Kids",
+				"Interferon",
+				"Mild infection",
+				"Susceptibility",
+				"Cross-reactivity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.7326/M23-1831",
+			"Date": "2024-03-05",
+			"Text": "This study, leveraging large national cohorts in South Korea and Japan, found that individuals who had COVID-19 between 2020–2021 had a modestly elevated risk of developing autoimmune inflammatory rheumatic diseases (AIRD) over the subsequent months compared to matched uninfected controls (adjusted hazard ratio ~1.25 in Korea) and compared to individuals with influenza (aHR ~1.30). The risk was higher in those with more severe acute COVID-19, and similar patterns were observed across both countries. Vaccination against COVID-19 appeared to attenuate the increased risk, except in the subgroup with severe infection.",
+			"Twitter": "https://x.com/zalaly/status/1765146706595684606",
+			"Category": [
+				"Autoimmunity",
+				"Long COVID",
+				"Vaccination",
+				"USA",
+				"South Korea",
+				"Spain",
+				"United Kingdom",
+				"France",
+				"Iran",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://www.croiconference.org/abstract/persistence-of-sars-cov-2-in-platelets-and-megakaryocytes-in-long-covid/",
+			"Date": "2024-03-03",
+			"Text": "In a study of 30 Long COVID patients (symptoms > 3 months), 10 recovered COVID individuals, and 20 healthy controls, the authors report that megakaryocytes (MKs) in Long COVID patients are more frequent in peripheral blood (0.28 ± 0.05% vs. 0.03 ± 0.02% in healthy) and carry both SARS-CoV-2 single- and double-stranded RNA and Spike protein. These virus-harboring MKs appear to produce platelets that also contain viral RNA and Spike, and microclots were observed in all Long COVID participants. Additionally, about 30% of Long COVID patients had detectable Spike protein in plasma (at picogram levels), and levels of platelet serotonin and the enzyme TPH-1 were significantly reduced in LC versus recovered individuals.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1764714305453273394",
+			"Category": [
+				"Preprint",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Viral persistence",
+				"Detection",
+				"Immune response",
+				"Megakaryocytes",
+				"Platelets"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1056/NEJMc2311200",
+			"Date": "2024-02-28",
+			"Text": "In a large Norwegian cohort (~112k people with known test status; ~153k questionnaires), self-reported memory function (Everyday Memory Questionnaire (EMQ), 0–4 scale) was consistently worse after a positive SARS-CoV-2 test than after a negative test, across 0–36 months. Adjusted mean EMQ scores for positives vs negatives were 0.66 vs 0.60 at 0–1 month and 0.82 vs 0.62 at 12–18 and 18–36 months; the two groups were similar before testing (0.61 vs 0.60). Worse scores tracked with more days bedridden (e.g., 1.29 if >13 days). The authors emphasize these are mild deficits on average and self-reported. Limitations include potential recall and response bias, residual confounding, and lack of objective cognitive testing. Still, the pattern suggests a persistent association between COVID-19 and perceived memory problems up to three years post-infection.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1765417900549030188",
+			"Category": [
+				"Norway",
+				"Brain",
+				"Long COVID",
+				"Self-reported",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s00431-024-05503-9",
+			"Date": "2024-03-06",
+			"Text": "In a pediatric case-control study (56 long-COVID patients vs 27 controls; mean ages ~10 y), 24-hour Holter analyses found significant heart-rate-variability (HRV) shifts in the long-COVID group: lower r-MSSD and higher VLF, LF, and HF power. Conventional echocardiography was normal in both groups. These findings suggest a cardiac autonomic imbalance—with relative parasympathetic predominance—as a physiologic correlate of long-COVID symptoms in youth.",
+			"Twitter": "https://x.com/outbreakupdates/status/1765546935518113945",
+			"Category": [
+				"Italy",
+				"Long COVID",
+				"Kids",
+				"Nerves",
+				"Detection",
+				"Myocarditis"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-024-45641-0",
+			"Date": "2024-02-23",
+			"Text": "In a virology sub-study nested within the PANORAMIC trial, nonhospitalized, at-risk adults with early symptomatic SARS-CoV-2 infection were randomized to receive a 5-day course of molnupiravir (n = 253) or usual care (n = 324). Although molnupiravir accelerated viral decline during treatment (viral half-life ~0.41 days vs ~0.72 days in usual care), by Day 14 the molnupiravir group showed significantly higher viral RNA persistence and lower anti-spike antibody titers (~2,200 U/mL lower). Modeling suggested that to suppress viral RNA below detection in 95 % of patients might require a longer (≈10-day) regimen. Genomic sequencing revealed that molnupiravir-treated viruses carried increased mutational burdens (on average ~180 extra mutations, higher transition:transversion ratios) and greater diversity. Among residual virus, ~16.7 % of tested samples were culture-positive, with some viable virus detectable up to 9 days post-treatment. No strong signal of consensus-level spike escape mutations was found yet several recurrent substitutions in polymerase and nonstructural proteins emerged. The authors caution that the standard 5-day molnupiravir course may be too short, potentially risking persistence of mutated virus and attenuated antibody responses, and they suggest that longer treatment durations warrant investigation.",
+			"Twitter": "https://x.com/michaelzlin/status/1765292479690018895",
+			"Category": [
+				"Molnupiravir",
+				"United Kingdom",
+				"South Africa",
+				"Treatment",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "doi: https://doi.org/10.1101/2024.03.05.24303816",
+			"Date": "2024-03-07",
+			"Text": "This preprint reports that 25 adults who had mild to moderate COVID-19 showed on average a 2.65-year increase in MRI-predicted brain age (Brain Age Gap) compared to 24 noninfected controls, and 80% of the COVID group displayed accelerated brain aging versus 13% in controls. The elevated BAG correlated with poorer performance on cognitive tests assessing attention, processing speed, and executive function. Female sex strongly reduced the odds of accelerated aging (OR = 0.015), and a longer interval since infection was modestly associated with reduced risk of accelerated BAG.",
+			"Twitter": "https://x.com/inkblue01/status/1765855075711279147",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Preprint"
 			]
 		}
 	]
