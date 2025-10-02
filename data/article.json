@@ -302,11 +302,13 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41586-022-04569-5",
 			"Date": "2022-02-21",
-			"Text": "SARS-CoV-2 is associated with changes in brain structure in UK Biobank study.",
-			"Twitter": "https://x.com/ObservingAngel/status/1655783680839909380",
+			"Text": "In a longitudinal UK Biobank study of 785 older adults (mean 141 days from infection to second scan), those with SARS-CoV-2 infection (n=401) had greater grey-matter loss (≈0.2–2%) and tissue-damage markers mainly in olfactory/limbic regions (parahippocampal gyrus, orbitofrontal cortex, anterior cingulate, insula), plus greater global brain volume loss/increased CSF relative to 384 controls. They also showed slower Trail Making performance (+7.8% A; +12.2% B). Findings were present even after removing the 15 hospitalized cases and suggest involvement of olfactory pathways, but mechanisms and durability remain uncertain given the older, mostly mild cohort and short follow-up.",
+			"Twitter": "https://x.com/sciam/status/1767889512863003100",
 			"Category": [
 				"Brain",
-				"Massive study"
+				"United Kingdom",
+				"Massive study",
+				"Mild infection"
 			]
 		},
 		{
@@ -6024,6 +6026,79 @@
 				"Brain",
 				"Long COVID",
 				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fresc.2023.1122673",
+			"Date": "2023-04-28",
+			"Text": "This mini-review (April 28, 2023) compiles evidence that Long COVID disproportionately affects premenopausal women and can disrupt female reproductive health—menstrual cycles, ovarian function, fertility, and symptom patterns around menses—while also interacting with pregnancy and menopause. Data points include 33.8% reporting menstrual problems in a 1,792-person LC survey (irregular cycles 26%; heavy bleeding 19.7%) and higher odds of cycle changes vs. general populations (OR 1.34). Case reports describe premature ovarian insufficiency months after infection; in a small prospective cohort of COVID-positive pregnant patients (n=84), 75.9% developed LC-consistent persistence, and glucocorticoid exposure was linked to greater risk of persistent fatigue (RR 6.92). Given the paucity of direct LC studies, the authors review overlapping conditions common in LC—ME/CFS, POTS, EDS, endometriosis—conditions that are 70–80% female and carry elevated risks of dysmenorrhea, amenorrhea/oligomenorrhea, dyspareunia, infertility, fibroids/bleeding, and adverse pregnancy outcomes.",
+			"Twitter": "https://x.com/lisa_iannattone/status/1672668654620618763",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Reproductive health",
+				"Immune response",
+				"Autoimmunity",
+				"Viral persistence",
+				"Endothelium",
+				"Self-reported",
+				"Susceptibility",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/cells13060478",
+			"Date": "2024-03-08",
+			"Text": "Tang et al. performed a comparative cross-sectional study of plasma soluble factors and neuronal-enriched extracellular vesicle (nEV) cargo in 33 individuals with persistent neurological symptoms after COVID-19 (nLongC), 12 recovered individuals without lingering symptoms (Cov), and 28 pre-COVID healthy controls. They found that IL-1β was elevated in both COVID-19 groups, while IL-8 was elevated only in the nLongC group; BDNF and cortisol were also increased in both groups compared to controls. In nEVs, the nLongC group showed marked upregulation of proteins linked to neurodegeneration (Aβ42, pTau181, TDP-43, etc.), whereas the Cov group showed more limited changes (only Aβ40). These findings support the hypothesis that SARS-CoV-2 infection can lead to chronic peripheral inflammation and sustained stress responses, and may drive pathological changes in neuronal vesicle cargo associated with neurodegeneration.",
+			"Twitter": "https://x.com/outbreakupdates/status/1767349018244354058",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Immune response",
+				"Brain",
+				"Nerves",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jinf.2024.106130",
+			"Date": "2024-02-29",
+			"Text": "In a large adaptive, community-based randomized trial (PRINCIPLE), Hayward et al. tested ivermectin (300–400 μg/kg daily for 3 days) versus usual care in 8,811 SARS-CoV-2 positive adult outpatients. The ivermectin arm had a modest acceleration in time to self-reported recovery (HR 1.15, median ~2.06 days faster), but the probability that this effect reached a pre-specified clinically meaningful threshold (HR ≥ 1.2) was low (≈ 19 %). Hospitalization or death outcomes did not differ (OR 1.02, CrI 0.63–1.62), and long-term recovery (e.g. at 6 months) was similar between groups (74.3 % vs 71.2 %).",
+			"Twitter": "https://x.com/GidMK/status/1767344122254475699",
+			"Category": [
+				"United Kingdom",
+				"South Africa",
+				"USA",
+				"Ivermectin",
+				"Treatment",
+				"Immune response",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/1471-2377-11-37",
+			"Date": "2011-03-24",
+			"Text": "This case‐control study evaluated 22 SARS survivors unable to resume work 13 to 36 months post-infection and compared them with healthy controls and fibromyalgia patients. The post-SARS group exhibited persistent fatigue, diffuse muscle pain, depression, and unrefreshing sleep. In polysomnography, they showed signs of sleep instability—elevated cyclical alternating pattern rates, REM-related apneas/hypopneas, and an alpha EEG anomaly—paralleling features seen in fibromyalgia and chronic fatigue syndrome.",
+			"Twitter": "https://x.com/KevinBardosh/status/1239044407141130240",
+			"Category": [
+				"Canada",
+				"Brain",
+				"Long COVID",
+				"Self-reported",
+				"Pain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41591-022-02001-z",
+			"Date": "2022-09-22",
+			"Text": "In a cohort study leveraging US Veterans Affairs healthcare data, Xu et al. (2022) assessed the 12-month risk of new neurologic disorders in 154,068 individuals who survived the acute phase of COVID-19, comparing them to over 5.6 million contemporary controls and 5.9 million historical controls. They found a hazard ratio of ~1.42 (95% CI 1.38–1.47) for any incident neurologic outcome, corresponding to an excess burden of ~70.7 cases per 1,000 persons over 12 months. Elevated risks were seen across diverse domains — cerebrovascular disease, memory and cognition, peripheral nerve disorders, movement disorders, mental health, sensory and musculoskeletal manifestations, Guillain–Barré syndrome, and encephalitis/encephalopathy. These risks held even for nonhospitalized COVID-19 cases and increased in severity with more intensive acute care settings.",
+			"Twitter": "https://x.com/sciam/status/1767889512863003100",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Nerves",
+				"Massive study"
 			]
 		}
 	]
