@@ -32,10 +32,15 @@
 		{
 			"ArticleURL": "https://doi.org/10.1007/s10456-022-09850-9",
 			"Date": "2022-08-11",
-			"Text": "Compared with healthy controls, the capillary density of Long COVID patients was decreased by 41%. Data strongly suggest that COVID leaves persistent capillary rarefication even 18 months after infection.",
+			"Text": "n a prospective study of 58 adults—including 27 long-COVID patients roughly 18 months post-infection—high-resolution sublingual videomicroscopy showed a 41% reduction in capillary density restricted to the smallest vessels (D5–D7 classes: −45%, −36%, −23%). Despite normalized glycocalyx dimensions, the Microvascular Health Score was significantly worse in long-COVID (2.72 vs 3.87 in controls; p = 0.002), and capillary recruitment was blunted (29% vs 70%), indicating a fixed, poorly adaptable microvascular bed. These abnormalities did not improve over time across ~1.5 years and were linked to neurocognitive complaints (lower density; p = 0.049).",
 			"Twitter": "https://x.com/loscharlos/status/1557835199039168512",
 			"Category": [
-				"Long COVID"
+				"Germany",
+				"Netherlands",
+				"Long COVID",
+				"Endothelium",
+				"Brain",
+				"Detection"
 			]
 		},
 		{
@@ -6099,6 +6104,188 @@
 				"Long COVID",
 				"Nerves",
 				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2589-7500(23)00093-6",
+			"Date": "2023-08-01",
+			"Text": "In this large retrospective cohort study of 106,428 individuals with deliveries across seven U.S. states, COVID-19 vaccination during pregnancy (≥2 mRNA doses) was associated with lower maternal SARS-CoV-2 infection rates (4.0% vs. 5.3%, p < 0.0001) and improved birth outcomes (preterm birth 7.9% vs. 9.4%, stillbirth 0.3% vs. 0.6%, very low birthweight 1.0% vs. 1.5%) compared to matched unvaccinated individuals. Boosted pregnant individuals (≥3 doses) showed further reduction in infection (3.2% vs. 5.6%, p < 0.0001) and a lower stillbirth risk (0.3% vs. 0.5%, p < 0.025) relative to vaccinated but unboosted peers, though differences in preterm birth and very low birthweight did not reach statistical significance.",
+			"Twitter": "https://x.com/IanCopeland5/status/1767997182068617598",
+			"Category": [
+				"USA",
+				"Vaccination",
+				"Kids",
+				"Newborns",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.15585/mmwr.mm7225a3",
+			"Date": "2023-06-23",
+			"Text": "Across 18 U.S. jurisdictions (≈45% of population), the share of COVID-19 cases that were reinfections jumped from 2.7% during Delta to 10.3% (BA.1), 12.5% (BA.2), 20.6% (BA.4/BA.5), and 28.8% during BQ.1/BQ.1.1; overall 12.7% of 21.9 million cases were reinfections. The share of hospitalizations occurring during reinfections rose from 1.9% (Delta) to 17.0% (BQ.1/BQ.1.1); for deaths, from 1.2% to 12.3% across the same periods. The median time between infections peaked at 411 days (mid-Feb 2022) and later shortened to 335 days in mid-June 2022 before ending the year at 367 days. Findings indicate increasing reinfection frequency and growing shares of severe outcomes occurring during reinfection as Omicron sublineages spread. Limitations include partial jurisdiction coverage, under-ascertainment from unreported tests, use of a >90-day reinfection definition, and ecological assignment of variant periods rather than sequence-confirmed lineages.",
+			"Twitter": "https://x.com/RadCentrism/status/1769641415091601545",
+			"Category": [
+				"USA",
+				"Viral persistence",
+				"Reinfection",
+				"Omicron",
+				"Detection",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-57093-z",
+			"Date": "2024-03-18",
+			"Text": "In 147 vaccinated workers with prior mild or asymptomatic COVID-19, blood biomarkers of CNS injury—sNfL and sGFAP—were significantly elevated ~1 week after recovery versus 82 healthy controls, with p < 0.001 for both. Those with early cognitive failure (CFQ ≥43; 7.5%) had markedly higher sNfL and sGFAP (both p = 0.005). At ~10 months, biomarkers declined (median sNfL 18.3, sGFAP 77.2 pg/mL) but remained above controls; meanwhile, mean CFQ scores increased (18.1 → 27.1; p < 0.01), and 14.3% met the CFQ threshold, though without biomarker differences by CFQ at that time. The authors infer persistent neuronal/astroglial injury after mild infection but note important limitations: single-center, loss to follow-up, self-reported cognition, and no imaging/CSF or pre-infection baseline.",
+			"Twitter": "https://x.com/ShaniceT331135/status/1769815459329646932",
+			"Category": [
+				"Italy",
+				"Brain",
+				"Long COVID",
+				"Detection",
+				"Mild infection",
+				"Self-reported",
+				"Omicron",
+				"Nerves"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1056/NEJMoa2311330",
+			"Date": "2024-02-28",
+			"Text": "This large community study (n = 112,964 completers) used an online 8-task battery and found small, measurable cognitive deficits following COVID-19. Deficits were most pronounced in memory, reasoning, and executive function. Individuals with ongoing symptoms ≥12 weeks showed the largest global deficit (−0.42 SD), whereas those who had recovered—whether their illness lasted <4 weeks or had previously persisted ≥12 weeks—showed smaller deficits (about −0.23 to −0.24 SD) compared with never-infected controls. Deficits were larger for infections during early variants (original/Alpha) than Omicron (e.g., Alpha vs Omicron ≈ −0.17 SD) and worse with hospitalization/ICU (ICU ≈ −0.35 SD). The authors caution that these are small effect sizes, gathered in an online, self-selected sample, so causality and clinical impact remain uncertain; nevertheless, effects were still detectable ≥1 year post-infection.",
+			"Twitter": "https://x.com/DrKatrin_Rabiei/status/1769295500950335748",
+			"Category": [
+				"United Kingdom",
+				"Brain",
+				"Long COVID",
+				"Mild infection",
+				"Self-reported",
+				"Massive study",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1056/NEJMe2400189",
+			"Date": "2024-02-28",
+			"Text": "Al-Aly & Rosen’s NEJM editorial reviews evidence that long COVID commonly involves objective cognitive deficits, not just subjective complaints. They spotlight a 112,964-person NEJM study showing deficits that persist ≥1 year, scale with illness severity and symptom persistence ≥12 weeks, and appear to abate when symptoms resolve; press coverage framed these effects as roughly 3–9 IQ-point equivalents depending on severity. Reinfection contributed an additional loss in IQ of nearly 2 points, as compared with no reinfection.",
+			"Twitter": "https://x.com/DrKatrin_Rabiei/status/1769295500950335748",
+			"Category": [
+				"USA",
+				"Review",
+				"Brain",
+				"Long COVID",
+				"Viral persistence",
+				"Endothelium",
+				"Platelets",
+				"Nerves",
+				"Review",
+				"Massive study",
+				"Mild infection",
+				"Reinfection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-56678-y",
+			"Date": "2024-03-13",
+			"Text": "In a longitudinal analysis of 100 top-league attackers, 76% exhibited significant post-COVID changes in at least one of 28 technical match indicators. Fourteen indicators declined after infection—most notably five scoring-linked metrics (xG, npxG, xAG, SCA, GCA)—and several measures of possession, receiving, and take-ons also decreased. Recovery was relatively swift: players needed a mean of 3.09 matches to return to baseline (elite 2.64 vs control 3.55), and age showed little effect on either decline or recovery. The authors attribute short-term reductions to lingering physical readiness and training disruption rather than durable impairment.",
+			"Twitter": "https://x.com/ejustin46/status/1768295724108628068",
+			"Category": [
+				"China",
+				"Mild infection",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s10456-023-09885-6",
+			"Date": "2023-07-28",
+			"Text": "In a cohort of 41 patients with post-COVID-19 syndrome (PCS), Kuchler et al. used retinal vessel analysis to examine microvascular endothelial function. They observed significantly reduced venular flicker-induced dilation (3.42% vs. 4.64%, p = 0.02), narrower arteriolar calibers (CRAE ~178.1 vs. 189.1, p = 0.01), and lower arteriolar-to-venular ratios (AVR ~0.84 vs. 0.88, p = 0.007) compared with matched healthy controls. A combined metric of AVR + vFID discriminated PCS patients from controls with area under curve = 0.75. Moreover, worse symptom severity correlated with lower AVR (R = –0.37, p = 0.017), and these microvascular abnormalities were more pronounced in PCS patients with elevated inflammatory biomarker levels (e.g. CXCL10, IL-6). The authors argue that persistent endothelial dysfunction in the microcirculation is a potential pathophysiologic hallmark of long COVID, potentially explaining enduring symptoms such as fatigue and cognitive impairment. They propose that retinal vessel parameters may serve as noninvasive biomarkers in PCS and inform therapeutic strategies aiming to restore vascular health.",
+			"Twitter": "https://x.com/RadCentrism/status/1771572697421492227",
+			"Category": [
+				"Germany",
+				"Long COVID",
+				"Endothelium",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jtha.2023.04.039",
+			"Date": "2023-05-11",
+			"Text": "This review argues that long COVID involves persistent thromboinflammation, combining endothelial injury, hypercoagulability, platelet activation, and neutrophil NET formation. Together these changes favor micro- and macrovascular thrombosis, reflected by findings such as microclots, elevated D-dimer, and perfusion defects in lungs and brain; survivors of COVID-19 also have increased rates of arterial/venous thromboses after the acute illness.",
+			"Twitter": "https://x.com/RadCentrism/status/1805094590044901847",
+			"Category": [
+				"Germany",
+				"Long COVID",
+				"Endothelium",
+				"Immune response",
+				"Viral persistence",
+				"Neutrophils",
+				"Platelets",
+				"Lungs",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.03.22.586249",
+			"Date": "2024-03-25",
+			"Text": "The authors propose a Bayesian-weighted mutation walker to simulate realistic evolutionary trajectories of the SARS-CoV Spike protein (using observed mutation frequencies), and then cluster and screen candidate lineages for both retained human-cell infectivity (via binding to hACE2) and altered antigenicity (reduced binding to a known neutralizing antibody). They show that one of the candidate “chimeric” Spike variants (Spike1 / RBD1) recapitulates binding energetics close to SARS-CoV-2’s RBD–hACE2 (–23.73 vs –24.7; –80.7 vs –81.2 kcal/mol) yet has much weaker binding to the P2C-1F11 neutralizing antibody (–22.7 vs –83.7 kcal/mol), suggesting that their method could have “foreseen” a SARS-CoV-2–like lineage from SARS-CoV-1. The authors argue that such in silico forecasting, combined with genomic surveillance and pre-emptive broad neutralization strategies, might reduce the severity of future SARS-CoV pandemics. However, the method is demonstrated only retrospectively, and there remain substantial uncertainties about how well computationally predicted lineages correspond to viable viruses in nature. The assay relies heavily on modeling assumptions, limited mutation frequency data, clustering heuristics, and idealized binding-energy estimates, without experimental validation or consideration of other evolutionary pressures (e.g. viral replication fitness, immune environment, host ecology). Thus, while conceptually interesting, the predictive power in real-world viral emergence remains speculative.",
+			"Twitter": "https://x.com/vipintukur/status/1772483609397510480",
+			"Category": [
+				"India",
+				"SARS-CoV-2 mechanics",
+				"Preprint",
+				"Antibodies",
+				"Synthetic genomics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12916-023-03200-2",
+			"Date": "2023-12-05",
+			"Text": "In this matched retrospective cohort study of hospitalized adults (6,614 in each group) from January 2022 to January 2023, the incidence of new post-acute sequelae between 90 and 180 days was higher among COVID-19 survivors (17.9 %) than influenza survivors (13.0 %), corresponding to a hazard ratio of 1.398 (95 % CI 1.251–1.562). The COVID-19 group also had higher risks of specific symptoms such as abnormal breathing, abdominal complaints, fatigue, and cognitive issues, and increased rates of all-cause emergency department visits, rehospitalizations, and death (27.5 % vs. 21.7 %, HR 1.303). Mortality alone was substantially higher (1.5 % vs. 0.4 %) in the COVID-19 group (HR 4.378).",
+			"Twitter": "https://x.com/NohaAboelataMD/status/1773205888083337352",
+			"Category": [
+				"Influenza",
+				"Taiwan",
+				"Omicron",
+				"Long COVID",
+				"Vaccination",
+				"Antibodies",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.5694/mja2.52256",
+			"Date": "2024-03-20",
+			"Text": "In a survey of 11,697 adults in Western Australia who had a documented SARS-CoV-2 infection during the 2022 Omicron wave, 18.2 % met criteria for long COVID at 90 days post-infection. Women, middle-aged individuals (50–69 years), those with underlying health conditions, and participants who had received fewer vaccine doses had higher adjusted risks. The most common symptoms were fatigue (70.6 %) and cognitive difficulties (59.5 %). Over one-third (38.2 %) of those with long COVID consulted a GP in the preceding month, and 1.6 % had hospitalizations related to post-COVID symptoms. Among those previously employed or studying, 17.8 % reported reducing or discontinuing their activity due to residual symptoms.",
+			"Twitter": "https://x.com/BagaiDr/status/1773486467433505227",
+			"Category": [
+				"Australia",
+				"Long COVID",
+				"Vaccination",
+				"Self-reported",
+				"Omicron",
+				"Brain",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41538-024-00261-2",
+			"Date": "2024-03-30",
+			"Text": "This review posits that SARS-CoV-2 infection forces a sweeping rewiring of host cellular metabolism—sugar, lipid, amino acid, nucleotide, and redox pathways—by hijacking viral–host protein interactions and essential host factors like ACE2, NRP1, furin, TMPRSS2, and CTSL. The authors argue that beyond the acute infection, a residual human metabolic reprogramming / dysregulation (HMRD) can persist even when the virus is cleared, providing a unifying mechanistic basis for many of the multi-system symptoms observed in long COVID (PASC). They categorize PASC sufferers into four sub-phenotypes based on dominant organ impairments and link them to underlying metabolic derangements.",
+			"Twitter": "https://x.com/healingfromlc/status/1774211276710813822",
+			"Category": [
+				"India",
+				"Italy",
+				"Taiwan",
+				"Indonesia",
+				"Canada",
+				"USA",
+				"Long COVID",
+				"Immune response",
+				"Viral persistence",
+				"Antibodies",
+				"Natural immunity",
+				"Cross-reactivity",
+				"Review"
 			]
 		}
 	]
