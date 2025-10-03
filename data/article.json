@@ -6287,6 +6287,74 @@
 				"Cross-reactivity",
 				"Review"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-023-50317-8",
+			"Date": "2024-01-17",
+			"Text": "This cross-sectional survey of 3,329 Indian HCWs (July–Oct 2021) found 19.65% had ever tested positive for SARS-CoV-2; 24.9% of those infected were hospitalized (mean 9 days). Long COVID was identified in 6.19% of the entire cohort, with fatigue/weakness most common. Risk factors for long COVID on univariate analysis included female sex (OR 1.79, 95% CI 1.25–2.57), alcohol use (OR 1.85, 95% CI 1.30–2.64), and blood group B (OR 1.90, 95% CI 1.33–2.70). Breakthrough infections (25.23% of positives; mean 61.9 days post-first dose) were mostly mild; 3.82% experienced reinfection, all among vaccinated individuals. ",
+			"Twitter": "https://x.com/RajeevJayadevan/status/1774677315009810496",
+			"Category": [
+				"India",
+				"Long COVID",
+				"Vaccination",
+				"Reinfection",
+				"Susceptibility",
+				"Self-reported",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41564-024-01657-2",
+			"Date": "2024-03-28",
+			"Text": "This study examines how SARS-CoV-2 virions, even when neural infection is minimal, perturb synaptic structure and electrical activity in human-derived neural tissues. Using cerebral organoids, human brain explants, and post-mortem brains, the authors find that exposure to the virus increases expression of presynaptic proteins (Bassoon, LPHN3, FLRT3), induces abnormal presynaptic morphology, and disrupts local field potentials. Intriguingly, virions appear to accumulate at LPHN3–FLRT3 synaptic junctions, possibly interfering physically with synaptic homeostasis. Treatment with an LPHN3 agonist partially restores electrophysiological activity and corrects some morphological abnormalities. While viral replication in neurons is quite low, this work suggests that even non-productive presence of SARS-CoV-2 may have functional impacts on synapses.",
+			"Twitter": "https://x.com/DaniBeckman/status/1774722377009795525",
+			"Category": [
+				"France",
+				"Netherlands",
+				"Belgium",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1080/21505594.2024.2339703",
+			"Date": "2024-04-24",
+			"Text": "🧫Cao et al. present evidence that the antibiotic daptomycin (DAP) can bind SARS-CoV-2 spike protein (including Omicron variant) via molecular docking, and that co-incubation of DAP (1–100 µM) with Omicron pseudovirus enhances its entry into ACE2-expressing HEK-293T cells (∼1.7-fold increase) under normal calcium conditions. The promoting effect is lost when extracellular Ca²⁺ is removed, indicating the enhancement is calcium-dependent. The authors propose a mechanistic model where DAP binds to the S protein, associates with the host cell membrane, and facilitates viral entry.",
+			"Twitter": "https://x.com/ejustin46/status/1776281448686800919",
+			"Category": [
+				"China",
+				"Omicron",
+				"SARS-CoV-2 mechanics",
+				"Treatment",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1681/asn.2021060734",
+			"Date": "2021-09-01",
+			"Text": "This study of over 1.7 million U.S. veterans (89,216 with COVID-19 who survived beyond 30 days vs 1.64 million controls) shows that COVID-19 survivors are at higher risk of long-term adverse kidney outcomes. After rigorous covariate adjustment, COVID-19 status was associated with greater risk of AKI, steeper eGFR decline, and higher incidence of the composite “major adverse kidney events” (MAKE: ≥ 50% eGFR decline, ESKD, or death). The severity of the acute COVID course—nonhospitalized, hospitalized without AKI, and hospitalized with AKI—formed a gradient of increasing risk. The authors also modeled individual eGFR trajectories and found accelerated decline among COVID survivors relative to controls (aging the kidney 4 years in the first year following mild infection). Those who had AKI during their acute disease fared worst in long-term kidney outcomes.",
+			"Twitter": "https://x.com/michael_hoerger/status/1733513584192389174",
+			"Category": [
+				"USA",
+				"Kidney",
+				"Long COVID",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/brain/awae101",
+			"Date": "2024-04-02",
+			"Text": "In this study, 83 patients with long COVID and persistent neurological symptoms were compared to 22 controls who had recovered from COVID without lingering neurological issues. The long COVID patients showed significantly worse global cognitive performance (mean OCLz = –0.39 vs. +0.32 in controls, P < 0.01), and domain-specific deficits in episodic memory (in 48 % of patients), attention, working memory, processing speed, and verbal fluency and 27 % also had impaired overall cognition. Structural MRI revealed focal cortical thinning in a left posterior superior temporal region, and diffusion tensor imaging indicated widespread white matter microstructural disruption (reduced fractional anisotropy, increased radial diffusivity). Furthermore, altered white matter connectivity metrics correlated with poorer performance in memory, cognitive, and attentional tasks.",
+			"Twitter": "https://x.com/DaniBeckman/status/1776798100730052662",
+			"Category": [
+				"Spain",
+				"United Kingdom",
+				"Brain",
+				"Long COVID",
+				"Nerves",
+				"Self-reported"
+			]
 		}
 	]
 }
