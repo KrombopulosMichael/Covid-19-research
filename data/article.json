@@ -45,10 +45,11 @@
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1093/cid/ciac722",
-			"Date": "2022-06-16",
+			"Date": "2022-09-22",
 			"Text": "SARS-CoV-2 spike antigen in a majority of post-acute sequelae of SARS-CoV-2 infection patients up to 12 months post-diagnosis (n = 63), suggesting the presence of an active persistent SARS-CoV-2 viral reservoir.",
-			"Twitter": "https://x.com/ysenussiMD/status/1537590072387805184",
+			"Twitter": "https://x.com/breakfastnick/status/1537750350131871744",
 			"Category": [
+				"USA",
 				"Long COVID",
 				"Viral persistence"
 			]
@@ -859,16 +860,6 @@
 			"Twitter": "https://x.com/alexandreafonso/status/1469960624847396869",
 			"Category": [
 				"Mitigation"
-			]
-		},
-		{
-			"ArticleURL": "https://doi.org/10.1093/cid/ciac722",
-			"Date": "2023-02-01",
-			"Text": "Circulating spike protein in the blood of long haulers, but not controls, 12 months post diagnosis.",
-			"Twitter": "https://x.com/breakfastnick/status/1537750350131871744",
-			"Category": [
-				"Long COVID",
-				"Viral persistence"
 			]
 		},
 		{
@@ -6354,6 +6345,89 @@
 				"Long COVID",
 				"Nerves",
 				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(24)00211-1",
+			"Date": "2024-04-08",
+			"Text": "Peluso et al. (2024) measured SARS-CoV-2 spike, S1, and nucleocapsid antigens in plasma up to 14 months after infection, comparing 171 post-COVID individuals (mostly before vaccination or reinfection) to 250 pre-pandemic controls. They found that compared to ~2% baseline in controls, there was an excess of antigen positivity of +11.0% at 3–6 months, +8.7% at 6–10 months, and +5.4% at 10–14 months, indicating persistent antigenemia beyond the acute phase. Hospitalized patients and those with worse acute self-rated health had higher odds of antigen persistence.",
+			"Twitter": "https://x.com/elisaperego78/status/1777494072069898616",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Viral persistence",
+				"Antibodies",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41590-024-01778-0",
+			"Date": "2024-04-08",
+			"Text": "This study examined 657 individuals ≥3 months post–COVID hospitalization, comparing 426 with persistent symptoms (long COVID) versus 233 who had recovered. By profiling 368 plasma proteins, the authors identified that elevations in markers of myeloid inflammation and complement activation were associated with long COVID. Distinct protein signatures correlated with different symptom clusters: IL-1R2, MATN2, COLEC12 for cardiorespiratory/fatigue/psychological phenotypes; MATN2, CSF3, C1QA for gastrointestinal symptoms; C1QA and nerve-repair proteins (SPON-1, NFASC) in cognitive impairment; and SCG3 (brain–gut axis) in gastrointestinal symptoms. They also saw that some individuals with long COVID maintained higher SARS-CoV-2–specific IgG levels, but viral RNA was not found in sputum, and nasal fluid inflammatory markers were not clearly tied to symptoms. The results support the idea that different mechanistic “subtypes” of long COVID exist, possibly reflecting tissue-specific damage or dysregulation, which may guide future targeted therapeutic strategies.",
+			"Twitter": "https://x.com/ClaudEfstathiou/status/1777376615242105291",
+			"Category": [
+				"Long COVID",
+				"Immune response",
+				"Antibodies",
+				"Viral persistence",
+				"Gastrointestinal",
+				"Endothelium",
+				"United Kingdom",
+				"France",
+				"Canada",
+				"Australia"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s12560-023-09581-0",
+			"Date": "2024-01-31",
+			"Text": "🧫This study screened 24 commercially available teas to assess their ability to inactivate infectious SARS-CoV-2 in saliva. Five teas (black, green, mint medley, eucalyptus-mint, and raspberry zinger) were further tested at 10 and 40 mg/mL concentrations with short contact times (10–60 s). The authors found that black tea at 10 mg/mL achieved ~3 log (99.9 %) reduction in infectivity within 10 s, while the other teas achieved ~1.5–2 log (96–99 %) reductions. At 40 mg/mL, all five achieved >3 log reduction in 10 s. They also showed that adding teas at different times (before, during, after virus exposure) produced varying inhibitory effects, with the strongest inhibition when teas were present concurrent with infection. While the results are promising, the experiments are purely in vitro, using Vero-E6 cells and virus mixed in saliva, so the real-world relevance is uncertain.",
+			"Twitter": "https://x.com/vipintukur/status/1777355484384624914",
+			"Category": [
+				"USA",
+				"Treatment",
+				"Oral"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1177/11786388221146683",
+			"Date": "2023-01-12",
+			"Text": "This narrative review summarizes evidence that Melissa officinalis (lemon balm) exhibits antiviral activity against SARS-CoV-2, HSV, and HIV, attributed to phytochemicals such as rosmarinic acid and essential oils (e.g., citronellal, linalool, menthol). Reported mechanisms include blocking HSV-1 attachment, inhibiting HSV-1 replication post-adsorption, and in-silico inhibition of SARS-CoV-2 main protease (3CLpro) and spike interactions. The PubMed record shows ~121 references, indicating broad literature coverage. However, most data are preclinical (in vitro/in silico) with few or no randomized clinical trials",
+			"Twitter": "https://x.com/shelleyshenton/status/1777386786903249294",
+			"Category": [
+				"Iran",
+				"SARS-CoV-2 mechanics",
+				"Treatment",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.ppat.1012156",
+			"Date": "2024-04-10",
+			"Text": "🐁This study demonstrates that SARS-CoV-2 can infect cells that line the blood-retinal barrier (RPE and retinal vascular endothelium) and provoke a hyperinflammatory antiviral response in the retina when the virus is delivered systemically (via intranasal route) in a K18-hACE2 mouse model. Intranasal exposure led to weight loss, ~25 % mortality by day 9, and detection of viral RNA in lungs, brain, and eyes, whereas direct ocular exposure did not lead to lung infection or systemic disease, though viral RNA was still detectable in eyes. In vitro, BRB cells were permissive to SARS-CoV-2 infection, with infection, viral receptor expression, and cell death exacerbated under hyperglycemic conditions. Moreover, chronic exposure to SARS-CoV-2 spike antigen (by intravitreal injection) led to observable retinal vascular and structural abnormalities—including microaneurysms, retinal atrophy, and vein occlusion—after 30 days, hinting that lingering viral antigen may contribute to ocular sequelae. The work underscores a potential route for retinal involvement in COVID-19 and suggests that comorbidities like hyperglycemia may worsen ocular vulnerability.",
+			"Twitter": "https://x.com/DaniBeckman/status/1778591712111419670",
+			"Category": [
+				"USA",
+				"Eye",
+				"Endothelium",
+				"Immune response",
+				"Detection",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jinf.2024.106119",
+			"Date": "2024-02-12",
+			"Text": "According to this study by Novavax researchers, repeated administration of SARS-CoV-2 mRNA vaccines is associated with an increasing shift toward spike-specific IgG4 subclass antibodies, whereas a recombinant protein (Novavax) vaccine regimen did not show this IgG4 skewing. The protein vaccine induced much higher IgG3 levels (~10× vs mRNA) and stronger Fcγ effector activity than the mRNA homologous boosters. This class switching toward IgG4 in mRNA vaccinees raises concerns because IgG4 is known to have a lower ability to engage Fc receptor–mediated effector functions (e.g. ADCC, complement activation). Thus, although neutralizing binding may still be present, the shift could reduce the overall functional quality of the humoral response. The findings suggest that vaccine platform choice and booster scheduling may impact not just antibody titers but also antibody functional subclasses, with possible repercussions for long-term protection.",
+			"Twitter": "https://x.com/RolandBakerIII/status/1779504909995712599",
+			"Category": [
+				"USA",
+				"Australia",
+				"Antibodies",
+				"Vaccination",
+				"Immune response",
+				"B cells",
+				"mRNA vaccine"
 			]
 		}
 	]
