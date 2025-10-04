@@ -6461,6 +6461,64 @@
 				"Preprint",
 				"mRNA vaccine"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(24)00171-3",
+			"Date": "2024-04-22",
+			"Text": "This cross-sectional cohort study collected 317 tissue and blood specimens from 225 individuals recovered from mild COVID-19 at approximately 1, 2, and 4 months post-infection, and surveyed 213 of them for long COVID symptoms. Viral RNA was detectable in multiple tissues (liver, kidney, gut, brain, lung, vessels, skin, thyroid, breast) in up to ~30% of individuals early (1 month), declining to ~11% by month 4. Approximately 34% of respondents reported at least one long COVID symptom (most commonly fatigue). Detection of viral RNA conferred a markedly elevated odds of reporting long COVID (OR ~5.17, 95% CI 2.64–10.13), and higher viral loads correlated with higher symptom probability.",
+			"Twitter": "https://x.com/ejustin46/status/1782799068441333809",
+			"Category": [
+				"China",
+				"Viral persistence",
+				"Long COVID",
+				"Gastrointestinal",
+				"Brain",
+				"Lungs",
+				"Endothelium",
+				"Kidney",
+				"Liver"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1177/01410768231154703",
+			"Date": "2023-02-14",
+			"Text": "In a UK prospective cohort of 536 adults with long COVID (mean age 45; 73% female), 331 with organ impairment or incidental findings returned for ~12-month follow-up after a multi-organ MRI (CoverScan). Symptom burden decreased (median 10 → 3 symptoms), with extreme breathlessness 38% → 30%, cognitive dysfunction 48% → 38%, and poor Health-Related Quality of Life 57% → 45%. Despite improvement in symptoms, organ impairment was frequent and persistent: single-organ impairment 59% and multi-organ 27% at one year; overall, 59% of those followed still had ≥1 organ impaired. Associations included female sex, younger age, and single-organ impairment. Selection and demographic skew, lack of pre-COVID imaging, and industry ties (Several authors employed by the MRI vendor (Perspectum)) temper interpretation, but the data support prevention and integrated care for long COVID.",
+			"Twitter": "https://x.com/ejustin46/status/1784646176509165878",
+			"Category": [
+				"United Kingdom",
+				"Long COVID",
+				"Brain",
+				"Lungs",
+				"Detection",
+				"Self-reported",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s43032-024-01560-5",
+			"Date": "2024-04-24",
+			"Text": "Men recovered from COVID-19 had no significant differences in standard semen parameters versus controls, but proteomic profiling of sperm identified 190 altered proteins (161 up, 29 down). The authors validated SERPINB4 and calpain-2 changes and found elevated semen MDA, indicating lipid peroxidation and cellular stress. Hormone profiles were broadly similar, except lower testosterone and higher prolactin/cortisol in the post-COVID group.",
+			"Twitter": "https://x.com/outbreakupdates/status/1785809064473071674",
+			"Category": [
+				"India",
+				"Long COVID",
+				"Reproductive health"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2213-2600(20)30323-4",
+			"Date": "2020-07-24",
+			"Text": "Pathogens responsible for respiratory infections are often found in aerosols <5 μm, which penetrate deeply into the lungs and remain suspended, implying a major role for airborne transmission. Accordingly, respirators are recommended for health-care workers near infectious patients, while surgical masks—though less protective for the wearer—can limit source emission when worn by the patient. The observed presence of “super-emitters” helps explain super-spreading patterns.",
+			"Twitter": "https://x.com/RougeMatisse/status/1785738452035567901",
+			"Category": [
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Transmission",
+				"Lungs",
+				"Masks",
+				"Mitigation",
+				"Review"
+			]
 		}
 	]
 }
