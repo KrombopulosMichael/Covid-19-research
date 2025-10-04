@@ -4449,7 +4449,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.isci.2023.108641",
 			"Date": "2023-12-22",
-			"Text": "🧫This study demonstrates that SARS-CoV-2 can persist in human cardiac microtissues derived from induced pluripotent stem cells without causing immediate, severe dysfunction, for at least several weeks. However, when these persistently infected tissues are exposed to additional stress (hypoxia/low oxygen), they suffer cardiac functional decline, reactivation of viral activity, elevated ACE2 expression, and damage to vascular network structure.",
+			"Text": "🧫Murata et al. developed a 3D human cardiac microtissue (human induced pluripotent stem cell-derived) platform to model persistent SARS-CoV-2 infection, finding that mild infection can persist for at least a month with minimal immediate functional impairment. Under simulated ischemic (hypoxic) stress, however, the tissues show viral reactivation, upregulation of ACE2 and spike protein, functional decline, and vascular disruption. They also measured inflammatory cytokines (IL-6, TNF-α, IL-1β) and found elevation in the culture supernatants after hypoxia/reperfusion stress. Their findings support a scenario where latent or chronic SARS-CoV-2 in the heart might act as a “time bomb,” triggering overt cardiac injury under additional stress.",
 			"Twitter": "https://x.com/Aguirre1Gustavo/status/1738520641316233398",
 			"Category": [
 				"Viral persistence",
@@ -5252,20 +5252,6 @@
 				"Nucleocapsid",
 				"Interferon",
 				"Positive effect"
-			]
-		},
-		{
-			"ArticleURL": "https://doi.org/10.1016/j.isci.2023.108641",
-			"Date": "2023-12-22",
-			"Text": "🧫Murata et al. developed a 3D human cardiac microtissue (human induced pluripotent stem cell-derived) platform to model persistent SARS-CoV-2 infection, finding that mild infection can persist for at least a month with minimal immediate functional impairment. Under simulated ischemic (hypoxic) stress, however, the tissues show viral reactivation, upregulation of ACE2 and spike protein, functional decline, and vascular disruption. They also measured inflammatory cytokines (IL-6, TNF-α, IL-1β) and found elevation in the culture supernatants after hypoxia/reperfusion stress. Their findings support a scenario where latent or chronic SARS-CoV-2 in the heart might act as a “time bomb,” triggering overt cardiac injury under additional stress.",
-			"Twitter": "https://x.com/ejustin46/status/1753266709119504564",
-			"Category": [
-				"Japan",
-				"Viral persistence",
-				"SARS-CoV-2 mechanics",
-				"Myocarditis",
-				"Endothelium",
-				"Immune response"
 			]
 		},
 		{
@@ -6427,6 +6413,52 @@
 				"Vaccination",
 				"Immune response",
 				"B cells",
+				"mRNA vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1128/mbio.03331-24",
+			"Date": "2024-11-29",
+			"Text": "🧫This study uncovers that coatomer complex I (COPI) is a key component in the intracellular transport of SARS-CoV-2 progeny virions from the ER–Golgi intermediate compartment (ERGIC) to the cell surface. Using high-resolution 3D electron microscopy, the authors visualized virion-containing vesicles bearing COPI coats and observed rearrangements of COPI and ERGIC compartments during infection. Functional depletion of the COPI subunit COPB2 trapped progeny virions within the ERGIC and strongly reduced viral release, despite unaltered intracellular viral protein levels, demonstrating that COPI is essential for virion egress.",
+			"Twitter": "https://x.com/ejustin46/status/1779372711694815407",
+			"Category": [
+				"Japan",
+				"SARS-CoV-2 mechanics",
+				"Detection",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/v13091798",
+			"Date": "2021-07-30",
+			"Text": "🧫SARS-CoV-2 remodels host membranes to build its replication organelles. In infected cells, the Golgi apparatus fragments rapidly—detectable by 6 h and complete by 12–24 h—leaving only ~2% of infected cells with an intact Golgi at 24 h versus ~97% of controls; in parallel, the ER condenses around replication sites in ~90% of infected cells versus ~2% of controls. The ER marker calnexin decorates double-membrane vesicles (DMVs), while Golgi protein markers disperse, even as Golgi-derived lipids appear within the replication organelle. Expression screening identified five viral proteins (M, S, E, ORF6, nsp3) that independently fragment the Golgi, with nsp4 also reshaping ER. M alone can generate DMV-like structures. Disrupting Golgi trafficking with brefeldin A inhibits replication, whereas nocodazole yields only a modest, non-significant reduction—implicating Golgi/ER trafficking as functionally important in coronavirus replication.",
+			"Twitter": "https://x.com/ejustin46/status/1779490893151473716",
+			"Category": [
+				"USA",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cell.2020.10.039",
+			"Date": "2020-12-10",
+			"Text": "🧫This paper demonstrates that β-coronaviruses, including SARS-CoV-2, do not use the canonical Golgi/secretory pathway to exit infected cells, but instead egress via lysosomes. Viral particles colocalize with lysosomal markers, and pharmacologic inhibition of Rab7 impairs release. The viral egress is nonlytic, and the infection causes lysosomal deacidification and suppression of lysosomal enzyme activity, which may impair antigen presentation and immune recognition. The authors implicate the small GTPase Arl8b as a regulator of this lysosomal egress route.",
+			"Twitter": "https://x.com/CellPressNews/status/1325181227930951680",
+			"Category": [
+				"USA",
+				"Netherlands",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.04.12.589252",
+			"Date": "2021-04-15",
+			"Text": "🧫The preprint reports that SARS-CoV-2’s spike protein, beyond its role in viral entry, localizes to the nucleus of transfected cells and disrupts host DNA repair by inhibiting both homologous recombination and nonhomologous end joining. This impairment is mediated by reduced recruitment of repair proteins like BRCA1 and 53BP1 to sites of DNA damage, leading to elevated DNA lesions under stress (γ-irradiation, doxorubicin, H₂O₂). Using a V(D)J recombination reporter assay, they further show that spike expression can suppress recombination efficiency in vitro, which could hypothetically interfere with the development of adaptive immune diversity. ",
+			"Twitter": "https://x.com/weldeiry/status/1780061828149620815",
+			"Category": [
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Vaccination",
+				"Preprint",
 				"mRNA vaccine"
 			]
 		}
