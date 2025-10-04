@@ -6519,6 +6519,22 @@
 				"Mitigation",
 				"Review"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2666-5247(24)00055-7",
+			"Date": "2024-04-24",
+			"Text": "Menezes et al. (2024) analyzed blood transcriptomes in 48 long COVID patients and 12 matched controls, identifying 212 differentially expressed genes (70 after FDR correction). Among these, they detected upregulation of SARS-CoV-2 viral RNAs—including antisense ORF1ab (suggestive of ongoing replication) and structural/ORF transcripts (nucleocapsid, ORF7a, ORF3a, Mpro)—and host genes (e.g. ACE2, TMPRSS2, memory B-cell and platelet transcripts). Multivariate modeling found that antisense SARS-CoV-2 RNA plus host FYN transcript distinguished long COVID from controls with an AUC of 0.94 (sensitivity 93.8 %, specificity 91.7 %). Patients with long COVID had significantly higher viral RNA positivity (e.g. 60 % vs 8 % total viral load positivity) and lower immunometabolism scores, which inversely correlated with viral load; comorbidities increased risk of higher viral RNA load while more vaccine doses were protective (OR 0.36 per dose, so more vaccine doses means lower viral RNA load). These data suggest that persistent viral RNA, possibly reflecting low-level replication, coupled with immune/metabolic dysregulation, may underlie long COVID.",
+			"Twitter": "https://x.com/DaniBeckman/status/1785817420218642448",
+			"Category": [
+				"Belgium",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"B cells",
+				"Vaccination",
+				"Detection",
+				"SARS-CoV-2 mechanics"
+			]
 		}
 	]
 }
