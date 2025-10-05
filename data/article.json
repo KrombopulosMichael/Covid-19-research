@@ -6663,6 +6663,77 @@
 				"Immune response",
 				"SARS-CoV-2 mechanics"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.genhosppsych.2024.02.009",
+			"Date": "2024-02-27",
+			"Text": "This study is a systematic review and meta-analysis of 17 studies including 41,249 long COVID patients, estimating that 9.3% of individuals experience either mental health conditions or impaired cognition ('brain fog') between 3 and 24 months after infection. Prevalence was higher in community-managed patients (29.7 %) than in those previously hospitalized (19.5 %, p = 0.047), and the risk increased over time and when validated instruments were used to assess outcomes. Notably, the authors found that populations with higher vaccination rates tended to have lower odds of brain fog (p = 0.000), suggesting a possible protective effect.",
+			"Twitter": "https://x.com/jneill/status/1792906216491950375",
+			"Category": [
+				"United Kingdom",
+				"Denmark",
+				"Long COVID",
+				"Brain",
+				"Vaccination",
+				"Self-reported",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fcimb.2024.1407261",
+			"Date": "2024-05-22",
+			"Text": "This review by Zhang et al. (2024) systematically surveys how SARS-CoV-2 exploits host cell factors at every stage of its life cycle — from receptor binding (ACE2, DPP4, AXL, NRP1/2, CD147) and proteolytic activation (TMPRSS2, TMPRSS4, cathepsins, furin) to hijacking of intracellular translation, trafficking, metabolic, and epigenetic machinery — to facilitate replication and propagation, while suppressing host immune defenses (e.g. via NSP1). The authors then link these host–virus interactions to the pathogenesis of COVID-19 across multiple organs (lungs, gut, liver, kidney, reproductive tissues) and hypothesize how persistent dysregulation (e.g. fibrosis, metabolic reprogramming, senescence, chronic inflammation) may underlie long COVID. They propose that therapeutic strategies should include host-targeted agents (e.g. inhibitors of proteases, metabolic enzymes, translation factors, or RNA-G-quadruplex stabilizers) which might have advantages over direct antivirals (e.g. broad spectrum, reduced resistance). However, they caution that many host factors perform essential physiological functions, and that most evidence to date is derived from in vitro or computational studies, with limited in vivo or clinical validation.",
+			"Twitter": "https://x.com/Yash25571056/status/1793235787271778331",
+			"Category": [
+				"China",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Viral persistence",
+				"Gastrointestinal",
+				"Lungs",
+				"Endothelium",
+				"Immune response",
+				"Liver",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1128/cmr.00124-23",
+			"Date": "2024-05-22",
+			"Text": "This review synthesizes evidence from over 100 prior studies and meta-analyses to argue strongly that masks—especially high-filtration respirators—are effective in reducing the transmission of respiratory infections (including COVID-19), given correct and consistent use. The authors reaffirm that SARS-CoV-2 is transmitted via airborne routes and present a dose-response pattern: better compliance and mask quality yield greater protection. They further find that mask mandates are associated with lowered community transmission, and that respirators outperform medical or cloth masks in controlled comparisons. However, the authors acknowledge limitations: many RCTs in this field suffer from heterogeneity (different settings, masking strategies, compliance levels) and sometimes low infection prevalence, which can bias toward null effects. Some interventions are difficult to blind or enforce.",
+			"Twitter": "https://x.com/Laurie_Garrett/status/1793369899487932824",
+			"Category": [
+				"United Kingdom",
+				"Australia",
+				"New Zealand",
+				"Canada",
+				"Masks",
+				"Transmission",
+				"Mitigation",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2024.102628",
+			"Date": "2024-05-03",
+			"Text": "This prospective cohort study evaluated 96 children with antenatal or neonatal exposure to SARS-CoV-2 and 243 non-exposed controls at 21–32 months of age, using parent-reported development, respiratory symptom, and health care usage questionnaires. After full adjustment, there was no statistically significant difference in overall developmental score (ASQ-3 total). However, exposed children had greater odds of delays in social–emotional domains (OR ~3.58–3.81), higher ASQ:SE-2 scores, more respiratory symptoms (mean LRSQ z = 0.3), and greater use of inpatient (38% vs 21%), outpatient (38% vs 30%) and GP services (60% vs 50%). While these findings suggest that perinatal SARS-CoV-2 exposure might be linked to social-emotional developmental delay and increased respiratory morbidity in early childhood, the study is constrained by its modest sample size, potential selection bias from low enrolment, reliance on parent-reported measures rather than clinical assessments, and only ~2-year follow-up.",
+			"Twitter": "https://x.com/vipintukur/status/1793703889994162448",
+			"Category": [
+				"United Kingdom",
+				"Kids",
+				"Newborns"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-61778-w",
+			"Date": "2024-05-19",
+			"Text": "This study examines whether maternal SARS-CoV-2 infection is associated with an increased risk of fetal left–right (LR) asymmetry disorders (such as situs inversus or heterotaxy). Across three centers from 2018 to 2023, 151 fetuses with LR asymmetry were identified (overall incidence ~0.85 ‰). Intriguingly, incidence remained low (0.17–0.63 ‰) from 2018 to 2022, but surged to 3.24 ‰ in 2023, coinciding with a large wave of maternal SARS-CoV-2 infection. In a case–control subset (30 cases and 30 matched controls), the infection rate in mothers was 96.67% in the case group versus 73.33% in controls; first-trimester infection (especially around gestational weeks 5–6) was strongly overrepresented (96.6% in cases) and was associated with odds ratio ~13.07 for LR asymmetry. The authors conclude that SARS-CoV-2 infection during the first trimester may significantly increase the risk of fetal LR asymmetry, with cardiac malformations as the most frequent associated structural anomaly (observed in ~90.9% of dysmorphic fetuses with concurrent malformations).",
+			"Twitter": "https://x.com/Yash25571056/status/1792760120663023838",
+			"Category": [
+				"China",
+				"Newborns",
+				"Kids"
+			]
 		}
 	]
 }
