@@ -6734,6 +6734,63 @@
 				"Newborns",
 				"Kids"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/ijms25115671",
+			"Date": "2024-05-14",
+			"Text": "The authors demonstrate that SARS-CoV-2 infection promotes the expression of unproductive splicing isoforms of interferon-related, class I MHC, and splicing-machinery genes. This effect reduces the host’s ability to produce antiviral and antigen-presentation proteins such as IRF7, OAS3, and HLA-B, while inflammatory cytokine genes (IL6, TNF) remain unaffected. These results suggest that the virus selectively disables antiviral defense while preserving inflammatory signaling, potentially explaining the immune imbalance seen in severe COVID-19. By integrating transcriptomic and proteomic datasets, the study further finds that unproductive transcripts correspond to decreased protein translation, and that viral proteins physically interact with the same host systems they disrupt. The work proposes that SARS-CoV-2 evades immune detection by simultaneously hijacking host RNA splicing, nuclear export, and translation machinery.",
+			"Twitter": "https://x.com/NickAnderegg/status/1795236069354426577",
+			"Category": [
+				"Brazil",
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Immune response",
+				"Interferon"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12879-024-09420-y",
+			"Date": "2024-05-28",
+			"Text": "A preterm infant born at 28 weeks + 3 days to a mother infected with the SARS-CoV-2 Delta variant (unvaccinated) had positive nasopharyngeal SARS-CoV-2 RT-PCR from birth through 28 days, turning negative by day 37. Examination of the placenta revealed high viral RNA loads (genomic N1) and subgenomic E RNA, and in situ hybridization detected both the positive S gene strand and negative orf1ab strand, indicating active viral replication in placental tissue. Histopathology showed placental injury consistent with SARS-CoV-2 infection. Because the infant was delivered by cesarean section and handled under sterile precautions, and given the maternal infection and the evidence of replicating virus in the placenta, the authors argue this represents vertical (in utero) transmission of the Delta variant. As a single case, it cannot quantify incidence or risk, but it suggests that under conditions of high viral load and variant virulence, the placental barrier may be breached.",
+			"Twitter": "https://x.com/inkblue01/status/1795643235098046898",
+			"Category": [
+				"Newborns",
+				"Kids",
+				"Transmission",
+				"Viral persistence",
+				"Detection",
+				"SARS-CoV-2 mechanics",
+				"Reproductive health"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41591-024-02987-8",
+			"Date": "2024-05-30",
+			"Text": "Over a 3-year follow-up of >135,000 SARS-CoV-2–infected individuals and >5 million controls, this study found that the excess mortality risk associated with COVID-19 largely abated by year 3 in non-hospitalized cases, but persisted (IRR ≈ 1.29) in those hospitalized. While the incidence of new post-acute sequelae (PASC) diminished over time in both groups, meaningful residual risk remained into year 3: in non-hospitalized persons, ~9.6 DALYs per 1,000 were attributable to PASC in that year; in hospitalized persons, ~90.0 DALYs per 1,000. Across 3 years, hospitalized individuals bore a substantial burden of additional sequelae (≈ 252.8 per 1,000) compared to controls. This work shows that the health burden of COVID-19 does not fully resolve within 3 years, especially in people with severe (hospitalized) acute disease, though risks decline over time. The findings underscore the need for long-term monitoring and interventions in high-risk groups.",
+			"Twitter": "https://x.com/zalaly/status/1796147219969482752",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Massive study",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.xcrm.2024.101583",
+			"Date": "2024-05-22",
+			"Text": "In this study, Tarke et al. assess how symptomatic SARS-CoV-2 breakthrough infections (after vaccination) reshape T cell immunity. In a cohort of vaccinated individuals (n = 27) with available pre- and post-infection samples, they observed that BTI leads to significant boosts in CD4+ and CD8+ T cell responses against Spike in people lacking prior non-Spike reactivity, and induces new or expanded T cell responses to non-Spike viral proteins (M, N, nonstructural proteins). Moreover, variant-specific mutation-containing epitopes emerged post-BTI, constituting about 9–15% of the recognized epitope repertoire. These findings suggest that breakthrough infection broadens and deepens the antigenic scope of T cell immunity beyond the vaccine target. Importantly, the study found no evidence of T cell functional exhaustion in these boosted responses; rather, T cells became more polyfunctional (producing multiple cytokines and cytotoxic molecules). While neutralizing antibody titers also improved modestly, the dominant signature of BTI was on enhancing T cell magnitude and diversity. The effects were consistent across infections during Delta and Omicron waves, indicating that BTIs can extend vaccine-induced immunity by augmenting cellular memory even against variant-mutated regions.",
+			"Twitter": "https://x.com/aetarke/status/1793375208910594240",
+			"Category": [
+				"USA",
+				"T cells",
+				"Immune response",
+				"Antibodies",
+				"Vaccination",
+				"SARS-CoV-2 mechanics",
+				"Cross-reactivity",
+				"Hybrid immunity"
+			]
 		}
 	]
 }
