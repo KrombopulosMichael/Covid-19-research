@@ -6535,6 +6535,134 @@
 				"Detection",
 				"SARS-CoV-2 mechanics"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.04.30.24306604",
+			"Date": "2024-05-01",
+			"Text": "This preprint reports on a 22-month prospective follow-up of over 120,000 adults in Norway, investigating how cognitive and somatic symptoms evolve before, during, and after SARS-CoV-2 infection. The study shows that compared to negative controls, those with a positive test had markedly higher odds of new memory problems (adjusted odds ratio up to 9.4 beyond 18 months) and concentration difficulties (aOR ~4.4 beyond 18 months), along with fatigue, shortness of breath, anosmia, and dysgeusia. Crucially, these differences persisted through the entire follow-up, indicating durable symptom burden among many individuals.",
+			"Twitter": "https://x.com/1goodtern/status/1786655997299147221",
+			"Category": [
+				"Norway",
+				"USA",
+				"Greece",
+				"Long COVID",
+				"Self-reported",
+				"Preprint",
+				"Mild infection",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/jtm/taae053",
+			"Date": "2024-06-03",
+			"Text": "In this study, Chemaitelly et al. estimated how much protection prior SARS-CoV-2 infection confers against reinfection with the JN.1 variant in Qatar. Using a test-negative, case-control design, the authors found that overall protection was essentially negligible (1.8%, 95% CI: −9.3 to 12.6), but when broken down by time since infection, protection was high (82.4%, 95% CI: 40.9 to 94.7) at 3–<6 months post-infection. However, this protection declined quickly, effectively diminishing by one year after the prior infection.",
+			"Twitter": "https://x.com/RadCentrism/status/1786939508371718523",
+			"Category": [
+				"Qatar",
+				"Canada",
+				"Reinfection",
+				"Immune response",
+				"Antibodies",
+				"Natural immunity",
+				"Susceptibility",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2022.05.04.490614",
+			"Date": "2022-12-23",
+			"Text": "This preprint demonstrates that SARS-CoV-2 can actively suppress MHC class I on infected cells via multiple viral factors, thereby reducing the visibility of infected cells to CD8⁺ T cells. In both in vitro and in vivo settings, SARS-CoV-2 infection blunts MHC-I upregulation, and the effect is particularly strong in Omicron subvariants compared to earlier strains. The authors suggest that this capacity for T cell evasion complements the already known antibody escape features of Omicron and may contribute to its success in causing breakthrough infections and reinfections.",
+			"Twitter": "https://x.com/RadCentrism/status/1607455634311741441",
+			"Category": [
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Preprint",
+				"Reinfection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2024.1303589",
+			"Date": "2024-02-22",
+			"Text": "A previously healthy 22-year-old woman developed ptosis and vision loss one month after an inactivated SARS-CoV-2 vaccination, which later worsened following a COVID-19 infection. Diagnostic workup (imaging, biopsy) confirmed IgG4-related ophthalmic disease (IgG4-ROD): infiltration of IgG4+ plasma cells (ratio > 40 %) and > 50 IgG4+ cells per high-power field, along with elevated serum IgG4 (~280 mg/dL). She was treated with corticosteroids and tacrolimus, then later underwent surgical correction of ptosis; histology of levator muscle showed fibrosis. The authors also reviewed 9 previously reported cases of IgG4-related disease in relation to COVID-19 vaccination or infection (5 cases after vaccination, 4 after infection), and note that onset ranged from 1 day to 3.5 months. They propose potential immunologic mechanisms (molecular mimicry, bystander activation, class switching toward IgG4, involvement of IL-10+LAG3+ T follicular cells) linking SARS-CoV-2 antigen exposure and IgG4-RD pathogenesis.",
+			"Twitter": "https://x.com/DiscMedNews/status/1786701110310256676",
+			"Category": [
+				"China",
+				"Vaccination",
+				"Antibodies",
+				"Autoimmunity",
+				"Eye"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s42003-024-05922-2",
+			"Date": "2024-05-03",
+			"Text": "Severe COVID-19 is often accompanied by marked lymphopenia, but the drivers of T-cell depletion are incompletely understood. In this study, the authors show that a specific progenitor subset, TCF1⁺ CD4⁺ and CD8⁺ T-cells, declines preferentially with disease severity (e.g. from ~53% in mild to ~32% in severe in the CD8⁺ compartment) and that this decline correlates negatively with severity (Spearman r ~–0.58). The loss is not mirrored in TCF1⁻ cells, suggesting selective targeting of progenitor populations. Further, in patients with severe disease, residual TCF1⁺ cells show impaired proliferation (lower Ki67), reduced expression of Bcl-2 (a pro-survival factor), and a new subpopulation of TCF1⁻, caspase-3⁺ cells hinting at apoptosis. The authors show that serum from severe patients suppresses TCF1 transcription in healthy T cells ex vivo, and that blockade of IL-12 rescues this effect, implicating an IL-12–mediated suppression axis. They argue that this mechanism may underlie T-cell pool collapse in severe COVID-19, and propose IL-12 blockade (or related strategies) as a potential therapeutic angle.",
+			"Twitter": "https://x.com/ejustin46/status/1787324825343553553",
+			"Category": [
+				"Canada",
+				"T cells",
+				"Immune response",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmj-2023-076990",
+			"Date": "2023-11-22",
+			"Text": "In a Swedish cohort of 589,722 adults with first covid-19 between Dec 2020–Feb 2022, those vaccinated before infection were substantially less likely to receive a clinical long-COVID diagnosis (ICD-10 U09.9). PCC occurred in 0.4% of vaccinated vs 1.4% of unvaccinated individuals. Adjusted analyses estimated 58% effectiveness (HR 0.42, 95% CI 0.38–0.46), with a dose-response: 21% (1 dose), 59% (2 doses), 73% (≥3 doses).",
+			"Twitter": "https://x.com/moderna_tx/status/1787535578378248542",
+			"Category": [
+				"Sweden",
+				"Long COVID",
+				"Vaccination",
+				"Mitigation",
+				"Massive study",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41423-023-01087-w",
+			"Date": "2023-10-11",
+			"Text": "This review addresses how HIV infection modifies the immune response to SARS-CoV-2 and affects COVID-19 outcomes. It emphasizes that people living with HIV (PWH) are immunologically heterogeneous: many on ART recover well, but up to ~30 % fail to normalize CD4 counts and retain chronic immune dysregulation. Epidemiological data largely suggest similar SARS-CoV-2 infection incidence in PWH and HIV-negative persons, but PWH with poor HIV control (low CD4, detectable viral load) face higher risk of severe COVID-19 and mortality. Immunological studies show that PWH with good immune function often mount T-cell and antibody responses comparable to uninfected people, but those with advanced HIV may produce weaker and less durable responses, and may fail to clear SARS-CoV-2 promptly. Prolonged viral shedding (median ~109 days in some cases) and intrahost viral evolution have been documented in immunocompromised PWH. COVID-19 vaccination is generally safe and beneficial in PWH, but efficacy and durability are reduced in those with immunosuppression, and booster prioritization is recommended.",
+			"Twitter": "https://x.com/TactNowInfo/status/1788200239851048970",
+			"Category": [
+				"South Africa",
+				"Review",
+				"T cells",
+				"Antibodies",
+				"Vaccination",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.21037/cdt-23-381",
+			"Date": "2024-04-30",
+			"Text": "This study enrolled 9 patients undergoing mitral valve surgery about six months after COVID-19 and found SARS-CoV-2 RNA in the left atrial tissue in 4 (≈ 44 %) of them, despite negative viral tests at admission. In two of the RNA-positive patients, the local expression of inflammatory cytokines IL-6 and IL-1β was strongly elevated (one with ~55-fold and ~110-fold increases, another ~7-fold) relative to patients without detectable SARS-CoV-2 in cardiac tissue. These cytokine elevations were confirmed by immunofluorescence in cardiac sections but were not reflected in systemic serum levels, suggesting a localized inflammatory response. Thus, the authors propose that persistent viral colonization of cardiac tissue might contribute to ongoing local inflammation even months after apparent recovery, which could have implications for long-term cardiac sequelae in COVID-19 survivors.",
+			"Twitter": "https://x.com/outbreakupdates/status/1788546361509470424",
+			"Category": [
+				"China",
+				"Viral persistence",
+				"Immune response",
+				"Myocarditis"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ebiom.2024.105136",
+			"Date": "2024-04-16",
+			"Text": "During 2020–2022 in Yorkshire, UK, the authors observed a striking increase in cases positive for anti-MDA5 autoantibodies—from 0.4 % in 2019 to peaks of 4.8 % in 2021 (totaling 60 cases). Of those, 25 developed interstitial lung disease, with 8 fatal outcomes, while the others exhibited features of autoimmune disease (myositis, Raynaud’s, rashes). Few had documented prior COVID-19 infection, and over half had received SARS-CoV-2 vaccines. Through transcriptomic comparisons, the study showed that IFIH1 (MDA5) expression is induced in COVID-19 and in autoimmune ILD (but not in idiopathic pulmonary fibrosis), correlating with type 1 interferon and IL-15 signaling and activated CD8⁺ T cell signatures. A protective IFIH1 rs1990760 TT genotype dampened this response in some individuals. The authors propose a new COVID‐associated syndrome (termed “MIP-C”) linking viral exposure, aberrant MDA5 induction, and autoimmune lung injury.",
+			"Twitter": "https://x.com/Yash25571056/status/1789284076014411838",
+			"Category": [
+				"United Kingdom",
+				"Israel",
+				"USA",
+				"Lungs",
+				"Autoimmunity",
+				"Antibodies",
+				"Immune response",
+				"SARS-CoV-2 mechanics"
+			]
 		}
 	]
 }
