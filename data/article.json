@@ -2182,6 +2182,8 @@
 			"Text": "High risk of autoimmune diseases after COVID-19.",
 			"Twitter": "https://x.com/ejustin46/status/1646430052958060544",
 			"Category": [
+				"India",
+				"USA",
 				"Review",
 				"Antibodies",
 				"Mild infection",
@@ -3289,12 +3291,16 @@
 		{
 			"ArticleURL": "https://doi.org/10.1101/2023.07.27.23293177",
 			"Date": "2023-07-31",
-			"Text": "There is evidence that viral RNA may persist in certain tissues for a long time after COVID-19 infection (up to nearly two years in some cases). This is associated with ongoing immune activation (particularly T cells) in various body regions. T cell activation doesn’t only occur in people with Long COVID symptoms. Certain tissues (gut wall, spinal cord) show stronger association with symptoms. That suggests some, but not all, of the immune activation may contribute to symptom persistence. The study investigated long-term tissue-level immune activation and viral persistence in people after SARS-CoV-2 infection, including in those with Long COVID symptoms. It uses imaging and tissue biopsies to look for evidence that virus or immune activation might linger long after acute infection. 24 people who had had COVID-19, imaged at times ranging 27 to 910 days after acute infection. Some had Long COVID symptoms, some didn’t. PET imaging using a tracer called [^18F]F-AraG, which specifically marks activated T lymphocytes. That allows anatomical quantification of T cell activation in various tissues. For a subset of Long COVID participants, colorectal tissue biopsies (rectosigmoid) were examined for presence of SARS-CoV-2 RNA via in situ hybridization, and via immunohistochemistry. Blood plasma protein profiling showed that people with more Long COVID symptoms (>5) and higher tissue uptake had elevated markers of immune activation/inflammation. In biopsied colorectal (rectosigmoid) tissue from a subset of Long COVID participants, SARS-CoV-2 RNA (spike gene) was detected in lamina propria cells. The period after infection ranged from ~158 to ~676 days. In spinal cord and gut wall in particular, the degree of T cell activation was associated with presence of Long COVID symptoms. Elevated activation in a variety of tissues, even long after infection (up to ~2.5 years). T cell activation (measured by PET tracer uptake) was higher in the post-acute COVID group compared to controls in many anatomical sites: brainstem, spinal cord, gut wall, bone marrow, hilar lymphoid tissue, cardiopulmonary tissue, nasopharyngeal tissue, etc. ",
+			"Text": "There is evidence that viral RNA may persist in certain tissues for a long time after COVID-19 infection (up to nearly two years in some cases). This is associated with ongoing immune activation (particularly T cells) in various body regions. T cell activation doesn’t only occur in people with Long COVID symptoms. Certain tissues (gut wall, spinal cord) show stronger association with symptoms. That suggests some, but not all, of the immune activation may contribute to symptom persistence. The study investigated long-term tissue-level immune activation and viral persistence in people after SARS-CoV-2 infection, including in those with Long COVID symptoms. It uses imaging and tissue biopsies to look for evidence that virus or immune activation might linger long after acute infection. 24 people who had had COVID-19, imaged at times ranging 27 to 910 days after acute infection. Some had Long COVID symptoms, some didn’t. PET imaging using a tracer called [^18F]F-AraG, which specifically marks activated T lymphocytes. That allows anatomical quantification of T cell activation in various tissues. For a subset of Long COVID participants, colorectal tissue biopsies (rectosigmoid) were examined for presence of SARS-CoV-2 RNA via in situ hybridization, and via immunohistochemistry. Blood plasma protein profiling showed that people with more Long COVID symptoms (>5) and higher tissue uptake had elevated markers of immune activation/inflammation. In biopsied colorectal (rectosigmoid) tissue from a subset of Long COVID participants, SARS-CoV-2 RNA (spike gene) was detected in lamina propria cells. The period after infection ranged from ~158 to ~676 days. In spinal cord and gut wall in particular, the degree of T cell activation was associated with presence of Long COVID symptoms. Elevated activation in a variety of tissues, even long after infection (up to ~2.5 years). T cell activation (measured by PET tracer uptake) was higher in the post-acute COVID group compared to controls in many anatomical sites: brainstem, spinal cord, gut wall, bone marrow, hilar lymphoid tissue, cardiopulmonary tissue, nasopharyngeal tissue, etc.",
 			"Twitter": "https://x.com/Yash25571056/status/1686365268225011712",
 			"Category": [
+				"Long COVID",
 				"Preprint",
-				"USA",
-				"Long COVID"
+				"Self-reported",
+				"Brain",
+				"Susceptibility",
+				"Massive study",
+				"USA"
 			]
 		},
 		{
@@ -3851,21 +3857,6 @@
 				"Viral persistence",
 				"Kidney",
 				"SARS-CoV-2 mechanics"
-			]
-		},
-		{
-			"ArticleURL": "https://doi.org/10.1101/2023.07.27.23293177",
-			"Date": "2023-07-31",
-			"Text": "A May 2023 US survey of >41,000 adults found that 6% of adults had Long COVID at the time of the survey, 11% had ever had it, and 15% of those infected developed it. Symptoms typically persisted for ~9 months, with one in four cases lasting ≥1 year. Risk factors for Long COVID included female sex, lower household income, co-morbidities (especially diabetes, obesity, mental health conditions), and being unvaccinated. Vaccination and booster doses were associated with lower odds of Long COVID. The leading symptoms were fatigue, brain fog, breathing difficulties, and pain, often linked to reduced health and ability to work.",
-			"Twitter": "https://x.com/inkblue01/status/1720552092165693477",
-			"Category": [
-				"Long COVID",
-				"Preprint",
-				"Self-reported",
-				"Brain",
-				"Susceptibility",
-				"Massive study",
-				"USA"
 			]
 		},
 		{
@@ -6790,6 +6781,52 @@
 				"SARS-CoV-2 mechanics",
 				"Cross-reactivity",
 				"Hybrid immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-024-46673-2",
+			"Date": "2024-03-15",
+			"Text": "In a South African cohort (n=994; 113 with advanced HIV disease), 54% of those with advanced HIV had prolonged SARS-CoV-2 infection >30 days, compared with 8% in matched controls (11/24 vs 2/24; P=0.0013). In five vaccinated advanced-HIV participants studied longitudinally, viral clearance aligned with the rise of neutralizing antibodies (live-virus FRNT_{50}); measured CD8 T-cell responses did not track with clearance, and CD4 T cells weren’t reliably measurable due to low counts. Complete HIV suppression wasn’t strictly required at clearance, but was important for effective vaccine responses. Persistent infections showed within-host viral evolution and neutralization escape (notably from a Delta infection), although evolved viruses did not escape contemporary population-level neutralizing immunity. Overall, the data indicate that in advanced HIV disease recovering on antiretroviral therapy (ART), neutralizing antibodies are the key proximate correlate of clearing persistent SARS-CoV-2, highlighting the dual individual and public-health value of restoring humoral immunity and maintaining suppressive ART.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1773040033991110774",
+			"Category": [
+				"USA",
+				"South Africa",
+				"United Kingdom",
+				"Viral persistence",
+				"Antibodies",
+				"T cells",
+				"Vaccination",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s00705-022-05615-3",
+			"Date": "2022-10-21",
+			"Text": "In a retrospective study comparing 152 hospitalized COVID-19 patients versus 136 hospitalized influenza patients, the authors found meaningful differences in presentation. Influenza patients more often had respiratory symptoms such as dyspnea, hypoxemia, and underlying comorbidities; in contrast, COVID-19 patients were more likely to present with lymphopenia, elevated CRP, radiological bilateral infiltrates, and being overweight. Although more influenza patients met the threshold for severe disease on admission (NEWS ≥ 5 in 43.4% vs 19.1%), key outcomes — including length of stay, need for ventilatory support, in-hospital mortality, and 30-day mortality — were not significantly different between the groups. These findings suggest that while influenza tends to manifest more severely at entry from a respiratory standpoint, COVID-19 exhibits lab and radiologic features that may help differentiate it early in hospitalization.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1769024055883997685",
+			"Category": [
+				"Israel",
+				"Influenza",
+				"Lungs",
+				"T cells",
+				"Immune response",
+				"Detection",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.05.30.596590",
+			"Date": "2024-05-31",
+			"Text": "This study tests whether IgG from Long COVID patients can transfer symptoms to mice. The authors collected IgG from 34 Long COVID individuals (none hospitalized acutely, sampled ≥90 days post-infection), stratified them into three biomarker-based subgroups (LC1, LC2, LC3), and injected pooled IgG into mice (260 mg/kg). Behavioral assays over 15 days revealed that mice receiving IgG from LC1 or LC3 developed persistent mechanical and thermal hypersensitivity, whereas mice receiving control donor IgG regained normal thermal sensitivity within 2–3 days. One subgroup (LC2) IgG did not provoke hypersensitivity but reduced locomotion transiently. Human IgG was detectable in multiple mouse tissues (spinal cord dorsal horns, DRG, muscle, heart) in all groups without clear intensity differences. Taken together, the results suggest that in some patients, IgG may be a causal (or contributory) mediator of sensory abnormalities in Long COVID, supporting an autoimmune hypothesis.",
+			"Twitter": "https://x.com/DrDenDunnen/status/1796901736151392282",
+			"Category": [
+				"Long COVID",
+				"Autoimmunity",
+				"Antibodies",
+				"Immune response",
+				"Preprint",
+				"Detection",
+				"Nerves"
 			]
 		}
 	]
