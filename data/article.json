@@ -2179,7 +2179,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41584-023-00964-y",
 			"Date": "2023-04-12",
-			"Text": "High risk of autoimmune diseases after COVID-19.",
+			"Text": "This article argues that SARS-CoV-2 infection is associated with a substantially elevated risk of developing new-onset autoimmune diseases post infection, citing two large cohort studies: one with ~887,455 matched pairs showing hazard ratios ranging from ~1.78 (IBD) to ~2.99 (SLE/RA) and another indicating a 42.6% increased risk over 3 to 15 months follow-up. The authors note the broad spectrum of implicated autoimmune conditions and stress that this association is temporally consistent, though causality remains unproven.",
 			"Twitter": "https://x.com/ejustin46/status/1646430052958060544",
 			"Category": [
 				"India",
@@ -6827,6 +6827,55 @@
 				"Preprint",
 				"Detection",
 				"Nerves"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.06.02.596989",
+			"Date": "2024-06-03",
+			"Text": "🐁In a mouse model of SARS-CoV-2 nasal infection that does not directly infect the brain, the authors demonstrate persistent neurological deficits (loss of tyrosine hydroxylase in the olfactory bulb, altered neurotransmitters in the substantia nigra, behavioral changes, and sustained microglial activation). Early antiviral treatment with nirmatrelvir or molnupiravir successfully lowered viral load and lung inflammation, but crucially did not prevent the neurological pathology, suggesting that neuronal damage may be decoupled from ongoing virus presence and instead sustained by chronic inflammation or degenerative cascades. To connect these findings to human neurological diseases, the authors conduct transcriptomic overlap analyses between SARS-CoV-2 datasets and multiple neurological disease datasets, identifying overlapping DEGs, hub regulators (e.g. MAPK14, FOS), miRNA/TF regulatory networks, and candidate drugs (e.g. NADH, FADH, phenelzine). They propose that SARS-CoV-2 may predispose to or exacerbate neurological disease via inflammatory and autophagy-related pathways.",
+			"Twitter": "https://x.com/atranscendedman/status/1797985480077938989",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"Preprint",
+				"T cells",
+				"Antibodies",
+				"Treatment",
+				"Detection",
+				"Inflammation"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.05.28.24308095",
+			"Date": "2024-05-29",
+			"Text": "In this study, Sun et al. estimate how much of immunity to SARS-CoV-2 reinfection (conferred by prior infection) is mediated via serum neutralizing antibodies, and how this changes for variant strains. Using household cohort data from South Africa, they measured neutralizing antibody titers to ancestral (D614G) and Omicron BA.1 viruses prior to exposure, then tracked who became infected in Delta and Omicron waves. During the Delta wave, neutralization against D614G accounted for ~ 37 % (95 % CI: 34–40 %) of the protective effect, whereas during Omicron, neutralization to BA.1 only mediated ~ 11 % (95 % CI: 9–12 %) of protection, indicative of substantial antibody escape by Omicron.",
+			"Twitter": "https://x.com/ejustin46/status/1796371683626074122",
+			"Category": [
+				"USA",
+				"South Africa",
+				"Antibodies",
+				"Vaccination",
+				"Reinfection",
+				"Preprint",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-61918-2",
+			"Date": "2024-05-24",
+			"Text": "Children born to mothers with SARS-CoV-2 infection during pregnancy had a significantly higher incidence of neurodevelopmental delay: 11.6 % of exposed children (20/172) versus 1.6 % of controls (2/128) met criteria for delay (p = 0.0006). Using the Bayley-III instrument alone, 9.4 % of exposed versus 1.6 % of controls had developmental delay (p = 0.0007). Differences were more pronounced in the Rio cohort than in Los Angeles. The study also found that more severe maternal COVID-19 was a predictor of worse developmental outcomes (OR 2.6, 95 % CI 1.1–6.4).",
+			"Twitter": "https://x.com/TactNowInfo/status/1798671793173258297",
+			"Category": [
+				"Brazil",
+				"USA",
+				"Germany",
+				"Austria",
+				"Kids",
+				"Newborns",
+				"Brain"
 			]
 		}
 	]
