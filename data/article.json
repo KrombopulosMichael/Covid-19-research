@@ -6981,6 +6981,27 @@
 				"Detection",
 				"Air monitoring"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-024-07575-x",
+			"Date": "2024-06-19",
+			"Text": "In a controlled human challenge, unvaccinated, seronegative adults were nasally inoculated with a low dose of SARS-CoV-2, and serial nasopharyngeal and blood samples were profiled at single-cell resolution. The authors classified infection trajectories into abortive, transient, or sustained categories, and found that individuals who rapidly mounted local mucosal immune infiltration (especially in nasal tissues) were more likely to clear virus without sustained replication. Importantly, systemic (blood) interferon responses often preceded detectable mucosal responses, and higher baseline expression of HLA-DQA2 in nasal tissue correlated with resistance to sustained infection. They also uncovered that ciliated epithelial cells are a key permissive target with dynamic immune transcriptional changes, and that T cells and macrophages in the nasopharynx may harbor non-productive viral uptake. Through detailed profiling, they resolved 54 T cell states, including clonally expanding, antigen-responding subsets.",
+			"Twitter": "https://x.com/VirusesImmunity/status/1803466011879903715",
+			"Category": [
+				"United Kingdom",
+				"Thailand",
+				"Netherlands",
+				"Sketchy ethics",
+				"Nose",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Detection",
+				"SARS-CoV-2 mechanics",
+				"Vaccination",
+				"Viral persistence",
+				"Transmission"
+			]
 		}
 	]
 }
