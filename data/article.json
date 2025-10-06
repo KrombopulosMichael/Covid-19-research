@@ -6877,6 +6877,110 @@
 				"Newborns",
 				"Brain"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.buildenv.2024.111723",
+			"Date": "2024-08-01",
+			"Text": "SARS-CoV-2 detection in aerosol from community indoor environments. RNA extracted & N1, N2, E gene fragments of SARSCoV2 were quantified using RT-qPCR. SARSCoV2 RNA was detected in 8.9% of air samples; highest positivity rates in hospitals (16.2%).",
+			"Twitter": "https://x.com/BagaiDr/status/1800214332191486175",
+			"Category": [
+				"Spain",
+				"Transmission",
+				"Air monitoring",
+				"Masks"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1056/NEJMoa2209760",
+			"Date": "2023-02-08",
+			"Text": "In a platform RCT of 1,949 outpatients with COVID-19, a single 180 µg dose of peg-IFN-λ within 7 days of symptoms reduced the risk of COVID-19–related hospitalization or prolonged ED visit from 5.6% to 2.7% (RR 0.49; 95% CrI 0.30–0.76). Secondary outcomes (time to hospitalization and hospitalization/death) favored peg-IFN-λ, and safety was similar to placebo. Benefits were seen regardless of vaccination status and across variant",
+			"Twitter": "https://x.com/bhanlon15/status/1800933929102229516",
+			"Category": [
+				"USA",
+				"Brazil",
+				"Canada",
+				"Australia",
+				"Netherlands",
+				"Treatment",
+				"Interferon",
+				"Immune response",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.fertnstert.2021.10.022",
+			"Date": "2021-10-26",
+			"Text": "This prospective observational study of 120 men recovering from confirmed COVID-19 found no SARS-CoV-2 RNA in any semen sample tested (mean ~52.7 days after infection), supporting the conclusion that post-convalescent semen is likely noninfectious. However, sperm quality was significantly impaired early after infection: e.g. 60% of men tested <1 month had progressive motility < 32%, and 37% had sperm concentration < 15 million/mL. DNA damage (via fragmentation index and high DNA stainability) was also elevated early. Over time, the proportion of men with abnormal parameters declined; by >2 months post infection, only ~28% had low motility and ~6% low sperm count. Higher titers of anti-spike and anti-RBD IgG correlated inversely with motility and sperm count.",
+			"Twitter": "https://x.com/MeetJess/status/1800232590252609605",
+			"Category": [
+				"Belgium",
+				"Viral persistence",
+				"Reproductive health"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.medj.2021.02.001",
+			"Date": "2021-03-12",
+			"Text": "Sherina et al. assessed 119 samples from 88 recovered COVID-19 patients up to 6–8 months post infection. They observed that while IgM and IgA antibody levels declined rapidly after about one month, IgG levels and neutralizing activity remained reasonably stable through six months. At 6–8 months, ~80% of samples still had detectable anti-SARS-CoV-2 IgG (albeit lower). In subsets, they demonstrated that SARS-CoV-2–specific memory B and T cells persisted in all tested individuals at 6–8 months, supporting the idea that adaptive immune memory from natural infection endures over this timeframe.",
+			"Twitter": "https://x.com/Dave_it_up/status/1801482002404630740",
+			"Category": [
+				"Sweden",
+				"Italy",
+				"USA",
+				"China",
+				"Antibodies",
+				"B cells",
+				"T cells",
+				"Immune response",
+				"Detection",
+				"Natural immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/scitranslmed.abq1533",
+			"Date": "2023-08-09",
+			"Text": "Across human nasopharyngeal swabs, human autopsy tissues, and two animal models (hamster and mouse), the authors show that SARS-CoV-2 disrupts mitochondrial biology in a stereotyped way. In nasopharyngeal samples, as viral titers fall, the virus is linked to suppression of nuclear-encoded OXPHOS genes, induction of miR-2392, activation of HIF-1α and glycolytic programs, and engagement of host stress/immune pathways—consistent with a metabolic shift away from oxidative phosphorylation. In autopsy tissues where virus was no longer detectable, mitochondrial transcription had recovered in lung, but remained suppressed in heart (and, to a lesser extent, kidney and liver), while mtDNA transcription and immune defense signatures were increased—suggesting organ-specific persistence of mitochondrial dysregulation after viral clearance. In hamsters, during early infection (peak lung viral load), lung mitochondrial transcripts were minimally perturbed, but were down-regulated in cerebellum and up-regulated in striatum despite no detectable brain virus, indicating a systemic signal impacting the CNS. In mice, mid-phase infection showed partial recovery of lung mitochondrial transcription. Collectively, the data support a model in which an early systemic host response is followed by viral suppression of mitochondrial gene transcription and a glycolytic shift, with tissue-specific recovery or persistence thereafter.",
+			"Twitter": "https://x.com/Dave_it_up/status/1801482002404630740",
+			"Category": [
+				"USA",
+				"Brazil",
+				"Denmark",
+				"United Kingdom",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Lungs",
+				"Liver",
+				"Kidney",
+				"Nose",
+				"Mitochondria"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/braincomms/fcae127",
+			"Date": "2024-04-15",
+			"Text": "In 292 clinically indicated MRIs (73 PCR-confirmed COVID-19 cases; 219 matched pre-pandemic controls), ≥5 cerebral microbleeds were more frequent after COVID-19 (12% vs 5%; OR 2.66, 95% CI 1.23–5.76). The association strengthened after excluding dementia (OR 3.31, 95% CI 1.47–7.45) and was most evident in patients >70 y (OR 3.54, 95% CI 1.37–9.14). AI-derived counts agreed with radiology reports in 94%.",
+			"Twitter": "https://x.com/ejustin46/status/1803068141150314977",
+			"Category": [
+				"Denmark",
+				"Brain",
+				"Endothelium",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1080/02786826.2024.2359561",
+			"Date": "2024-06-13",
+			"Text": "The study assessed how strict N95 mask usage by staff and patients in three hospital indoor settings (an ICU corridor, a geriatric ward, and an emergency lab) correlated with detection of SARS-CoV-2 RNA in air and on surfaces. In the corridor—where over 30% of staff did not strictly wear N95 masks—virus RNA was detected in the air, whereas in the ward and lab (with universal N95 use) airborne viral RNA was not detected. These findings suggest that robust, universal N95 use in indoor hospital settings suppresses aerosol presence of SARS-CoV-2, thereby shifting or reducing the airborne transmission potential.",
+			"Twitter": "https://x.com/mdc_martinus/status/1802992464225030518",
+			"Category": [
+				"China",
+				"Mitigation",
+				"Masks",
+				"Transmission",
+				"Detection",
+				"Air monitoring"
+			]
 		}
 	]
 }
