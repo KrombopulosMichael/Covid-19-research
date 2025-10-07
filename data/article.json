@@ -7130,6 +7130,47 @@
 				"Detection",
 				"Self-reported"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.neubiorev.2024.105792",
+			"Date": "2024-07-03",
+			"Text": "This multimodal meta-analysis pooled 24 studies (functional: 15; structural VBM: 9) covering 933 individuals with prior COVID-19 and 922 controls. Functionally, COVID groups showed reduced activity in the right superior/middle/inferior temporal gyri, insula, orbitofrontal cortex, and left cerebellum. Structurally, they exhibited lower GMV in bilateral anterior cingulate/medial prefrontal and left cerebellum, but higher GMV in amygdala–hippocampal–temporal regions and right striatum; overlap pinpointed the right temporal pole with decreased activity yet increased GMV. Taken together, COVID-19 is associated with distributed abnormalities across temporal, orbitofrontal/medial prefrontal, limbic, insula, and cerebellar circuits—networks relevant to olfaction, emotion, memory, and executive control—providing a plausible neural basis for post-infection symptoms, while emphasizing the need for standardized, longitudinal imaging to clarify mechanisms and recovery.",
+			"Twitter": "https://x.com/Yash25571056/status/1809919587317854624",
+			"Category": [
+				"China",
+				"Brain",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1542/peds.2022-058167",
+			"Date": "2022-10-20",
+			"Text": "This multicenter cross-sectional analysis of 15,137 hospitalized pediatric COVID-19 cases across 52 U.S. children’s hospitals identified that 7.0 % (1,060 children) experienced acute neurologic complications, most commonly febrile seizures, non-febrile seizures, and encephalopathy. Children with neurologic complications had significantly worse hospital outcomes (longer lengths of stay, more ICU admissions, higher readmission and mortality rates, and higher costs) compared to those without neurologic involvement. Risk factors for neurologic complications included having preexisting neurologic complex chronic conditions (aOR ~4.14), while younger age and non-neurologic comorbidities were modestly protective; the incidence was somewhat lower during the Delta variant period (aOR ~0.71). The authors emphasize that these neurologic complications are relatively common and clinically consequential in pediatric COVID-19, arguing for prioritization of immunization, especially in high-risk children.",
+			"Twitter": "https://x.com/pan_accindex/status/1810202140272443710",
+			"Category": [
+				"USA",
+				"Kids",
+				"Brain",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1097/INF.0000000000003653",
+			"Date": "2022-06-29",
+			"Text": "Using data from the Texas CARES survey (October 2020–May 2022), investigators compared persistent symptom rates in nonhospitalized youth (5–18 y) by SARS-CoV-2 antibody (anti-N) status and other factors. 4.5% (82/1,813) reported long-lasting symptoms: 1.5% for 4–12 weeks and 3.3% for >12 weeks. Pediatric risk for persistent symptoms was lower than adults’ across durations. Higher risk of >12 weeks was linked to severe acute symptoms, unvaccinated status, and unhealthy weight; the share reporting persistent symptoms fell from 8.0% pre-Delta to 3.4% during/after Delta. Findings highlight that long-lasting symptoms also occur in nonhospitalized youth, though less often than in adults.",
+			"Twitter": "https://x.com/pan_accindex/status/1810202140272443710",
+			"Category": [
+				"USA",
+				"Kids",
+				"Long COVID",
+				"Antibodies",
+				"Nucleocapsid",
+				"Vaccination",
+				"Susceptibility",
+				"Mild infection",
+				"Self-reported",
+				"Omicron"
+			]
 		}
 	]
 }
