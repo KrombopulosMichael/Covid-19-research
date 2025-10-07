@@ -7002,6 +7002,134 @@
 				"Viral persistence",
 				"Transmission"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s13756-024-01422-4",
+			"Date": "2024-06-18",
+			"Text": "This retrospective observational study assessed 2,980 SARS-CoV-2 infection episodes across 13 Swiss hospitals during the BA.4/5 wave (June–September 2022), of which 444 (≈ 15 %) were classified as healthcare-associated. In six hospitals that switched to a more stringent mask policy in late June, the proportion of nosocomial infections declined following the switch; modeling yielded a rate ratio of 0.39 (95 % CI 0.30–0.49) for the shift from situative masking to general HCW masking in contact with patients.",
+			"Twitter": "https://x.com/mdc_martinus/status/1804118155574292695",
+			"Category": [
+				"Switzerland",
+				"Masks",
+				"Transmission",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.06.18.599612",
+			"Date": "2024-06-19",
+			"Text": "This study performs a longitudinal, multi-omic immune profiling (single-cell transcriptomics/proteomics and plasma proteomics) of 45 SARS-CoV-2 infected individuals who either developed Long COVID or fully recovered. By sampling during acute infection and at 3 and 12 months, the authors identify immune correlates associated with development, persistence, and resolution of Long COVID. The analyses reveal sex-specific pathways: in men destined to develop LC, upregulated TGF-β signaling in proliferating NK cells during acute infection; in women with persistent LC, enhanced IL-1 signaling in monocytes and increased expression of XIST at 12 months. Across both sexes, convergent immune signatures in LC include reduced monocyte co-stimulation, elevated NF-κB transcription factor expression, increased T cell exhaustion (LAG3), lower ETS1 expression across lymphocytes, and elevated intracellular IL-4 in T cells, suggesting a shift toward Th2-biased responses. ",
+			"Twitter": "https://x.com/inkblue01/status/1804133396810985483",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"Preprint",
+				"NK cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.vaccine.2024.06.005",
+			"Date": "2024-09-17",
+			"Text": "This study examined national-level data from Argentina between 2020 and 2022 to assess how COVID-19 vaccination in children (ages 0–17) affected pediatric mortality. The authors observed that in the 3–11 and 12–17 age groups, COVID-19 deaths declined in 2022, when vaccine uptake was higher, whereas in the 0–2 age group (with late and lower vaccine access) no decline was evident. Comparing vaccinated versus unvaccinated children in 2022, they estimate an 8–15× reduction in mortality for those with ≥1 dose, and 16–18× reduction for those with ≥2 doses.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1805769734115541190",
+			"Category": [
+				"Argentina",
+				"Brazil",
+				"Kids",
+				"Vaccination",
+				"Antibodies",
+				"Newborns"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jama.2020.13719",
+			"Date": "2020-07-24",
+			"Text": "In this JAMA case series of 4 young, previously healthy men with severe COVID-19, investigators found loss-of-function variants in TLR7—an X-linked receptor for single-stranded RNA—across 2 families. Clinically, all required mechanical ventilation (mean 10 days) and ICU care (mean 13 days), and one patient died. Functionally, patients’ immune cells had blunted type I (IRF7, IFNB1, ISG15) and type II (IFN-γ) interferon responses to TLR7 stimulation, consistent with a defect in antiviral innate immunity. The authors conclude that rare TLR7 variants may predispose certain young men to severe disease—though causal inference is limited by the small, observational design.",
+			"Twitter": "https://x.com/inkblue01/status/1806691902688760310",
+			"Category": [
+				"Germany",
+				"Netherlands",
+				"Immune response",
+				"Interferon",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.2807/1560-7917.ES.2024.29.26.2300659",
+			"Date": "2024-06-27",
+			"Text": "Neither three vaccinations nor infections with earlier variants, or a combination of both, protects from infection with the more recent Omicron variants of the virus. Over 31 months (April 2020 to November 2022), this study followed 1,446 participants in Heinsberg, Germany, to monitor SARS-CoV-2 seroconversion, reinfection, neutralising antibody titers, and T cell responses across successive variant waves and vaccination periods. Spike-specific IgA fell quickly after infection, but IgG levels remained more durable (estimated 18-month half-life). Nucleocapsid responses waned over 12 months post-infection but were re-boosted during Omicron waves. Meanwhile, SARS-CoV-2–specific CD4⁺ T cells (TNF-α⁺/IFN-γ⁺) also declined over the first year after infection. The highest antibody and neutralisation titers were observed in triple-vaccinated individuals infected in later waves (2021–2022), yet cross-neutralisation against Omicron subvariants (BQ.1.18, XBB.1.5) was minimal across all groups.",
+			"Twitter": "https://x.com/Yash25571056/status/1806831384214012060",
+			"Category": [
+				"Germany",
+				[
+					"Antibodies",
+					"Vaccination",
+					"T cells",
+					"Reinfection",
+					"Omicron",
+					"Natural immunity",
+					"Hybrid immunity"
+				]
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s00415-023-11767-2",
+			"Date": "2023-05-05",
+			"Text": "Roughly one quarter (~24 %) of individuals recovering from COVID-19 exhibited evidence of cortical hypoxia (reduced cerebral tissue oxygen saturation) measured noninvasively by fdNIRS, even though systemic arterial oxygenation was normal. Those with such hypoxia showed significantly lower oxyhemoglobin, more fatigue, greater depression, reduced quality of life, and worse performance on neurocognitive tests (processing speed, working memory, verbal fluency) compared to both healthy controls and recovered individuals without hypoxia. This suggests that in some people, lingering microvascular or inflammatory brain alterations post-COVID may impair local oxygen delivery and contribute to cognitive symptoms. The authors note that hypoxia might be part of a feedback “hypoxia–inflammation” loop, and that fdNIRS could help identify individuals at risk of long-term neurological sequelae.",
+			"Twitter": "https://x.com/healingfromlc/status/1805899210258067877",
+			"Category": [
+				"Canada",
+				"Brain",
+				"Long COVID",
+				"Detection",
+				"Immune response",
+				"Mitochondria"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/scitranslmed.adk3295",
+			"Date": "2024-07-03",
+			"Text": "Peluso et al. used whole-body PET imaging with a tracer specific for activated T cells ([^18F]F-AraG) in 24 individuals between 27 and 910 days after SARS-CoV-2 infection and found elevated T cell activation in multiple tissues (brainstem, spinal cord, gut wall, bone marrow, cardiopulmonary sites) compared to prepandemic controls. Activation in spinal cord and gut wall correlated with Long COVID symptoms, and in those with persistent lung symptoms, lung uptake was higher. In a biopsy subset (n = 5), intracellular SARS-CoV-2 single-stranded RNA was found in rectosigmoid lamina propria of all five, and double-stranded RNA in three participants up to 676 days post-infection, suggesting viral persistence in gut tissue may contribute to ongoing immune stimulation.",
+			"Twitter": "https://x.com/polybioRF/status/1808564632765788290",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Viral persistence",
+				"T cells",
+				"Immune response",
+				"Detection",
+				"Gastrointestinal",
+				"Brain",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3201/eid3008.240145",
+			"Date": "2024-07-02",
+			"Text": "The authors studied 22 COVID-19 decedents undergoing autopsy, sampling skull sawdust along with other tissues to test for SARS-CoV-2 RNA and live virus via cell culture. They detected viral RNA in 2/22 (9.1 %) sawdust samples and successfully cultured live virus in 1/22 (4.5 %), indicating that infective virus can persist in bone‐adjacent material postmortem. For comparison, airway samples yielded infective virus in 13/22 (59.1 %) and nonairway tissues in 2/22 (9.1 %). No viral RNA was found in central nervous system samples, and no occupational COVID-19 cases were identified among autopsy staff.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1808928368139583589",
+			"Category": [
+				"Finland",
+				"Germany",
+				"Transmission",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-66079-w",
+			"Date": "2024-07-04",
+			"Text": "In 158 health-care workers re-contacted after the first COVID-19 wave, researchers tested taste (n=141) and profiled foliate-papillae transcriptomes (n=43). Previously infected (IgG+) people who couldn’t detect metallic taste from iron-gluconate had higher IgG titers than those who could (p=0.03). Transcriptomics showed that SSI+ IgG+ participants had distinct tongue expression signatures with downregulation of 10 taste-related genes (8 TAS2R bitter receptors) and 5 olfactory receptors (including OR5K1) linked to metal-associated ligands. Self-ratings for common foods did not differ by IgG status. Authors conclude that long-COVID metallic taste complaints align with local chemosensory pathway changes in tongue tissue.",
+			"Twitter": "https://x.com/DaniBeckman/status/1809288040759849454",
+			"Category": [
+				"Germany",
+				"Austria",
+				"Long COVID",
+				"Oral",
+				"Detection",
+				"Self-reported"
+			]
 		}
 	]
 }
