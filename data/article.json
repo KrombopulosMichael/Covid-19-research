@@ -7233,6 +7233,76 @@
 				"Viral persistence",
 				"Susceptibility"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2217902120",
+			"Date": "2022-12-15",
+			"Text": "This study demonstrates that in COVID-19, male patients experience a greater decline in circulating follicular regulatory T cells (cTfr) relative to females, and that in men, a network of T peripheral helper cells (Tph), plasmablasts, proliferating B cells, and atypical CD11c⁺ memory B cells is tightly correlated with neutralizing antibody levels—suggesting that extrafollicular B cell activation compensates for the reduced regulation by cTfr. The strength of these correlations is weaker or differently patterned in female patients, implying a sex-biased reorganization of humoral immune control. The authors propose that this imbalance between regulatory Tfr cells and extrafollicular B-cell networks helps explain observed sex differences in COVID-19 antibody responses. Overall, the findings support a mechanistic hypothesis that in males, a loss of regulatory restraint (via cTfr) may favor extrafollicular B cell pathways, potentially contributing to dysregulated antibody responses, whereas females maintain a more balanced regulatory/effector ratio.",
+			"Twitter": "https://x.com/michael_hoerger/status/1975651309941358865",
+			"Category": [
+				"Japan",
+				"Antibodies",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s12672-025-03403-4",
+			"Date": "2025-08-14",
+			"Text": "Using matched cohorts of 1.28 million women each (from 4.87 million total records) in the TriNetX network, the authors examined 3-year outcomes after SARS-CoV-2 infection in 2020. Infection was associated with higher hazards of HPV-related invasive cancers—cervix (HR 1.67), vagina (2.31), vulva (1.99), anus (1.92), and oropharynx (1.78)—and similarly elevated risks for the corresponding carcinoma-in-situ lesions (HRs 1.34–1.96). Patterns were largely consistent across age and race strata. The authors propose immune dysregulation after COVID-19 as a plausible link but did not test mechanisms.",
+			"Twitter": "https://x.com/DrPatSoonShiong/status/1975722258292416773",
+			"Category": [
+				"Taiwan",
+				"Cancer",
+				"Immune response",
+				"Oral",
+				"Massive study",
+				"Reproductive health"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciimmunol.adm7908",
+			"Date": "2024-07-12",
+			"Text": "This study reveals a conserved signaling axis by which inflammatory or stress signals in the brain communicate directly to skeletal muscle, bypassing neural circuits. In flies and mice, CNS stress (due to bacterial infection, SARS-CoV-2 protein expression, or amyloid-β) triggers ROS accumulation in the brain, which induces expression of Upd3 (in flies) or IL-6 (in mice). The cytokine then travels systemically and activates JAK-STAT signaling in skeletal muscle, leading to mitochondrial dysfunction, reduced energy production, and impaired motor performance. Interfering with IL-6 or JAK-STAT in muscle rescues the dysfunction, supporting the functional importance of this axis. They also conducted rescue and inhibition experiments: interfering with IL-6 or JAK-STAT signaling mitigated the muscle dysfunction phenotype, supporting causality. Their results extend to chronic brain stress models (e.g. amyloid β) and suggest that even after infection clearance, the reduced muscle performance effect may persist beyond the acute CNS insult.",
+			"Twitter": "https://x.com/elisaperego78/status/1812974222983242137",
+			"Category": [
+				"USA",
+				"China",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"Muscle",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fpsyg.2024.1386937",
+			"Date": "2024-07-03",
+			"Text": "After one year of widespread mask wearing during the COVID-19 pandemic, preschool children (3–5 years) showed a marked improvement in their ability to recognize emotions from masked faces. While in an earlier study the mask-related impairment in toddlers was ~23.4 %, in the follow-up it had dropped to ~10.9 %, making their performance under masked conditions comparable to that of adults. Face masks continued to reduce accuracy in both groups, but the “cost” of masking no longer disproportionately affected toddlers.",
+			"Twitter": "https://x.com/greg_travis/status/1814322736740680171",
+			"Category": [
+				"Italy",
+				"Masks",
+				"Kids",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12879-024-09221-3",
+			"Date": "2024-03-27",
+			"Text": "In a cross-sectional study of 1,406 healthcare workers in a hospital in southern China, the authors identified 262 SARS-CoV-2 infection events between April and June 2023, of which 161 were reinfections (reinfection rate 11.5%) and 101 were first infections. Nearly all infected HCWs (257/262) had been vaccinated, largely with inactivated vaccines, but the group with first infections had a much higher proportion receiving four vaccine doses (23.8% vs. 3.7%). The average time between first infection and reinfection was about 149.9 days (±11.9). Symptoms in reinfections were generally milder: fever occurred in 50.9% (vs. 83.2% in first infections), myalgia in 37.9% (vs. 56.4%), and rhinorrhea was more frequent in reinfections (60.9% vs. 45.5%). Given the relatively high reinfection rate and short interval, the authors stress the importance of better monitoring and protection for HCWs during ongoing SARS-CoV-2 circulation.",
+			"Twitter": "https://x.com/RadCentrism/status/1811425056373010443",
+			"Category": [
+				"China",
+				"Reinfection",
+				"Hybrid immunity",
+				"Natural immunity",
+				"Detection",
+				"Vaccination",
+				"Mild infection"
+			]
 		}
 	]
 }
