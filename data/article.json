@@ -7171,6 +7171,68 @@
 				"Self-reported",
 				"Omicron"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.07.05.24310017",
+			"Date": "2024-07-07",
+			"Text": "This study introduces the MENSA assay, which measures antibodies secreted by circulating plasmablasts as a way to detect ongoing viral antigen exposure or reactivation. In validated settings of acute COVID-19 or vaccination, MENSA correctly identifies SARS-CoV-2–specific IgG responses. When applied to long-COVID (PASC) patients (n = 60), 40% showed MENSA positivity to SARS-CoV-2 (versus 0% in recovered controls), and additional fractions had evidence of Epstein–Barr virus (37%), CMV (23%), or HSV-2 (15%) reactivation; cumulatively, 60% of PASC patients had evidence of one or more viral drivers. These findings support a model in which ongoing viral persistence or latent reactivation may contribute to long COVID pathology.",
+			"Twitter": "https://x.com/NickAnderegg/status/1810137709677105552",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"Antibodies",
+				"Preprint",
+				"Detection",
+				"Epstein-Barr"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12889-024-19328-6",
+			"Date": "2024-07-07",
+			"Text": "This article is a systematic review and meta-analysis of 19 studies (total 21,155 participants) that assessed how post-COVID-19 (≥ 12 weeks after infection) affects work ability and return to work (RTW). The authors find that persistent symptoms—particularly fatigue—and functional impairments often reduce capacity to work, and estimate that just 60.9 % of patients successfully return to work after 12 weeks. Many of those who do return require adjustments in duties or hours to accommodate ongoing limitations.",
+			"Twitter": "https://x.com/Yash25571056/status/1810251051318350228",
+			"Category": [
+				"Germany",
+				"Long COVID",
+				"Self-reported",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/ijms25137169",
+			"Date": "2024-06-25",
+			"Text": "🐁This study shows that the SARS-CoV-2 nucleocapsid protein (NCAP) binds Tau, recruits it to stress-granule–like condensates, and increases pathological Tau phosphorylation (AT8) in cell culture and in mice after hippocampal AAV-NCAP delivery. In N2a and human AD-iPSC neurons, dialing SUMOylation up (via ebselen or SUMO2 co-expression) reduced NCAP condensates; in vivo, SUMO2 lowered AT8 and rescued NCAP-induced rotarod and Y-maze deficits. Typical doses/timelines: ebselen 2 µM or ginkgolic acid 10 µM for 16 h; behavior tested 1.5–3 months post-AAV; 4–6 mice/group. The authors propose that host SUMOylation is a tractable intervention point against NCAP/Tau neurotoxicity.",
+			"Twitter": "https://x.com/atranscendedman/status/1812111267387126078",
+			"Category": [
+				"Italy",
+				"Canada",
+				"USA",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Nucleocapsid",
+				"Nerves",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/all.16210",
+			"Date": "2024-07-14",
+			"Text": "In this longitudinal study of 106 unvaccinated individuals, sampled ~10 weeks and ~10 months after first SARS-CoV-2 infection, the authors demonstrate that many immune perturbations persist long after acute infection. At 10 months, convalescent individuals still exhibited significantly lower absolute counts of granulocytes, monocytes, and lymphocytes (including T, B, and NK cells), with prominent depletion of recent thymic emigrants and non–class-switched memory B cells. Meanwhile, SARS-CoV-2–specific antibody titers against Spike, RBD, and nucleocapsid proteins continued to decline, especially in younger persons and those with fewer NK or memory B cells.",
+			"Twitter": "https://x.com/1goodtern/status/1812891648969396241",
+			"Category": [
+				"Austria",
+				"Russia",
+				"Antibodies",
+				"Immune response",
+				"NK cells",
+				"T cells",
+				"B cells",
+				"Long COVID",
+				"Viral persistence",
+				"Susceptibility"
+			]
 		}
 	]
 }
