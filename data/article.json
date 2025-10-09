@@ -7401,6 +7401,93 @@
 				"Massive study",
 				"Detection"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41392-022-01241-2",
+			"Date": "2022-10-21",
+			"Text": "🧫The authors used human forebrain and midbrain organoids to compare the ability of SARS-CoV-2 Omicron BA.2 to infect and replicate versus WT, Delta, and BA.1. They found that BA.2 achieved substantially higher replication (e.g. 3.7-, 5.1-, and 7.9-fold greater than WT, Delta, BA.1 in forebrain organoid supernatants at 96 h) and induced less type I interferon and proinflammatory cytokine responses. Immunostaining showed that BA.2 can infect mature neurons and glial cells (but not progenitor SOX2⁺ cells), with evidence of neuronal degeneration. Moreover, BA.2 triggered stronger apoptosis (measured via CHOP, PUMA, TUNEL, caspase-3) than the other variants. In supplementary testing, BA.5.2 replicated even more efficiently than BA.2 in the organoid systems.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1820021457348370671",
+			"Category": [
+				"China",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s43162-024-00348-y",
+			"Date": "2024-08-05",
+			"Text": "The authors compared the incremental effect of multiple comorbidities on mortality across COVID-19, cardiovascular disease, and cancer using ISTAT death registry data for 2020–2021. They stratified decedents by number of comorbidities and expressed the death counts in those strata relative to deaths in persons with only one comorbidity. While having multiple comorbidities increased death rates in all three conditions, the amplification was far more dramatic in COVID-19: the ratio of deaths in patients with six or more comorbidities to those with one comorbidity was 136.7 for COVID-19, compared to maximum ratios of ~12.1 for cardiovascular disease and ~12.5 for cancer.",
+			"Twitter": "https://x.com/Yash25571056/status/1821032738914496855",
+			"Category": [
+				"Italy",
+				"Long COVID",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.06.18.24309100",
+			"Date": "2024-06-19",
+			"Text": "This preprint presents evidence that a subset of long COVID patients harbor autoantibodies against nervous system proteins, and that those autoantibodies may causally mediate neurological and pain symptoms in the syndrome. Using a >21,000 human protein microarray, the authors identified elevated autoantibody responses in LC patients with neurological features; purified IgG from these patients bound neural tissues (pons, sciatic nerve, meninges) and such binding correlated with symptoms like headache and disorientation. When the patient IgG was passively transferred into mice, the animals developed heightened pain sensitivity, balance/coordination deficits, and motor changes that recapitulated aspects of donor symptom profiles.",
+			"Twitter": "https://x.com/InTime_49/status/1821290877131878851",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Autoimmunity",
+				"Immune response",
+				"Antibodies",
+				"Preprint",
+				"Brain",
+				"Pain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-024-07722-4",
+			"Date": "2024-08-07",
+			"Text": "In 199 MIS-C cases versus 45 infected controls, the authors map antibodies and T-cells and find an immune focus on a nucleocapsid region (aa 134–190, “MADS”) that mimics a motif in the host protein SNX8 (linked to the mitochondrial MAVS pathway). Many MIS-C children with anti-SNX8 antibodies also carry cross-reactive CD8⁺ T cells that bind both the viral and self epitopes; at least 17% of MIS-C sera are SNX8-autoreactive by strict testing (≈37% with broader criteria). Several cross-reactive TCRs were cloned/validated; estimated circulating frequencies are ~10⁻⁴–10⁻⁵ of CD8⁺ T cells, and binding fits HLA-A*02. This supports molecular mimicry as a mechanistic link between SARS-CoV-2 infection and a subset of MIS-C. Limitations include small T-cell experiment Ns, focus on HLA-A*02–restricted epitopes, and heterogeneity (many MIS-C cases lack SNX8 reactivity), so this is not a universal explanation.",
+			"Twitter": "https://x.com/jeffgilchrist/status/1821509496042115564",
+			"Category": [
+				"USA",
+				"Kids",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Antibodies",
+				"Autoimmunity",
+				"Susceptibility",
+				"Nucleocapsid",
+				"Mitochondria"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bj.2023.100650",
+			"Date": "2024-06-03",
+			"Text": "Ximeno-Rodríguez et al. present a computational study proposing that the SARS-CoV-2 nucleocapsid (N) protein could bind to CD147 on lymphocytes, enabling infection of these immune cells. They argue that certain N genotypes (notably “N/120” and “N/152”) yield enhanced binding affinity in docking simulations, which might lead to lymphocyte depletion and immune suppression. This mechanism is hypothesized to underlie persistent viral reservoirs and contribute to long COVID or an “AIDS-like” syndrome following SARS-CoV-2 infection. Because the study is purely in silico, it lacks experimental confirmation of infection, replication, or clinical immunologic impact. The predicted binding affinities do not guarantee real biological effect, and no patient data link these genotypes to immunodeficiency.",
+			"Twitter": "https://x.com/LauraMiers/status/1821532778661605832",
+			"Category": [
+				"Spain",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Viral persistence",
+				"Nucleocapsid"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/ijms25158245",
+			"Date": "2024-07-28",
+			"Text": "🐁This study demonstrates that SARS-CoV-2 can infect peripheral sensory and autonomic neurons in vivo and in vitro, establishing productive replication within ganglionic neurons (including TG, SCG, and LS-DRG), and thereby offering a potential pathway for CNS neuroinvasion ahead of systemic viremia. In infected mice, very high proportions of SCG neurons (93–96%) and a substantial fraction of TG neurons (37–41%) became positive for viral antigen by day 6 post infection, and dsRNA signatures confirmed intra-neuronal replication. Using primary neuronal cultures, the authors show that neuropilin-1 contributes to neuronal entry, though inhibition does not fully block infection, indicating other routes may exist.",
+			"Twitter": "https://x.com/atranscendedman/status/1822373017009201448",
+			"Category": [
+				"USA",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Nerves",
+				"Treatment"
+			]
 		}
 	]
 }
