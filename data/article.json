@@ -7591,6 +7591,44 @@
 				"Long COVID",
 				"Self-reported"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bbi.2024.05.001",
+			"Date": "2024-05-10",
+			"Text": "By 12 months after an Omicron SARS-CoV-2 infection (or reinfection), about 7 % of children and young people (CYP) reported ongoing or new cognitive impairment (“brain fog”), with no significant difference between first infections (7.0 %, 24/345) and reinfections (7.5 %, 27/360). The onset of symptoms was most often when first tested or by 3 months, and older adolescents (15–17 years) were disproportionately represented among those with lingering cognitive issues. Those who reported cognitive impairment consistently had worse mental health, greater fatigue, poorer well-being, and more sleep problems across the follow-up.",
+			"Twitter": "https://x.com/beansprouts_mom/status/1825942559388270853",
+			"Category": [
+				"France",
+				"United Kingdom",
+				"Brain",
+				"Long COVID",
+				"Self-reported",
+				"Kids"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jare.2025.05.013",
+			"Date": "2025-05-10",
+			"Text": "In this study, the authors investigate the pathophysiological basis for post-COVID cardiovascular symptoms by analyzing endomyocardial biopsies from five Long COVID patients who developed myocarditis or related cardiac issues. They document inflammatory infiltration, myofilament damage, and especially pervasive mitochondrial ultrastructural abnormalities (vacuolization, cristae disruption) in cardiomyocytes. Parallel studies in mice infected with Omicron subvariants (BA.5.2, BQ.1) reveal similar mitochondrial disorganization in cardiac tissue, with cristae density reductions (to ~9–15 µm⁻¹ versus ~32 µm⁻¹ in healthy controls) and differential expression of mitochondrial transport proteins (e.g. TOM/TIM family, ADP/ATP translocases).",
+			"Twitter": "https://x.com/LongCovidPapers/status/1825941379715121317",
+			"Category": [
+				"China",
+				"Long COVID",
+				"Myocarditis",
+				"Mitochondria"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jama.2024.12747",
+			"Date": "2024-06-04",
+			"Text": "This study analyzed data from 898 school-age children (6–11) and 4,469 adolescents (12–17) with and without prior SARS-CoV-2 infection to characterize prolonged symptoms (≥ 90 days) associated with Long COVID. Using adjusted models, they identified 14 symptoms common to both age groups and found additional age-specific symptoms. Through LASSO modeling, the authors derived age-tailored “PASC research indices” (weighted symptom sums) that discriminated children with infection history and correlated with worse caregiver-reported health, quality of life, and developmental outcomes. Cluster analyses revealed 4 phenotypes in children and 3 in adolescents. For example, in school-age children, the index emphasizes neurocognitive, and gastrointestinal symptoms, while in adolescents the index emphasizes changes in smell or taste, and fatigue/malaise symptoms.",
+			"Twitter": "https://x.com/NIH/status/1826347766597222882",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Self-reported",
+				"Kids"
+			]
 		}
 	]
 }
