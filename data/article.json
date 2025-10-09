@@ -7303,6 +7303,104 @@
 				"Vaccination",
 				"Mild infection"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciadv.adi9379",
+			"Date": "2024-02-21",
+			"Text": "The study demonstrates that patients with Long Covid exhibit persistent spontaneous release of interferon-γ (IFN-γ) from peripheral blood mononuclear cells, even in the absence of ex vivo viral peptide stimulation, a phenomenon not observed in people recovering from acute COVID-19—by 180 days post-infection, spontaneous IFN-γ returns to baseline in those without Long Covid. This sustained IFN-γ release is primarily mediated by CD8⁺ T cells interacting with CD14⁺ antigen-presenting monocytes via MHC class I. Over time, reductions in spontaneous IFN-γ correlate with symptom improvement or resolution, and vaccination was associated with a drop in IFN-γ in patients whose symptoms improved.",
+			"Twitter": "https://x.com/Nature/status/1813946147695681743",
+			"Category": [
+				"United Kingdom",
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/scitranslmed.adn0136",
+			"Date": "2024-07-17",
+			"Text": "Li et al. analyzed single-cell transcriptomes from bronchoalveolar lavage in people with respiratory PASC and from a complementary mouse model. They found a shared pattern featuring pro-fibrotic monocyte-derived macrophages and dysregulated interactions with lung-resident T cells, with IFN-γ emerging as a central driver of these abnormalities. Crucially, neutralizing IFN-γ after the acute phase in mice dampened lung inflammation and fibrosis and improved gas exchange, nominating the IFN-γ signaling axis as a potential target for treating long-COVID lung sequelae.",
+			"Twitter": "https://x.com/Nature/status/1813946147695681743",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Lungs",
+				"Immune response",
+				"T cells",
+				"Interferon",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1128/mbio.01667-24",
+			"Date": "2024-08-14",
+			"Text": "This study shows that infection with SARS-CoV-2 predisposes patients to coinfection with Staphylococcus aureus, and that such coinfections are clinically deleterious. Using a clinical collection of S. aureus isolates from both SARS-CoV-2–positive and –negative patients, the authors found no clustering by lineage but noted a bias toward low-cytotoxic S. aureus strains in coinfected patients. Clinically, these coinfections were associated with increased mortality during the acute phase. In a mouse model, preinfection with SARS-CoV-2 increased susceptibility to a low-cytotoxic S. aureus strain: coinfected mice had worse outcomes and higher bacterial burdens, indicating that SARS-CoV-2 impairs host defenses in a way that favors secondary bacterial infection, including by strains with relatively weak virulence.",
+			"Twitter": "https://x.com/NickAnderegg/status/1815424570293100644",
+			"Category": [
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Immune response",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-022-16031-7",
+			"Date": "2022-07-13",
+			"Text": "In 21 Division-1 soccer players tested before infection and ~60 days after symptomatic (mild–moderate) COVID-19, CPET showed reduced aerobic capacity: VO₂max dropped from 57.35 to 54.34 ml·kg⁻¹·min⁻¹, VO₂RC from 49.80 to 47.47, and treadmill time from 17.54 to 16.56 min. Velocity at VO₂max fell (17.43 → 16.86 km·h⁻¹), HR at ventilatory threshold and at RC rose, while VO₂ at VT, velocities at VT/RC, and HRmax were unchanged. The authors infer that two months may be insufficient for full recovery of aerobic performance in elite players and advise individualized return-to-play assessments.",
+			"Twitter": "https://x.com/DavidJoffe64/status/1816981964135759958",
+			"Category": [
+				"Cyprus",
+				"Long COVID",
+				"Lungs",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.isci.2024.110344",
+			"Date": "2024-07-19",
+			"Text": "Over a 2-year follow-up of COVID-19 survivors (n = 144 initially, 57 at 2 years), the authors found increasing prevalence of long COVID in lung and kidney systems: pulmonary fibrous stripes were observed in 8.7 % of patients at 1 year and 17.8 % at 2 years, and renal long COVID in 15.2 % and 23.9 % respectively. Using clinical and multi-omics data collected within the first 30 days of infection, they built a machine learning model with 87.5 % accuracy to predict which patients would develop pulmonary or renal long COVID. Molecular profiling revealed that downregulation of serum surfactant-associated protein B correlated with persistent lung changes, while suppression of urinary proteins was linked to renal long COVID.",
+			"Twitter": "https://x.com/atranscendedman/status/1816951243778273650",
+			"Category": [
+				"China",
+				"Lungs",
+				"Long COVID",
+				"Detection",
+				"Kidney"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s13578-024-01280-y",
+			"Date": "2024-08-02",
+			"Text": "🐁his study compares Delta, Omicron BA.1, and BA.2 in human iPSC-derived cardiomyocytes and in hamsters. BA.2 infected the highest fraction of cardiomyocytes (55.7% vs 30.4% BA.1 vs 8.3% Delta at 24 hpi) and reduced cell numbers by ~37.5% at 48 hpi. In hamsters, cardiomyocyte necrosis occurred in 6/6 BA.2 vs 2/6 Delta at 2 dpi, with higher pathology scores (necrosis, immune infiltration, congestion, edema) for BA.2. BA.2-induced repression of mitochondrial/contractile genes and ion-handling genes (e.g., SDHA, MYL2, MYH7, TNNI3, SCN5A, KCNJ2, CACNA1C, ATP2A2) suggested impaired cardiac energetics and electrophysiology, and some changes persisted to 7 dpi after viral clearance.Mechanistically, BA.2 exploits TMPRSS2-independent endocytosis, matching the lack of TMPRSS2 in cardiomyocytes. Notably, BA.2 did not cause worse lung disease than Delta (similar or milder pathology with lower lung titers), implying its cardiac pathogenicity is not secondary to respiratory severity. Overall, BA.2—despite milder airway disease—directly damages the heart in vitro and in vivo.",
+			"Twitter": "https://x.com/atranscendedman/status/1819762571827876131",
+			"Category": [
+				"China",
+				"Lungs",
+				"Endothelium",
+				"Immune response",
+				"SARS-CoV-2 mechanics",
+				"Mitochondria",
+				"Omicron",
+				"Myocarditis"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2215-0366(24)00214-1",
+			"Date": "2024-07-31",
+			"Text": "In a prospective UK cohort of 475 hospitalized COVID-19 survivors (mean age ~58 years), Taquet et al. found that at 2–3 years post-discharge participants performed ~0.71 SD below expectations across cognitive domains, and many experienced psychiatric symptoms: ~74.5% had at least mild depression, ~53.5% anxiety, ~62.3% fatigue, and ~52.1% subjective cognitive decline; over 20% met criteria for severe depression, fatigue, or cognitive decline. Symptoms such as depression, anxiety, and fatigue were on average worse at 2–3 years compared to 6 or 12 months, indicating both persistence and new onset in some individuals. Importantly, later symptom severity was not well predicted by the acute illness severity, but was strongly linked to the 6-month recovery profile (explaining ~35–49% of variance), and to a “biocognitive” signature (acutely high D-dimer relative to CRP). Objective cognition at 2–3 years was mainly predicted by cognition at 6 months (explaining ~10.6% variance). Around 26.9% of participants changed their occupation (often for health reasons), and those occupational changes were specifically associated with both objective and subjective cognitive decline (OR ~1.5 per decrement in cognitive score).",
+			"Twitter": "https://x.com/BrainInflCollab/status/1820053871869198425",
+			"Category": [
+				"United Kingdom",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"Self-reported",
+				"Massive study",
+				"Detection"
+			]
 		}
 	]
 }
