@@ -7671,6 +7671,134 @@
 				"T cells",
 				"Endothelium"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cid/ciad368",
+			"Date": "2023-06-20",
+			"Text": "This study demonstrates that commercial immunoglobulin replacement products now commonly contain neutralizing antibodies against SARS-CoV-2 spike protein, reflecting widespread donor vaccination or prior infection. In 35 antibody-deficient patients on IRT, anti-spike antibody levels increased from a median of ~2,123 U/mL to ~10,600 U/mL post-infusion, and neutralization titers rose to levels approximating healthy donors. The immunoglobulin products themselves neutralized Omicron subvariants including BQ.1.1 and XBB in live-virus assays, though with variability among batches. Initiation of IRT alongside remdesivir in patients with antibody deficiency and prolonged COVID-19 infection (median 189 days, maximum >900 days with an ancestral viral strain) resulted in clearance of SARS-CoV-2 at a median of 20 days.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1829492390794867103",
+			"Category": [
+				"United Kingdom",
+				"Antibodies",
+				"Immune response",
+				"Viral persistence",
+				"SARS-CoV-2 mechanics",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fnagi.2024.1449575",
+			"Date": "2024-08-30",
+			"Text": "A meta-analysis showed over a five-fold increased occurrence of AD (Alzheimer’s disease) with Chlamydophila pneumoniae infection which is a pathogenic bacterium frequently causing pneumonia. Spirochaetal infection that also can be occurred in the lung infection had over a ten-fold increased occurrence of AD. Additionally, some pathogenic bacteria use their own molecular mechanisms to indirectly contribute to the development of AD. the impact of COVID-19 on cognitive function has been the focus of an increasing number of researchers. [In a recent study,] overall incidence of cognitive impairment among older COVID-19 survivors was 19.1%. These research literatures suggests that microbial infections of the lungs are associated with AD and cognitive dysfunction.",
+			"Twitter": "https://x.com/Yash25571056/status/1829724305267314823",
+			"Category": [
+				"China",
+				"Brain",
+				"Lungs",
+				"Immune response",
+				"Review",
+				"Aging"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-024-07873-4",
+			"Date": "2024-08-28",
+			"Text": "🐁This study identifies a spike–fibrin interaction that reprograms blood clots to be pro-inflammatory and resistant to breakdown. In mice, fibrin’s inflammatory domain was necessary for lung thromboinflammation, microglial activation, and neuronal loss after SARS-CoV-2 infection; spike plus fibrin could also trigger brain innate immune activation without active infection, aligning with Long COVID observations. Binding affinities were measured (Kd ≈ 390 nM for trimeric spike–fibrin; 98 nM for S1(N501Y)), and the relevant fibrin γ-chain epitope (γ364–395) was mapped. A fibrin-targeting monoclonal antibody (5B8) blocked microglial activation, neuronal injury, and lung thromboinflammation without impairing normal hemostasis, and a humanized version has entered phase 1 safety testing.",
+			"Twitter": "https://x.com/quay_dr/status/1829492510005264486",
+			"Category": [
+				"USA",
+				"Brain",
+				"Lungs",
+				"Long COVID",
+				"Endothelium",
+				"Immune response",
+				"NK cells",
+				"Neutrophils",
+				"Monoclonal antibodies",
+				"Treatment",
+				"Platelets"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12933-020-01165-7",
+			"Date": "2020-11-17",
+			"Text": "This preliminary study examined whether amyloid-type microclots are present in “unclotted“ platelet-poor plasma of COVID-19 patients, comparing 20 COVID-19 cases versus 10 T2DM and 10 healthy controls, using a fluorescence-based amyloid stain. The authors found substantially elevated microclot burden in COVID-19 plasma, such that using defined percent-area cutoffs they report sensitivity 85% and specificity 100% (COVID vs healthy), and they claim a “100% sensitivity (P < 0.0001)” in distinguishing COVID-19 from controls. The T2DM group also showed some microclot signal, which complicates the diagnostic discrimination; T2DM vs COVID-19 comparison yielded sensitivity 69% and specificity 67%.",
+			"Twitter": "https://x.com/resiapretorius/status/1828874427146133874",
+			"Category": [
+				"South Africa",
+				"United Kingdom",
+				"Denmark",
+				"Endothelium",
+				"Treatment",
+				"Platelets",
+				"mRNA vaccine",
+				"Diabetes"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1042/bsr20210611",
+			"Date": "2021-08-27",
+			"Text": "🧫This peer-reviewed lab study tested whether SARS-CoV-2 spike S1 directly alters clot formation. Using healthy donor plasma (n=10–11), the authors found that adding 1 ng/mL S1 increased amyloid-like fibrin(ogen) signal from a median 0.3% to 1.9% (P=0.004) and, with thrombin, from 0.9% ± 0.6 to 2.4% ± 1.3 (P=0.0036). Platelets became hyperactivated, and microfluidic assays showed more disruptive clots with spike-exposed plasma versus control. Proteomics indicated spike-associated structural/trypsin-resistant changes in β/γ-fibrin(ogen), complement C3, and prothrombin. The authors argue that spike can promote fibrin(ogen) conformations resistant to fibrinolysis, helping explain microclots reported in COVID-19.",
+			"Twitter": "https://x.com/resiapretorius/status/1828874427146133874",
+			"Category": [
+				"South Africa",
+				"Denmark",
+				"United Kingdom",
+				"SARS-CoV-2 mechanics",
+				"Platelets",
+				"Endothelium",
+				"mRNA vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-17126-7",
+			"Date": "2025-10-02",
+			"Text": "This longitudinal study followed 40 adults with prior COVID-19 (22 moderate, 18 severe) against 30 controls, assessing neuromuscular function (via chronaxie and related SET metrics) and muscle architecture (ultrasound echogenicity, thickness, fascicle length, pennation) of tibialis anterior and gastrocnemius lateralis over 4 timepoints across 12 months. Severe-COVID participants showed substantially higher NED prevalence in tibialis anterior—55.55%, 33.33%, and 16.66% at the first three visits—and elevated chronaxie early after illness (p < 0.001). Echogenicity—a marker of reduced muscle quality—was consistently higher in severe cases across muscles, especially early. Echogenicity predicted chronaxie (≈ +652 µs, +468 µs, +81 µs per unit at ~days 21–30, 31–90, 91–180, respectively; nonsignificant by 181–360), linking structural abnormalities to impaired excitability. The authors interpret the pattern as long-COVID polyneuromyopathy centered on tibialis anterior, with implications for targeted rehabilitation.",
+			"Twitter": "https://x.com/vipintukur/status/1976286933782495564",
+			"Category": [
+				"Brazil",
+				"France",
+				"Long COVID",
+				"Muscle",
+				"Nerves",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fpubh.2024.1452233",
+			"Date": "2024-09-03",
+			"Text": "In a community survey of 1,485 residents in Shenzhen, China (August 2023), the authors found that 73.3 % (1,089) reported prior SARS-CoV-2 infection; among those, 89.1 % reported at least one ongoing persistent symptom and 70.3 % had two or more. The most common symptoms were fatigue (46.7 %), cough (44.3 %), headaches (23.5 %), dizziness (19.7 %), chest tightness/shortness of breath (18.2 %), loss/change in smell or taste (17.9 %), impaired sleep (17.1 %), and brain fog (13.3 %). About 14.1 % of the infected individuals reported reinfections. After adjustment for demographics, reinfection was associated with elevated odds of reporting headaches (OR 1.54), loss/change in smell or taste (OR 1.90), impaired sleep (OR 1.55), and brain fog (OR 1.76). Older age (≥ 45) and higher educational attainment were also linked to higher likelihood of certain persistent symptoms.",
+			"Twitter": "https://x.com/Yash25571056/status/1831168252418105688",
+			"Category": [
+				"China",
+				"Long COVID",
+				"Reinfection",
+				"Self-reported",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-71589-8",
+			"Date": "2024-09-04",
+			"Text": "In a cross-sectional sample of 102 individuals living with Long COVID (average symptom duration ~15 ± 10 months), the authors assessed self-reported physical symptoms (fatigue, dyspnea, post-exertional malaise, myalgia) along with objective movement data (accelerometry) and functional tests (6MWT, chair-stand, TUG). They found that fatigue, post-exertional malaise, and having multiple symptoms were negatively associated with daily step counts, while post-exertional malaise was also inversely associated with moderate-to-vigorous physical activity. Dyspnea in particular was linked to poorer performance in the battery of functional capacity tests. These results suggest a pattern whereby certain symptoms (especially fatigue and PEM) relate more to reduced physical activity (behavioral limitation), while dyspnea may limit actual functional capacity.",
+			"Twitter": "https://x.com/Yash25571056/status/1831537544963698759",
+			"Category": [
+				"Brazil",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fped.2024.1368677",
+			"Date": "2024-09-05",
+			"Text": "Preterm infants with very low birth weight (VLBW) who experienced their early development during the COVID-19 pandemic showed significantly worse outcomes in language, cognitive, and gross motor domains compared to similar infants born and assessed before the pandemic. The study of 1,683 infants found that, adjusting for confounders, the pandemic-exposed group had lower language scores at both 18–24 and 33–39 months, a mean 7-point deficit in cognitive scores at the later follow-up, and a higher rate of gross motor delay (≤ –1 SD). ",
+			"Twitter": "https://x.com/Yash25571056/status/1831895454407348338",
+			"Category": [
+				"Korea",
+				"Newborns",
+				"Brain",
+				"Kids",
+				"Long COVID"
+			]
 		}
 	]
 }
