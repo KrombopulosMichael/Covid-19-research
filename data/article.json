@@ -7566,6 +7566,31 @@
 				"Mitigation",
 				"Sketchy ethics"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/labinvest.3780373",
+			"Date": "2001-12-01",
+			"Text": "Cynomolgus macaques exposed to lethal aerosolized monkeypox virus (Zaire strain) died 9–17 days later from fibrinonecrotic bronchopneumonia. Early virus replication occurred in the lower airways and regional lymph nodes, followed by monocytic cell-associated viremia and necrotizing lesions across multiple organs (lymphoid tissues, thymus, spleen, skin, oral mucosa, GI tract, reproductive system), with the liver rarely involved. Viral antigen was abundant in epithelial, macrophage, dendritic, and fibroblast populations; endothelial involvement was seen in lung. Apoptosis in lymphoid/epithelial tissues was confirmed by TUNEL; Guarnieri bodies were occasional, and syncytia appeared sporadically.",
+			"Twitter": "https://x.com/CarlvKeirsbilck/status/1824704013687828898",
+			"Category": [
+				"USA",
+				"MonkeyP",
+				"Transmission",
+				"Masks"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fnhum.2024.1450110",
+			"Date": "2024-08-13",
+			"Text": "In a Colombian cohort of 100 patients with neurologic post-COVID sequelae (50 previously hospitalized, 50 non-hospitalized), researchers found that brain fog (60%) and fatigue (74%) were the most common persistent symptoms, along with myalgia, sensory disturbances, sleep problems, and anxiety. The hospitalized group had more frequent abnormal neurologic exam findings (64% vs. 42%), while the non-hospitalized group performed worse on executive function testing (T = 42.6 vs 48.5). Both groups had deficits in processing speed and attention compared to normative populations. Symptomatic anxiety and depression were associated with worse cognitive performance and quality of life. Importantly, brain fog and fatigue persisted across durations of Long COVID, and exploratory modeling suggested incremental monthly increases in risk for depression, tinnitus, anxiety, and brain fog with longer symptom duration. The authors argue that neurologic manifestations of Long COVID are frequent, long-lasting, heterogeneous, and present even after 'mild' acute disease.",
+			"Twitter": "https://x.com/vipintukur/status/1824836432009085371",
+			"Category": [
+				"USA",
+				"Colombia",
+				"Brain",
+				"Long COVID",
+				"Self-reported"
+			]
 		}
 	]
 }
