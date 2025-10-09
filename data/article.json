@@ -7629,6 +7629,48 @@
 				"Self-reported",
 				"Kids"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.08.22.609137",
+			"Date": "2024-08-23",
+			"Text": "This preprint applies single-cell transcriptomic re-analysis of bronchoalveolar lavage fluid to discern how lung immune cell states differ across COVID-19 severity. The authors find that severe disease is associated with a marked expansion of neutrophils with hyperinflammatory and survival signatures (e.g. IL1β, ICAM1, MCL1), coupled with a shift in macrophages toward proinflammatory M1 phenotypes and upregulation of pyroptosis pathways. Dendritic cells in severe cases show reduced antigen-presenting capacity and increased apoptosis, while NK and T cells manifest signs of activation but also exhaustion and dysfunction.",
+			"Twitter": "https://x.com/atranscendedman/status/1827326730459021513",
+			"Category": [
+				"Canada",
+				"Lungs",
+				"Immune response",
+				"T cells",
+				"Neutrophils",
+				"Preprint",
+				"Endothelium",
+				"NK cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41564-024-01786-8",
+			"Date": "2024-08-23",
+			"Text": "🐁In a mouse model, SARS-CoV-2 populations evolving in the central nervous system show significantly greater genetic diversity than in the lung after intranasal infection. A recurring target of variation is the spike furin cleavage site (FCS). Deletion of the FCS reduces virulence when infection is initiated intranasally (lower viral loads, less morbidity), but when infection is delivered intracranially, the ΔFCS mutant regains CNS virulence, though its ability to spread from CNS to lung is impaired without the FCS.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1827940671853940785",
+			"Category": [
+				"USA",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s13148-024-01724-9",
+			"Date": "2024-08-20",
+			"Text": "The authors performed a genome-wide DNA methylation comparison between 96 post-COVID individuals (6 months after infection) and 191 controls, finding 42 CpG sites differentially methylated (FDR < 0.05) largely in promoter/CpG island regions (including genes like GLUD1, ATP1A3, ARRB2). They also detected an increase in stochastic epigenetic mutations (SEMs) across the genome (mapping to 790 genes) in the post-COVID group, implicating pathways such as insulin resistance, VEGF signaling, apoptosis, hypoxia response, and T-cell activation. These epigenetic signatures were accompanied by a modest but significant acceleration of epigenetic age (via Horvath’s clock) in those with prior COVID-19",
+			"Twitter": "https://x.com/NickAnderegg/status/1827914666640642171",
+			"Category": [
+				"Italy",
+				"Long COVID",
+				"Aging",
+				"T cells",
+				"Endothelium"
+			]
 		}
 	]
 }
