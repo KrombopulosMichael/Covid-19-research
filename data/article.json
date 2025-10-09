@@ -7488,6 +7488,84 @@
 				"Nerves",
 				"Treatment"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/ccr3.9186",
+			"Date": "2024-08-10",
+			"Text": "This article reports a 35-year-old man who, after a mild episode of COVID-19 in December 2020, developed persistent symptoms over months—fatigue, brain fog, body aches, exertional malaise—that persisted as a long COVID syndrome. Over time, imaging revealed bilateral hilar and mediastinal lymphadenopathy, and biopsy confirmed non-necrotizing granulomas consistent with sarcoidosis. Modest elevations in inflammatory markers (ESR 23 mm/h, CRP 3.1 mg/dL) were present. When systemic corticosteroids were initiated, the patient’s sarcoidosis responded, and remarkably many of his long COVID symptoms resolved; ACE levels normalized.",
+			"Twitter": "https://x.com/Yash25571056/status/1822563349265314172",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Immune response",
+				"Treatment",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ebiom.2024.105157",
+			"Date": "2024-05-29",
+			"Text": "This controlled human aerosol study evaluated how well different face coverings reduce exhaled SARS-CoV-2 viral RNA ('source control') in 44 infected volunteers. By comparing paired masked vs unmasked exhaled breath samples, the authors found that duckbill N95 respirators reduced exhaled viral load by ~98 % (95 % CI 97–99 %), significantly outperforming KN95, surgical, and cloth masks. Cloth masks (≈ 87 % reduction) performed better than surgical and the tested KN95 in this context.",
+			"Twitter": "https://x.com/TactNowInfo/status/1822601405221274091",
+			"Category": [
+				"USA",
+				"Masks",
+				"Transmission",
+				"Mitigation"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/j.1750-2659.2011.00198.x",
+			"Date": "2011-01-27",
+			"Text": "In a cluster-randomized trial among 1,441 health care workers in Beijing, MacIntyre et al. compared continuous use of medical masks vs N95 respirators (fit-tested or not) over 4 weeks, with an additional no-mask control group of 481. They measured clinical respiratory illness, influenza-like illness, laboratory-confirmed respiratory viral infection, and influenza. The N95 groups showed lower incidence across all outcomes (e.g. CRI 3.9% vs 6.7%, influenza 0.3% vs 1.0%), and non–fit-tested N95 masks were significantly more protective than medical masks for CRI after clustering adjustment, but no statistically significant difference emerged for other endpoints. There was no advantage of fit testing in this trial, and compliance was good, with few fit-test failures. In the intention-to-treat analysis (adjusted for clustering), non–fit-tested N95 respirators were significantly more protective than medical masks for CRI, but differences for ILI, lab-confirmed virus or influenza were not statistically significant after clustering adjustment. There was no significant difference between fit-tested and non–fit-tested N95 arms in any outcome, and fit test failure rates were low. In a post hoc analysis adjusting for confounders (hospital level, high-risk procedures, vaccination, handwashing), use of N95 (vs medical mask) and hospital level remained significant predictors, whereas medical mask use, vaccination status, handwashing, and performance of high-risk procedures did not.",
+			"Twitter": "https://x.com/TactNowInfo/status/1822881317446361559",
+			"Category": [
+				"Australia",
+				"China",
+				"United Kingdom",
+				"Masks",
+				"Transmission",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1056/NEJMoa2403211",
+			"Date": "2024-07-17",
+			"Text": "Analyzing 441k infected veteran patients vs 4.75M controls, the study estimated 1-year PASC risk across pandemic eras. In unvaccinated people, risk fell from 10.42% (pre-Delta) → 9.51% (Delta) → 7.76% (Omicron). In vaccinated people, it was 5.34% (Delta) → 3.50% (Omicron). Decomposition attributed about 72% of the decline to vaccination and 28% to era/variant changes.",
+			"Twitter": "https://x.com/PrognosticChats/status/1814432627765489682",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Vaccination",
+				"Omicron",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/infdis/jiae385",
+			"Date": "2024-08-12",
+			"Text": "🧫The study demonstrates, in permissive cultured cells, that SARS-CoV-2 can persist in an “infectious form” despite treatment with 3CL protease inhibitors (like nirmatrelvir). This residual infectivity decays slowly (half-life ~ 1 day) and can reignite viral replication after drug withdrawal. Interestingly, this persistence was not seen with treatment by a polymerase inhibitor (remdesivir). Extending the protease inhibitor treatment beyond 8 days in vitro prevented viral rebound upon treatment cessation. These results suggest a possible mechanistic basis for the ~ 20 % of patients who clinically experience viral rebound after nirmatrelvir therapy.",
+			"Twitter": "https://x.com/atranscendedman/status/1823045561060044851",
+			"Category": [
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Treatment",
+				"Paxlovid"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fpsyg.2024.1389672",
+			"Date": "2024-07-31",
+			"Text": "This study assessed how personality traits (via the HEXACO model plus narcissism, sadism, and compassion for others) correlate with pandemic behaviors — mask-wearing, social distancing, and hoarding — in a sample of 455 U.S. university students. Participants who always wore masks scored higher in compassion and lower in sadism; those who consistently socially distanced were higher in openness, conscientiousness, and compassion; and hoarders scored lower in agreeableness. Some hypothesized trait effects (e.g. extraversion, honesty-humility) were not observed. The authors interpret these results as suggesting that prosocial traits may encourage compliance with health-protective behaviors, whereas darker personality traits may undermine them.",
+			"Twitter": "https://x.com/ejustin46/status/1824288918629478541",
+			"Category": [
+				"USA",
+				"Masks",
+				"Self-reported",
+				"Mitigation",
+				"Sketchy ethics"
+			]
 		}
 	]
 }
