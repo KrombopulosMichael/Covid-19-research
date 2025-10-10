@@ -7935,6 +7935,40 @@
 				"Hybrid immunity",
 				"Cross-reactivity"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2024.1505719",
+			"Date": "2024-12-17",
+			"Text": "This study explored why some individuals maintain stable anti–SARS-CoV-2 antibody levels (“sustainers,” n = 14) while others show rapid decline (“decliners,” n = 13) by deeply profiling B and CD4+ T cell subsets ~4–6 weeks after mild COVID-19. Although both groups had broadly similar frequencies of virus-specific B and T cells, the sustainers had a lower frequency of IgG+ memory B cells early after infection and showed a progressive enhancement in neutralization potency of RBD-directed antibodies over ~5 months, a pattern consistent with ongoing germinal center-driven affinity maturation. The decliners, by contrast, had relatively more early memory B cell output but did not improve neutralization capacity over time. CD4+ T cell magnitudes and phenotypes did not differ significantly between groups. Distinct correlation patterns between B, T, and serological metrics in each group suggest different B–T cell interaction dynamics in sustainers versus decliners. Overall, the results imply that durability of SARS-CoV-2 antibody responses may depend on differential germinal center programs, in which some individuals favor sustained plasma cell generation and high-affinity maturation rather than memory B cell output.",
+			"Twitter": "https://x.com/ejustin46/status/1880119282048114920",
+			"Category": [
+				"Netherlands",
+				"USA",
+				"Antibodies",
+				"B cells",
+				"Immune response",
+				"T cells",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2023.04.04.535604",
+			"Date": "2023-04-05",
+			"Text": "The authors of this preprint report that SARS-CoV-2 Spike (S1) protein accumulates in skull marrow, meninges, and brain parenchyma in both a mouse model (via injected fluorescent S1) and in human post‐mortem samples from COVID-19 patients. In mice, exogenous S1 induced changes in the brain proteome and signs of parenchymal cell death. In human brain cortex samples (8 COVID vs 11 controls), proteomic analysis revealed 76 proteins differentially expressed (49 up, 27 down) and enrichment in immune, complement/coagulation, and neutrophil/NETs pathways, implicating local inflammatory/vascular processes.",
+			"Twitter": "https://x.com/vipintukur/status/1843143709736722756",
+			"Category": [
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"Endothelium",
+				"Neutrophils",
+				"Preprint",
+				"Detection",
+				"Interferon",
+				"Platelets"
+			]
 		}
 	]
 }
