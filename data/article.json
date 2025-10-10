@@ -7799,6 +7799,142 @@
 				"Kids",
 				"Long COVID"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fneur.2024.1455498",
+			"Date": "2024-09-05",
+			"Text": "This article proposes that long COVID (LC) and hypermobility spectrum disorders (HSD, including hypermobile Ehlers–Danlos syndrome) share substantial clinical and mechanistic overlap. The authors note that joint hypermobility is found in 30–57 % of patients with LC, ME/CFS, fibromyalgia, and POTS (versus ~10–20 % in the general population). They argue that both conditions manifest with musculoskeletal pain, dysautonomia, fatigue, and cognitive dysfunction, and may share pathophysiologic pathways such as persistent inflammation, mast cell activation, connective tissue damage, mitochondrial dysfunction, and remodeling of the extracellular matrix. They further suggest that in some cases, COVID-19 might trigger or worsen hypermobility via chronic inflammatory or adrenergic stress, particularly in genetically susceptible individuals (e.g. those carrying MTHFR polymorphisms).",
+			"Twitter": "https://x.com/Yash25571056/status/1831880301020377316",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Muscle",
+				"Pain",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2403200121",
+			"Date": "2024-02-27",
+			"Text": "During adolescence, cortical thinning is a normal developmental process; Corrigan et al. used a normative model to estimate expected thinning, then compared post-lockdown scans and found that adolescents (especially females) showed excess thinning consistent with an acceleration of brain maturation (~4.2 years “older” in females, ~1.4 years in males). This pattern was more widespread in female brains, whereas in males effects were more localized. The authors argue that pandemic lockdowns and associated stressors may have driven these deviations in brain structure.",
+			"Twitter": "https://x.com/vipintukur/status/1833223630672544130",
+			"Category": [
+				"USA",
+				"Brain",
+				"Mitigation"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-024-72262-w",
+			"Date": "2024-09-11",
+			"Text": "🧫This preclinical study tested a 1% astodrimer sodium nasal spray against SARS-CoV-2 in cell cultures and human nasal epithelium models. The spray reduced infectious virus by 96.6% after 4 h (0.07 vs 1.53 log₁₀ PFU/mL vs PBS; p<0.0001) and preserved epithelial integrity, cilia beating (within 4–8 Hz), and mucociliary clearance. By contrast, HPMC-based spray impaired mucociliary function and epithelial integrity (TEER falling to ~5–29 Ω·cm² depending on dose/time, far below the 100 Ω·cm² integrity threshold), and NO-NS reduced virus by about 90% but showed monolayer disruption in microscopy. The authors conclude astodrimer sodium spray shows an acceptable nonclinical efficacy and safety profile as a barrier nasal spray.",
+			"Twitter": "https://x.com/atranscendedman/status/1834194431257239680",
+			"Category": [
+				"Switzerland",
+				"Australia",
+				"USA",
+				"Nose",
+				"Mitigation",
+				"Transmission"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/infdis/jiae400",
+			"Date": "2024-09-03",
+			"Text": "Across four phase-3 trials (mRNA-1273, AZD1222, Ad26.COV2.S, NVX-CoV2373) conducted in 2020–2021, vaccinated participants who developed COVID-19 often had lower viral loads at diagnosis than placebo recipients. The mRNA-1273 and NVX-CoV2373 trials showed ~2–3 log10 lower loads (–2.12 and –2.78 log10, respectively), implying markedly fewer viral copies; AZD1222 and Ad26.COV2.S showed no statistically significant VL reduction. Because viral load is only a proxy for infectiousness, and measurements were single time-point during the ancestral-strain era with uneven case numbers, the findings suggest—but do not prove—that some first-generation vaccines reduced short-term transmission early in the pandemic.",
+			"Twitter": "https://x.com/Daniel_E_Park/status/1835096031291179011",
+			"Category": [
+				"Brazil",
+				"South Africa",
+				"Belgium",
+				"United Kingdom",
+				"Vaccination",
+				"mRNA vaccine",
+				"Transmission",
+				"Nose",
+				"Mitigation"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fmed.2024.1439181",
+			"Date": "2024-09-04",
+			"Text": "This prospective case–control study of 61 SARS-CoV-2–infected pregnant women and 10 uninfected controls provides evidence that SARS-CoV-2 can actively replicate within the human placenta. Among infected placentas, 15 (≈ 24.6 %) had detectable replication, and 3 (≈ 4.9 %) showed intense replication; notably, the three intense-replication cases were all associated with fetal demise (stillbirth or miscarriage). The authors found that higher viral protein/RNA scores correlated with more severe maternal COVID-19, and that ACE2 expression was elevated in infected placentas, while immune/inflammatory marker expression did not differ significantly versus controls.",
+			"Twitter": "https://x.com/atranscendedman/status/1836733093752795503",
+			"Category": [
+				"Switzerland",
+				"Reproductive health",
+				"Kids",
+				"Newborns",
+				"Transmission",
+				"Viral persistence",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2023.101946",
+			"Date": "2023-04-14",
+			"Text": "In a randomized, double-blind, placebo-controlled pilot trial, 41 participants with fatigue-dominant Long COVID were treated for 4 weeks with the metabolic modulator AXA1125 (twice daily) versus placebo. The primary mitochondrial function measure (phosphocreatine recovery time constant, τₚ꜀ᵣ) and 6-minute walk distance showed no significant differences between groups. However, fatigue — as measured by the Chalder Fatigue Questionnaire — improved significantly more in the AXA1125 group (mean difference –4.30, 95% CI –7.14 to –1.47; P = 0.0039). The treatment was generally well tolerated: more participants in the AXA1125 arm reported mild adverse events (52.4 %) compared to placebo (20 %), but none were serious or led to discontinuation. The authors conclude that although the primary mitochondrial endpoint was not met, the fatigue benefit is promising and warrants further investigation in larger, multicentre trials.",
+			"Twitter": "https://x.com/loscharlos/status/1836561171345994181",
+			"Category": [
+				"USA",
+				"United Kingdom",
+				"Slovakia",
+				"Long COVID",
+				"Treatment",
+				"Mitochondria"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/scitranslmed.adl1997",
+			"Date": "2024-09-18",
+			"Text": "Preschool children (younger than ~5 years) mount a qualitatively and quantitatively distinct adaptive immune response to SARS-CoV-2 compared with older children and adults. During infection, these youngest children show lower frequencies of SARS-CoV-2-reactive CD4⁺ T cells, whereas older children and adults with mild disease exhibit similar magnitudes and phenotypes of CD4⁺ T cell responses. Adults with severe disease tend toward more proinflammatory and cytotoxic T cell profiles. Eleven months after infection, preschool children maintain neutralizing antibody levels comparable to adults but have notably fewer circulating SARS-CoV-2 reactive memory B cells. Despite this lower B cell memory quantity, preschoolers’ memory CD4⁺ T cells exhibit distinct phenotypic features, including higher inflammatory signatures and traits associated with migration toward inflamed tissues.",
+			"Twitter": "https://x.com/ejustin46/status/1839153154765537332",
+			"Category": [
+				"France",
+				"French Guiana",
+				"Switzerland",
+				"Germany",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Antibodies",
+				"Kids",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41591-024-03278-y",
+			"Date": "2024-09-27",
+			"Text": "This study examined whether SARS-CoV-2–specific long-lived plasma cells are established in the bone marrow after mRNA vaccination, which might explain why vaccine-induced antibody levels decline relatively rapidly. In 19 adults (2.5–33 months post-vaccination), the researchers sorted bone marrow antibody-secreting cells into LLPC (PopD) and non-LLPC subsets, and assayed them (plus serum) for antigen-specific responses to influenza, tetanus, and SARS-CoV-2 spike. While influenza and tetanus responses were readily found within the LLPC compartment (mean ~7.3 % and ~2.1 % of total IgG ASCs, respectively), SARS-CoV-2–specific ASCs were essentially excluded from LLPCs (mean ~0.14 %) and instead were largely located in non-LLPC cell subsets (PopA/PopB). Only 6/17 individuals had detectable SARS-CoV-2 ASCs in LLPCs, and those were at very low frequencies. The authors argue that this lack of SARS-CoV-2–specific LLPC seeding helps explain why serum antibody titers decline within 3–6 months post-mRNA vaccination, whereas influenza/tetanus antibodies remain more stable. They found that the ratio of non-LLPC : LLPC for SARS-CoV-2 (~29) far exceeded that for influenza (~0.61) or tetanus (~0.44). T",
+			"Twitter": "https://x.com/VirusesImmunity/status/1839739442300424382",
+			"Category": [
+				"USA",
+				"Antibodies",
+				"B cells",
+				"Immune response",
+				"Vaccination",
+				"SARS-CoV-2 mechanics",
+				"Natural immunity",
+				"Hybrid immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.clim.2024.110371",
+			"Date": "2024-09-27",
+			"Text": "In vaccinated healthcare workers, those who experienced frequent symptomatic SARS-CoV-2 infection exhibited similar IFNγ and IL-2 responses upon variant antigen stimulation compared to HCWs with no prior infection, whereas HCWs with asymptomatic infection had significantly higher cytokine responses. Paradoxically, the frequent infection group displayed higher IgG levels to certain variants (e.g. B.1.617 and BA.4/5) and stronger neutralising antibody activity against Omicron sublineages, indicating that their humoral immunity was intact or even enhanced. These findings suggest a dissociation between humoral and cellular immunity in this subgroup: despite robust antibody responses, a blunted T cell cytokine signature (IFNγ / IL-2) might predispose to repeated symptomatic infection.",
+			"Twitter": "https://x.com/LiamT_Tweets/status/1840727507546325198",
+			"Category": [
+				"Ireland",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Vaccination",
+				"SARS-CoV-2 mechanics",
+				"Reinfection",
+				"Natural immunity",
+				"Hybrid immunity",
+				"Cross-reactivity"
+			]
 		}
 	]
 }
