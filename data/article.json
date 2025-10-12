@@ -8632,6 +8632,33 @@
 				"Immune response",
 				"Cancer"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1148/radiol.221250",
+			"Date": "2022-09-20",
+			"Text": "In a cross-sectional study of 63 children/adolescents (Germany, 2021), free-breathing low-field (0.55 T) functional MRI showed reduced ventilation-perfusion (V/Q) match after COVID-19 compared with 9 healthy controls. V/Q-matched lung parenchyma averaged 81% in controls vs 62% in recovered and 60% in long-COVID participants; only 1 participant showed a morphologic MRI abnormality. The deficit persisted regardless of time since infection—remaining abnormal <180 days and 180–360 days, and appearing even lower >360 days post-infection.",
+			"Twitter": "https://x.com/leanhealth/status/1895147508860625311",
+			"Category": [
+				"Germany",
+				"Lungs",
+				"Kids",
+				"Long COVID",
+				"Detection",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1148/radiol.241596",
+			"Date": "2025-02-25",
+			"Text": "In this prospective, cross-sectional study of 27 children/adolescents with post-COVID-19 condition (PCC) and 27 matched healthy controls, the authors used free-breathing phase-resolved functional lung MRI (PREFUL MRI) to detect subtle lung functional abnormalities otherwise not evident. They found that PCC participants had significantly lower pulmonary perfusion (median 49 vs 78 mL/min per 100 mL; P < .001) and slightly lower regional ventilation (P = .047). In symptomatic PCC patients, metrics such as flow-volume loop correlation (FVL-CM) were reduced, and ventilation and perfusion defect percentages were higher than in controls. Moreover, in the PCC group, greater lung perfusion correlated with worse fatigue (ρ = 0.48, P = .009) and higher ventilation–perfusion mismatch correlated with higher heart rate (ρ = 0.44, P = .02). These findings support a distinct “lung perfusion phenotype” in pediatric long COVID, potentially contributing to symptoms.",
+			"Twitter": "https://x.com/vipintukur/status/1895135045150724283",
+			"Category": [
+				"Germany",
+				"Lungs",
+				"Long COVID",
+				"Detection",
+				"Kids"
+			]
 		}
 	]
 }
