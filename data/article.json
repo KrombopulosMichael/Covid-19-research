@@ -8303,6 +8303,155 @@
 				"Viral persistence",
 				"Massive study"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/scitranslmed.add5960",
+			"Date": "2024-01-03",
+			"Text": "This nonhuman-primate study shows that two doses of an adjuvanted SARS-CoV-2 spike protein vaccine establish bone-marrow long-lived plasma cells (LLPCs) detectable for several months. Using a new “antibody-tethering” assay to isolate rare LLPCs, the authors found these cells were RBD-enriched, clonally related to memory B cells observed ~2 weeks post-boost, and carried additional somatic hypermutation. Antibodies secreted by these LLPCs displayed improved neutralization and broader cross-reactivity versus earlier time points.",
+			"Twitter": "https://x.com/vipintukur/status/1977049461575561283",
+			"Category": [
+				"USA",
+				"Antibodies",
+				"Vaccination",
+				"B cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s44400-025-00034-y",
+			"Date": "2025-10-01",
+			"Text": "In a longitudinal cohort of adults aged 50+ in the UK Biobank followed for a median of ~24 months, individuals with prior COVID-19 infection had a 41% higher hazard of new-onset all-cause dementia and a 77% higher hazard of vascular dementia (VaD) compared to matched non-infected controls, whereas no significant association was found for Alzheimer’s disease. Subgroup and sensitivity analyses largely confirmed these associations, and risks were especially pronounced among older, unvaccinated, or comorbidity-bearing participants.",
+			"Twitter": "https://x.com/vipintukur/status/1977050231108784348",
+			"Category": [
+				"Brain",
+				"Long COVID",
+				"Endothelium",
+				"Vaccination",
+				"United Kingdom",
+				"China",
+				"Germany"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12879-025-11372-w",
+			"Date": "2025-10-10",
+			"Text": "This cross-sectional web-based study surveyed 783 healthcare workers (HCWs) at Hamad Medical Corporation (Qatar) between Jan 24 – Apr 24 2022 to estimate the prevalence and risk factors of Long COVID. About 75 % of participants reported at least one persistent symptom after infection, and 36 % reported more than 3 symptoms. Fatigue was the most common, followed by sleep disorders, headache, joint pain, anxiety, low mood, and “brain fog.” Among respondents, 60 % had previously tested positive for SARS-CoV-2; 71 % of those with > 3 symptoms were female. A significant association existed between Long COVID symptom burden and both prior psychiatric history (adjusted OR 0.25 [95 % CI 0.08–0.78] for those without history) and current depression scores (PHQ-9 p < 0.001). Participants who had been infected with SARS-CoV-2 were more likely to report multiple long-term symptoms (adjusted OR 2.46 [95 % CI 1.21–5.00]).",
+			"Twitter": "https://x.com/atranscendedman/status/1977007718000181621",
+			"Category": [
+				"Qatar",
+				"Long COVID",
+				"Brain",
+				"Nerves",
+				"Viral persistence",
+				"Susceptibility",
+				"Sleep",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2024.53284",
+			"Date": "2025-01-06",
+			"Text": "Children who experience a high burden of common infections in the first three years of life are more likely to suffer moderate to severe infections and require systemic antibiotic treatment later in childhood (ages 3 to 10 or 13). In this Danish birth cohort, those in the high-infection group (≥16 diary-registered events) had a 2.39-fold increased incidence of later serious infections and a 1.34-fold higher incidence of antibiotic prescriptions, compared to children with lower early infection burdens. Each additional early-life infection was also associated with a small but measurable rise in later risk (AIRR ~1.05 for infections, ~1.02 for antibiotic use). Subtype analyses revealed that early colds, otitis media, pneumonia, fever, and gastroenteritis were individually linked to later increased risk, while tonsillitis was not consistently so. In a smaller subgroup with viral testing, higher burdens of enterovirus (and marginally rhinovirus) but not RSV were associated with elevated later pneumonia or broader infection risk.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1878505661878739193",
+			"Category": [
+				"Denmark",
+				"Kids",
+				"Self-reported",
+				"Viral persistence",
+				"Gastrointestinal"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.01.06.25320068",
+			"Date": "2025-01-06",
+			"Text": "This systematic review and meta-analysis pooled 44 studies with 8,114 participants to test whether Long COVID is associated with a more atherogenic lipid profile. Across multiple indices, LC showed significantly higher atherogenicity: CRI1 0.199 and CRI2 0.202; TG/HDL 0.294; composite (TG+LDL+VLDL)/(HDL+ApoA) 0.264; and ApoB/ApoA 0.515. Individual lipids shifted in the same direction (↑LDL, ↑total cholesterol, ↑TG, ↑ApoB; ↓HDL, ↓ApoA). The pattern supports the notion that LC may carry elevated cardiovascular risk signals, though the evidence base is heterogeneous and largely cross-sectional.",
+			"Twitter": "https://x.com/vipintukur/status/1878320279921013240",
+			"Category": [
+				"Thailand",
+				"China",
+				"Iraq",
+				"South Korea",
+				"Long COVID",
+				"Preprint",
+				"Review",
+				"Endothelium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.lana.2024.100984",
+			"Date": "2025-01-07",
+			"Text": "This retrospective cohort study of 2,511 essential workers in New York found that 18.9 % of participants developed post-acute sequelae (PASC), and 16.1 % had experienced multiple COVID-19 infections. After adjusting for confounders, reinfection was significantly associated with higher PASC risk (RR 1.41), and the risks were substantially higher for those who had experienced severe acute illness (RR 3.17) or who were unvaccinated before their first infection (RR 3.29).",
+			"Twitter": "https://x.com/RadCentrism/status/1877455409008574935",
+			"Category": [
+				"USA",
+				"Italy",
+				"Long COVID",
+				"Reinfection",
+				"Vaccination",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41390-024-03731-1",
+			"Date": "2024-10-28",
+			"Text": "In a case–control study of 169 children (129 LCS; 32 convalescent; 8 uninfected), Kovács et al. found that long COVID in children is associated with poorer quality of life and functioning and a distinct neutrophil dysfunction signature. The most frequent LCS symptom was fatigue, and LCS participants reported significantly worse QoL-F than convalescent controls (t(119)=7.456, p < 0.001). In a mechanistic subset (29 LCS; 17 controls), neutrophils from LCS children exhibited lower superoxide production (including a p < 0.0001 time×disease interaction) and reduced phagocytosis. Symptom counts correlated with neutrophil effector dysfunction, suggesting innate immune impairment may contribute to pediatric LCS pathology or vulnerability.",
+			"Twitter": "https://x.com/MixZA92/status/1877343343975247955",
+			"Category": [
+				"Hungary",
+				"Kids",
+				"Long COVID",
+				"Neutrophils"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.lana.2024.100984",
+			"Date": "2025-01-07",
+			"Text": "In a retrospective cohort of 2,511 essential workers in New York, the researchers found that 475 (18.9%) developed long COVID (PASC) following SARS-CoV-2 infection. Among them, 403 (16.1%) had experienced reinfection. After adjustment for demographics, comorbidities, and other covariates, reinfection was associated with a 41% increased risk of PASC (RR = 1.41, 95% CI 1.14–1.74). Notably, severe initial COVID-19 (RR = 3.17, 95% CI 2.41–4.16) and lack of vaccination at first infection (RR = 3.29, 95% CI 2.46–4.41) were also strong predictors of PASC.",
+			"Twitter": "https://x.com/Antonio_Caramia/status/1877133233428586792",
+			"Category": [
+				"USA",
+				"Italy",
+				"Long COVID",
+				"Reinfection",
+				"Vaccination",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/braincomms/fcae448",
+			"Date": "2025-01-07",
+			"Text": "The study followed 1,300 patients (200 hospitalized, 1,100 nonhospitalized) with persistent neurologic symptoms after COVID-19 to see if vaccination before infection was associated with milder neurologic long COVID outcomes. They found that regardless of prior vaccination status, the prevalence, severity, and cognitive testing deficits of neurologic symptoms (e.g. brain fog, headache, anosmia, dizziness) were largely similar between those with pre-vaccination infection and those with breakthrough infection. Some minor differences (e.g. rates of anosmia or dizziness) may reflect differing SARS-CoV-2 strains rather than vaccine effect. The authors interpret these results to indicate that, among individuals who develop Neuro-PASC, prior vaccination does not substantially modify its neurologic phenotype, although breakthrough cases often had more comorbidities.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1876810992979493027",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41380-024-02886-x",
+			"Date": "2025-01-15",
+			"Text": "This case–control study (129 PCC; 36 controls) shows that the choroid plexus is enlarged more than a year after SARS-CoV-2 infection and that larger ChP volume tracks with worse cognitive performance and widespread brain changes—reduced gray-matter in frontal/subcortical regions, white-matter microstructural alterations (lower FA/higher AD), and specific functional connectivity increases. Quantitatively, group differences were robust (e.g., ChP volume F=20.072; p<0.001), and cognitive correlations included Digit Span Backwards (r=−0.233; p=0.009). On the immune side, larger ChP volume associated with myeloid alterations (lower CD11b+, higher CX3CR1; fewer CD14+CD16+ monocytes and CCR2). A moderation analysis indicates the ChP influences how gray-matter loss relates to cognition, with effects emerging above ~759 mm³.",
+			"Twitter": "https://x.com/DaniBeckman/status/1879578910209552450",
+			"Category": [
+				"Germany",
+				"Spain",
+				"Brain",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1183/13993003.02049-2020",
+			"Date": "2025-01-28",
+			"Text": "This Scientific Reports study shows that expressing SARS-CoV-2 spike in human endothelial cells causes the formation of syncytia—~10–13% of cells after 72 h, averaging ~6 nuclei each—and disrupts VE-cadherin adhesions, leaving gaps that could impair vascular barrier integrity. Inhibiting MLCK (ML-7) significantly reduced syncytia incidence and size, whereas ROCK inhibition did not. Biomechanical context mattered: stiffer matrices increased syncytia, arterial-level shear stress (12 dyn/cm²) suppressed it, and cyclic stretch was neutral. Endothelial cells were permissive to SARS-CoV-2 infection and replication (MOI 0.1), with syncytia visible for an early isolate and productive replication for Omicron.",
+			"Twitter": "https://x.com/ejustin46/status/1884269505607872778",
+			"Category": [
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Endothelium",
+				"Omicron",
+				"mRNA vaccine"
+			]
 		}
 	]
 }
