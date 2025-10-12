@@ -3158,7 +3158,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.chom.2024.11.007",
 			"Date": "2024-08-26",
-			"Text": "SARS-CoV-2 spike protein persists in the skull-meninges-brain axis in COVID-19 patients. Spike protein is sufficient to induce brain pathological and behavioral changes in mice. Spike protein enhances brain vulnerability and exacerbates neurological damage in mice. mRNA vaccines reduce, but do not eliminate, the spike burden",
+			"Text": "SARS-CoV-2 spike protein persists in the skull, meninges, and even brain cortex of COVID-19 patients long after viral RNA is cleared, with spike detected in 13/16 skull, 9/12 meninges, and 8/16 brain cortex specimens, whereas viral RNA was absent in cortex. Proteomic signatures in these tissues implicate inflammatory, neutrophil/NET, IL-18, PI3K/AKT, and neurodegeneration-related pathways, suggesting chronic perturbation of the brain border environment. In mice, exogenous spike injection (in absence of full virus) induces neuroinflammation, increases markers of apoptosis (caspase-3) and APP, and worsens outcomes in stroke and TBI models. Vaccination reduces but does not fully prevent spike accumulation. The authors argue that persistent spike at brain border regions may underlie long-COVID neurological sequelae by sustaining low-grade inflammation and sensitizing the brain to additional insults.",
 			"Twitter": "https://x.com/internetuserf12/status/1862552434029068502",
 			"Category": [
 				"Viral persistence",
@@ -8451,6 +8451,72 @@
 				"Endothelium",
 				"Omicron",
 				"mRNA vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.adn1077",
+			"Date": "2024-01-18",
+			"Text": "Ruf’s commentary reviews and integrates evidence suggesting that persistent activation of the complement and coagulation systems may play a central role in driving Long COVID through sustained endothelial injury, microvascular dysfunction, and chronic inflammation. He notes that Long COVID patients often show elevated complement markers long after acute SARS-CoV-2 infection, and he proposes that cross talk between complement, coagulation, and vascular damage may perpetuate symptoms. Based on that, targeting complement or coagulation pathways is posited as a promising therapeutic strategy, though robust mechanistic and clinical trials remain lacking.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1884840677747409267",
+			"Category": [
+				"Long COVID",
+				"Immune response",
+				"Endothelium",
+				"Platelets",
+				"Treatment",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.lfs.2025.123404",
+			"Date": "2025-01-18",
+			"Text": "🐁In a transgenic mouse model (K18-hACE2), intratracheal instillation of inactivated SARS-CoV-2 induced acute skeletal muscle injury characterized by reduced muscle strength and histopathological changes (leukocyte infiltrates, vacuoles, centralized nuclei) in gastrocnemius and diaphragm muscles. Apoptotic signaling (elevated caspase‐3) and inflammatory mediators (HMGB1, TNF-α, phospho-NF-κB, caspase-11, pannexin-1) were significantly increased, while pyroptosis markers (caspase-1, IL-1β, gasdermin D) were unchanged. Pre-treatment with the P2X receptor inhibitor Brilliant Blue G ameliorated the muscle damage and dampened molecular inflammation, implicating purinergic signaling in the pathogenic process. This work suggests that SARS-CoV-2, even in a non-replicative form, can trigger acute myopathic effects via inflammatory and apoptotic pathways, and that targeting purinergic signaling may protect muscle from viral-induced injury.",
+			"Twitter": "https://x.com/DavidJoffe64/status/1885545741931991315",
+			"Category": [
+				"Brazil",
+				"Muscle"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-024-08511-9",
+			"Date": "2025-02-05",
+			"Text": "In Qatar’s national datasets, a prior pre-Omicron infection cut the risk of reinfection by ~81% and this barely waned over time; protection against severe disease on reinfection was ~98%. By contrast, during the Omicron era, protection from a recent Omicron infection began high (~81% at 3–<6 months) but fell to ~28% by 9–<12 months and to ~5% beyond a year, while protection against severe outcomes on reinfection remained ~100%. These results indicate rapid immune escape with Omicron: natural infection gives short-lived protection against getting infected again but continues to strongly prevent severe disease on reinfection.",
+			"Twitter": "https://x.com/NateB_Panic/status/1887770455597019508",
+			"Category": [
+				"Qatar",
+				"USA",
+				"Reinfection",
+				"Omicron",
+				"Natural immunity",
+				"Hybrid immunity",
+				"Vaccination",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/ofid/ofae631.1999",
+			"Date": "2025-01-29",
+			"Text": "In a retrospective analysis of 769 hospitalized U.S. patients with both myelodysplastic syndrome (MDS) and COVID-19, the authors identified 151 in-hospital deaths and explored predictors of mortality. Compared with non–COVID MDS patients, the MDS+COVID cohort was older (77.3 vs 53.5 years), had longer hospital stays (7.9 vs 5.1 days), and higher hospital charges (~USD 85,060 vs ~66,888). HSCT history was not linked to increased risk. Male sex was associated with a higher unadjusted mortality (64.9% vs 53.9%), but its adjusted odds ratio (1.51) was only of borderline significance (p = 0.076). Key complications distinguishing nonsurvivors included stroke (2.0% vs 0.3%, aOR 4.7), severe sepsis (17.9% vs 0.6%, aOR 9.1), acute respiratory failure (66.9% vs 49.5%, aOR 3.93), and acute kidney injury (45.7% vs 29.1%). Vasopressor use was far more frequent among nonsurvivors (9.3% vs 0.2%), though its adjusted association did not reach significance.",
+			"Twitter": "https://x.com/DaniBeckman/status/1888299339971498467",
+			"Category": [
+				"Immune response",
+				"T cells",
+				"Endothelium",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bbi.2024.12.002",
+			"Date": "2024-12-19",
+			"Text": "This study of 94 undergraduate students (mean age ~20.6 y, ~89 % female) investigated whether past COVID-19 infection is associated with lingering cognitive impairment and altered brain hemodynamics. About 40 % of participants recalled “brain fog,” and 37 % of those with prior infection exhibited objective impairments on cognitive testing (especially in executive function). However, at the group level, performance differences were modest, possibly because some individuals compensate better than others. Importantly, NIRS measurements over the prefrontal cortex revealed distinct task-evoked hemodynamic patterns in the previously infected group, patterns akin to those seen in much older adults. Participants reporting brain fog showed more aberrant oxygenated hemoglobin responses during tasks.",
+			"Twitter": "https://x.com/dlingenfelter/status/1888642674045186076",
+			"Category": [
+				"United Kingdom",
+				"New Zealand",
+				"Switzerland",
+				"Brain",
+				"Long COVID",
+				"Self-reported"
 			]
 		}
 	]
