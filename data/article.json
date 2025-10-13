@@ -1877,6 +1877,10 @@
 			"Text": "In extensively immunologically characterized patients who recovered from COVID-19, T cells were exhausted, with increased PD-1+ T cells, as compared with healthy controls. Plasma levels of IL-1β, IL-1RA, and IL-8, among others, were also increased in patients who recovered from COVID-19. This altered immunophenotype was mirrored by a reduced ex vivo T cell response to both non-specific and specific stimulation, revealing a dysfunctional status of T cells, including a poor response to SARS-CoV-2 antigens. Altered levels of plasma soluble PD-L1, as well as of PD1 promoter methylation and PD1-targeting miR–15-5p, in CD8+ T cells were also observed, suggesting abnormal function of the PD-1/PD-L1 immune checkpoint axis. Notably, ex vivo blockade of PD-1 nearly normalized the aforementioned immunophenotype and restored T cell function, reverting the observed post–COVID-19 immune abnormalities; indeed, an increased T cell–mediated response to SARS-CoV-2 peptides was noted. Finally, in a neutralization assay, PD-1 blockade did not alter the ability of T cells to neutralize SARS-CoV-2 spike pseudotyped lentivirus infection. Immune checkpoint blockade ameliorates post–COVID-19 immune abnormalities and stimulates an anti–SARS-CoV-2 immune response.",
 			"Twitter": "https://x.com/fitterhappierAJ/status/1528530531171852289",
 			"Category": [
+				"Italy",
+				"Egypt",
+				"USA",
+				"China",
 				"T cells",
 				"Immune response"
 			]
@@ -4831,7 +4835,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41590-023-01724-6",
 			"Date": "2024-01-11",
-			"Text": "Long COVID (LC) is associated with lasting immune changes: eight months after acute SARS-CoV-2 infection, people with LC show evidence of ongoing systemic inflammation, immune cell subset perturbations, and elevated antibody levels compared to people who have fully recovered. Specifically, CD4+ T cell populations in LC are more likely to express markers that allow them to home to inflamed tissues, and SARS-CoV-2-specific CD8+ T cells show exhaustion signatures. There is also a miscoordination between T-cell and B-cell (antibody) responses in LC, suggesting that though both adaptive arms are active, they are not working in a well-orchestrated way. These immune irregularities may underlie the persistent symptoms seen in LC — such as fatigue, cognitive issues, sleep disturbances — perhaps driven by ongoing antigen exposure or dysregulated immune signaling. The study’s depth (multi-omics) provides pieces of a mechanism: immune dysregulation, chronic inflammation, and maladapted adaptive immunity. However, due to sample size and diversity among LC patients, more work is needed (including studying tissues, not just blood) to fully map causation and heterogeneity.",
+			"Text": "Long COVID (LC) is associated with lasting immune changes: eight months after acute SARS-CoV-2 infection, people with LC show evidence of ongoing systemic inflammation, immune cell subset perturbations, and elevated antibody levels compared to people who have fully recovered. Specifically, CD4+ T cell populations in LC are more likely to express markers that allow them to home to inflamed tissues, and SARS-CoV-2-specific CD8+ T cells show exhaustion signatures. There is also a miscoordination between T-cell and B-cell (antibody) responses in LC, suggesting that though both adaptive arms are active, they are not working in a well-orchestrated way. These immune irregularities may underlie the persistent symptoms seen in LC — such as fatigue, cognitive issues, sleep disturbances — perhaps driven by ongoing antigen exposure or dysregulated immune signaling.",
 			"Twitter": "https://x.com/DaniBeckman/status/1745523375588696193",
 			"Category": [
 				"Sleep",
@@ -8658,6 +8662,78 @@
 				"Long COVID",
 				"Detection",
 				"Kids"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cyto.2025.156884",
+			"Date": "2025-02-22",
+			"Text": "This study of 175 individuals previously infected with COVID-19 explored associations between IL-6 signalling (including IL-6, sIL-6R, sgp130) and the IL-6R gene variant rs2228145 with self-reported long-COVID symptoms. They found that more severe/multiple infections and hypertension increased long-COVID odds, while vaccination was protective. Overall, IL-6 signalling was elevated in long-COVID sufferers, though across the full cohort the rs2228145 genotype was not significantly associated with long-COVID risk. Importantly, the authors observed seasonal effects: in the summer subgroup (but not in winter), the AA genotype of rs2228145 was overrepresented among those with long-COVID, and AC/CC genotypes had lower odds compared to AA.",
+			"Twitter": "https://x.com/vipintukur/status/1897305166715740248",
+			"Category": [
+				"United Kingdom",
+				"Long COVID",
+				"Immune response",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41593-025-01871-z",
+			"Date": "2025-03-06",
+			"Text": "In 11 COVID-19 autopsies (plus 2 additional brains) vs 23 controls, the authors map a consistent pattern of microglial dysfunction concentrated in medullary autonomic nuclei: loss of P2Y12R, impaired CX3CR1–CX3CL1 signaling, mitochondrial injury, and excessive phagocytosis of synapses/myelin. Microglial P2Y12R loss scaled with regional viral RNA (e.g., medulla r = −0.87), and snRNA-seq of 16,260 nuclei identified nine cell populations reflecting inflammatory state shifts. The picture is one of “gliovascular failure” at sites of vascular inflammation and Blood Brain Barrier (BBB) injury, with glutamatergic terminal loss. Inflammation in brain and CSF was dominated by IL-1/IL-6 signatures tightly coupled to systemic inflammation (e.g., spleen IL-6 vs medullary IL-6 r = 0.93; lung IL-1β vs CSF IL-1β r = 0.87). PRR and inflammasome-related transcripts (AIM2, TLR3/7/9, RIG-I, MDA5, NLRC5) associated with these changes, linking virus-sensing to microglial dysfunction.",
+			"Twitter": "https://x.com/DaniBeckman/status/1897875791826108718",
+			"Category": [
+				"Germany",
+				"Hungary",
+				"Brain",
+				"Immune response",
+				"Interferon",
+				"Endothelium",
+				"Lungs",
+				"Liver",
+				"Neutrophils",
+				"Mitochondria",
+				"Nerves"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.neuron.2022.12.029",
+			"Date": "2023-01-19",
+			"Text": "Using registry and biobank data from Finland (FinnGen) and the UK (UK Biobank), the authors report that 45 different viral exposures are significantly linked to increased risk of neurodegenerative diseases, and 22 of those associations were replicated across cohorts. The strongest association was between viral encephalitis and Alzheimer’s disease, while influenza with pneumonia was associated with 5 of the 6 neurodegenerative disorders they studied. Some associations persisted even when the viral exposure preceded the neurodegenerative diagnosis by up to 15 years, suggesting long latency between infection and disease onset.",
+			"Twitter": "https://x.com/BoehmeMarcus/status/1616388927593512960",
+			"Category": [
+				"USA",
+				"Brain",
+				"Viral persistence",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12916-025-03974-7",
+			"Date": "2025-03-14",
+			"Text": "In a population-based Catalonia cohort of 2,764 SARS-CoV-2–infected adults, about 23% developed long COVID, and among those identified in 2021, 56% still had symptoms two years later. Vaccination before SARS-CoV-2 infection was associated with a relative risk (RR) of 0.33 (95% CI 0.29–0.38) for developing long COVID. Using latent class analysis, the authors categorized long COVID into three subtypes (mild neuromuscular, mild respiratory, severe multi-organ), with the severe subtype more likely to persist. Risk of long COVID was higher for women, younger participants (<50 years), low socioeconomic status, severe acute disease, obesity, elevated pre-vaccination IgG, and preexisting chronic or mental health conditions. Protective factors included prior vaccination (before infection), infection during the Omicron-dominant era, higher physical activity, 6–8 hours of sleep, and vaccination within 3 months post-infection.",
+			"Twitter": "https://x.com/CIDRAP/status/1900619986617438581",
+			"Category": [
+				"Spain",
+				"United Kingdom",
+				"Long COVID",
+				"Susceptibility",
+				"Vaccination",
+				"Self-reported",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.adq2509",
+			"Date": "2025-03-07",
+			"Text": "🐁This study reveals that in the context of SARS-CoV-2 infection, excessive interferon signaling can remodel and degrade peroxisomes in lung macrophages, impairing their capacity to resolve inflammation and drive alveolar repair. Without functional peroxisomes, macrophages overactivate the inflammasome and produce excess IL-1β, triggering accumulation of dysplastic epithelial progenitors (KRT8^high) and promoting lung fibrosis. In mouse models, pharmacological enhancement of peroxisome biogenesis ameliorated both acute lung injury and post-acute sequelae (PASC), supporting a causal role for macrophage peroxisome dysfunction in chronic lung pathology after SARS-CoV-2 infection.",
+			"Twitter": "https://x.com/vipintukur/status/1901452564295831696",
+			"Category": [
+				"USA",
+				"Lungs",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Immune response",
+				"Interferon"
 			]
 		}
 	]
