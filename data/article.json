@@ -24,6 +24,7 @@
 			"Text": "13% of participants continued to shed SARS-CoV-2 RNA in the feces at 4 months after diagnosis & 4% shed at 7 months. GI symptoms are associated with fecal shedding of RNA.",
 			"Twitter": "https://x.com/loscharlos/status/1514430252763660292",
 			"Category": [
+				"USA",
 				"Long COVID",
 				"Viral persistence",
 				"Gastrointestinal"
@@ -605,6 +606,8 @@
 			"Text": "A cohort of #covid19 survivors (~ 58% fully vaccinated with mRNA post infection) show up for bariatric surgery. 1/3 had #SARSCOV2 proteins in their stomachs/gallbladders a median of 9+ months after covid19 irrespective of vax.",
 			"Twitter": "https://x.com/ChristosArgyrop/status/1609286826979913728",
 			"Category": [
+				"Netherlands",
+				"Egypt",
 				"Long COVID",
 				"Viral persistence",
 				"Lungs"
@@ -8734,6 +8737,160 @@
 				"Long COVID",
 				"Immune response",
 				"Interferon"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fmed.2022.877259",
+			"Date": "2022-06-16",
+			"Text": "This pilot study tested whether dogs trained to detect acute COVID-19 infection via odor (volatile organic compounds) can also distinguish samples from individuals suffering from Long COVID. In comparisons of Long COVID vs healthy controls, dogs achieved a sensitivity of about 94.4 % and specificity of about 96.1 %. When acute COVID-19 and Long COVID samples were pitted directly against each other, dogs more often indicated the acute COVID-19 samples (sensitivity ~86.7 %, specificity ~95.8 %) rather than the Long COVID samples, suggesting that the odor signature in Long COVID might be weaker but still present.",
+			"Twitter": "https://x.com/LongCFoundation/status/1901358240060801217",
+			"Category": [
+				"Germany",
+				"Long COVID",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cmi.2024.09.001",
+			"Date": "2024-10-09",
+			"Text": "Swank et al. measured circulating SARS-CoV-2 antigens (spike S1, full spike, nucleocapsid) in plasma or serum from adults sampled between days and 14 months after SARS-CoV-2 infection in four cohorts. They observed that antigenemia persists in a nontrivial fraction of individuals: ~20% of asymptomatic participants and ~50% of those reporting long COVID–type symptoms still had detectable antigen at various time points. The findings support the possibility that residual viral antigen (or viral persistence) may underlie at least some aspects of postacute sequelae. However, antigen detection decreased over time, and many with long COVID symptoms were antigen-negative, indicating that persistent antigenemia cannot explain all cases of PASC.",
+			"Twitter": "https://x.com/LongCFoundation/status/1901358248063840435",
+			"Category": [
+				"USA",
+				"Viral persistence",
+				"Long COVID",
+				"Antibodies",
+				"Nucleocapsid"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2021.746021",
+			"Date": "2022-01-10",
+			"Text": "This study examined whether the SARS-CoV-2 spike protein subunit S1 persists within monocyte populations long after acute COVID-19, particularly in individuals with Long COVID / PASC. Among their cohort, the authors found that non-classical monocytes (CD14^lo CD16^+) in 73% (19/26) of PASC patients and 91% (10/11) of severe COVID-19 patients contained measurable S1 protein (versus essentially none in classical or intermediate monocytes). Using immunoprecipitation combined with mass spectrometry, they confirmed peptide matches to the S1 antigen, retrieving up to 44% of S1 peptides in some cases.",
+			"Twitter": "https://x.com/LongCFoundation/status/1901358254384361858",
+			"Category": [
+				"USA",
+				"Costa Rica",
+				"Italy",
+				"Peru",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"Antibodies",
+				"T cells",
+				"B cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12879-022-07153-4",
+			"Date": "2022-03-03",
+			"Text": "In a cohort of 29 individuals with persistent symptoms at least four weeks after acute COVID-19, Tejerina et al. found that 45 % had detectable SARS-CoV-2 RNA in plasma and 51 % had at least one positive RT-PCR in plasma, stool, or urine. Nearly half (48 %) exhibited severely reduced functional status. Of the group, 62 % received compassionate-use antiviral therapy, and those treated showed statistically significantly better functional outcomes compared to untreated patients (p = 0.01), while overall improvement over time was also significant (p = 0.000).",
+			"Twitter": "https://x.com/LongCFoundation/status/1901358256565473378",
+			"Category": [
+				"",
+				"Long COVID",
+				"Viral persistence",
+				"Detection",
+				"Treatment",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2023.16190",
+			"Date": "2023-04-18",
+			"Text": "This retrospective cohort study leveraged smart thermometer data from 862,577 individuals in 320,073 households over 3 years to infer intrahousehold viral transmission events via the onset and timing of fevers. Among 54,506 febrile episodes judged to involve within-household spread, in 38,787 events involving both children and adults, a median of 70.4 % had a pediatric (child) as the inferred index case. The fraction of pediatric-origin transmission dropped during school breaks (e.g. winter break 68.4 % → 41.7 %) and varied over time, supporting that children served as important vectors when schools were in session.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1903589729154777265",
+			"Category": [
+				"Taiwan",
+				"USA",
+				"Kids",
+				"Transmission",
+				"Detection",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12985-025-02701-1",
+			"Date": "2025-03-21",
+			"Text": "In a patient who had cleared SARS-CoV-2 in the nasopharynx (swab negative) but later developed ileal ulceration, the authors detected SARS-CoV-2 Spike protein in the ulcerated intestinal tissue and demonstrated increased VEGF expression (co-localized with Spike) and elevated fibronectin compared to control ileum. Electron microscopy further revealed disruptions in epithelial intercellular junctions in the ulcerated area, with widened intercellular spaces and irregular junctional structures.",
+			"Twitter": "https://x.com/atranscendedman/status/1903526002891919422",
+			"Category": [
+				"Italy",
+				"Gastrointestinal",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12917-025-04647-6",
+			"Date": "2025-03-22",
+			"Text": "The authors conducted a longitudinal surveillance of pet dogs in Ibadan, Nigeria, over three years (2022–2024), employing immunochromatography and RT-qPCR on blood, nasal, and rectal samples. They observed IC positivity of 11.7% in 2022 (23/197), 85.7% in 2023 (6/7), and 100% in 2024 (3/3), and RT-qPCR positivity of 37.9% (11/29), 33.3% (2/6), and 100% (3/3) in those same years, respectively. Among the tested animals, three dogs repeatedly tested positive over multiple years, consistent with possible continuous viral shedding. The authors interpret this as evidence suggestive of endemic SARS-CoV-2 in that pet dog population, with implications for One Health strategies and zoonotic risk mitigation.",
+			"Twitter": "https://x.com/ejustin46/status/1904401295550644465",
+			"Category": [
+				"Nigeria",
+				"Viral persistence",
+				"Transmission",
+				"Detection",
+				"Immune response",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamaophthalmol.2025.0205",
+			"Date": "2025-03-20",
+			"Text": "Over a follow-up period (e.g. 5 years), the study found that patients undergoing standard laser (e.g. panretinal photocoagulation) exhibited substantial losses in visual field sensitivity early, whereas those treated with an anti-VEGF agent (e.g. ranibizumab) had less immediate loss but still accumulated decline after 2 years. Quantitatively, the cumulative mean change in visual field total point score was, for instance, –527 dB in the laser group vs –330 dB in the anti-VEGF group at 5 years (adjusted difference ~208 dB). The anti-VEGF group also had lower incidence of vision-impairing macular edema (22 % vs 38 %) and fewer eyes requiring additional interventions over time.",
+			"Twitter": "https://x.com/vipintukur/status/1904566691205451867",
+			"Category": [
+				"China",
+				"Australia",
+				"Eye"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-86637-0",
+			"Date": "2025-03-19",
+			"Text": "In blood from people 10–16 months after mild COVID-19, the team quantified leukocyte mRNA of 11 biomarkers tied to long-COVID VCD and profiled CCL11 promoter CpG methylation. They then added 1 nM vitamin B12 to the cultures for 24 h. Persistent-VCD participants (4/7 at follow-up) showed higher CCL11 and LIF mRNA. B12 normalized CCL11, boosted HGF, and lowered CSF2/CXCL10; methylation at key CCL11 CpGs increased with B12 and correlated inversely with CCL11 expression—consistent with an epigenetic mechanism.",
+			"Twitter": "https://x.com/vipintukur/status/1904941058884088071",
+			"Category": [
+				"Brazil",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41551-023-01086-2",
+			"Date": "2023-09-07",
+			"Text": "This paper demonstrates an “inverse vaccine” strategy: antigens are synthetically glycosylated with pGal and linked via a self-immolative tether so that, after hepatic uptake, the antigen is presented in a tolerogenic environment. In mice, a single platform suppressed established effector and memory T-cell responses, mechanistically engaging PD-1 and CD276 pathways, and reduced disease in both chronic and relapsing–remitting EAE models of multiple sclerosis. In non-human primates, administering pGal–antigen after a DNA SIV vaccine dampened the antigen-specific T-cell response across several weeks, indicating the approach can recalibrate memory responses without blanket immunosuppression.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1905371863208829180",
+			"Category": [
+				"USA",
+				"France",
+				"Immune response",
+				"T cells",
+				"Treatment",
+				"Liver",
+				"Autoimmunity",
+				"mRNA vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-025-58173-y",
+			"Date": "2025-03-21",
+			"Text": "🐒Researchers built a spike-targeting immunoPET probe, [⁸⁹Zr]COVA1-27-DFO (affinity 0.7 nM; 86 ± 4% labeling; >99% purity), to image SARS-CoV-2 in non-human primates. In convalescent animals 3 months after infection (n=2), PET revealed ongoing lung signal co-localizing with CT ground-glass changes and detectable brain signal, suggesting antigen persistence. In an acute infection study (exposed + tracer n=4, exposed + IgG control n=2, mock + tracer n=2), tracer uptake highlighted nasal cavity, trachea, lungs, and kidneys, with tracheal PET tracking RT-qPCR positivity at 2–3 dpe and diminishing thereafter. PET-guided necropsy confirmed that PET signal correlated with viral RNA in lung tissue (R = 0.68, p = 0.0001), and kidney PET localized to tubules.",
+			"Twitter": "https://x.com/polybioRF/status/1905680447960404362",
+			"Category": [
+				"Netherlands",
+				"France",
+				"Brain",
+				"Lungs",
+				"Kidney",
+				"Nose",
+				"Detection",
+				"Viral persistence",
+				"Long COVID",
+				"Antibodies",
+				"Mild infection"
 			]
 		}
 	]
