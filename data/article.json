@@ -8892,6 +8892,39 @@
 				"Antibodies",
 				"Mild infection"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.03.28.25324858",
+			"Date": "2025-03-30",
+			"Text": "This study of 465,717 children and adolescents (<21 years, mean age ~8.2 years, 52 % male) from U.S. pediatric EHRs found that among 58,417 individuals who had a second SARS-CoV-2 infection (reinfection, ≥ 60 days after the first) during the Omicron era, the risk of being diagnosed with PASC (long COVID) was more than doubled compared to the first infection (RR 2.08; 95% CI 1.68–2.59). Reinfection was also linked to significantly increased risks of many specific conditions, including myocarditis (RR 3.60), taste or smell disturbances (RR 2.83), thromboembolism (RR 2.28), heart disease, kidney injury, abnormal liver enzymes, fatigue/malaise, cognitive dysfunction, POTS/dysautonomia, respiratory symptoms, and musculoskeletal pain, among others.",
+			"Twitter": "https://x.com/ejustin46/status/1906722890201894913",
+			"Category": [
+				"USA",
+				"Preprint",
+				"Long COVID",
+				"Reinfection",
+				"Kids",
+				"Kidney",
+				"Liver",
+				"Endothelium",
+				"Myocarditis",
+				"Brain",
+				"Nose",
+				"Muscle",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(24)00831-4",
+			"Date": "2025-04-01",
+			"Text": "This large retrospective cohort study of U.S. veterans (231,899 COVID-positive vs 605,014 test-negative persons) found that surviving a COVID-19 infection was associated with modest but consistent increases in rates of subsequent bacterial, viral, and fungal infections over the next year. For example, nonhospitalized COVID-positive individuals had a 1.17-fold higher risk of outpatient infectious illness diagnoses (95% CI 1.15–1.19), a 1.46-fold higher risk of outpatient respiratory infections, and a 1.41-fold higher risk of hospital admission for infectious illnesses compared to test-negative controls. The risk elevations tended to be stronger in those with more severe initial disease, and were also greater compared to persons hospitalized for seasonal influenza (e.g. RR 1.24 for infectious hospitalizations).",
+			"Twitter": "https://x.com/RadCentrism/status/1907466751530721618",
+			"Category": [
+				"USA",
+				"Immune response",
+				"Viral persistence",
+				"Detection"
+			]
 		}
 	]
 }
