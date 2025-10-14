@@ -9042,6 +9042,91 @@
 				"Detection",
 				"SARS-CoV-2 mechanics"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmjgh-2024-017126",
+			"Date": "2025-04-15",
+			"Text": "In a cohort of 4,697 symptomatic adult COVID-19 patients from middle- and high-income settings, one in four (25.1%) reported at least one symptom persisting to 180 days post-enrolment. The most frequent symptoms were sleeping disturbances (12.8%), joint pain (9.8%), fatigue (8.7%), and headaches (8.1%). Long COVID prevalence was significantly higher in lower-middle income countries (29.8%) than in high-income countries (14.4%), and was elevated among those who had required hospitalization (adjusted odds ratio 2.04). Additional risk factors included older age, male sex, and hypertension, while vaccination, prior lung disease, smoking, and diabetes appeared to confer protective associations.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1913293599023718637",
+			"Category": [
+				"South Africa",
+				"United Kingdom",
+				"Canada",
+				"Long COVID",
+				"Vaccination",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/covid5040055",
+			"Date": "2025-04-16",
+			"Text": "The authors hypothesize that SARS-CoV-2 may exploit allergen-like epitopes to provoke IgE responses, thereby dampening conventional antiviral immunity, and that the immune system responds with elevated IgG4, a subclass known for immunoregulatory/tolerizing behavior. They marshal clinical correlations showing that higher total IgE and SARS-CoV-2–specific IgE levels associate with disease severity, lung damage, and hypoxia, and that in fatal COVID-19 cases, high IgG4 levels (> 700 mg/dL) are common, with autopsy lung samples showing 80–90 % IgG4 expression during acute disease. They further argue that repeated exposure (e.g. booster vaccinations) could skew immunity toward IgG4, impairing effector functions (complement activation, Fc-mediated phagocytosis) and potentially promoting viral persistence or chronic infection (and possibly long COVID).",
+			"Twitter": "https://x.com/vipintukur/status/1912518008435581064",
+			"Category": [
+				"Italy",
+				"Egypt",
+				"USA",
+				"Saudi Arabia",
+				"United Kingdom",
+				"Mexico",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12889-025-22671-x",
+			"Date": "2025-04-15",
+			"Text": "In a multi-centre questionnaire-based study of 3,693 individuals in China with a history of SARS-CoV-2 infection, the authors found that 30.2 % (n = 1,117) reported at least one persistent symptom fitting the WHO definition of long COVID, and 10.7 % (n = 394) had symptoms impacting daily life. Systemic complaints (especially fatigue) dominated the symptom profile, with fatigue (16.3 %), cough (6.3 %), and expectoration (5.5 %) being most frequent. Both the prevalence of symptoms and the cumulative symptom severity score declined significantly over a 180-day follow-up period. Risk analysis revealed older age (OR 1.63), female sex (OR 1.19), and SARS-CoV-2 reinfection (OR 3.56) increased long COVID risk, while higher COVID vaccine doses (OR 0.87) and use of traditional Chinese medicine (OR 0.51 for daily-life impacting symptoms) were protective.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1913293599023718637",
+			"Category": [
+				"China",
+				"Long COVID",
+				"Reinfection",
+				"Vaccination",
+				"Immune response",
+				"Self-reported",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.04.16.25325949",
+			"Date": "2025-04-17",
+			"Text": "In a 126-person cohort, the study compared SARS-CoV-2-naïve controls (N=30) to individuals ~4 months after infection (pre-Omicron) who either recovered (N=38) or developed Long COVID (N=58). Multi-omic immune profiling showed persistent immune and metabolic disruptions after COVID-19, including inflammasome-active immature monocytes, oxidative stress, ↑ arachidonic acid, ↓ tryptophan, and altered T-cell phenotypes. Within Long COVID specifically, they report greater CD8⁺ T-cell senescence and distinctive single-cell transcriptomic signatures in CD4⁺/CD8⁺ T cells and monocytes.",
+			"Twitter": "https://x.com/atranscendedman/status/1913386135797014651",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fmolb.2023.1100486",
+			"Date": "2023-03-03",
+			"Text": "This study performed untargeted lipidomic profiling on plasma from individuals approximately two years after COVID-19 infection (first wave), comparing to healthy controls and to their own acute-phase samples, to explore residual lipid metabolic disturbances associated with long COVID. In 22 post-COVID patients (13 with paired acute vs follow-up samples), the authors found that 59 % still experienced fatigue and 50 % musculoskeletal symptoms. Multivariate analyses separated post-COVID lipidomes from both controls and acute-phase COVID, and the paired comparison identified 170 dysregulated lipid features. Pathway enrichment suggested persistent perturbations in sterol, bile acid, isoprenoid, and fatty ester metabolism, including elevated phosphatidylcholines and sphingomyelins. Despite the normalization of many standard clinical lab values over two years, the lipidomic signatures imply continuing molecular-level dysregulation that might underly the heterogeneous symptoms of post-COVID.",
+			"Twitter": "https://x.com/JuanJoOroVal/status/1913618814907883588",
+			"Category": [
+				"Mexico",
+				"Brazil",
+				"Long COVID",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s12662-025-01024-1",
+			"Date": "2025-02-21",
+			"Text": "In this panel study of 65 elite athletes (average age ~23, 66 % male) who contracted pre-Omicron SARS-CoV-2, long-term outcomes and exercise capacity were assessed at two time points: immediately after recovery (negative PCR) and 16 weeks later. The infection prevalence was similar in contact and noncontact sports (10.8 % vs 11.3 %). Notably, 37 % had symptoms longer than 4 weeks, 25 % beyond 8 weeks, and 20 % remained symptomatic at 16 weeks. More than half paused training for 4–8 weeks. At 16 weeks, 40 % still perceived reduced performance, and 64 % reported ongoing limitations in participation, especially due to fatigue, breathlessness, and musculoskeletal complaints. ",
+			"Twitter": "https://x.com/MeetJess/status/1915719650517659908",
+			"Category": [
+				"Germany",
+				"Switzerland",
+				"Long COVID",
+				"Self-reported",
+				"Susceptibility",
+				"Mild infection"
+			]
 		}
 	]
 }
