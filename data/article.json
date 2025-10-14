@@ -8925,6 +8925,123 @@
 				"Viral persistence",
 				"Detection"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(25)00073-8",
+			"Date": "2025-04-03",
+			"Text": "In a randomized, double-blind, placebo-controlled phase-2 trial (PAX-LC) of 100 adults with long COVID, participants received nirmatrelvir–ritonavir or placebo–ritonavir twice daily for 15 days. The primary outcome—change in PROMIS-29 PHSS from baseline to day 28—showed no significant difference: adjusted mean difference −0.55 points (95% CI −2.32 to 1.21; p=0.54). Safety was acceptable with no deaths or serious AEs; drug-related AEs were more frequent with nirmatrelvir–ritonavir (76%) than placebo (55%), mostly dysgeusia. The authors conclude a 15-day course did not improve health status at 4 weeks, while highlighting the practicality of decentralized long-COVID trials.",
+			"Twitter": "https://x.com/MitsuakiSawano/status/1907940050639245382",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Treatment",
+				"Paxlovid",
+				"Self-reported",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-94570-5",
+			"Date": "2025-04-03",
+			"Text": "In a single-center cohort during China’s Dec 2022–Jan 2023 Omicron surge, investigators analyzed semen from 604 men cross-sectionally and 140 men longitudinally (with 149 COVID-negative controls). Across both designs, COVID-19 was consistently associated with worse semen quality: lower total sperm count (e.g., 173.63×10^6 → 131.80×10^6 post-infection), reduced motility (grade-A 8.50% → 2.61%; progressive 24.88% → 19.82%; total 32.25% → 26.64%), and higher DNA fragmentation (26.49% → 32.10%). Morphology and chromatin immaturity were unchanged. Within-person comparisons showed deterioration in 58–75% of COVID-positive men (vs <40% in negatives), strengthening the association.",
+			"Twitter": "https://x.com/MeetJess/status/1908255042853101861",
+			"Category": [
+				"China",
+				"Reproductive health",
+				"Omicron",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.neuroimage.2025.121146",
+			"Date": "2025-04-15",
+			"Text": "Nelson et al. (2025) systematically reviewed 16 structural MRI studies comparing brain volumes in individuals ≥ 6 weeks post-COVID-19 to non-COVID controls. Most studies reported reduced grey matter volumes in COVID-19 patients, though three showed increases; importantly, studies of more severe (hospitalised/ICU) COVID-19 more often found volume loss than studies of milder cases.",
+			"Twitter": "https://x.com/vipintukur/status/1909270210583855410",
+			"Category": [
+				"Canada",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/gutjnl-2024-333880",
+			"Date": "2025-08-07",
+			"Text": "In a cohort of 12 children with acute non-A–E hepatitis, Röttele et al. performed spatial single-cell and multiplexed imaging analyses on liver biopsies and found robust immune infiltration dominated by CD8⁺ T cells, which correlated with disease severity. They observed microanatomic interactions linking CX3CR1⁺ endothelial cells, myeloid cells, and effector CD8⁺ T cells, consistent with a potential local pathogenic triad. Remarkably, they also detected SARS-CoV-2 antigens in ACE2-expressing hepatic cells in 11 of the 12 cases, despite negative SARS-CoV-2 PCR, suggesting possible antigen persistence.",
+			"Twitter": "https://x.com/evelio_prieto/status/1909045535845007736",
+			"Category": [
+				"Austria",
+				"Turkey",
+				"Germany",
+				"Portugal",
+				"Gastrointestinal",
+				"Liver",
+				"T cells",
+				"Viral persistence",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-96191-4",
+			"Date": "2025-04-05",
+			"Text": "In a case–control MRI study of 19 preschoolers about 30 days after mild COVID-19 versus 22 controls, researchers found increased LGI/area/volume in the left superior parietal cortex and greater cortical thickness in the left lateral occipital cortex. Graph-theory analysis of LGI-based structural covariance networks showed lower clustering coefficient in the COVID group (AUC P = 0.028) and fewer network hubs (2 vs 5), though small-worldness persisted. Glymphatic proxies were mixed: choroid plexus volume was higher after COVID (left CP P = 0.041; total CP P = 0.043), but DTI-ALPS indices did not significantly differ (total P = 0.385; left P = 0.081).",
+			"Twitter": "https://x.com/drseanmullen/status/1909082565505384852",
+			"Category": [
+				"China",
+				"Brain",
+				"Kids",
+				"Detection",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-025-56284-0",
+			"Date": "2025-04-11",
+			"Text": "In a RECOVER EHR cohort of 1.21 million children/adolescents (<21 y) from 19 U.S. institutions, those with documented SARS-CoV-2 infection (n=297,920) had higher risks of cardiovascular outcomes 28–179 days post-infection versus controls (n=915,402). Composite “any cardiovascular outcome” risk was RR 1.63 in both CHD and non-CHD strata. The largest relative increases were for inflammatory heart disease (myocarditis/pericarditis: RR 2.92 non-CHD), with notable elevations across arrhythmias (e.g., atrial fibrillation in CHD RR 2.64), heart failure/cardiomyopathy (≈RR 1.5–1.8), thrombotic events (≈RR 1.26–1.42), and symptoms such as chest pain and palpitations (≈RR 1.7–2.1). Absolute risks were modest but non-trivial; for example, in non-CHD, chest pain was 1.23% vs 0.61% in controls. Effects were broadly consistent across age, sex, race/ethnicity, obesity, acute severity, and variant periods (including Omicron).",
+			"Twitter": "https://x.com/Antonio_Caramia/status/1911200578987778401",
+			"Category": [
+				"USA",
+				"Kids",
+				"Long COVID",
+				"Myocarditis",
+				"Massive study",
+				"Omicron",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s40496-023-00354-z",
+			"Date": "2023-11-03",
+			"Text": "This review posits an oral-vascular-pulmonary pathway for COVID-19: SARS-CoV-2 replicates to 10^8 copies/mL in saliva, crosses inflamed periodontal tissues into the blood, and seeds the pulmonary microvasculature, producing the characteristic vascular (not airway-dominant) pattern of lung injury. Observational data link periodontitis to markedly higher risks of hospitalization (OR 36.52), ventilation (7.45), and death (14.58), and show salivary viral load predicts mortality.",
+			"Twitter": "https://x.com/DrGrahamLJ/status/1911076371574448389",
+			"Category": [
+				"USA",
+				"South Africa",
+				"United Kingdom",
+				"Oral",
+				"Lungs",
+				"Endothelium",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"Epstein-Barr",
+				"Review",
+				"Neutrophils"
+			]
+		},
+		{
+			"ArticleURL": "https://pubmed.ncbi.nlm.nih.gov/40313996/",
+			"Date": "2025-04-30",
+			"Text": "In 40 unvaccinated adults with acute COVID-19, chest CT showed universal parenchymal lung injury but relatively infrequent and limited airways inflammation (23%). Vascular abnormalities dominated: dilated peripheral pulmonary vessels feeding damaged lung in a gravity-dependent, bilateral (95%), basal (90%), peripheral (92.5%), and posterior (90%) pattern; macrothrombosis was present on 23% of CTPAs, and wedge-shaped peripheral opacities suggestive of vascular congestion/infarction occurred in 53%. Plain chest radiographs mirrored CT distribution in 98%, indicating that radiographs can capture the same vascularly patterned disease geography.",
+			"Twitter": "https://x.com/DrGrahamLJ/status/1911076353366974562",
+			"Category": [
+				"United Kingdom",
+				"Lungs",
+				"Endothelium",
+				"Detection",
+				"SARS-CoV-2 mechanics"
+			]
 		}
 	]
 }
