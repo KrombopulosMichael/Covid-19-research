@@ -9127,6 +9127,97 @@
 				"Susceptibility",
 				"Mild infection"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1172/JCI188182",
+			"Date": "2024-12-17",
+			"Text": "The authors measured NK cell subsets in participants ~4 months after SARS-CoV-2 infection and found that those with long COVID had reduced percentages of mature cytotoxic NK cells (CD56^dim/CD16+ and KIR2D+ subsets) compared to people who recovered fully. The lower percentages of these NK phenotypes correlated with greater symptom burden, and unsupervised clustering revealed altered NK‐cell subpopulation structures depending on long COVID symptom categories, CMV serostatus, and presence of SARS-CoV-2 antigen in plasma.",
+			"Twitter": "https://x.com/DrPatSoonShiong/status/1913378215462068320",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Immune response",
+				"NK cells",
+				"Viral persistence",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/bies.202000331",
+			"Date": "2021-04-29",
+			"Text": "The article proposes that a subset of patients with long COVID—persistent symptoms lasting months after SARS-CoV-2 infection—may face elevated cancer susceptibility or faster cancer progression. Mechanistically, SARS-CoV-2 is argued to influence oncogenic signaling, create sustained inflammatory milieus, and induce tissue injury, all conditions known to support tumor initiation and growth.",
+			"Twitter": "https://x.com/DrPatSoonShiong/status/1913378215462068320",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Cancer",
+				"Review",
+				"Susceptibility",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ccell.2020.10.006",
+			"Date": "2020-11-09",
+			"Text": "Cordon-Cardo et al. conceptualize COVID-19 as a systemic illness with distinct clinical and pathophysiological stages rather than a single respiratory condition. Their four-stage model spans asymptomatic viral entry, symptomatic dissemination, multi-system inflammation, and critical endothelial injury with thrombosis and organ failure. The framework integrates viral load dynamics, immune and coagulation biomarkers, and targeted treatment strategies for each stage. By likening COVID-19 progression to metastatic cancer, the authors propose that SARS-CoV-2’s spread to multiple organs via the vasculature justifies “metastatic” terminology.",
+			"Twitter": "https://x.com/DrPatSoonShiong/status/1913378215462068320",
+			"Category": [
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Lungs",
+				"Endothelium",
+				"T cells",
+				"Neutrophils",
+				"Platelets",
+				"Megakaryocytes",
+				"Treatment",
+				"Detection",
+				"Susceptibility",
+				"Brain",
+				"Kidney",
+				"Liver",
+				"Pain",
+				"Autoimmunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1128/jvi.00078-25",
+			"Date": "2025-04-30",
+			"Text": "Using human mast-cell lines (LUVA, LAD2, HMC-1), Zhang et al. show that coronavirus Spike/RBD proteins and common-cold CoVs (HCoV-229E, HCoV-NL63; MOI = 1) rapidly trigger mast-cell degranulation and pro-inflammatory gene expression via a conserved Src→PI3K→AKT→Ca²⁺ pathway that also depends on microtubules; pharmacologic inhibition (LY294002 100 µM, BAPTA-AM 20 µM, nocodazole 20 µM) blunts degranulation, implicating this cascade as a mechanistic driver of MC activation by coronaviruses.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1918303289659060560",
+			"Category": [
+				"China",
+				"SARS-CoV-2 mechanics",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cortex.2025.04.004",
+			"Date": "2025-05-02",
+			"Text": "Even after a mild SARS-CoV-2 infection, individuals may suffer persistent neurocognitive deficits, particularly when “brain fog” is present. In this study, among 75 participants (25 with brain fog, 26 without, 24 healthy controls), those with brain fog showed deficits in memory, attention, and visuospatial performance compared to both other groups. MRI revealed that COVID-19 survivors (with or without brain fog) had reduced gray matter concentration in temporal, fusiform, and orbital regions; those with brain fog also showed further reductions in subcortical areas (caudate, putamen/pallidum, amygdala). Functional connectivity changes were also detected: increased connectivity in default mode and visual networks, and decreased connectivity in dorsal attention networks—suggesting remodeling of brain networks after infection.",
+			"Twitter": "https://x.com/DaniBeckman/status/1919530560952926233",
+			"Category": [
+				"Turkey",
+				"Brain",
+				"Long COVID",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.05.02.25326885",
+			"Date": "2025-05-06",
+			"Text": "This preprint reports that although patients with long COVID and ME/CFS and healthy individuals subjected to 60 days of strict bed rest exhibit similarly reduced whole-body aerobic capacity, the muscle and metabolic underpinnings differ substantially. Bed rest leads to overt muscle atrophy, lower mitochondrial content (succinate dehydrogenase), and compensatory capillary changes. By contrast, patients do not show global atrophy, but instead display a shift away from type I (oxidative) fibers, intrinsic mitochondrial dysfunction beyond simple mitochondrial loss, and relatively lower capillary supply for a given fiber size (especially in ME/CFS). These findings argue against the idea that long COVID / ME/CFS exercise intolerance is simply due to deconditioning. Instead, intrinsic muscle and microvascular abnormalities likely contribute.",
+			"Twitter": "https://x.com/vipintukur/status/1922330537923858939",
+			"Category": [
+				"Netherlands",
+				"United Kingdom",
+				"Lithuania",
+				"Germany",
+				"Preprint",
+				"Long COVID",
+				"Muscle",
+				"Mitochondria"
+			]
 		}
 	]
 }
