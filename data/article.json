@@ -1286,12 +1286,14 @@
 			"Text": "Despite negative SARS CoV-2 nasal PCRs from all newborns, viral RNAs and Spike protein were detected in the stool of 11 out of 14 newborns as early as the first day of life and increased over time in 6. Stool homogenates from all 14 newborns elicited elevated inflammatory IL-6 and IFN-γ from macrophages. Most newborns were clinically well except for one death from gestational autoimmune liver disease and another who developed necrotizing enterocolitis.",
 			"Twitter": "https://x.com/DoorenspleetR/status/1633898658444787732",
 			"Category": [
+				"USA",
 				"Long COVID",
 				"Kids",
 				"Newborns",
 				"Viral persistence",
 				"Transmission",
-				"Autoimmunity"
+				"Autoimmunity",
+				"Macrophage"
 			]
 		},
 		{
@@ -1638,7 +1640,9 @@
 			"Text": "Virus enters both ACE2-expressing and -deficient macrophages, but replicates and triggers antiviral responses only in ACE2-expressing cells.",
 			"Twitter": "https://x.com/LarisaLabzin/status/1651821788249333761",
 			"Category": [
-				"SARS-CoV-2 mechanics"
+				"Australia",
+				"SARS-CoV-2 mechanics",
+				"Macrophage"
 			]
 		},
 		{
@@ -1836,11 +1840,14 @@
 			"Text": "Sub-neutralizing antibodies can facilitate uptake by macrophages that express FcR (Fc region receptors), with stimulation of macrophages and production of cytokines. Pre-existing non-neutralizing or sub-neutralizing antibodies to viral surface proteins that were generated during a previous infection can promote the subsequent entry of viruses into the cell and therefore intensify the inflammatory process during a secondary infection with any antigenic-related virus.",
 			"Twitter": "https://x.com/epidatum/status/1453109512664141826",
 			"Category": [
+				"Mexico",
+				"Italy",
 				"Review",
 				"Antibodies",
 				"Natural immunity",
 				"Cross-reactivity",
-				"Vaccination"
+				"Vaccination",
+				"Macrophage"
 			]
 		},
 		{
@@ -3639,6 +3646,7 @@
 			"Text": "This autopsy study created specific PCR tests to track where COVID-19 mRNA vaccines go in the body and for how long after injection. In people who died of other causes, vaccine mRNA was routinely detectable for up to 30 days in several tissues. In a subset, myocardial tissue also contained vaccine mRNA during that window; these samples more often showed healing injury and more macrophages than hearts without detectable vaccine mRNA.",
 			"Twitter": "https://x.com/Yash25571056/status/1707249627094028676",
 			"Category": [
+				"Macrophage",
 				"mRNA vaccine",
 				"Vaccination",
 				"Myocarditis",
@@ -3651,6 +3659,7 @@
 			"Text": "Researchers analyzed autopsy samples from COVID-19 patients and used advanced imaging and RNA assays (RNAscope, including antisense strand detection) to locate viral RNA in coronary plaques. They found SARS-CoV-2 viral RNA, including replicative (antisense) strands, in macrophages within coronary plaques in all examined cases. Plaques with foam cell macrophages (i.e. cholesterol-loaded macrophages) were especially prone to infection. Blocking the entry cofactor NRP-1 reduces infection, suggesting one mechanistic pathway. Infected macrophages and ex vivo plaque tissues mount a strong inflammatory response with release of key cytokines implicated in plaque instability and cardiovascular events.",
 			"Twitter": "https://x.com/calirunnerdoc/status/1707445677767446905",
 			"Category": [
+				"Macrophage",
 				"USA",
 				"Endothelium",
 				"Viral persistence",
@@ -3875,6 +3884,7 @@
 			"Twitter": "https://x.com/fitterhappierAJ/status/1720983458996998485",
 			"Category": [
 				"USA",
+				"Macrophage",
 				"France",
 				"SARS-CoV-2 mechanics",
 				"Viral persistence",
@@ -4172,6 +4182,7 @@
 			"Text": "This study investigated skeletal muscle pathology in long COVID patients suffering from persistent fatigue, muscle weakness, and exercise intolerance. Biopsies revealed structural vascular changes, including fewer capillaries and thickened basement membranes, alongside immune alterations such as increased CD169⁺ macrophages and complement system activation. Viral RNA was absent, suggesting that symptoms are driven by immune-mediated and vascular sequelae rather than viral persistence. Transcriptomic profiling confirmed upregulation of immune and angiogenesis genes and downregulation of metabolic and mitochondrial pathways, while serum proteomics showed increased complement proteins.",
 			"Twitter": "https://x.com/dlingenfelter/status/1733708673586024481",
 			"Category": [
+				"Macrophage",
 				"Long COVID",
 				"Muscle",
 				"Immune response",
@@ -4872,6 +4883,7 @@
 			"Text": "Kloc et al. propose that nicotine might modulate lung macrophage responses via nicotinic acetylcholine receptors (notably α7 nAChR) to suppress excessive pro-inflammatory cytokine release (a cytokine storm) in COVID-19, offering a mechanistic hypothesis for observed lower-than-expected rates of smokers among severe COVID-19 cases. They suggest that nicotine stimulation of cholinergic pathways in macrophages could tip the balance toward controlled inflammation rather than runaway immune activation. They emphasize that their suggestion is theoretical, not clinical advice, and that many variables (dose, timing, receptor expression, comorbidities) complicate the idea.",
 			"Twitter": "https://x.com/dianaberrent/status/1746265257180643412",
 			"Category": [
+				"Macrophage",
 				"Treatment",
 				"Lungs",
 				"Immune response",
@@ -7006,6 +7018,7 @@
 			"Text": "In a controlled human challenge, unvaccinated, seronegative adults were nasally inoculated with a low dose of SARS-CoV-2, and serial nasopharyngeal and blood samples were profiled at single-cell resolution. The authors classified infection trajectories into abortive, transient, or sustained categories, and found that individuals who rapidly mounted local mucosal immune infiltration (especially in nasal tissues) were more likely to clear virus without sustained replication. Importantly, systemic (blood) interferon responses often preceded detectable mucosal responses, and higher baseline expression of HLA-DQA2 in nasal tissue correlated with resistance to sustained infection. They also uncovered that ciliated epithelial cells are a key permissive target with dynamic immune transcriptional changes, and that T cells and macrophages in the nasopharynx may harbor non-productive viral uptake. Through detailed profiling, they resolved 54 T cell states, including clonally expanding, antigen-responding subsets.",
 			"Twitter": "https://x.com/VirusesImmunity/status/1803466011879903715",
 			"Category": [
+				"Macrophage",
 				"United Kingdom",
 				"Thailand",
 				"Netherlands",
@@ -7343,6 +7356,7 @@
 			"Twitter": "https://x.com/Nature/status/1813946147695681743",
 			"Category": [
 				"USA",
+				"Macrophage",
 				"Long COVID",
 				"Lungs",
 				"Immune response",
@@ -7657,6 +7671,7 @@
 			"Twitter": "https://x.com/atranscendedman/status/1827326730459021513",
 			"Category": [
 				"Canada",
+				"Macrophage",
 				"Lungs",
 				"Immune response",
 				"T cells",
@@ -8732,6 +8747,7 @@
 			"Twitter": "https://x.com/vipintukur/status/1901452564295831696",
 			"Category": [
 				"USA",
+				"Macrophage",
 				"Lungs",
 				"SARS-CoV-2 mechanics",
 				"Long COVID",
@@ -9217,6 +9233,89 @@
 				"Long COVID",
 				"Muscle",
 				"Mitochondria"
+			]
+		},
+		{
+			"ArticleURL": "http://dx.doi.org/10.1126/scitranslmed.abf8396",
+			"Date": "2021-05-03",
+			"Text": "This study demonstrates that SARS-CoV-2 infects the human olfactory neuroepithelium—including sensory neurons, support cells, and immune cells—and triggers local inflammation and apoptosis. In parallel, in golden Syrian hamsters, intranasal SARS-CoV-2 causes transient anosmia and ageusia that persists until viral RNA and infectious virus disappear; the virus travels from the nasal epithelium into the olfactory bulb and other brain regions, with accompanying host gene expression changes in the olfactory bulb. Critically, in human patients with prolonged (> ~196 days) loss of smell, the authors detected viral RNA and infected cells in the olfactory mucosa alongside elevated inflammatory markers (e.g. IL-6), supporting the hypothesis that viral persistence and chronic inflammation in the olfactory epithelium may underlie long-lasting anosmia in COVID-19.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1330572437948407809",
+			"Category": [
+				"France",
+				"Nose",
+				"Viral persistence",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pone.0315486",
+			"Date": "2025-05-15",
+			"Text": "This pilot study compared 10 post-COVID individuals with persistent cognitive complaints to 7 matched COVID survivors without residual symptoms, assessing cognitive performance, self-reported health, and biomarkers. Although the groups performed similarly on most neuropsychological tests (with the exception of lower letter fluency in the symptomatic group), the long COVID group reported markedly worse quality of life, emotional and physical well-being, and had higher depression and anxiety scores. Biologically, the symptomatic group had lower serum nerve growth factor (NGF), a marker of neuroplasticity, and were more likely to exhibit elevated interleukin-10 (IL-10) and a higher pro-inflammatory index (9/10 vs. 1/7). These results suggest potential ongoing inflammation and reduced brain repair capacity in long COVID.",
+			"Twitter": "https://x.com/Yash25571056/status/1923544475747615214",
+			"Category": [
+				"Long COVID",
+				"Brain",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.2967/jnumed.124.268980",
+			"Date": "2025-04-30",
+			"Text": "In a cohort of 98 long COVID patients (9–12 months post infection) with cardiopulmonary symptoms, this study used advanced imaging (hybrid ^18F-FDG PET/MRI and lung DECT) plus plasma protein profiling to detect persistent inflammatory and structural abnormalities. Ninety percent of subjects had lung abnormalities on DECT (67% infiltrates; 59% abnormal perfusion), and 57% had PET/MRI findings (myocarditis in 24%, pericardial uptake in 22%, periannular in 11%, vascular uptake in 30%). None of the control group (n = 9, history of SARS-CoV-2 but no cardiopulmonary symptoms) showed such PET/MRI abnormalities. The plasma protein signatures also differed between long COVID patients and controls and among those with versus without PET/MRI abnormalities.",
+			"Twitter": "https://x.com/vipintukur/status/1923802662031532515",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Lungs",
+				"Endothelium",
+				"Immune response",
+				"Detection",
+				"Myocarditis"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jocn.2025.111223",
+			"Date": "2025-04-03",
+			"Text": "In a retrospective series of 19 hemorrhagic stroke cases (2023–2024), Ota et al. used immunohistochemistry and in situ hybridization to look for SARS-CoV-2 spike protein in cerebral arteries. They detected spike protein in 43.8% of vaccinated patients (up to 17 months post-vaccination), mostly in the intimal layer, with accompanying mild immune cell infiltration (CD4, CD8, CD68), but no nucleocapsid protein to indicate active viral infection. In situ hybridization in select cases supported that both vaccine-derived and virus-derived mRNA encoding spike could be present. They observed that all cases positive for spike were female (P = 0.015). The authors conclude this raises safety questions about mRNA vaccine biodistribution and long-term vascular effects in the brain.",
+			"Twitter": "https://x.com/Jean__Fisch/status/1922927053793325442",
+			"Category": [
+				"Japan",
+				"Brain",
+				"Vaccination",
+				"mRNA vaccine",
+				"Immune response",
+				"Antibodies",
+				"Viral persistence",
+				"Endothelium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1152/ajpregu.00055.2025",
+			"Date": "2025-06-26",
+			"Text": "This study followed 18 long COVID patients and 19 matched controls approximately 2 years after acute COVID-19 to assess persistent cardiovascular, autonomic, and vascular abnormalities. The long COVID group showed elevated muscle sympathetic nerve activity, increased aortic stiffness (via carotid–femoral pulse wave velocity), higher resting heart rate, and impaired endothelial function (lower flow-mediated dilation), as well as subtle cardiac dysfunction (lower ejection fraction and global strain, altered E/A ratio) and lower aerobic exercise capacity (reduced peak VO₂). Biomarker analysis revealed higher endothelial cell-derived extracellular vesicles and oxidative stress (protein carbonyls) and lower antioxidant SOD activity, while Ang II did not differ.",
+			"Twitter": "https://x.com/vipintukur/status/1924672292149461155",
+			"Category": [
+				"Brazil",
+				"USA",
+				"Long COVID",
+				"Endothelium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.immuni.2025.04.001",
+			"Date": "2025-05-13",
+			"Text": "Yeung et al. identify a rare lung macrophage subset — nerve- and airway-associated interstitial macrophages (NAMs) — that plays a critical role in restraining SARS-CoV-2–induced lung pathology via type I interferon signaling. In mice, depletion of NAMs results in uncontrolled viral spread, heightened inflammation, severe weight loss, and 100 % mortality; conversely, mice with intact NAMs show limited viral dissemination, reduced tissue damage, and full survival. The authors further demonstrate that NAMs require IFNAR signaling to suppress excessive inflammation, and that human COVID-19 lung samples from deceased patients show reduced NAM-gene expression and elevated inflammatory signatures relative to survivors.",
+			"Twitter": "https://x.com/vipintukur/status/1924648033645691371",
+			"Category": [
+				"USA",
+				"Lungs",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Macrophage",
+				"Antibodies",
+				"Treatment"
 			]
 		}
 	]
