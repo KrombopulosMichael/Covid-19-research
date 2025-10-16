@@ -9600,6 +9600,182 @@
 				"Immune response",
 				"Antibodies"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cid/ciaf302",
+			"Date": "2025-06-10",
+			"Text": "In immunocompromised patients with persistent SARS-CoV-2 infection, the authors demonstrate that autologous virus-specific T cell therapy can be feasibly manufactured in most patients (10/12, 83.3 %) and, when infused, was associated with viral clearance (3 patients cleared viral RNA in 3–9 weeks) and clinical improvement without serious adverse events. The therapy appeared safe (no cytokine release syndrome or GVHD), and immunologic profiling suggested emergence of SARS-CoV-2–specific CD4 and CD8 T cell responses and subsequent development of neutralizing antibody titers post-VST infusion.",
+			"Twitter": "https://x.com/atranscendedman/status/1933989477359239261",
+			"Category": [
+				"South Korea",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Immune response",
+				"T cells",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pone.0316625",
+			"Date": "2025-01-13",
+			"Text": "This 7 Tesla MRI study compared hippocampal subfield volumes in 17 long COVID patients, 29 ME/CFS patients, and 15 healthy controls, finding that both long COVID and ME/CFS patients showed larger volumes than controls in left hippocampal subfields (subiculum head, presubiculum head, molecular layer head, and the whole hippocampal head). No significant volumetric differences were seen between the long COVID and ME/CFS groups. The enlarged subregions may indicate structural adaptation or neuroplastic responses in these illnesses. Moreover, in both patient groups, hippocampal volumes correlated with symptom severity metrics: for example, in long COVID, higher pain, fatigue, duration of illness, and unrefreshing sleep were generally associated with smaller subfield volumes in certain regions (negative correlations). In ME/CFS, associations were also seen between hippocampal volumes and unrefreshing sleep, pain, concentration, and physical function.",
+			"Twitter": "https://x.com/dbdugger/status/1934361034170708121",
+			"Category": [
+				"Australia",
+				"Brain",
+				"Long COVID",
+				"Self-reported",
+				"Pain",
+				"Positive effect"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41390-025-04192-w",
+			"Date": "2025-05-16",
+			"Text": "Prenatal exposure to SARS-CoV-2 infection in the third trimester (35-37 weeks) was studied in a cohort of pregnant women in Brazil, with cord blood cytokine/chemokine profiling and follow-up of their children at 6 and 24 months. The children had substantial proportions of developmental delays in cognitive, communication, and motor domains, with delays increasing over time (communication delays rising from 20% at 6 months to ~64% at 24 months, motor from ~40% to ~57%). Cord blood immune markers (elevated IFN-γ and TNF-α) were associated with cognitive delays, while IL-6, IL-8, IL-17, IL-1β related to motor delays, and chemokines like CXCL10 related to communication delays.",
+			"Twitter": "https://x.com/leslieleeiii/status/1933869964663906649",
+			"Category": [
+				"Brazil",
+				"USA",
+				"China",
+				"Newborns",
+				"Kids",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Antibodies",
+				"Transmission"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1113/EP092576",
+			"Date": "2025-06-13",
+			"Text": "Thomas et al. conducted a two-day submaximal CPET study in 68 people with long COVID (mean age 50 y, 68% female) to investigate whether physiological deterioration could be demonstrated after repeated exertion (a potential model for post-exertional symptom exacerbation). They observed a statistically significant decline between Day 1 and Day 2 in VO₂ at the ventilatory threshold (0.73 → 0.68 L/min), work rate at VT₁ (28 → 24 W), and oxygen pulse (8.2 → 7.5 mL/beat), as well as reduced end-tidal CO₂, suggesting reduced cardiopulmonary performance or oxygen delivery/utilization 24 h later. Notably, half the participants failed to reach 85% of age-predicted maximum heart rate, and logistic regression showed that younger age and a longer time since acute COVID predicted better submaximal exercise attainment.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1934780737053487453",
+			"Category": [
+				"United Kingdom",
+				"USA",
+				"India",
+				"Long COVID",
+				"Detection",
+				"Susceptibility",
+				"Mild infection",
+				"Lungs",
+				"Muscle",
+				"Mitochondria"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fmed.2021.676554",
+			"Date": "2021-07-09",
+			"Text": "This study used optical coherence tomography angiography imaging to examine retinal microcirculation in COVID-19 recovered patients (n = 33) and healthy controls (n = 28), approximately 138 ± 71 days post infection. It found that vessel density (VD) in the intermediate capillary plexus (ICP) was significantly reduced in post-COVID individuals (p = 0.0133 overall, and in multiple “circular” sectors), and that peripapillary VD was also lower (p = 0.0179). Post-COVID patients who had required hospitalization showed additional reductions in adjacent vascular layers (SVP, DCP), and VD metrics negatively correlated with severity markers (e.g. D-dimer, GPT). In a retrospective subset of 29 ICU COVID-19 patients, 17% exhibited retinal hemorrhages or cotton wool spots during their hospitalization.",
+			"Twitter": "https://x.com/PeeNee2/status/1928079756714553522",
+			"Category": [
+				"Germany",
+				"Endothelium",
+				"Detection",
+				"Immune response",
+				"Long COVID",
+				"Eye"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.20944/preprints202505.2356.v1",
+			"Date": "2025-05-29",
+			"Text": "This preprint reviews evidence that many inflammatory and vascular conditions—including acute and Long COVID, ME/CFS, sepsis, and neurodegenerative diseases—feature fibrinaloid (amyloid) microclots that resist normal fibrinolysis and can obstruct capillary flow. In parallel, nailfold capillaroscopy (NFC) frequently shows decreased capillary density/length and flow, increased tortuosity/meandering, and microhaemorrhages in these same conditions. The authors argue that NFC (functional) and microclot assays (structural) are complementary and should be combined with endothelial biomarkers for stronger disease assessment.",
+			"Twitter": "https://x.com/dbkell/status/1928033782365290795",
+			"Category": [
+				"United Kingdom",
+				"South Africa",
+				"Preprint",
+				"Review",
+				"Detection",
+				"Endothelium",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-04166-2",
+			"Date": "2025-06-20",
+			"Text": "In a German online cohort of 1,405 adults ( 910 prior-infected; 495 never-infected), the authors tested cognition and mental health and found a selective deficit in hippocampus-dependent mnemonic discrimination among those with prior COVID-19. On the Mnemonic Similarity Task (MST; N = 151), prior-infected participants showed lower lure discrimination (LDI)—a signature of impaired pattern separation—while item recognition was preserved, and the effect remained after adjusting for age, sex, education, depression, anxiety, and stress. Longer time since infection correlated with worse LDI. A Corsi forward (visuo-spatial working memory) deficit was also observed and correlated with LDI, whereas other attention/executive tasks showed little or no group differences. The authors interpret this as behavioral evidence consistent with hippocampal (DG) vulnerability—potentially via neuroinflammation and disrupted neurogenesis—after SARS-CoV-2 infection.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1936470984980140270",
+			"Category": [
+				"Germany",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"Mild infection",
+				"Self-reported",
+				"Nerves",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2468-2667(25)00098-2",
+			"Date": "2025-06",
+			"Text": "Between 1990 and 2021, mental disorders in ASEAN countries rose sharply: in 2021 there were ~ 80.4 million cases (a 70% increase from 1990), with age-standardised prevalence ~ 11.9%. The burden measured as DALYs also rose—about 11.2 million DALYs in 2021, an ~ 87% increase since 1990. The burden is especially notable among adolescents (10–14 years) where mental disorders accounted for ~ 16.3% of all DALYs, and among those aged ≥ 70 who saw the greatest relative increase in absolute cases (182.8%).",
+			"Twitter": "https://x.com/Yash25571056/status/1937360314112282674",
+			"Category": [
+				"Massive study",
+				"Self-reported",
+				"Review",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.06.20.25329994",
+			"Date": "2025-06-20",
+			"Text": "This study of 76 COVID-19 recovered individuals versus 51 healthy controls used a battery of MRI modalities (T1, diffusion, resting-state fMRI, arterial spin labeling) to probe long-term brain alterations. While overall brain volumes did not differ, focal atrophy was found in right basal ganglia and limbic regions, and cortical volume reductions in paralimbic areas (insula, temporal cortex). Diffusion metrics revealed microstructural damage (lower FA, higher RD) especially in tracts like the uncinate fasciculus and cingulum, with more pronounced changes in those who had been hospitalized. Functional connectivity differences emerged only in the more severe group, whereas cerebral blood flow differences were not observed. The findings support a model in which post-COVID neurological and cognitive symptoms may stem from selective disruption of basal ganglia–limbic–cortical networks, rather than diffuse global injury.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1937520140465098867",
+			"Category": [
+				"India",
+				"UAE",
+				"Brain",
+				"Long COVID",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s10072-025-08320-6",
+			"Date": "2025-06-25",
+			"Text": "This meta-analysis of 464 autopsy cases of COVID-19 decedents finds recurrent neuropathological features including microvascular injury, activation of microglia, hypoxic-ischemic changes, and microthrombi, suggesting multifactorial pathways of brain damage. The findings emphasize that COVID-19 may damage the brain both via vascular injury and secondary hypoxia, rather than through a single dominant mechanism. The analysis also notes heterogeneity across studies in reporting methods, definitions, and sampling, which complicates drawing definitive mechanistic conclusions.",
+			"Twitter": "https://x.com/Yash25571056/status/1938942350115602862",
+			"Category": [
+				"USA",
+				"Brain",
+				"Review",
+				"Endothelium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/jleuko/qiae180",
+			"Date": "2024-09-19",
+			"Text": "This longitudinal study of 28 non-vaccinated COVID-19 patients in Portugal and Brazil found that within only 7 days, both CD4⁺ and CD8⁺ T-cell populations shifted toward senescent and exhausted phenotypes (CD28⁻CD57⁺KLRG1⁺). These changes occurred in mild, moderate, and severe cases alike. The cytokine milieu revealed strong inflammatory activation, with IFN-γ, IL-6, and TNF initially elevated and partly subsiding by day 7 in the older Portuguese cohort, while younger Brazilian patients continued to show heightened inflammation. The authors suggest that SARS-CoV-2 infection can accelerate immunosenescence—normally a hallmark of aging—within days. This may impair antiviral responses, heighten susceptibility to complications, and contribute to the broader “inflammaging” observed in COVID-19. The effect’s presence across age and severity groups implies that even transient infection episodes can impose long-lasting immunological aging pressure.",
+			"Twitter": "https://x.com/RadCentrism/status/1837261134291947596",
+			"Category": [
+				"Portugal",
+				"Brazil",
+				"T cells",
+				"Immune response",
+				"SARS-CoV-2 mechanics",
+				"Aging",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12883-025-04174-9",
+			"Date": "2025-06-14",
+			"Text": "This meta-analysis of 125 observational studies (≥ 6 months follow-up, > 4 million patients) quantifies the prevalence of long-term neurological and neuropsychiatric symptoms following COVID-19. The authors report that fatigue affects about 43.3% (CI 36.1–50.9%) of survivors, while memory disorders (27.8%), cognitive impairment (27.1%), sleep disorders (24.4%), concentration impairment (23.8%), headache (20.3%), dizziness (16.0%), stress (15.9%), depression (14.0%), anxiety (13.2%), and migraine (~13.0%) are also common. Subgroup analyses indicate that females and those with higher BMI show elevated prevalence for certain symptoms (e.g. fatigue, stress).",
+			"Twitter": "https://x.com/vipintukur/status/1938226775814807584",
+			"Category": [
+				"Egypt",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"Self-reported",
+				"Mild infection",
+				"Review"
+			]
 		}
 	]
 }
