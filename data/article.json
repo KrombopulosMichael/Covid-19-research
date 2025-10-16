@@ -9317,6 +9317,289 @@
 				"Antibodies",
 				"Treatment"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/scitranslmed.adn7527",
+			"Date": "2025-05-21",
+			"Text": "This study shows that neutrophils from hospitalized COVID-19 patients display signs of degranulation and express elevated LOX-1 and PD-L1, markers associated with polymorphonuclear myeloid-derived suppressor cells (PMN-MDSCs). The authors further demonstrate in vitro that SARS-CoV-2 can directly induce neutrophils from healthy donors to adopt a LOX-1⁺, PD-L1⁺ suppressive phenotype (without productive infection), capable of repressing T cell proliferation. Early expression of LOX-1/PD-L1 in patients was associated with worse disease progression. The authors suggest that neutrophil reprogramming into immunosuppressive PMN-MDSCs may contribute to immune dysfunction in severe COVID-19, and that targeting PD-L1 might help restore immune competence.",
+			"Twitter": "https://x.com/vipintukur/status/1925610980190339439",
+			"Category": [
+				"USA",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Treatment",
+				"Neutrophils",
+				"Detection",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/life15050821",
+			"Date": "2025-05-21",
+			"Text": "In a cohort of 107 healthy young adults (university students, aged 18–34), roughly two years after SARS-CoV-2 infection, those with persistent post COVID-19 condition (n = 16) showed notable long-term cognitive impairments. Compared to never-infected and recovered groups, the PCC group had significantly poorer performance in verbal working memory, divided attention, and response inhibition, with over half of subjects scoring below average in working memory and attention, and many showing concurrent deficits across domains. They also exhibited slower reaction times (“cognitive slowing”) across tasks, indicative of a generalized processing delay. ",
+			"Twitter": "https://x.com/DavidJoffe64/status/1925629704679117106",
+			"Category": [
+				"Hungary",
+				"USA",
+				"Long COVID",
+				"Brain",
+				"Self-reported",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/ped.70042",
+			"Date": "2025-05-12",
+			"Text": "This prospective cohort of 108 hospitalized children in Japan found that 44.9%, 37.8%, and 22.8% reported at least one long-COVID symptom at 1, 3, and 6 months respectively after SARS-CoV-2 infection. The most frequent symptoms were cough, fatigue, and sleep disturbance, and the latter correlated with significantly lower quality of life at all timepoints. Children aged 7–17 years had a prevalence of ME/CFS-type symptoms comparable to their parents, whereas younger children (0–6 years) had fewer such symptoms. No clear risk factors (sex, acute disease severity, vaccination status) emerged for overall long-COVID, though older age was associated with ME/CFS-like symptoms.",
+			"Twitter": "https://x.com/vipintukur/status/1926122736033644794",
+			"Category": [
+				"Japan",
+				"Kids",
+				"Long COVID",
+				"Susceptibility",
+				"Self-reported",
+				"Sleep"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2025.4129",
+			"Date": "2025-04-11",
+			"Text": "In a U.S. cohort of ~1.9 million children and adolescents (487,378 with COVID-19, 1,412,768 controls), SARS-CoV-2 infection was associated with increased risk of new-onset chronic kidney disease (CKD stage ≥2: HR 1.17; CKD stage ≥3: HR 1.35) compared with uninfected controls. Among those with preexisting CKD, COVID-19 correlated with higher risk of composite kidney events (HR 1.15), and in those with acute kidney injury during infection, the hazard for further adverse kidney outcomes in the postacute period (90–179 days) was 1.29. The authors suggest that while these risks are relatively small, children with prior kidney disease or AKI warrant close monitoring after COVID-19.",
+			"Twitter": "https://x.com/CovidSolidarit1/status/1926351190859595936",
+			"Category": [
+				"USA",
+				"Kidney",
+				"Children",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-92908-7",
+			"Date": "2025-03-12",
+			"Text": "Using Visium HD spatial transcriptomics, this study profiled epipharyngeal tissue from three long-COVID patients and two controls. It found residual SARS-CoV-2 spike RNA in the epipharynx of all long-COVID patients along with activation of SARS-CoV-2 signaling networks across epithelial cells, B cells, and pDCs. Clinically, patients had chronic epipharyngitis with elevated inflammation and symptoms. After 3 months of weekly epipharyngeal abrasive therapy, viral RNA cleared in two patients and decreased in one, T-cell receptor signaling was suppressed, IL-6/TNF-α expression dropped, and excess antibody production was mitigated; histology suggested removal of inflamed ciliated epithelium. Inflammation and VAS symptom scores improved.",
+			"Twitter": "https://x.com/vipintukur/status/1927547338421101034",
+			"Category": [
+				"Japan",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"B cells",
+				"T cells",
+				"Detection",
+				"Nose",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.21203/rs.3.rs-6717727/v1",
+			"Date": "2025-05-26",
+			"Text": "In a preprint of 46 people with Long COVID, researchers ran two sub-maximal cardiopulmonary exercise tests 24 hours apart with blood draws before and after each session. On Day 2, VT1 VO₂ dropped from 9.7 to 8.9 ml·kg·min⁻¹ and O₂-pulse from 8.3 to 7.5 mL/beat, indicating worsened physiological response. Exercise fragmented large microclots and increased small microclots, and these shifts tracked with rises in inflammatory and vascular-injury cytokines. The authors conclude that exercise may aggravate LC by increasing microclot fragmentation and inflammation, cautioning against standard exercise-based rehabilitation without strategies targeting microclot clearance and endothelial repair.",
+			"Twitter": "https://x.com/CallumThomas96/status/1927444905430843740",
+			"Category": [
+				"South Africa",
+				"United Kingdom",
+				"Treatment",
+				"Long COVID",
+				"Endothelium",
+				"Immune response",
+				"Platelets",
+				"Neutrophils",
+				"Detection",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/rmdopen-2025-005469",
+			"Date": "2025-04-28",
+			"Text": "This retrospective multicentre study assessed nailfold videocapillaroscopy (NVC) patterns in 1,294 participants (494 systemic sclerosis, 430 other CTDs, 370 healthy controls). The authors found that a “scleroderma” capillary pattern was highly prevalent in SSc (63.4 %), rare in other CTDs (5.6 %), and almost absent in healthy controls (0.3 %), with mean capillary density notably lower in SSc (4.9/mm) compared to other CTDs (6.8/mm) and controls (8.6/mm). Even among patients with disease duration ≤3 years, the scleroderma pattern was present in over half (51.6 %) of SSc cases. These findings support NVC as a potentially discriminative tool for SSc versus other connective tissue diseases, even in early disease.",
+			"Twitter": "https://x.com/vipintukur/status/1922327415939842448",
+			"Category": [
+				"Italy",
+				"Belgium",
+				"Detection",
+				"Endothelium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.nrleng.2025.05.002",
+			"Date": "2025-05-20",
+			"Text": "In this cohort of 60 hospitalized COVID-19 survivors (mean age ~57 years; 41 requiring invasive mechanical ventilation, 19 with noninvasive ventilation), evaluated approximately 12 weeks post-discharge, 66 % scored below 26 on the MoCA and 85 % demonstrated impairment in at least one neuropsychological test. Structural brain MRI revealed correlations between specific cognitive deficits (e.g. naming, memory, visuospatial, executive) and imaging markers such as parietal or frontal atrophy, hippocampal and cingulate hyperintensities, and white matter lesions. Differences between ventilation groups were modest (e.g., MoCA score, subjective memory complaints), but prolonged intubation days, elevated D-dimer, anxiety, and depression were associated with worse functional prognosis.",
+			"Twitter": "https://x.com/Yash25571056/status/1927864474364695002",
+			"Category": [
+				"Brain",
+				"Long COVID",
+				"Detection",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bbi.2025.05.021",
+			"Date": "2025-05-20",
+			"Text": "🐁This study demonstrates that the SARS-CoV-2 Spike S1 subunit, administered to mice via intracerebral, intravenous, or intranasal routes, can induce region- and sex-specific neuroinflammation and perturb α-synuclein homeostasis. Intravenous administration in particular elevated aSyn immunoreactivity and microglial density in brain areas relevant to Parkinson’s disease, while intracerebral injection increased phosphorylated α-synuclein in males and intranasal exposure led to microgliosis and sex-dependent aSyn changes. All exposure routes also triggered changes in astrocytic reactivity, receptor expression (e.g. ACE2/Neuropilin-1), and the density of inhibitory parvalbumin-positive interneurons.",
+			"Twitter": "https://x.com/DaniBeckman/status/1925984213062341071",
+			"Category": [
+				"Germany",
+				"Brain",
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"Vaccination",
+				"Parkinson",
+				"mRNA vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-022-15565-0",
+			"Date": "2022-07-12",
+			"Text": "This double-blind, sham-controlled RCT (n=73 completers) tested hyperbaric oxygen therapy (HBOT) for persistent post-COVID symptoms. The HBOT arm received 40 sessions of 100% oxygen at 2.0 ATA for 90 min over ~8 weeks; the sham arm received normoxic air at 1.03 ATA with pressure cues. Versus sham, HBOT significantly improved global cognition (d = 0.50), attention (d = 0.48), executive function (d = 0.46), energy/fatigue (d = 0.52), sleep quality (d = −0.48), psychiatric symptoms (d = 0.64), and pain interference (d = 0.74) at 1–3 weeks post-treatment. Brain MRI showed increased perfusion and microstructural changes in fronto-insular and parietal regions, consistent with neuroplasticity. Limitations include the small, single-center sample; short follow-up; and industry relationships (two authors employed by, and one shareholder in, a company providing HBOT).",
+			"Twitter": "https://x.com/healingfromlc/status/1771578767128801323",
+			"Category": [
+				"Israel",
+				"Brain",
+				"Long COVID",
+				"Treatment",
+				"Sleep",
+				"Pain",
+				"Treatment",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.10.13.682101",
+			"Date": "2025-10-14",
+			"Text": "🐁In a mouse model of SARS-CoV-2 infection followed for 84 days, male mice had worse acute disease (more weight loss, delayed recovery, lung pathology) but no sex difference in viral loads or persistence. After recovery, female (XX) mice developed long-term neurocognitive impairments and CNS inflammation (microglial activation, dysregulated T cell subsets) that were not seen in males. Genetic experiments indicated that having two X chromosomes (XX) was sufficient (even in the absence of Y) to drive susceptibility to long COVID–like sequelae, possibly via upregulation of X-linked genes including Xist and Tlr7.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1978548443707494851",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"Preprint",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.05.23.655815",
+			"Date": "2025-05-28",
+			"Text": "This multi-site NIH-supported study (Stanford, MaineHealth, Kentucky) explored adipose tissue’s role in post-COVID-19 sequelae. While prior autopsy work suggested viral persistence in fat, this analysis of living donors found no evidence of SARS-CoV-2 persistence months to years after infection. Instead, transcriptional remodeling occurred during the subacute phase—marked by suppressed immune signaling and up-regulation of Hox and integrin genes, which may affect adipose metabolism and systemic inflammation. Despite these short-term molecular changes, adipose tissue from Long COVID patients (>1 year post-infection) was transcriptionally indistinguishable from controls. Thus, subcutaneous adipose tissue likely contributes to transient inflammatory dysregulation following acute infection but does not drive Long COVID pathophysiology.",
+			"Twitter": "https://x.com/vipintukur/status/1929900983452155946",
+			"Category": [
+				"USA",
+				"Preprint",
+				"Long COVID",
+				"Viral persistence",
+				"Detection",
+				"Liver",
+				"Endothelium",
+				"Fat"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1128/jvi.00519-25",
+			"Date": "2025-06-04",
+			"Text": "🧫Nguyen et al. (2025) report that amphotericin B (AmB) and nystatin, rather than inhibiting SARS-CoV-2, unexpectedly enhance infection in vitro. In Vero E6 cells, AmB increased viral replication up to ~100-fold (and ~10-fold in Calu-3 cells) while other tested antifungals had no effect. Mechanistic assays suggest this effect is mediated by enhanced viral entry, potentially through AmB overcoming the antiviral barrier of IFITM3 (an interferon-induced restriction factor).",
+			"Twitter": "https://x.com/atranscendedman/status/1930399185272221990",
+			"Category": [
+				"United Kingdom",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Treatment",
+				"Anti-treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-022-33218-8",
+			"Date": "2022-09-29",
+			"Text": "This study shows that human adipose tissue is frequently infected by SARS-CoV-2 and that visceral adipocytes are markedly more permissive than subcutaneous adipocytes. In 23/47 (49%) post-mortem fat samples from COVID-19 decedents, viral RNA and spike protein were detected within adipocytes. In vitro, visceral adipocytes had ~240× higher viral RNA and secreted ~770× more infectious particles at 24 hpi than subcutaneous cells, consistent with higher ACE2 levels; viability dropped to ~70% by days 4–5 in both depots. Responses also depended on viral lineage: the Gamma (P.1) variant yielded ~17× lower viral load than the original B lineage in visceral adipocytes and induced up-regulated interferon-signaling proteins, whereas the B lineage down-regulated interferon-pathway proteins and strongly increased cytokines (e.g., TNF-α >100-fold). The work supports adipose tissue—especially visceral fat—as a potential extrapulmonary reservoir and inflammatory driver in COVID-19, while noting in-vitro and sampling limitations and the absence of clinical outcome data.",
+			"Twitter": "https://x.com/MoriLabe/status/1575496271292379137",
+			"Category": [
+				"Brazil",
+				"Estonia",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Immune response",
+				"Interferon",
+				"Susceptibility",
+				"Fat"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/scitranslmed.abm9151",
+			"Date": "2022-09-22",
+			"Text": "This study shows that human fat (adipose) tissue is a direct target of SARS-CoV-2. In 7/8 COVID-19 autopsies, adipose depots contained viral RNA and inflammatory cell infiltrates. In ex vivo infections, mature adipocytes from multiple depots supported productive infection and released infectious virus, while adipose-resident macrophages underwent abortive infection coupled to strong inflammatory signaling; preadipocytes became inflamed as bystanders. Notably, the infected cell types lacked detectable ACE2 protein, implying alternative entry mechanisms in fat. Single-cell profiling across ~199k cells mapped these responses at high resolution. The findings suggest a biological explanation for why obesity increases COVID-19 severity: adipose tissue can act as a viral niche and an amplifier of inflammation.",
+			"Twitter": "https://x.com/EricTopol/status/1573023946634514432",
+			"Category": [
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Macrophage",
+				"Fat",
+				"Viral persistence",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1097/01.JU.0001109764.27496.08.09",
+			"Date": "2025-04-08",
+			"Text": "This study in 38 post–COVID-19 men (27 mild, 11 moderate) found that SARS-CoV-2 RNA was detectable in semen in 55% of cases overall (21/38), especially in moderate disease (91%). The viral RNA signals had high Ct values (38–39). Infectious virus was successfully cultured from 17 participants, with evidence of viable viral particles up to 8 months after infection. Semen quality parameters (count, motility, concentration) were depressed in early samples but improved by 6 months. Inflammatory lymphocyte markers (CD3, CD4, CD8, CD45) in semen peaked at 3 months and decreased by 6 months.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1931856046164938894",
+			"Category": [
+				"Brazil",
+				"Viral persistence",
+				"Long COVID",
+				"Reproductive health",
+				"Detection",
+				"Immune response",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-025-09076-x",
+			"Date": "2025-06-04",
+			"Text": "In severe COVID-19, the study finds that tiny blood vessels are often blocked not by classic clots, but by sticky layers of membranes from burst red blood cells. These layers form where endothelial cells die by necroptosis (MLKL-dependent), and complement helps drive the RBC rupture. The authors observed this mechanism across multiple human organs in COVID-19 and replicated it in mouse ischaemia-reperfusion and SARS-CoV-2 infection models—watching the “endo-seal” form in real time. When modest, the seal prevents bleeding; when excessive, it aggregates RBCs and occludes microvessels, explaining COVID-19 microangiopathy. The human set included 8 autopsies sampling 5 organs each, with post-mortem delays 12–48 h (one 216 h case excluded from injury metrics). Kidney, liver, and heart showed dominant RBC-membrane–driven obstruction in COVID-19, lungs did not. Endothelial Mlkl deletion in mice reduced haemolysis, obstruction, and tissue injury, pointing to necroptosis/complement as therapeutic targets—beyond standard anticoagulation, which targets platelets/fibrin that were not central here.",
+			"Twitter": "https://x.com/vipintukur/status/1932001100946661562",
+			"Category": [
+				"USA",
+				"Australia",
+				"Endothelium",
+				"Immune response",
+				"Kidney",
+				"Liver",
+				"Lungs",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.06.02.657400",
+			"Date": "2025-06-03",
+			"Text": "🧫The study investigates how the SARS-CoV-2 nucleocapsid (N) protein, even in the absence of replicating virus, may persist in cells and tissues and thereby drive a sustained type I interferon–based inflammatory response via mitochondrial dysfunction. Using in vitro and ex vivo models, the authors show that residual N expression associates with elevated reactive oxygen species, mtDNA release, and activation of innate immune sensing pathways, resulting in prolonged upregulation of interferon-stimulated genes. They propose that this mechanism offers a plausible molecular basis for some long COVID phenomena—i.e. persistent immune activation in the absence of detectable viral replication.",
+			"Twitter": "https://x.com/vipintukur/status/1932658659013886240",
+			"Category": [
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Immune response",
+				"Preprint",
+				"Long COVID",
+				"Mitochondria",
+				"Nucleocapsid"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1073/pnas.2426528122",
+			"Date": "2025-06-12",
+			"Text": "🐁🐹This paper demonstrates that the SARS-CoV-2 nonstructural protein 15 (nsp15) functions as a virulence factor by using its endoribonuclease (EndoU) activity to reduce the accumulation of viral double-stranded RNA intermediates. By doing so, nsp15 dampens host innate immune sensing and signaling, thereby promoting viral replication and pathogenicity in lung epithelial cells and in vivo models (hamsters, K18-hACE2 mice). In K18-hACE2 mice, the wild-type virus (with intact nsp15 activity) caused higher mortality and evidence of neuroinvasion, whereas EndoU-inactive mutants were attenuated and largely confined to the respiratory tract. Viruses carrying inactive nsp15 were attenuated: they stimulated stronger antiviral responses, had lower replication, and caused lower mortality. These findings support a mechanistic role for nsp15 in immune evasion and pathogenesis of SARS-CoV-2.",
+			"Twitter": "https://x.com/RadCentrism/status/1933374248355311678",
+			"Category": [
+				"USA",
+				"Lungs",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Immune response",
+				"Antibodies"
+			]
 		}
 	]
 }
