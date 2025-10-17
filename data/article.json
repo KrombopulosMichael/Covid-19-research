@@ -9776,6 +9776,173 @@
 				"Mild infection",
 				"Review"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s43856-025-00947-y",
+			"Date": "2025-07-03",
+			"Text": "In a cross-sectional comparison of Dutch youth, 106 children with physician-diagnosed Long COVID reported substantially worse Health-related quality of life (HRQoL) than peers with other chronic illnesses and the general population. Eighty-four percent met criteria for impaired HRQoL, corresponding to a 3.67-fold higher risk (95% CI 2.35–5.74) versus the CHC cohort. On PROMIS measures, pediatric Long COVID showed higher anxiety and depressive symptoms and more sleep-related impairment, with mean T-score differences of 2.2–9.8 points (95% CI 0.6–11.7) and severe-symptom prevalences around 17–18%. These effects were observed despite using validated instruments (PedsQL 4.0; PROMIS) and covariate-adjusted analyses.",
+			"Twitter": "https://x.com/atranscendedman/status/1940774908197535766",
+			"Category": [
+				"Netherlands",
+				"Brain",
+				"Long COVID",
+				"Kids",
+				"Sleep",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-04815-6",
+			"Date": "2025-07-02",
+			"Text": "In 28 adults with ongoing “brain fog” several months after mild COVID-19, researchers combined FDG-PET with EEG to map brain dysfunction. They found eight significant hypometabolic clusters across bilateral frontal, temporal, and parietal cortices (plus left occipital), with the largest in the right frontal lobe (T = 10.49; k = 2,917). EEG showed frontal-predominant slowing—higher delta/theta and lower alpha power—mirroring PET abnormalities. Median MoCA was 25, fatigue was common (FSS 5.64, 53.6% above cut-off), and assessments occurred a mean 5.3 months after infection. These convergent imaging–neurophysiology findings suggest anterior network dysfunction underlies cognitive complaints in post-COVID patients, even after non-severe acute illness.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1940495233105776977",
+			"Category": [
+				"Italy",
+				"Brain",
+				"Long COVID",
+				"Detection",
+				"Mild infection",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciadv.ads5006",
+			"Date": "2025-07-04",
+			"Text": "🧫The authors tested the hypothesis that SARS-CoV-2 infection (or exposure to its spike protein) could promote Alzheimer-type pathology, specifically extracellular aggregation of amyloid-β, using human retinal tissue explants and human retinal organoids. They observed that SARS-CoV-2 exposure leads to increased amyloid-β aggregates in retinal neurons and glial cells in the ex vivo tissues and in organoids. In human donor retinas from individuals who had COVID-19 (but no prior dementia diagnosis), they also found elevated amyloid-β accumulation compared to non–COVID controls, to levels comparable to Alzheimer’s cases. Mechanistically, they showed that blocking the receptor neuropilin-1 (NRP1), which is used by SARS-CoV-2 spike protein for entry, attenuated the amyloid-β deposition induced by spike protein in retinal explants, implicating spike–NRP1 interaction in driving or enhancing amyloid-β aggregation.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1941512064431947894",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Viral persistence",
+				"Eye",
+				"Nerves"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-96608-0",
+			"Date": "2025-07-08",
+			"Text": "In a matched, population-based sample from Portugal (n=698), people infected with SARS-CoV-2 in 2020–2021 had a higher battery-confirmed prevalence of cognitive impairment when tested about two years later. Compared with matched uninfected peers, impairment was 19.1% vs 6.8% in those hospitalized (adjusted OR 5.41) and 10.7% vs 3.2% in those not hospitalized (adjusted OR 3.27). Impairment among hospitalized cases also tended to involve more cognitive domains. Older age, lower education, anxiety, and infection were associated with higher odds of impairment. The study used a two-step method (MoCA screening, then full neuropsychological testing) to mitigate over-reliance on screening tools alone.",
+			"Twitter": "https://x.com/MeetJess/status/1942794917505298832",
+			"Category": [
+				"Portugal",
+				"Brain",
+				"Long COVID",
+				"Detection",
+				"Mild infection",
+				"Aging",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/cti2.70041",
+			"Date": "2025-06-27",
+			"Text": "This study examined 97 individuals 3 to 17 months post SARS-CoV-2 infection (across mild, severe, and critical cases) and compared them with 64 sepsis patients to assess long-term immune changes and possible influences of Bacillus Calmette–Guérin (BCG) vaccination or latent viral/parasitic infections. The authors found persistent dysregulation in both myeloid and lymphoid compartments (e.g. altered expression of CD39, CD57, TIGIT, CD64, CD11b), with particularly elevated CD57 on CD8⁺ T cells in formerly critical COVID-19 patients. While seropositivity to BCG or latent infections (CMV, T. gondii) was somewhat less common in the more severe COVID cohorts and showed a non-definitive trend toward better outcomes in sepsis, ex vivo stimulation of monocytes from convalescents or BCG-vaccinated individuals did not show robust differences in cytokine responses. Despite the evidence of immune remodeling long after acute infection, the study did not support the hypothesis that BCG vaccination in childhood confers lasting trained immunity detectable in adult monocyte function.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1943128992518660453",
+			"Category": [
+				"Czech Republic",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Vaccination",
+				"Hybrid immunity",
+				"Cross-reactivity",
+				"Natural immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/eji.202551948",
+			"Date": "2025-07-09",
+			"Text": "In 458 post-COVID participants assessed 6–9 months after infection, PASC occurred in 40% (mild) and 57.4% (severe). Broad serologic/virologic/tissue-damage biomarkers—including anti-RBD IgG, cytokines (IL-6, IL-8, IFN-γ, IFN-β1/λ1), and neuro-injury markers (Nf-L, GFAP)—were largely determined by initial disease severity, not specifically by PASC. By contrast, T-cell readouts clearly separated PASC from non-PASC: PASC was associated with altered CD4⁺/CD8⁺ memory composition, higher cytokine-secreting cells, and expanded TEMRA phenotypes, including elevated SARS-CoV-2 N/M-specific TEMRA cells. A random-forest model leveraging these variables plus initial symptom duration classified PASC with >80% accuracy.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1943129010587754926",
+			"Category": [
+				"France",
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"Interferon",
+				"Nucleocapsid",
+				"Mild infection",
+				"Self-reported",
+				"Detection",
+				"Brain",
+				"Nerves",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1155/2023/9792099",
+			"Date": "2023-02-11",
+			"Text": "A previously healthy 34-year-old woman developed severe psychosis following COVID-19 infection, characterized by auditory hallucinations, intrusive thoughts, hyperreligiosity, and apocalyptic delusions. After inpatient psychiatric treatment, her hallucinations remitted but delusional and hyperreligious beliefs persisted, and she required rehospitalization only eight days after her discharge, failing to achieve full remission.",
+			"Twitter": "https://x.com/LauraMiers/status/1944114216400826852",
+			"Category": [
+				"USA",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.freeradbiomed.2025.01.015",
+			"Date": "2025-01-07",
+			"Text": "🐁The authors used K18-hACE2 mice infected with SARS-CoV-2 (1×10² PFU), followed by a 14-day recovery, and then exposed them to alcohol (6 g/kg). They found that the previously infected mice sustained more severe liver injury (elevated ALT, vacuolated hepatocytes) than controls despite having lower blood alcohol levels but higher acetaldehyde accumulation. The data suggest that prior SARS-CoV-2 infection causes persistent upregulation of hepatic cytochrome P450 enzymes (notably CYP1A2 and CYP2E1), which likely enhances conversion of alcohol to acetaldehyde, increasing hepatotoxic stress. Mechanistically, elevated TNF-α expression was linked to upregulation of transcription factors (aryl hydrocarbon receptor and Sp1) which bound to promoters of CYP1A2 and CYP2E1, respectively, driving their increased expression. No significant intestinal damage was observed in the model. The authors conclude that SARS-CoV-2 infection may reprogram hepatic metabolic enzyme states in a way that increases susceptibility to further insults such as alcohol consumption, with potential relevance to long COVID and liver health.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1944762783498694668",
+			"Category": [
+				"South Korea",
+				"Liver",
+				"Immune response",
+				"Metabolism",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/jfmk9010048",
+			"Date": "2024-03-08",
+			"Text": "This study tested how wearing an exercise-specific face mask (ESFM) affects physiological, respiratory, perceptual, and performance responses during graded treadmill exercise in 24 aerobically fit individuals. Compared to being unmasked, ESFM use reduced performance (median time to exhaustion decreased by ~150.5 s), lowered arterial oxygen saturation at peak intensity by ~3.7 %, and increased perceptions of air hunger and work of breathing (especially at submaximal intensities). Interestingly, while spirometric measures at termination were similar between conditions, during submaximal intensities some mid-expiratory flows (e.g. FEF 25–75, FEF₅₀) were modestly improved with the mask. An ESFM is protective of the lung, improving within-exercise respiratory function. However, these benefits need to be balanced with the degree of perceptual and physiological burden, elevating multiple sensations of dyspnea and inducing significant reductions in SpO2 at both submaximal and maximal exercise intensities.",
+			"Twitter": "https://x.com/SalamonSMD/status/1944768557155487780",
+			"Category": [
+				"Canada",
+				"Masks",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1172/jci.insight.166540",
+			"Date": "2023-09-07",
+			"Text": "🐁This study provides evidence that SARS-CoV-2 infection can provoke a Sjögren’s syndrome-like phenotype. In ACE2 transgenic mice infected with SARS-CoV-2, salivary flow was reduced nearly by half (6.64 vs 13.12 µL/g), mice developed antinuclear antibodies (70% positive), elevated anti-SSB/La, and lymphocytic infiltration plus apoptosis in the salivary and lacrimal glands. In humans recovered from COVID-19, sera showed increased ANA, anti-SSA/Ro52, and anti-SSB/La, and minor salivary gland biopsies of 6 individuals revealed focal lymphocytic infiltrates in 4 and focus scores ≥ 2 in 2, which histologically resemble SjD pathology. Moreover, several monoclonal antibodies derived from convalescent patients blocked ACE2–spike binding but also cross-reacted with nuclear antigens, hinting at potential molecular mimicry.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1792561304915325331",
+			"Category": [
+				"USA",
+				"Immune response",
+				"Antibodies",
+				"SARS-CoV-2 mechanics",
+				"Eye",
+				"Autoimmunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fnagi.2025.1587782",
+			"Date": "2025-06-13",
+			"Text": "Romanella et al. review evidence implicating Chlamydia pneumoniae and SARS-CoV-2 as possible contributors to Alzheimer’s disease (AD) pathogenesis. They argue that both pathogens may access the brain either via the olfactory neuroepithelium or across the blood-brain barrier, using distinct entry mechanisms (Cpn via proteoglycans, SARS-CoV-2 via ACE2 and neuropilin-1). Once in the CNS, they may trigger or sustain neuroinflammation through elevated IL-6 and CCL2, especially in individuals carrying APOE ε4, potentially promoting amyloid and tau pathology.",
+			"Twitter": "https://x.com/acrossthemersey/status/1945573257312178320",
+			"Category": [
+				"USA",
+				"Brain",
+				"Review",
+				"SARS-CoV-2 mechanics",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/jmv.70496",
+			"Date": "2025-07-17",
+			"Text": "🐶🐹This experimental study shows that SARS-CoV-2–infected dogs can transmit the virus to hamsters kept in close proximity. Exposed hamsters developed infection confirmed by histopathology along with lung pathology. Notably, the authors report neurological effects in hamsters—blood–brain barrier (BBB) damage, immune activation, and neurodegenerative changes—implicating cross-species transmission as a contributor to CNS pathology.",
+			"Twitter": "https://x.com/Yash25571056/status/1946047199055692049",
+			"Category": [
+				"Brain",
+				"Transmission",
+				"Lungs",
+				"Susceptibility"
+			]
 		}
 	]
 }
