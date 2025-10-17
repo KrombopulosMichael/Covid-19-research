@@ -1023,6 +1023,8 @@
 			"Text": "🐁Covid infects the central nervous system in mouse models. Inflammation was consistently observed, with death of endothelial, microglial and immune cells but without their apparent infection.",
 			"Twitter": "https://x.com/KunstJonas/status/1524370877575540736?s=20",
 			"Category": [
+				"Switzerland",
+				"United Kingdom",
 				"Brain",
 				"Endothelium"
 			]
@@ -9942,6 +9944,123 @@
 				"Transmission",
 				"Lungs",
 				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamapediatrics.2025.1066",
+			"Date": "2025-05-27",
+			"Text": "Gross et al. studied 472 infants/toddlers (0–2 years) and 539 preschool children (3–5 years), comparing SARS-CoV-2–infected versus uninfected participants, to identify long COVID symptom profiles in early childhood. They evaluated up to 75 prolonged symptoms, derived separate symptom indices per age group (with weighted symptom scores), and applied threshold criteria (≥4 pts in infants/toddlers; ≥3 in preschool) to classify probable LC. Among infected children, 14 % of infants/toddlers (40/278) and 15 % of preschoolers (61/399) met the LC threshold. Higher index scores correlated with lower general health, poorer quality of life, and caregiver‐perceived developmental delays. The study’s findings highlight that symptom patterns in very young children differ from older populations, suggesting that screening for long COVID in early childhood should not rely on adult or older-child templates.",
+			"Twitter": "https://x.com/Invivyd/status/1948342735796150464",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Kids",
+				"Self-reported",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-025-61033-4",
+			"Date": "2025-07-22",
+			"Text": "In a longitudinal UK Biobank analysis, brain-age models trained on 15,334 adults were applied to 996 repeatedly scanned participants to test for pandemic-related effects on brain ageing. Compared with Controls scanned entirely before COVID-19, those scanned once before and once after the pandemic showed +5.5 months greater brain-age deviation at follow-up, indicating accelerated brain ageing. This pattern held even without documented infection, and the acceleration was stronger in men and in people from more deprived areas. Model performance was strong (r ≈ 0.89–0.91, MAE 2.9–3.09 y; ICC ≈ 0.98), and effect sizes for acceleration were moderate to large (GM d = 0.606; WM d = 0.697). Notably, accelerated ageing related to cognitive decline only among participants who had COVID-19, suggesting infection may couple pandemic-era brain-age changes to cognition.",
+			"Twitter": "https://x.com/DaniBeckman/status/1947730122867724577",
+			"Category": [
+				"United Kingdom",
+				"Brain",
+				"Nerves",
+				"Aging",
+				"Mild infection",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/diagnostics13101716",
+			"Date": "2023-05-12",
+			"Text": "In this study of 155 individuals, Bendella et al. used AI-based MRI volumetry to compare brain volumes across three groups: mild (n = 51), severe (n = 48) COVID-19 survivors, and healthy controls (n = 56). They found a statistically significant gradient of brain atrophy (severe > mild > control), particularly in supratentorial grey matter, frontal and parietal lobes, and the right thalamus. Multivariate modeling affirmed that severe infection (versus control) was an independent predictor of volume loss, even when ICU cases were excluded, alongside demographic covariates.",
+			"Twitter": "https://x.com/Fynnderella1/status/1949569822133453159",
+			"Category": [
+				"Germany",
+				"Brain",
+				"Long COVID",
+				" Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.12.15.24319058",
+			"Date": "2024-12-16",
+			"Text": "The authors followed over 4.6 million Norwegian adults between 2021 and 2023, comparing all-cause mortality among those who received mRNA COVID-19 vaccination and those who remained unvaccinated, adjusting for sex, age, location, and risk factors. They found that vaccinated groups consistently showed lower mortality rates than unvaccinated, with adjusted incidence rate ratios below 1 in almost all age and calendar-year strata.",
+			"Twitter": "https://x.com/thereal_truther/status/1871280236354253235",
+			"Category": [
+				"Norway",
+				"Vaccination",
+				"Antibodies",
+				"Preprint",
+				"Susceptibility",
+				"Natural immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/imcb.12654",
+			"Date": "2023-05-22",
+			"Text": "In breakthrough SARS-CoV-2 infections, stronger activation of both naïve and memory T cells—especially CD8⁺ subsets—correlates with more rapid viral clearance, suggesting that effective T cell immunity is a key factor in resolving infection even in vaccinated individuals. The authors argue that not merely quantity but functional “fitness” of T cells (“happy” rather than exhausted or dysregulated) is central to this process. ",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1950683775333192080",
+			"Category": [
+				"Portugal",
+				"Singapore",
+				"Immune response",
+				"T cells",
+				"Vaccination",
+				"Antibodies",
+				"Review",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2025.1593885",
+			"Date": "2025-08-01",
+			"Text": "COVID-19 is not only a respiratory disease but also a vascular and thromboinflammatory disorder: SARS-CoV-2 infection induces a prothrombotic state via endothelial injury, complement activation, extracellular vesicles bearing tissue factor, platelet overactivation, and neutrophil extracellular traps, among other pathways. In acute COVID-19, pooled evidence shows ~21 % incidence of thrombosis (DVT ~20 %, PE ~8 %, arterial ~5 %) in hospitalized patients, and survivors carry elevated risks (e.g. ~1.2 % incidence of PE, ~2.3 % for DVT post-COVID, HR ~3.16 and ~2.55, respectively). Persistent microclots and procoagulant factors in long COVID may sustain vascular damage, establishing feedback loops of inflammation, coagulation and hypoxia. In terms of prevention and treatment, most trials to date have tested heparin or LMWH in hospitalized patients, with mixed results: therapeutic anticoagulation may improve survival in noncritically ill patients but raises bleeding risk, and in critically ill patients benefits are less clear. Only one trial has included children, and many guideline recommendations remain cautious, advising prophylactic anticoagulation in hospital settings and selective post-discharge use.",
+			"Twitter": "https://x.com/Invivyd/status/1951365318929989820",
+			"Category": [
+				"China",
+				"Endothelium",
+				"Antibodies",
+				"Immune response",
+				"Review",
+				"Long COVID",
+				"Vaccination",
+				"SARS-CoV-2 mechanics",
+				"Treatment",
+				"Platelets"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/jdv.16773",
+			"Date": "2020-06-25",
+			"Text": "In a patient with COVID-19, Verheyden et al. describe relapsing symmetric livedo reticularis affecting the limbs, which coincided with the course of SARS-CoV-2 infection. The authors propose that the skin finding might reflect microvascular involvement, endothelial injury, coagulation disturbances or vasospasm induced by the virus, analogous to other acral or purpura skin manifestations seen in COVID-19.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1952084055660339498",
+			"Category": [
+				"Belgium",
+				"Endothelium",
+				"Platelets",
+				"Viral persistence",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.21203/rs.3.rs-7179724/v1",
+			"Date": "2025-07-30",
+			"Text": "🐹🧫This preprint describes a mechanism linking transient SARS-CoV-2 infection of olfactory epithelium (targeting sustentacular cells) to a prolonged, localized neuroinflammation in the olfactory bulb, mediated by degeneration of olfactory sensory neurons (OSNs) and subsequent microglial activation. Using a hamster model and supporting human data, the authors show that viral RNA persists in the olfactory epithelium for ~10 days, while viral proteins clear by ~5 days, and that epithelial damage causes progressive OSN loss. Axonal debris accumulates in the olfactory bulb and triggers sustained transcriptional immune responses (e.g. phagocytosis, synaptic remodeling) in microglia, spatially restricted to the projections of the damaged OSNs. Thus, even after viral clearance and without direct infection of the brain, peripheral neuronal injury can lead to a durable glial inflammatory state. This suggests a plausible pathway for neurologic symptoms in long COVID that does not require persistent viral reservoirs in the brain. The model highlights a delayed injury-to-glia axis as a general principle by which transient peripheral insults might cause long-lasting changes in brain function.",
+			"Twitter": "https://x.com/vipintukur/status/1952190992469070219",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Preprint",
+				"Nose",
+				"Viral persistence"
 			]
 		}
 	]
