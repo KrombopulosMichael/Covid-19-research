@@ -1833,7 +1833,8 @@
 			"Category": [
 				"Natural immunity",
 				"Cross-reactivity",
-				"Antibodies"
+				"Antibodies",
+				"Common cold"
 			]
 		},
 		{
@@ -4388,7 +4389,8 @@
 				"Omicron",
 				"Viral persistence",
 				"Preprint",
-				"Natural immunity"
+				"Natural immunity",
+				"Common cold"
 			]
 		},
 		{
@@ -5269,7 +5271,8 @@
 				"Lungs",
 				"Nucleocapsid",
 				"Interferon",
-				"Positive effect"
+				"Positive effect",
+				"Common cold"
 			]
 		},
 		{
@@ -10061,6 +10064,19 @@
 				"Preprint",
 				"Nose",
 				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s42003-025-08570-2",
+			"Date": "2025-08-01",
+			"Text": "🧫This study demonstrates that the SARS-CoV-2 main protease (Mᵖʳᵒ) can directly activate human coagulation. When recombinant Mᵖʳᵒ was added to plasma from 21 donors, the probability of clotting within 1 hour increased ~3-fold (p = 0.003). Using degradomics and N-terminomics (TAILS), the authors showed that Mᵖʳᵒ cleaves and activates FVII at Arg152–Ile153 and FXII at Arg353–Val354, i.e., the canonical activation sites that initiate the extrinsic and intrinsic pathways. They also identify a secondary Arg-at-P1 specificity (~10%) in Mᵖʳᵒ, consistent with zymogen activation chemistry; an inactive Mᵖʳᵒ mutant did not induce clotting. Structural/biochemical support includes HDX-MS mapping of an Arg-containing inhibitor (PPACK, Ki ≈ 160 ± 2 nM) to Mᵖʳᵒ and partial inhibition by Argatroban (~20% activity reduction). Together, the data propose a viral-protease–driven pathway for COVID-19 coagulopathy that complements inflammation-based explanations and positions Mᵖʳᵒ as a mechanistic link to thrombosis—and a potential therapeutic target to explore.",
+			"Twitter": "https://x.com/wolfeagle1989/status/1952175026817618365",
+			"Category": [
+				"Italy",
+				"Switzerland",
+				"SARS-CoV-2 mechanics",
+				"Platelets",
+				"Common cold"
 			]
 		}
 	]
