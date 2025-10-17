@@ -10078,6 +10078,48 @@
 				"Platelets",
 				"Common cold"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.biochi.2025.08.006",
+			"Date": "2025-08-07",
+			"Text": "🧫This in vitro biochemical study shows that the SARS-CoV-2 nucleocapsid (NC) protein can directly bind the forkhead DNA-binding domain of FOXP3, and under DNA-binding conditions, high NC concentrations can displace FOXP3 from its DNA binding. The competition suggests a mechanism by which NC could dysregulate FOXP3 function, which is known to be important for platelet development and regulation, and thus contribute to COVID-associated coagulopathy. ",
+			"Twitter": "https://x.com/Yash25571056/status/1953662488983351627",
+			"Category": [
+				"South Africa",
+				"Nucleocapsid",
+				"T cells",
+				"Platelets"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jacc.2025.06.037",
+			"Date": "2025-08-06",
+			"Text": "This pragmatic randomized crossover trial evaluated whether use of in-home HEPA air purifiers could reduce blood pressure in adults living near major roadways. In 154 participants (mean age ~41 years, baseline SBP ~118.8 mm Hg), each individual underwent one month of HEPA filtration and one month of sham (filter removed), with a washout period in between. The key finding was that among participants whose baseline systolic blood pressure (SBP) was ≥ 120 mm Hg, HEPA filtration reduced SBP by 2.8 mm Hg while sham increased it by 0.2 mm Hg, leading to a net 3.0 mm Hg benefit (P = 0.04). No significant benefit was observed for diastolic BP or in those with lower baseline SBP. The study suggests that relatively modest improvements in indoor air quality may yield clinically meaningful BP reductions in populations exposed to traffic‐related particulate pollution, even in settings with comparatively low ambient PM₂.₅. However, the effect was limited to those with elevated SBP.",
+			"Twitter": "https://x.com/statesdj/status/1954251501179936902",
+			"Category": [
+				"USA",
+				"Air monitoring",
+				"Massive study",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.26508/lsa.202503417",
+			"Date": "2025-08-05",
+			"Text": "Ben-Ami et al. developed an epigenetic liquid-biopsy approach, analyzing cell-free DNA methylation and histone marks to assign tissue-of-origin signatures, and applied it to COVID-19 patients across a severity spectrum. They found that severe disease is associated with dramatically elevated cfDNA from lung, cardiac, endothelial, and erythroblast lineages, and that immune cell cfDNA (especially monocyte/macrophage) and endothelial cfDNA predict worsening and longer hospital stays. Remarkably, even asymptomatic individuals show increased cfDNA signatures from endothelial and erythroblast origins—suggesting that subclinical vascular turnover and red blood cell lineage dynamics occur widely in SARS-CoV-2 infection, regardless of disease severity.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1953982780385489154",
+			"Category": [
+				"Israel",
+				"USA",
+				"Endothelium",
+				"Viral persistence",
+				"Immune response",
+				"Antibodies",
+				"T cells",
+				"B cells",
+				"Detection",
+				"Mild infection"
+			]
 		}
 	]
 }
