@@ -10115,10 +10115,204 @@
 				"Viral persistence",
 				"Immune response",
 				"Antibodies",
-				"T cells",
-				"B cells",
 				"Detection",
 				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.08.06.25332978",
+			"Date": "2025-08-10",
+			"Text": "This medRxiv preprint (Aug 10, 2025) reports that IgG purified from ME/CFS and Long-COVID (PASC) patients alters endothelial-cell mitochondrial structure and energetics and drives distinct cytokine programs in healthy PBMCs. In endothelial cells, ME/CFS IgG induced mitochondrial fragmentation; the effect disappeared when IgG was enzymatically cleaved, yet the Fab fragment alone recapitulated the energetic impact, while the Fc fragment alone produced a hypometabolic pattern with a trend toward lower ATP. Proteomic profiling of IgG-bound immune complexes differed by illness: ME/CFS complexes were enriched for pathways in extracellular-matrix organization, whereas PASC complexes pointed to hemostasis / clot-regulation processes. The authors conclude that patient antibodies may play a causal role in post-infectious disease biology by disrupting endothelial mitochondrial dynamics and modulating immune signaling, highlighting antibody-targeted strategies as potential avenues for therapy.",
+			"Twitter": "https://x.com/JackHadfield14/status/1954907957059076415",
+			"Category": [
+				"Germany",
+				"USA",
+				"Latvia",
+				"Long COVID",
+				"Immune response",
+				"Antibodies",
+				"Endothelium",
+				"Mitochondria",
+				"Platelets",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1088/1758-5090/adf66c",
+			"Date": "2025-08-08",
+			"Text": "This study developed a 3D in-vitro human skeletal muscle tissue model and exposed it to patient sera from ME/CFS and Long COVID patients. Within 48 hours exposure the tissues showed a marked drop in contractile strength alongside transcriptomic evidence of up-regulated protein translation, elevated glycolytic enzyme expression, disruption of calcium regulation, and mitochondrial hyperfusion. The early adaptive phase appears to boost metabolic activity and structural changes (hypertrophy) in response to the stress imparted by patient sera. However, upon extended exposure (96-144 hours) the model exhibited a transition to metabolic fragility: contractile strength further declined, myotubes became weakened, mitochondria adopted fragmented “toroidal” morphologies, and the compensatory mechanisms failed. The findings suggest that muscle weakness and fatigue in ME/CFS and Long COVID may reflect a biphasic process: a transient hyper-metabolic adaptation followed by collapse of mitochondrial and contractile resilience. The authors propose this supports a biological basis for fatigue and post-exertional malaise in these conditions.",
+			"Twitter": "https://x.com/_VFK_DAA/status/1954594864336921027",
+			"Category": [
+				"Spain",
+				"Long COVID",
+				"Muscle",
+				"Mitochondria"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bbi.2025.07.024",
+			"Date": "2025-07-28",
+			"Text": "In this cross-sectional MRI study of 97 individuals with long COVID (persisting neuropsychiatric symptoms) compared to 31 recovered controls, researchers found that the long COVID group exhibited significantly elevated blood-brain barrier (BBB) permeability (PS increase of ~18.6 units; β = 0.28; P = 0.003) after adjustment for age and sex. No differences were seen in cerebral blood flow, extraction fraction, or brain volume. Within the long COVID group, greater BBB leakage correlated with worse motor-function performance but did not correlate with other cognitive domains. The findings suggest that BBB disruption may be a long-lasting consequence of SARS-CoV-2 infection and could contribute to neurological sequelae of long COVID, especially motor dysfunction.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1957070638146879932",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Endothelium"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1177/00333549101250S306",
+			"Date": "2010-04-01",
+			"Text": "In the article, John M. Eyler examines biomedical science on the eve of and during the 1918-19 influenza pandemic. He shows that the scientific paradigm at the time relied heavily on bacterial theories of influenza (especially the supposed causative role of Haemophilus influenzae / Pfeiffer’s bacillus), and that numerous vaccines were developed and deployed during the pandemic, often in rushed or poorly controlled trials. Many of these vaccines yielded contradictory results, and no consensus existed on standards of efficacy. Eyler argues that the chaotic vaccine efforts and the inability to identify the correct etiologic agent (the influenza virus was unknown until 1933) triggered improvements in trial methodology and public-health practices. The 1918 pandemic thus became a watershed moment in epidemiology, microbiology, and vaccine science — not only because of its enormous mortality, but because it exposed foundational gaps in knowledge and helped shape the future of how epidemics are studied and responded to.",
+			"Twitter": "https://x.com/ClareCraigPath/status/1957384356097339751",
+			"Category": [
+				"USA",
+				"Vaccination",
+				"Review",
+				"Influenza"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fcimb.2025.1538461",
+			"Date": "2025-05-27",
+			"Text": "🐁This mouse study (K18-hACE2) inoculated males with 5×10^4 PFU SARS-CoV-2 and examined testes at 5 dpi. The team localized hACE2, spike, and nucleocapsid within Leydig cells, and found increased expression of the viral RNA sensor Rigi along with expansion/activation of testicular macrophage populations (CD68^+ “M1” and CD163^+ “M2”), higher MIF and IL-10 protein, and stronger IL-1β/IL-6/TNF-α signals. Notably, LC cytokine–enzyme colabeling (17β-HSD+IL-6) rose 1.3-fold (p=0.0001). Concurrently, LC steroidogenesis appeared impaired: Sf1 was downregulated, StAR and 17β-HSD immunoreactivity and testosterone staining decreased, while lipid-handling/biogenesis genes Dgat1, Srebp, and Scarb1 increased. Electron microscopy revealed lipid-droplet–rich Leydig cells and viral particles associated with lipid structures, supporting a model where SARS-CoV-2 hijacks steroidogenic/lipid machinery to replicate, at the expense of androgen production—aligning with reports of low testosterone/HDL in severe COVID-19.",
+			"Twitter": "https://x.com/vipintukur/status/1958721865658122740",
+			"Category": [
+				"Brazil",
+				"USA",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Macrophage",
+				"Reproductive health"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-025-63263-y",
+			"Date": "2025-08-23",
+			"Text": "In a primary-infection, pre-vaccine cohort (Hong Kong, 2020), 146 children and 85 adults with mild or asymptomatic COVID-19 were followed from 0–14 to 15–206 days post-infection. Acute seropositivity for spike IgG above the cut-off was 37.3% (children) vs 47.5% (adults), and adults had more mild (vs asymptomatic) cases (85.9% vs 56.8%; p < 0.0001). By convalescence, children—despite lower total IgG magnitudes—displayed higher avidity to whole Spike and Nucleocapsid and greater spike Fc-receptor binding (including FcγRIIIa-linked function) than adults. Adults’ responses correlated with OC43 S/S2 measures, consistent with cross-reactive recall, while children mounted de novo, targeted SARS-CoV-2 responses with stronger functional features. Net-net: kids show fewer antibodies, but “better” ones (higher avidity, stronger FcR engagement).",
+			"Twitter": "https://x.com/vipintukur/status/1959511625125507578",
+			"Category": [
+				"China",
+				"Japan",
+				"USA",
+				"Australia",
+				"Antibodies",
+				"Immune response",
+				"Kids",
+				"Mild infection",
+				"Cross-reactivity",
+				"Nucleocapsid",
+				"B cells",
+				"Natural immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S1473-3099(24)00769-2",
+			"Date": "2025-02-10",
+			"Text": "This review (May 2025; 25(5):e294–e306) argues that SARS-CoV-2 may persist for months–years in a subset of people, forming a reservoir that contributes to Long COVID. With no approved therapies and tens of millions affected, the authors urge clinical trials that directly target viral persistence using antivirals and monoclonal antibodies, potentially in combinations. They provide a practical checklist for such trials: match drug mechanism to persistence biology; stratify participants; ensure adequate treatment duration; standardize biomarkers that reflect reservoir activity; and use robust clinical endpoints, including post-hoc analyses for subgroups. Lessons from HIV/HCV reservoir studies and precision oncology can guide design and interpretation.",
+			"Twitter": "https://x.com/PutrinoLab/status/1959882110208028975",
+			"Category": [
+				"USA",
+				"Sweden",
+				"France",
+				"United Kingdom",
+				"South Africa",
+				"Belgium",
+				"Long COVID",
+				"Viral persistence",
+				"Treatment",
+				"Monoclonal antibodies",
+				"Immune response",
+				"Detection",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.08.24.25333689",
+			"Date": "2025-09-19",
+			"Text": "The study evaluated neutralizing and binding antibody responses in 56 adults following a monovalent mRNA vaccine (KP.2) against emerging SARS-CoV-2 subvariants (LP.8.1, LF.7.1, NB.1.8.1, XFG and BA.3.2). Although neutralization against the vaccine-matched KP.2 and a related JN.1 variant was decent (GMTs ~315 and ~203 respectively), neutralization of the more antigenically divergent variants dropped substantially (e.g., GMT ~60 for LP.8.1, ~29 for XFG) compared to ancestral strain (GMT ~733). Binding antibodies, however, remained high, suggesting maintained potential for protection despite reduced neutralization. Interestingly, participants with only vaccination history (no prior infection) showed broader cross-neutralization than those with hybrid immunity (infection + vaccination), possibly reflecting immune imprinting bias toward prior infecting strains. The antigenic map confirmed that the emerging variants are antigenically distant from KP.2, supporting the idea that current vaccine boosting predominantly amplifies pre-existing responses rather than adapting fully to newly drifted variants. The findings signal that updated vaccine antigens or new delivery strategies may be required to maintain protection as SARS-CoV-2 continues to evolve.",
+			"Twitter": "https://x.com/brownecfm/status/1961839511496806594",
+			"Category": [
+				"USA",
+				"Austria",
+				"Antibodies",
+				"Vaccination",
+				"Immune response",
+				"mRNA vaccine",
+				"Omicron",
+				"Hybrid immunity",
+				"Cross-reactivity",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1056/NEJMc2200133",
+			"Date": "2022-02-09",
+			"Text": "This study assessed how much protection a prior SARS-CoV-2 infection provided against symptomatic reinfection with the Omicron variant (B.1.1.529) and earlier variants in Qatar. They used a test-negative case-control design on national databases, comparing people with prior documented infection vs. no prior infection. They found that prior infection provided about 56.0% (95% CI ~50.0–60.0) protection against symptomatic Omicron reinfection, whereas protection against symptomatic reinfection with earlier variants (e.g., Alpha, Beta, Delta) was much higher (≈90 %) in earlier work.",
+			"Twitter": "https://x.com/vipintukur/status/1504811898130558979",
+			"Category": [
+				"Qatar",
+				"Natural immunity",
+				"Reinfection",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S0140-6736(22)00462-7",
+			"Date": "2022-04-02",
+			"Text": "In a large national cohort of SARS-CoV-2 cases in England between late November 2021 and early January 2022, the Omicron variant (B.1.1.529) was associated with substantially lower risks of hospital attendance (≈44% lower risk), hospital admission (≈59% lower risk) and death (≈69% lower risk) compared with the Delta variant (B.1.617.2). The magnitude of reduction differed by age, with minimal difference in children <10 years, and larger reductions in older age groups (e.g., HR ~0.25 for age 60–69). Prior infection and vaccination (particularly booster mRNA doses) further reduced the risk of severe outcomes. Importantly, the authors interpret that the observed reductions reflect both a lower intrinsic severity of Omicron (in unvaccinated individuals) and reduced vaccine effectiveness (i.e., more breakthrough infections) against Omicron compared to Delta. They emphasise that boosters maintain strong protection with breakthrough infections.",
+			"Twitter": "https://x.com/vipintukur/status/1504811898130558979",
+			"Category": [
+				"United Kingdom",
+				"Vaccination",
+				"Reinfection",
+				"Omicron",
+				"Natural immunity",
+				"mRNA vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.35772/ghm.2025.01057",
+			"Date": "2025-08-31",
+			"Text": "In this large Japanese national registry-based study of 46,291 hospitalized COVID-19 patients aged 20-89, the authors investigated the relationship between BMI and risk of severe disease or death. They found that both underweight (BMI < 18.5) and overweight/obesity (BMI ≥ 25) were associated with significantly increased risk of more intensive treatment or death, compared to a normal weight reference (BMI 20.1-24.9). Notably, the magnitude of risk was highest for the underweight during the Omicron predominance period (ORs around 2.4–3.0), indicating that lean patients may be at particular vulnerability. The findings suggest that clinical risk stratification for COVID-19 should incorporate low BMI alongside the more traditionally recognised high BMI, especially during variant waves like Omicron.",
+			"Twitter": "https://x.com/Yash25571056/status/1961937441713213934",
+			"Category": [
+				"Japan",
+				"Omicron",
+				"Susceptibility",
+				"Treatment",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s00415-025-13110-3",
+			"Date": "2025-05-06",
+			"Text": "The European Academy of Neurology’s NeuroCOVID-19 Task Force reviews evidence that COVID-19 can leave lasting CNS changes—vascular injury, microthromboses, demyelination, and microglial activation—that may initiate or accelerate neurodegeneration. Although direct CNS infection is debated (CSF RNA detected in <3% of 449 reported neuro-COVID cases), autopsy and imaging data show widespread inflammatory/vascular pathology, with reports of viral persistence for months in brain tissue. Population studies suggest elevated near-term risks of neurodegenerative diagnoses after COVID-19: in Denmark (n≈43k positives), AD risk was 3.5× at 6 months and 3.4× at 12 months; PD risk 2.4× and 2.2×, respectively; a review of >1.5 M cases found ~15% higher 12-month cognitive impairment. The authors call for long-term surveillance via registry linkages and cohort follow-up to detect potential post-COVID increases in AD/PD and related disorders.",
+			"Twitter": "https://x.com/ChristosArgyrop/status/1962140314795467146",
+			"Category": [
+				"Hungary",
+				"Italy",
+				"Austria",
+				"Georgia",
+				"Serbia",
+				"Russia",
+				"Austria",
+				"Germany",
+				"Turkey",
+				"Slovenia",
+				"Belgium",
+				"France",
+				"Brain",
+				"Long COVID",
+				"Viral persistence",
+				"Endothelium",
+				"Detection",
+				"Review",
+				"Parkinson",
+				"Aging",
+				"Nerves",
+				"Macrophage"
 			]
 		}
 	]
