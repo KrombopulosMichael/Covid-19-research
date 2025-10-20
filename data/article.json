@@ -10314,6 +10314,128 @@
 				"Nerves",
 				"Macrophage"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cid/ciaf429",
+			"Date": "2025-09-01",
+			"Text": "In a large UK retrospective cohort of around 624,000 adults with overweight or obesity who had a recent SARS-CoV-2 infection, initiation of metformin within 90 days of infection was associated with about a 36% lower risk of developing post-COVID-19 condition (PCC) at one year. This finding supports earlier clinical trial data (showing a 63% reduction when metformin was started within 3 days of diagnosis) and suggests that metformin may offer a preventive strategy for Long COVID in high-risk individuals.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1962601288576696652",
+			"Category": [
+				"United Kingdom",
+				"China",
+				"Long COVID",
+				"Treatment",
+				"Mild infection",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jacadv.2025.101873",
+			"Date": "2025-08-27",
+			"Text": "In a survey of 578 people with self-reported long-COVID, those who reported having POTS (a condition characterised by excessive heart-rate increase on standing) demonstrated substantially worse health status, more severe symptoms and more psychosocial burden than those without POTS. They were younger, reported greater financial difficulties, social isolation and suicidal ideation, and a higher prevalence of orthostatic intolerance symptoms (palpitations, tremor, exercise intolerance, cognitive complaints). The authors highlight that POTS may define a distinct and high-burden subgroup within long-COVID, suggesting the need for targeted attention and possibly autonomic-specific evaluation/treatment.",
+			"Twitter": "https://x.com/atranscendedman/status/1962870212463620357",
+			"Category": [
+				"USA",
+				"Canada",
+				"Long COVID",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/jgs.70043",
+			"Date": "2025-09-01",
+			"Text": "Using >11,000 RECOVER-Adult participants (infected: 10,211; controls: 1,189) assessed ≥135 days post-infection, the study applied a 41-symptom Long-COVID index (LCRI ≥12) to compare age groups. Odds of meeting the Long-COVID threshold rose through midlife (OR 1.40 at 40–49; 1.31 at 50–59) but fell in adults ≥70 (OR 0.68) relative to ages 18–39. Older adults also showed different symptom patterns: smaller infected–uninfected gaps for hearing loss, fatigue, pain, post-exertional malaise, sleep problems, palpitations, etc., and age-shifted clusters—anosmia/ageusia and GI+cough+palpitations were more common, while brain-fog–dominant and mixed clusters were less common.",
+			"Twitter": "https://x.com/atranscendedman/status/1962653422089273586",
+			"Category": [
+				"USA",
+				"Susceptibility",
+				"Long COVID",
+				"Aging",
+				"Self-reported",
+				"Massive study",
+				"Brain",
+				"Gastrointestinal",
+				"Lungs",
+				"Ear",
+				"Pain",
+				"Sleep",
+				"Nose",
+				"Oral"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.08.18.670908",
+			"Date": "2025-08-19",
+			"Text": "In this study of ~6-month post-infection follow-up, individuals with Long COVID (PASC) displayed markedly different immune profiles compared to convalescent individuals without PASC: they had persistently high IgG against SARS-CoV-2 Envelope and Nucleocapsid proteins, but lower IgG to Spike, with a subclass bias toward IgG1/IgG3. Concomitantly, PASC participants exhibited elevated frequencies of cT_FH and MAIT cells and increased levels of cytokines such as LIF, IL-11 and HMGB-1, as well as higher autoantibody burdens.",
+			"Twitter": "https://x.com/LongDesertTrain/status/1962980558113267713",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Antibodies",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Nucleocapsid",
+				"Viral persistence",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1071/PY25033",
+			"Date": "2025-08-25",
+			"Text": "In a survey of 121 Australian adults who had experienced confirmed Long COVID-19 infection, 86 % (104/121) reported clinically significant disability and participation limitations on the WHODAS 2.0 scale, with mean scores indicating higher disability levels than 98 % of the general population. Quality of life, measured via the SF-36, was reduced across all domains compared to norms—particularly in vitality and social functioning. The study found that worse outcomes in disability/function and quality of life were significantly associated with having more comorbidities, fewer vaccine doses, and poorer self-rated recovery.",
+			"Twitter": "https://x.com/vipintukur/status/1963246113621979138",
+			"Category": [
+				"Australia",
+				"Long COVID",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41581-025-00997-4",
+			"Date": "2025-09-04",
+			"Text": "COVID-19 increases the risk of acute kidney injury (AKI) in the acute phase and is associated with later chronic kidney disease (CKD), making CKD a plausible renal manifestation of long COVID (long-term effects persisting ≥3 months). Patients with pre-existing CKD are more susceptible to infection, severe outcomes and, potentially, long COVID. Distinct renal entities linked to COVID-19 include COVID-19–associated nephropathy (collapsing focale segmentale glomerulosclerose (FSGS)) and increased reports of vasculitis. While case reports have described new or relapsing glomerular disease after infection or vaccination, large population-based studies have not confirmed consistent causal associations for most glomerulopathies; by contrast, vaccination is safe in CKD, lowers COVID-19 risk, and is associated with reduced long-COVID risk. Mechanistically, pathways that drive AKI during acute infection (direct viral effects, immune-mediated and endothelial injury, hemodynamic stress) may also underlie chronic kidney sequelae.",
+			"Twitter": "https://x.com/markwarling3/status/1963755898863501488",
+			"Category": [
+				"Sweden",
+				"Spain",
+				"Austria",
+				"United Kingdom",
+				"India",
+				"Kidney",
+				"Long COVID",
+				"Review",
+				"Vaccination",
+				"Autoimmunity",
+				"Susceptibility",
+				"Endothelium",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.arr.2025.102865",
+			"Date": "2025-08-07",
+			"Text": "This review synthesizes evidence that long-term or latent infections alter fundamental cellular and molecular mechanisms associated with aging — for instance, by forcing mitochondria to support pathogen replication, thereby degrading cellular energy and resilience; by engaging pathways like mTOR that tie metabolism, immunity and longevity; by promoting senescent cell accumulation and chronic low-grade inflammation; and by shifting epigenetic regulation and immune cell composition in ways that mirror older physiological states. The authors assert that these pathogen-driven changes may not just accompany aging but actively accelerate it. Secondly, they discuss how this revised perspective could reshape how we model aging and design interventions: recognizing infection history, pathogen persistence and immune‐metabolic disruption as core components of aging biology. They also stress that current diagnostics are insufficient to track these microbial contributions, limiting precision medicine approaches in aging and longevity.",
+			"Twitter": "https://x.com/microbeminded2/status/1955623193739202946",
+			"Category": [
+				"USA",
+				"Review",
+				"Viral persistence",
+				"Immune response",
+				"Aging"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1128/mbio.01088-24",
+			"Date": "2024-07-02",
+			"Text": "In this study, Yu et al. demonstrate that the histamine H1 receptor (HRH1) can function as an alternative receptor for SARS-CoV-2 by directly binding the spike protein N-terminal domain, and that HRH1 also enhances hACE2-dependent viral entry by interacting with hACE2. By screening a library of 1,280 FDA-approved drugs, they found that H1 receptor antagonists inhibited viral entry in cell culture, with an average IC₅₀ of ~2.4 µM for various SARS-CoV-2 mutants. Further, using authentic virus and humanized mouse challenge models, the study supports that antihistamine drugs can reduce infection in vivo, suggesting a potentially repurposable class of therapeutics for COVID-19.",
+			"Twitter": "https://x.com/ChristosArgyrop/status/1964921015320068557",
+			"Category": [
+				"China",
+				"SARS-CoV-2 mechanics",
+				"Transmission",
+				"Treatment"
+			]
 		}
 	]
 }
