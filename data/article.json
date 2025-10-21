@@ -10777,6 +10777,53 @@
 				"Masks",
 				"Susceptibility"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12879-025-11717-5",
+			"Date": "2025-10-10",
+			"Text": "This meta-analysis covering 18 randomised trials and 186,657 participants found that the studied novel SARS-CoV-2 vaccines reduced the risk of infection by about 70.5% overall (95% CI: 53.5 %–79.7 %) and lowered relative risk by ~84% compared to placebo. Among the vaccinated group 2.8% became infected versus 3.4% in the placebo group over a median follow-up of about 99 days. The authors interpret these results as equating to protecting roughly 771 individuals out of 1,000 from SARS-CoV-2 infection in the trial settings.",
+			"Twitter": "https://x.com/vipintukur/status/1976714014567678204",
+			"Category": [
+				"Ethiopia",
+				"Vaccination",
+				"Mitigation",
+				"Immune response",
+				"Antibodies",
+				"Transmission",
+				"Detection",
+				"Natural immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fped.2025.1640747",
+			"Date": "2025-10-15",
+			"Text": "This retrospective study of 123 pediatric long-COVID patients (mean 13.1 y, 51% male) described symptom patterns and trajectories in a dedicated clinic (Aug 2021–Nov 2023). At presentation, symptoms had lasted 0–24 weeks in 56%, 25–52 weeks in 28%, and >52 weeks in 16%. The most frequent complaints were fatigue (93%), headache (70%), exercise intolerance (53%), dizziness (44%), and brain fog (41%). Females had higher odds of dizziness, brain fog, palpitations, POTS, and cardiovascular-domain symptoms. Across 74 children with follow-up, mean symptom counts fell significantly over time (−5.3 at 6 mo, −5.8 at 6–12 mo, −4.7 at 12–18 mo, −3.9 at ≥18 mo; p < 0.001), though a subset remained impaired. Among those with known vaccine status, 80% had received a primary series; vaccine status at baseline did not relate to symptom duration (p = 0.4). Of 26 vaccinated after long-COVID onset, 7/17 with documented follow-up (41%) reported subjective improvement.",
+			"Twitter": "https://x.com/Yash25571056/status/1979427171514135020",
+			"Category": [
+				"USA",
+				"Kids",
+				"Long COVID",
+				"Brain",
+				"Treatment",
+				"Sleep",
+				"Vaccination",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-23015-w",
+			"Date": "2025-10-15",
+			"Text": "In 61 adults about 8.6 months after mild COVID-19, researchers compared 31 with persistent smell loss to 30 normosmic controls using DTI MRI and olfactory testing. Whole-brain TBSS was negative, but ROI analyses found higher fractional anisotropy (FA) in the left amygdala and higher radial diffusivity (RD) in the right amygdala in the smell-loss group (FA 0.25 vs 0.24, p = 0.014; RD 7.1×10⁻⁴ vs 6.8×10⁻⁴, p = 0.03). Longer symptom duration correlated with higher mean diffusivity / axial diffusivity (MD/AD) in left amygdala and higher MD in left posterior piriform cortex. Patients with olfactory dysfunction had higher Patient Health Questionnaire 8 (PHQ-8) and General Anxiety Disorder 7 (GAD-7) scores (PHQ-8 9 vs 2; GAD-7 6 vs 1, both p < 0.001), and these scores correlated negatively with left amygdala FA, linking smell loss, amygdala microstructure, and mood/anxiety.",
+			"Twitter": "https://x.com/Yash25571056/status/1979160238923354286",
+			"Category": [
+				"Germany",
+				"Brain",
+				"Long COVID",
+				"Nose",
+				"Nerves",
+				"Mild infection",
+				"Self-reported"
+			]
 		}
 	]
 }
