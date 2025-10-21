@@ -152,10 +152,17 @@
 		{
 			"ArticleURL": "https://doi.org/10.1101/2022.04.07.487489",
 			"Date": "2022-04-07",
-			"Text": "Antibody resistance of SARS-CoV-2 Omicron BA.1, BA.1.1, BA.2 and BA.3 Sub-lineages.",
-			"Twitter": "",
+			"Text": "The Omicron variant of SARS-CoV-2 has diversified into major sub-lineages (BA.1, BA.1.1, BA.2 and BA.3), and this study directly compares their resistance to neutralising antibodies from vaccination (inactivated whole-virus) and monoclonal antibodies (mAbs). Two doses of inactivated vaccine produced very weak or undetectable neutralisation of all four sub-lineages. Booster immunisation (either homologous or heterologous) restored measurable neutralising titres, but still showed around 7- to 23-fold lower titres against Omicron sub-lineages compared to wild-type virus (for example, GMT ~537 for WT vs ~42 for BA.2 in one cohort). In parallel, evaluation of ~20 different mAbs revealed that most lost substantial neutralising activity against the Omicron sub-lineages; only a few retained broad potency (e.g., LY-CoV1404). Importantly, BA.1.1, BA.2 and BA.3 exhibited equal or even greater resistance than BA.1, suggesting that immune escape continues to evolve within the Omicron family.",
+			"Twitter": "https://x.com/vipintukur/status/1512247520109502464",
 			"Category": [
-				"Antibodies"
+				"China",
+				"Natural immunity",
+				"Monoclonal antibodies",
+				"Antibodies",
+				"Vaccination",
+				"mRNA vaccine",
+				"Omicron",
+				"Preprint"
 			]
 		},
 		{
@@ -2030,7 +2037,7 @@
 				"Brain",
 				"Mild infection",
 				"Canada",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -2295,7 +2302,7 @@
 				"Viral persistence",
 				"SARS-CoV-2 mechanics",
 				"Long COVID",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -2532,7 +2539,7 @@
 				"Liver",
 				"Lungs",
 				"Vaccination",
-				"Argentine"
+				"Argentina"
 			]
 		},
 		{
@@ -2554,7 +2561,7 @@
 				"Brain",
 				"Mild infection",
 				"Germany",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -2565,7 +2572,7 @@
 			"Category": [
 				"Long COVID",
 				"Self-reported",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -2618,7 +2625,7 @@
 				"Treatment",
 				"Preprint",
 				"UV-C",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -2629,7 +2636,7 @@
 			"Category": [
 				"Brain",
 				"SARS-CoV-2 mechanics",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -2650,7 +2657,7 @@
 			"Category": [
 				"Review",
 				"Brain",
-				"Argentine"
+				"Argentina"
 			]
 		},
 		{
@@ -2674,7 +2681,7 @@
 			"Category": [
 				"SARS-CoV-2 mechanics",
 				"Germany",
-				"United States",
+				"USA",
 				"Brain"
 			]
 		},
@@ -2697,7 +2704,7 @@
 			"Category": [
 				"Treatment",
 				"Long COVID",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -2729,8 +2736,9 @@
 			"Text": "Soluble LLT1 protein treatment of NK cells significantly reduces i) the proportion of CD161+ natural killer (NK) cells, ii) the ability of NK cells to control SARS-CoV-2 infection in A549ACE2/TMPRSS2 cells and iii) the production of granzyme B by NK cells and their cytotoxicity capacity, yet not degranulation level.",
 			"Twitter": "https://x.com/THAILANDMEDICA1/status/1667681512295378945",
 			"Category": [
+				"Poland",
 				"SARS-CoV-2 mechanics",
-				"Natural killer cells",
+				"NK cells",
 				"Immune response",
 				"Poland"
 			]
@@ -2745,7 +2753,7 @@
 				"Reinfection",
 				"Long COVID",
 				"Mild infection",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -2768,7 +2776,7 @@
 				"Brain",
 				"Newborns",
 				"Endothelium",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -2879,7 +2887,7 @@
 				"Antibodies",
 				"Reinfection",
 				"Preprint",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -2912,7 +2920,7 @@
 				"Gastrointestinal",
 				"Eye",
 				"Massive study",
-				"United States",
+				"USA",
 				"Taiwan",
 				"Autoimmunity"
 			]
@@ -3053,7 +3061,7 @@
 				"Long COVID",
 				"Nerves",
 				"Spain",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -3110,7 +3118,7 @@
 			"Twitter": "https://x.com/RadCentrism/status/1856335429668073702",
 			"Category": [
 				"Long COVID",
-				"United States",
+				"USA",
 				"Reinfection"
 			]
 		},
@@ -3169,7 +3177,7 @@
 			"Category": [
 				"Viral persistence",
 				"T cells",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -3184,7 +3192,7 @@
 				"SARS-CoV-2 mechanics",
 				"Germany",
 				"China",
-				"United States",
+				"USA",
 				"Denmark",
 				"Turkey"
 			]
@@ -3231,7 +3239,7 @@
 				"Brain",
 				"Long COVID",
 				"Argentina",
-				"United States"
+				"USA"
 			]
 		},
 		{
@@ -3809,7 +3817,7 @@
 				"Autoimmunity",
 				"Antibodies",
 				"Massive study",
-				"Korea"
+				"South Korea"
 			]
 		},
 		{
@@ -4792,7 +4800,7 @@
 			"Text": "In this 2-year follow-up of COVID-19 cases from early 2020 in Korea, over 60% of participants who completed all follow-ups continued to report at least one symptom of long COVID, most commonly fatigue, memory issues, concentration difficulties, and insomnia. Although overall quality of life improved over time, a substantial proportion still suffered from anxiety or depression even after two years post-infection. Despite high vaccine uptake after infection (most had at least two doses), neither vaccination status nor number of doses showed a statistically meaningful reduction in neuropsychiatric long COVID symptoms at 24 months.",
 			"Twitter": "https://x.com/CIDRAP/status/1744818434121036248",
 			"Category": [
-				"Korea",
+				"South Korea",
 				"Long COVID",
 				"Vaccination",
 				"Susceptibility",
@@ -5466,7 +5474,7 @@
 			"Text": "🐁Kim et al. present a xenograft model in immunodeficient mice using human Calu-3 lung cells to sustain in vivo long-term replication of SARS-CoV-2 over 30 days. Within the tumor xenografts, virus persisted, accumulated mutations (predominantly in the spike protein), and certain variants arose that showed greater replication in the Calu-3 environment without cytopathic effect. When tested in K18-ACE2 mice, the variant isolates were attenuated (less lethal) relative to the parental strain, yet induced cross-reactive neutralizing antibodies and protective immunity upon rechallenge. This model demonstrates how SARS-CoV-2 can evolve under prolonged replication pressure in a permissive tissue niche, yielding variants with altered replication–virulence trade-offs. However, because the host mice are immunodeficient and lack immunological selective pressures, and because the experiment spans only 30 days, the extent to which the mutations and dynamics recapitulate persistent infection in humans is uncertain.",
 			"Twitter": "https://x.com/ejustin46/status/1730064131598713024",
 			"Category": [
-				"Korea",
+				"South Korea",
 				"Cancer",
 				"Lungs",
 				"Viral persistence",
@@ -5522,7 +5530,7 @@
 				"United Kingdom",
 				"USA",
 				"Serbia",
-				"The Netherlands",
+				"Netherlands",
 				"Belgium",
 				"Hungary",
 				"Denmark",
@@ -5531,7 +5539,7 @@
 				"Sweden",
 				"Taiwan",
 				"Canada",
-				"Korea",
+				"South Korea",
 				"Italy",
 				"Taiwan",
 				"China",
@@ -7834,7 +7842,7 @@
 			"Text": "Preterm infants with very low birth weight (VLBW) who experienced their early development during the COVID-19 pandemic showed significantly worse outcomes in language, cognitive, and gross motor domains compared to similar infants born and assessed before the pandemic. The study of 1,683 infants found that, adjusting for confounders, the pandemic-exposed group had lower language scores at both 18–24 and 33–39 months, a mean 7-point deficit in cognitive scores at the later follow-up, and a higher rate of gross motor delay (≤ –1 SD). ",
 			"Twitter": "https://x.com/Yash25571056/status/1831895454407348338",
 			"Category": [
-				"Korea",
+				"South Korea",
 				"Newborns",
 				"Brain",
 				"Kids",
@@ -8808,7 +8816,7 @@
 			"Text": "In a cohort of 29 individuals with persistent symptoms at least four weeks after acute COVID-19, Tejerina et al. found that 45 % had detectable SARS-CoV-2 RNA in plasma and 51 % had at least one positive RT-PCR in plasma, stool, or urine. Nearly half (48 %) exhibited severely reduced functional status. Of the group, 62 % received compassionate-use antiviral therapy, and those treated showed statistically significantly better functional outcomes compared to untreated patients (p = 0.01), while overall improvement over time was also significant (p = 0.000).",
 			"Twitter": "https://x.com/LongCFoundation/status/1901358256565473378",
 			"Category": [
-				"",
+				"Spain",
 				"Long COVID",
 				"Viral persistence",
 				"Detection",
@@ -9985,7 +9993,7 @@
 				"Germany",
 				"Brain",
 				"Long COVID",
-				" Mild infection"
+				"Mild infection"
 			]
 		},
 		{
@@ -10721,6 +10729,34 @@
 				"Brain",
 				"Long COVID",
 				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/v17091170",
+			"Date": "2025-08-27",
+			"Text": "🧫The study screens anti-HIV prodrugs TDF and TAF against SARS-CoV-2 in cell culture. TDF at 50 µg/mL reduced MOI 2 infection by ~2 log₁₀ (~100% inhibition) with ≥75% viability, while TAF displayed a clear dose- and time-dependent effect—~68% inhibition at 6.25 µg/mL, approaching ~100% at 50 µg/mL, with a modeled EC₅₀ ≈ 3.61 µg/mL. Inhibition increased across 24→96 h exposures. Literature-compiled indices cited by the authors include TDF EC₅₀ ~6.5 µM and TAF EC₅₀ ~0.98 µM in related systems. The authors suggest tenofovir prodrugs could be repurposed and speculate on long-COVID relevance due to TAF’s lymphoid targeting, but acknowledge key caveats: in-vitro Vero E6 data only, uncertainty that effective µg/mL levels are clinically reachable, cell-line limitations in TAF activation, and small-n/heterogeneous protocols.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1972187335220728075",
+			"Category": [
+				"Kazakhstan",
+				"USA",
+				"Afghanistan",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1183/23120541.00767-2025",
+			"Date": "2025-09-11",
+			"Text": "In a controlled human exposure study of 12 healthy adults, the authors showed that one hour of standing within 10 m of busy traffic significantly elevated personal black-carbon exposure and led to a measurable increase in the mean surface area of particles adhered to RBCs (p<0.001). The increase was mitigated when the same exposure was undertaken while wearing an FFP2 mask (p=0.002). Electron microscopy of RBCs confirmed the presence of metal-rich nanoparticles typical of traffic emissions, and parallel in vitro and animal models demonstrated similar RBC–particle interactions and systemic transport potential. These results highlight a novel systemic pathway by which inhaled traffic-related particulate matter can hitch-hike on RBCs, offering a mechanistic link connecting inhalation of fine particles with systemic dispersion. The use of RBC particle-load as a biomarker and demonstration of mask efficacy further suggest strategies for exposure reduction.",
+			"Twitter": "https://x.com/nickelpin/status/1974744668442374602",
+			"Category": [
+				"Lungs",
+				"Endothelium",
+				"Air monitoring",
+				"Masks",
+				"Susceptibility",
+				"Massive study"
 			]
 		}
 	]
