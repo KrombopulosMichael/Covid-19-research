@@ -10436,6 +10436,292 @@
 				"Transmission",
 				"Treatment"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.10.15.25338065",
+			"Date": "2025-10-17",
+			"Text": "The authors developed a urinary peptidomic signature, PASC195, from 195 differentially expressed peptides distinguishing long-COVID cases from controls. The signature mainly reflected altered collagen I and III metabolism, as well as fragments from proteins linked to coagulation (fibrinogen α/β), inflammation (calprotectin S100A9), and endothelial integrity (PGBM). The model accurately separated PASC from controls with > 95% sensitivity and specificity. These findings support that urine-based peptide biomarkers can detect systemic changes consistent with endothelial dysfunction and pro-inflammatory, pro-fibrotic processes in long COVID. However, validation in an independent UriCoV cohort three years post-infection did not replicate the signal (p = 0.15), likely due to differences in symptom severity, recruitment criteria, and timing of sampling.",
+			"Twitter": "https://x.com/atranscendedman/status/1980219554870767818",
+			"Category": [
+				"Austria",
+				"Poland",
+				"Sweden",
+				"Spain",
+				"France",
+				"Long COVID",
+				"Viral persistence",
+				"Kidney",
+				"Endothelium",
+				"Detection",
+				"Immune response",
+				"Preprint",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pone.0237480",
+			"Date": "2021-02-17",
+			"Text": "🧫The study shows that iota-carrageenan — an already-used antiviral polymer in nasal sprays — can neutralize SARS-CoV-2 spike-pseudotyped lentivirus with an IC₅₀ around 2.6 µg/mL, and reduces replication of wild-type SARS-CoV-2 in cell culture, as evidenced by reduced viral nucleoprotein and RNA levels. In comparing to other polymers, iota-carrageenan showed better antiviral performance, supporting its further investigation. However, these results are entirely in vitro and do not demonstrate clinical efficacy in humans for SARS-CoV-2. The study is limited by cell-line models (ACE2-HEK293, Vero B4) which may not reflect human airway physiology, absence of in vivo or human trial data, and potential conflicts of interest (some authors affiliated with a company producing the polymer).",
+			"Twitter": "https://x.com/mrmickme2/status/1965030592434847996",
+			"Category": [
+				"Austria",
+				"Germany",
+				"SARS-CoV-2 mechanics",
+				"Transmission",
+				"Detection",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2025.1657082",
+			"Date": "2025-09-05",
+			"Text": "In a cohort of 32 vaccinated health-care workers (16 of whom subsequently had breakthrough SARS-CoV-2 infection), the study found that those who developed post-vaccine infection (PVI) exhibited significantly poorer spike-specific CD4⁺ T-cell responses at one month after booster compared to those who remained uninfected, despite similar antibody levels. They also displayed higher LAG-3 expression on T-cells, and a trend toward reduced central-memory CD4⁺ T-cells, suggesting a less effective cellular recall response. After natural infection, these individuals showed enhanced CD4⁺ and CD8⁺ T-cell activation and expansion of NKG2C⁺ “memory-like” NK cells, indicating that breakthrough infection can rescue and broaden cellular immunity. The findings suggest that antibody titres alone are insufficient to predict susceptibility to breakthrough infection: the quality and magnitude of the T-cell (particularly CD4⁺) and NK-cell responses matter. Future work is needed to define whether low post-booster T-cell responses can be used to identify individuals at higher risk of breakthrough infection and whether boosting or other immunomodulation can mitigate this risk.",
+			"Twitter": "https://x.com/Yash25571056/status/1965377888288735671",
+			"Category": [
+				"Italy",
+				"T cells",
+				"Immune response",
+				"Vaccination",
+				"Hybrid immunity",
+				"Reinfection",
+				"NK cells",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1161/ATVBAHA.124.321001",
+			"Date": "2024-10-09",
+			"Text": "In a cohort of over 10,000 individuals from the UK Biobank infected with COVID-19 (and more than 217,000 matched controls), the study found that COVID-19 was associated with more than a twofold increased long-term risk of major adverse cardiovascular events (MACE), and nearly a fourfold risk among those hospitalized for COVID-19. The hazard ratio for MACE in all COVID cases was 2.09 (95% CI 1.94–2.25) and 3.85 (95% CI 3.51–4.24) for hospitalized cases. Moreover, COVID-19 hospitalization in people without prior cardiovascular disease conferred a risk equivalent to the risk in people with cardiovascular disease who had not had COVID-19. Additionally, the authors identified a genetic interaction: individuals with non-O blood types who were hospitalized for COVID-19 had a significantly higher risk of thrombotic events (HR 1.65, 95% CI 1.29–2.09) compared to those with blood type O (HR 0.96, 95% CI 0.66–1.39). The authors suggest that prior severe COVID-19 should be considered akin to a cardiovascular risk factor, and that blood-type genetics may modify that risk.",
+			"Twitter": "https://x.com/danaludwig/status/1965472358137036988",
+			"Category": [
+				"USA",
+				"Endothelium",
+				"Immune response",
+				"Susceptibility",
+				"Platelets"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.21203/rs.3.rs-7291444/v1",
+			"Date": "2025-09-08",
+			"Text": "In this pre-print, the authors identify a mechanistic pathway by which the SARS-CoV-2 accessory protein Orf6 induces neuronal cell death. Through a screen of 22 viral proteins they found Orf6 to be highly cytotoxic in human cells. In human primary neurons infected with SARS-CoV-2 (multiplicity of infection (MOI) 0.1) they observed elevated phosphorylation of RIPK3 and MLKL — hallmark necroptosis markers — without significant activation of apoptosis, pyroptosis or autophagy. They further show that Orf6 physically interacts with the mitochondrial carrier homolog 1 (MTCH1) in neurons, leading to mitochondrial permeability transition pore opening, loss of membrane potential, increased mitochondrial ROS, calcium overload, and neuronal death. Knock-down of MTCH1 or pharmacological inhibition of RIPK3 effectively rescued the neurons from necroptosis, supporting a causal role of this pathway. Importantly, they also analysed human hippocampal brain sections from five COVID-19 autopsy cases and found increased pRIPK3 in MAP2+ neurons and more TUNEL+ neuronal death than in controls, corroborating the in vitro findings in human tissue. The authors propose that this mitochondrial-mediated necroptosis pathway may contribute to the neurological symptoms and cognitive impairment observed in long COVID (neuro-PASC). They suggest the Orf6–MTCH1–mitochondria–RIPK3/MLKL axis offers a potential therapeutic target (e.g., RIPK3 inhibition) to prevent or mitigate neuronal damage from SARS-CoV-2 infection.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1965675249120469026",
+			"Category": [
+				"India",
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Mitochondria"
+			]
+		},
+		{
+			"ArticleURL": "https://dx.doi.org/10.2139/ssrn.4003213",
+			"Date": "2022-01-14",
+			"Text": "This preprint describes focal β-amyloid deposits in the neocortex of relatively young (<60 y) individuals who died with severe COVID-19. After a 58-year-old index case, the authors report 10/10 additional severely ill, hospitalized COVID decedents with similar deposits detectable by β-amyloid IHC but thioflavin-S negative, consistent with diffuse/early rather than fibrillar plaques. A 39-year-old decedent with milder COVID showed only rare deposits. Because pre-COVID ARDS cases showed the same pattern, the authors propose hypoxia as a likely driver. They speculate that such deposits could play a role in COVID-related encephalopathy/“brain fog” and might be amenable to anti-amyloid treatments, but they present no interventional or clinical outcome data.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1484310989843611648",
+			"Category": [
+				"USA",
+				"Brain",
+				"Preprint",
+				"Long COVID",
+				"Nerves",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.2967/jnumed.124.269297",
+			"Date": "2025-09-11",
+			"Text": "In a cross‐sectional translocator protein (TSPO) PET imaging study, Visser et al. evaluated 47 post‐COVID patients (33 with persistent severe fatigue and concentration difficulty, 14 without) at about 2 years post‐infection, to quantify brain and whole-body inflammatory activity. They used [^18F]DPA-714 PET with arterial sampling to measure TSPO binding (a marker of microglial/astrocyte activation and macrophage presence) in both cerebral and extracerebral tissues. Although some individuals with persistent symptoms displayed elevated TSPO binding in selected regions, the overall group with complaints did not show a statistically uniform, heightened inflammatory signal compared to those without complaints. The findings indicate that persistent fatigue and concentration problems after COVID-19 are not clearly explained by a widespread, ongoing, high‐level neuroinflammatory or systemic inflammatory state (at least as captured by TSPO PET at ~2 years). The authors therefore conclude that while inflammation may contribute in some cases, it is unlikely to represent a single, dominant mechanistic driver for the majority of long-term complaint sufferers, underscoring heterogeneity in post-COVID symptomatology.",
+			"Twitter": "https://x.com/atranscendedman/status/1966621085639581976",
+			"Category": [
+				"Netherlands",
+				"France",
+				"Australia",
+				"United Kingdom",
+				"Brain",
+				"Long COVID",
+				"Detection",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/covid5090153",
+			"Date": "2025-09-10",
+			"Text": "This cross-sectional study tested 297 adults ≥36 months after COVID-19 using standardized online neuropsychological measures. Performance declined stepwise from mild → moderate → severe acute-illness groups across divided attention (F=71.0, p<0.001), working memory (H=35.6, p<0.001), executive attention (H=40.8, p<0.001), verbal fluency (H=32.9, p<0.001), recognition memory (H=9.8, p=0.007), and IQ (p=0.026). Age predicted worse outcomes; education did not mitigate deficits. Findings suggest persistent cognitive difficulties at ≥3 years post-infection, particularly in older individuals and those with more severe acute disease.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1966770223601660271",
+			"Category": [
+				"Brazil",
+				"Brain",
+				"Long COVID",
+				"Mild infection",
+				"Aging"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s10096-024-04801-2",
+			"Date": "2024-03-12",
+			"Text": "A 26-year-old previously healthy woman developed mild COVID-19 despite being double-vaccinated, then over the next five months developed persistent symptoms (axillary lymphadenopathy, night sweats, weight loss, diarrhea/vomiting, pruritus and dyspnea) suggestive of prolonged post-COVID sequelae (”long COVID”). Because of prolonged B-symptoms and imaging showing hypermetabolic axillary nodes, a lymph-node biopsy was done; subsequent 16S rRNA PCR and metagenomic sequencing identified Bartonella henselae DNA and RNA. Treatment with clarithromycin correlated with regression of lymphadenopathy on PET imaging and symptomatic improvement. The authors suggest that in patients presenting with post-COVID symptoms (especially with adenopathy) clinicians should consider alternative or co-existing diagnoses; moreover, they highlight the value of clinical metagenomics for uncovering “hidden” infections even without classic exposure history.",
+			"Twitter": "https://x.com/polybioRF/status/1966185280974590233",
+			"Category": [
+				"France",
+				"Long COVID",
+				"Viral persistence",
+				"Detection",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1136/bmj.r1733",
+			"Date": "2025-08-19",
+			"Text": "The BMJ feature (Aug 19, 2025) argues that SARS-CoV-2 likely leaves subtle but real immune “scars” in many people after recovery. Population signals include more shingles, short-term rises in bacterial infections following COVID waves, and some increases in autoimmune diagnoses—effects too persistent and widespread to be explained only by “immunity debt.” Mechanistically, studies suggest epigenetic reprogramming of bone-marrow progenitors (a trained-immunity-like state lasting ≥1 year) and persistent tissue-based T-cell activation with viral RNA in some individuals for up to 2 years—potential routes to ongoing immune dysregulation in a subset of the infected. The article stresses proportion: average effects are small but add up at scale, vaccination likely blunts risk, and practical mitigations (better indoor air, access to vaccines/antivirals, alertness for secondary infections) are sensible. It also underscores uncertainty: the evidence base is heterogeneous, many studies are observational with confounding, and robust never-infected controls are scarce—so stronger causal inferences will require large, prospective cohorts.",
+			"Twitter": "https://x.com/loscharlos/status/1967810699251552585",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Immune response",
+				"T cells",
+				"Viral persistence",
+				"Susceptibility",
+				"Vaccination",
+				"Review",
+				"Mitigation",
+				"Autoimmunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.21203/rs.3.rs-7500476/v1",
+			"Date": "2025-09-03",
+			"Text": "This small, single-site, open-label case series enrolled 24 people with Long COVID, allocating 12 to receive a continuous antiviral/anti-inflammatory regimen (valacyclovir + celecoxib) and 12 to receive the same regimen plus a 15-day course of nirmatrelvir/ritonavir (Paxlovid). The group receiving the combination including Paxlovid reported significantly greater improvement in fatigue (p < 0.0001) and a ~55% greater reduction in fatigue on a visual analogue scale compared to the regimen without Paxlovid. That group also reported sustained benefits at follow-ups up to 731 days. The authors propose that targeting both possible SARS-CoV-2 persistence and reactivation of latent herpesviruses may underlie the improved outcomes, suggesting combination antiviral/anti-inflammatory therapy as a promising avenue for Long COVID.",
+			"Twitter": "https://x.com/vipintukur/status/1967813006034886890",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Viral persistence",
+				"Treatment",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.2105/AJPH.2021.306574",
+			"Date": "2022-01-26",
+			"Text": "The authors investigated whether higher mortality in the 1918 influenza pandemic in Italy may have contributed to the later rise of fascism under Benito Mussolini. They report that the pandemic infected approximately 4.1 million Italians (out of a national population of ~36–38 million) and caused about 500 000 deaths. They performed a mixed‐methods approach: (1) quantitative cross‐city regression analysis linking local influenza mortality with subsequent vote‐shares for Mussolini’s party and fascist politics, and (2) qualitative text‐mining of Mussolini’s newspaper Il Popolo d’Italia to examine themes of grievance and radical politics. They found that regions suffering higher excess mortality during the pandemic had significantly higher levels of pro-fascist support afterwards, consistent with the idea that acute health crises may fuel radical political movements. The historical text analysis echoed themes of “lost generation, disillusionment and betrayal” in the newspaper, further supporting their interpretation of how the pandemic’s unequal impact might have contributed to polarization.",
+			"Twitter": "https://x.com/evelio_prieto/status/1960102625271263508",
+			"Category": [
+				"Spain",
+				"United Kingdom",
+				"Italy",
+				"Sketchy ethics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/cid/ciaf046",
+			"Date": "2025-02-05",
+			"Text": "This nationwide U.S. EHR-based cohort study under the NIH RECOVER program assessed long COVID incidence from 2020–2024 across more than 6 million infected patients and compared them with control groups. Depending on the definition used, 10–26 % of adults and 4 % of children met criteria for long COVID within six months, corresponding to excess rates of 5–6 % and 1.5 %, respectively. Severe acute illness, older age, female sex, and multiple comorbidities were major risk factors. Long COVID incidence peaked with the appearance of new SARS-CoV-2 variants but did not show overall decline during the Omicron period. Results were consistent across three major EHR networks (N3C, PCORnet, PEDSnet), supporting the conclusion that long COVID continues to impose a substantial burden on the healthcare system even in the post-vaccine era.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1968190962523582930",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Kids",
+				"Vaccination",
+				"Omicron",
+				"Mild infection",
+				"Treatment",
+				"Susceptibility",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.09.08.25334667",
+			"Date": "2025-09-12",
+			"Text": "In three diverse, prospective cohorts of people previously hospitalized for moderate–critical COVID-19, investigators profiled 18 circulating biomarkers and found that only CC16 robustly associated with persistent fibrotic-like lung abnormalities on CT, including in longitudinal analyses up to 3 years post-infection.  Samples for histology and single-cell RNA-seq from transbronchial biopsies (~3–4 years post-COVID) and lung explants suggested that elevated blood CC16 reflects aberrant distal-airway epithelial progenitor activity and CC16/MUC5B-linked pro-fibrotic pathways. Because these cohorts focused on patients hospitalized between March 2020 and November 2021, the findings mainly pertain to post-hospitalization survivors rather than mild community cases. The authors propose CC16 as a practical screening biomarker for COVID-related pulmonary fibrosis and its progression, warranting further validation and clinical qualification.",
+			"Twitter": "https://x.com/vipintukur/status/1968739512764219679",
+			"Category": [
+				"USA",
+				"Canada",
+				"United Kingdom",
+				"Japan",
+				"Lungs",
+				"Long COVID",
+				"Detection",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/ofid/ofaf533",
+			"Date": "2025-08-30",
+			"Text": "A meta-analysis of 429 studies involving over 2 million individuals with confirmed COVID-19 found that roughly 36% (95% CI: 33%-40%) reported one or more new or persistent symptoms lasting at least two months after infection, consistent with “long COVID”. The prevalence varied markedly by region (highest in South America at ~51%) and did not appear to diminish markedly over time — with estimates of ~35% at <1 year follow-up and ~46% at 1-2 years. The most commonly reported subtypes were respiratory symptoms and general fatigue (each ~20%), followed by psychological (~18%) and neurological (~16%) symptoms. Risk-factor analysis revealed that individuals who were unvaccinated before their infection faced about twice the odds of developing long COVID, pre-Omicron variant infections also carried elevated odds (~1.7×), and females had ~1.6× higher odds compared to males. The authors conclude that long COVID remains a significant global health challenge, highlight regional data gaps and heterogeneity, and call for better-designed longitudinal studies and standardized measurement frameworks.",
+			"Twitter": "https://x.com/CovidCaution/status/1968989251950756131",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Mild infection",
+				"Self-reported",
+				"Vaccination",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12916-025-04237-1",
+			"Date": "2025-07-01",
+			"Text": "Using GP-linked data from 212,656 adults in Southern Italy (2017–2022), the authors report that new cancer diagnoses rose from 14.3 to 23.1 per 1,000 person-years in the pandemic years vs. the pre-pandemic period (9,096 → 14,130 cases). ITS modeling found a stable pre-2020 trend, then an increase of ~8 cases/month starting January 2020, with a step-change peak in August 2021. The rise occurred in both sexes and across ages; adjusted IRR in 2022 ≈ 2.43 vs 2017, and deprivation was not associated. Across sites, all increased, with brain and skin cancers showing ~300% increases in 2022 vs 2017.",
+			"Twitter": "https://x.com/Jean__Fisch/status/1969775084081434672",
+			"Category": [
+				"USA",
+				"Italy",
+				"United Kingdom",
+				"Massive study",
+				"Cancer",
+				"Brain",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2025.33815",
+			"Date": "2025-07-15",
+			"Text": "In a large prospective US cohort of 3,525 adults (mean age ~47.6 years, ~72 % female), the study found that among those who reported smell or taste change after SARS-CoV-2 infection, 79.8 % had measurable hyposmia and 23.0 % had severe microsmia or anosmia. Importantly, among those infected who did not report any smell/taste change, 66.0 % nonetheless demonstrated hyposmia, and 8.2 % had severe dysfunction. The uninfected group averaged around the 28th percentile on smell tests, whereas infected individuals who reported change were around the 16th percentile and those infected without reporting were around the 23rd percentile, underscoring substantial under-recognised smell impairment in post-COVID patients. The authors suggest that formal olfactory testing (e.g., with the UPSIT) may be warranted in post-SARS-CoV-2 care because self-report underestimates dysfunction. They also observed a modest association between smell dysfunction and cognitive symptoms (66.8 % vs 63.5 %) among those who self-reported change, raising possibility that olfactory deficits may reflect broader neurologic sequelae.",
+			"Twitter": "https://x.com/kadamssl/status/1980067037410979884",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Nose",
+				"Mild infection",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/covid5090156",
+			"Date": "2025-09-15",
+			"Text": "This PRISMA-style systematic review aggregates evidence from 161 studies (>2 million patients) showing that COVID-19 is a multisystem disease with persistent, interlinked mechanisms: cytokine-driven inflammation, endothelial injury, and thrombo-inflammation. The authors spotlight common laboratory patterns—IL-6 > 100 pg/mL (72%), elevated endothelial markers (87%), and D-dimer > 2000 ng/mL (46%)—as proxies for these pathways. Reported organ impacts include cardiovascular injury and thromboses, neurological and cognitive sequelae, kidney impairment, liver dysfunction, and GI manifestations, extending into the post-acute phase (Long COVID).",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1970937140529029484",
+			"Category": [
+				"Uzbekistan",
+				"Brain",
+				"Long COVID",
+				"Gastrointestinal",
+				"Lungs",
+				"Endothelium",
+				"Immune response",
+				"Liver",
+				"Kidney",
+				"Review",
+				"Platelets"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.04.08.25325108",
+			"Date": "2025-04-08",
+			"Text": "This preprint reports that among 44 long-COVID patients and 14 matched controls, significant structural abnormalities were identified in brainstem and cerebellar peduncle regions. Specifically, the superior cerebellar peduncle (SCP) showed marked volume reduction (219.74 vs ~347.03 mm³), and the middle cerebellar peduncle (MCP) exhibited decreased fractional anisotropy (0.39 vs 0.45), both with p < 0.001 indicating impaired white-matter integrity and connectivity. These findings were associated with symptoms such as motor control problems, proprioceptive dysfunction and autonomic instability. The authors advance a novel “Broken Bridge Syndrome” hypothesis, suggesting that long COVID neurological symptoms may reflect a breakdown in the neural “bridge” linking brainstem and cerebellum, possibly mediated by neuroinflammation, CSF / 4th‐ventricle alterations, and auto-immune processes.",
+			"Twitter": "https://x.com/AnciraBecky/status/1972165368077496795",
+			"Category": [
+				"Germany",
+				"Poland",
+				"South Africa",
+				"United Kingdom",
+				"Brain",
+				"Long COVID",
+				"Preprint"
+			]
 		}
 	]
 }
