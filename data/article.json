@@ -501,6 +501,7 @@
 			"Text": "Each SARS-CoV-2 reinfection causes more severe disease. Compared to people who did not get reinfection, those with reinfection had 2 fold increased risk of death, 3 fold increased risk of hospitalization, 3 fold increased risk of heart problems and 3 fold increased risk of blood clotting.",
 			"Twitter": "https://x.com/zalaly/status/1590738395080163329",
 			"Category": [
+				"Heart",
 				"Reinfection",
 				"USA"
 			]
@@ -1909,11 +1910,10 @@
 			"ArticleURL": "https://doi.org/10.1038/s41380-022-01632-5",
 			"Date": "2022-05-12",
 			"Text": "In approximately one-quarter of mild-COVID-19 individuals, a specific visuoconstructive deficit was detected, which was associated with changes in molecular and structural brain imaging, and correlated with upregulation of peripheral immune markers. The findings provide evidence of neuroinflammatory burden causing cognitive deficit, in an already large and growing fraction of the world population.",
-			"Twitter": "https://x.com/quervain_de/status/1542898152805728260",
+			"Twitter": "https://x.com/_CatintheHat/status/1890694940159578120",
 			"Category": [
 				"Brazil",
 				"Brain",
-				"Motor skills",
 				"Mild infection"
 			]
 		},
@@ -2236,6 +2236,8 @@
 			"Text": "Persistent childhood viruses are found in adult tissues, including internal organs, indicating the existence of a unique microbiome in our organs- the virome. Integration of quantitative (qPCR) and qualitative (hybrid-capture sequencing) revealed the genetic make-up and unique composition of the known eukaryotic human DNA virome in nine organs (colon, liver, lung, heart, brain, kidney, skin, blood, hair) of 31 Finnish individuals. The analysis identified the DNAs of 17 species, primarily herpes-, parvo-, papilloma- and anello-viruses (>80% prevalence), typically persisting in low copies (mean 540 copies/ million cells).",
 			"Twitter": "https://x.com/awesome_viruses/status/1646860267681087490",
 			"Category": [
+				"Finland",
+				"Heart",
 				"Viral persistence"
 			]
 		},
@@ -2312,16 +2314,19 @@
 			"Twitter": "https://x.com/TactNowInfo/status/1654258237921808386",
 			"Category": [
 				"Brain",
+				"Viral persistence",
 				"SARS-CoV-2 mechanics"
 			]
 		},
 		{
 			"ArticleURL": "https://doi.org/10.1016/j.lfs.2023.121750",
 			"Date": "2023-05-02",
-			"Text": "🐁Coronavirus induces an osteoporotic phenotype in mice dependent on TNF and on macrophage/osteoclast infection.",
+			"Text": "🐁Acute infection with a β-coronavirus in humans and mice triggers changes in bone-remodelling markers and actual bone loss. In human serum, patients with acute SARS-CoV-2 infection exhibited decreased OPG and increased RANKL/OPG ratio compared with healthy controls. In vitro, macrophages and osteoclasts infected by murine coronavirus (MHV-3) showed enhanced differentiation and TNF release, while osteoblasts were unaffected. In vivo in mice, lung infection with MHV-3 led to femoral trabecular bone loss, increased osteoclast numbers at 3 dpi followed by a decline at 5 dpi, viral RNA and apoptosis in the femur, elevated TNF and RANKL/OPG ratio locally, and microCT evidence of reduced bone volume and increased bone porosity. Crucially, mice lacking the TNF-receptor p55 did not show bone resorption when infected, implicating TNF signalling as essential for this effect. The study thus suggests that acute coronavirus infection may exert deleterious effects on skeletal health via TNF-dependent activation of osteoclasts, raising concerns about bone loss even in non-fatal infection scenarios.",
 			"Twitter": "https://x.com/ahandvanish/status/1654588956082618370",
 			"Category": [
-				"Osteoporosis"
+				"Brazil",
+				"Bone",
+				"Viral persistence"
 			]
 		},
 		{
@@ -3095,6 +3100,7 @@
 			"Text": "The risk of an arterial thrombotic event, e.g. heart attack or stroke, on day zero of COVID infection was; 73x higher for vaccinated people, and 255x higher for unvaccinated.",
 			"Twitter": "https://x.com/BlakeMMurdoch/status/1852368534829212063",
 			"Category": [
+				"Heart",
 				"Massive study",
 				"United Kingdom",
 				"Myocarditis"
@@ -3418,7 +3424,6 @@
 			"Twitter": "https://x.com/NIHAging/status/1695067301391810784",
 			"Category": [
 				"Viral persistence",
-				"Tongue",
 				"Oral",
 				"SARS-CoV-2 mechanics",
 				"USA"
@@ -3430,6 +3435,7 @@
 			"Text": "Over two years, most of the 341 people who developed long COVID in a cohort of 548 COVID-19 survivors did not fully recover: only ~8% recovered in the first 24 months. Risk of developing long COVID was higher in females, those with lower education, and those who experienced symptoms like fatigue, headache, tachycardia, respiratory issues, or neurocognitive complaints during acute infection. Certain factors (ICU stay, smell/taste loss, cardiovascular problems) increased odds of recovery, while muscle pain, attention impairment, and breathing or heart rate problems reduced it. Long COVID is not uniform but clusters into subtypes: patients in the “less complex” fatigue-dominated cluster had much better recovery odds than those with more symptoms.",
 			"Twitter": "https://x.com/loscharlos/status/1699115262543638662",
 			"Category": [
+				"Heart",
 				"Spain",
 				"Long COVID",
 				"USA"
@@ -3557,6 +3563,7 @@
 			"Text": "In a group of patients evaluated on average 5.5 months after SARS-CoV-2 infection, researchers found biopsy-proven chronic myocarditis in the heart tissue, including persistent viral RNA (virus presence), ongoing inflammation, and elevated levels of anti-heart autoantibodies. Endomyocardial biopsies confirmed inflammation and viral persistence well beyond the acute phase, even in patients without prior cardiac disease.",
 			"Twitter": "https://x.com/Aguirre1Gustavo/status/1607764205016317955",
 			"Category": [
+				"Heart",
 				"Myocarditis",
 				"Viral persistence",
 				"Long COVID",
@@ -3621,9 +3628,10 @@
 			"Text": "About five months after hospitalisation for moderate to severe COVID-19, a majority (≈61%) of patients exhibit MRI evidence of abnormalities in at least two organs (lung, brain, kidney) compared to non-COVID controls (≈27%). The most notable findings include parenchymal lung damage, white matter lesions and regional brain volume loss, and kidney changes such as altered MRI T1 and impaired corticomedullary differentiation. Heart and liver imaging did not show substantially increased abnormalities in COVID versus control groups. Patients more likely to have multiorgan MRI abnormalities tended to be older, with more comorbidities, and had more severe acute disease (e.g., elevated CRP).",
 			"Twitter": "https://x.com/CoronaHeadsUp/status/1705942075563270626",
 			"Category": [
+				"Heart",
 				"Brain",
 				"Lungs",
-				"Kidneys",
+				"Kidney",
 				"Long COVID",
 				"United Kingdom"
 			]
@@ -3657,6 +3665,7 @@
 			"Text": "This autopsy study created specific PCR tests to track where COVID-19 mRNA vaccines go in the body and for how long after injection. In people who died of other causes, vaccine mRNA was routinely detectable for up to 30 days in several tissues. In a subset, myocardial tissue also contained vaccine mRNA during that window; these samples more often showed healing injury and more macrophages than hearts without detectable vaccine mRNA.",
 			"Twitter": "https://x.com/Yash25571056/status/1707249627094028676",
 			"Category": [
+				"Heart",
 				"Macrophage",
 				"mRNA vaccine",
 				"Vaccination",
@@ -3768,6 +3777,7 @@
 			"Text": "A pilot study in Central India compared young athletes aged 20–30 who had recovered from COVID-19 with those never infected. The post-COVID group had significantly lower VO₂ max and higher resting heart and respiratory rates, indicating reduced cardiorespiratory fitness despite clinical recovery.",
 			"Twitter": "https://x.com/outbreakupdates/status/1709870194514866480",
 			"Category": [
+				"Heart",
 				"India",
 				"Lungs",
 				"Muscle",
@@ -4476,6 +4486,7 @@
 			"Text": "🧫Murata et al. developed a 3D human cardiac microtissue (human induced pluripotent stem cell-derived) platform to model persistent SARS-CoV-2 infection, finding that mild infection can persist for at least a month with minimal immediate functional impairment. Under simulated ischemic (hypoxic) stress, however, the tissues show viral reactivation, upregulation of ACE2 and spike protein, functional decline, and vascular disruption. They also measured inflammatory cytokines (IL-6, TNF-α, IL-1β) and found elevation in the culture supernatants after hypoxia/reperfusion stress. Their findings support a scenario where latent or chronic SARS-CoV-2 in the heart might act as a “time bomb,” triggering overt cardiac injury under additional stress.",
 			"Twitter": "https://x.com/Aguirre1Gustavo/status/1738520641316233398",
 			"Category": [
+				"Heart",
 				"Viral persistence",
 				"Myocarditis",
 				"Endothelium",
@@ -4491,6 +4502,7 @@
 			"Text": "Hikmet et al. mapped where the human ACE2 protein is present across a wide range of tissues and cell types, combining immunohistochemistry and transcriptomic data. They found that ACE2 is abundantly expressed in non-respiratory tissues (intestine, kidney, heart, reproductive tissues, etc.), while in the respiratory tract the expression is low or limited to few cells in some individuals. These findings suggest that while ACE2 is likely to mediate viral entry, the low abundance in lung/airway tissues might mean other factors (co-receptors, or small specialized cell subsets) are important for SARS-CoV-2 infection of the respiratory tract.",
 			"Twitter": "https://x.com/C_A_G0101/status/1738623760255639838",
 			"Category": [
+				"Heart",
 				"Sweden",
 				"SARS-CoV-2 mechanics",
 				"Susceptibility",
@@ -5201,6 +5213,7 @@
 			"Text": "Long COVID may include a significant autonomic dysfunction component, resulting in symptoms of orthostatic intolerance (such as dizziness, palpitations, fatigue) and impaired regulation of blood pressure and heart rate. Dani et al. outline the rationale that SARS-CoV-2 or the consequent immune response might damage autonomic neural circuits, endothelial support, or reflex arcs, giving rise to a dysregulated autonomic state. They argue that clinicians should recognize and evaluate for autonomic dysfunction in post-COVID patients, and provide a framework of supportive treatments (e.g. increased fluids/salt, compression, graded activity) while noting that stronger evidence is needed.",
 			"Twitter": "https://x.com/Sunny_Rae1/status/1750116282601529464",
 			"Category": [
+				"Heart",
 				"United Kingdom",
 				"Long COVID",
 				"Review",
@@ -5663,7 +5676,6 @@
 				"USA",
 				"Lungs",
 				"Long COVID",
-				"Respiratory disease",
 				"SARS-CoV-2 mechanics",
 				"Viral persistence",
 				"Vaccination",
@@ -6010,6 +6022,7 @@
 			"Text": "In a pediatric case-control study (56 long-COVID patients vs 27 controls; mean ages ~10 y), 24-hour Holter analyses found significant heart-rate-variability (HRV) shifts in the long-COVID group: lower r-MSSD and higher VLF, LF, and HF power. Conventional echocardiography was normal in both groups. These findings suggest a cardiac autonomic imbalance—with relative parasympathetic predominance—as a physiologic correlate of long-COVID symptoms in youth.",
 			"Twitter": "https://x.com/outbreakupdates/status/1765546935518113945",
 			"Category": [
+				"Heart",
 				"Italy",
 				"Long COVID",
 				"Kids",
@@ -6863,6 +6876,7 @@
 			"Text": "This study tests whether IgG from Long COVID patients can transfer symptoms to mice. The authors collected IgG from 34 Long COVID individuals (none hospitalized acutely, sampled ≥90 days post-infection), stratified them into three biomarker-based subgroups (LC1, LC2, LC3), and injected pooled IgG into mice (260 mg/kg). Behavioral assays over 15 days revealed that mice receiving IgG from LC1 or LC3 developed persistent mechanical and thermal hypersensitivity, whereas mice receiving control donor IgG regained normal thermal sensitivity within 2–3 days. One subgroup (LC2) IgG did not provoke hypersensitivity but reduced locomotion transiently. Human IgG was detectable in multiple mouse tissues (spinal cord dorsal horns, DRG, muscle, heart) in all groups without clear intensity differences. Taken together, the results suggest that in some patients, IgG may be a causal (or contributory) mediator of sensory abnormalities in Long COVID, supporting an autoimmune hypothesis.",
 			"Twitter": "https://x.com/DrDenDunnen/status/1796901736151392282",
 			"Category": [
+				"Heart",
 				"Long COVID",
 				"Autoimmunity",
 				"Antibodies",
@@ -6887,8 +6901,7 @@
 				"T cells",
 				"Antibodies",
 				"Treatment",
-				"Detection",
-				"Inflammation"
+				"Detection"
 			]
 		},
 		{
@@ -6985,6 +6998,7 @@
 			"Text": "Across human nasopharyngeal swabs, human autopsy tissues, and two animal models (hamster and mouse), the authors show that SARS-CoV-2 disrupts mitochondrial biology in a stereotyped way. In nasopharyngeal samples, as viral titers fall, the virus is linked to suppression of nuclear-encoded OXPHOS genes, induction of miR-2392, activation of HIF-1α and glycolytic programs, and engagement of host stress/immune pathways—consistent with a metabolic shift away from oxidative phosphorylation. In autopsy tissues where virus was no longer detectable, mitochondrial transcription had recovered in lung, but remained suppressed in heart (and, to a lesser extent, kidney and liver), while mtDNA transcription and immune defense signatures were increased—suggesting organ-specific persistence of mitochondrial dysregulation after viral clearance. In hamsters, during early infection (peak lung viral load), lung mitochondrial transcripts were minimally perturbed, but were down-regulated in cerebellum and up-regulated in striatum despite no detectable brain virus, indicating a systemic signal impacting the CNS. In mice, mid-phase infection showed partial recovery of lung mitochondrial transcription. Collectively, the data support a model in which an early systemic host response is followed by viral suppression of mitochondrial gene transcription and a glycolytic shift, with tissue-specific recovery or persistence thereafter.",
 			"Twitter": "https://x.com/Dave_it_up/status/1801482002404630740",
 			"Category": [
+				"Heart",
 				"USA",
 				"Brazil",
 				"Denmark",
@@ -7107,15 +7121,13 @@
 			"Twitter": "https://x.com/Yash25571056/status/1806831384214012060",
 			"Category": [
 				"Germany",
-				[
-					"Antibodies",
-					"Vaccination",
-					"T cells",
-					"Reinfection",
-					"Omicron",
-					"Natural immunity",
-					"Hybrid immunity"
-				]
+				"Antibodies",
+				"Vaccination",
+				"T cells",
+				"Reinfection",
+				"Omicron",
+				"Natural immunity",
+				"Hybrid immunity"
 			]
 		},
 		{
@@ -7422,6 +7434,7 @@
 			"Text": "🐁his study compares Delta, Omicron BA.1, and BA.2 in human iPSC-derived cardiomyocytes and in hamsters. BA.2 infected the highest fraction of cardiomyocytes (55.7% vs 30.4% BA.1 vs 8.3% Delta at 24 hpi) and reduced cell numbers by ~37.5% at 48 hpi. In hamsters, cardiomyocyte necrosis occurred in 6/6 BA.2 vs 2/6 Delta at 2 dpi, with higher pathology scores (necrosis, immune infiltration, congestion, edema) for BA.2. BA.2-induced repression of mitochondrial/contractile genes and ion-handling genes (e.g., SDHA, MYL2, MYH7, TNNI3, SCN5A, KCNJ2, CACNA1C, ATP2A2) suggested impaired cardiac energetics and electrophysiology, and some changes persisted to 7 dpi after viral clearance.Mechanistically, BA.2 exploits TMPRSS2-independent endocytosis, matching the lack of TMPRSS2 in cardiomyocytes. Notably, BA.2 did not cause worse lung disease than Delta (similar or milder pathology with lower lung titers), implying its cardiac pathogenicity is not secondary to respiratory severity. Overall, BA.2—despite milder airway disease—directly damages the heart in vitro and in vivo.",
 			"Twitter": "https://x.com/atranscendedman/status/1819762571827876131",
 			"Category": [
+				"Heart",
 				"China",
 				"Lungs",
 				"Endothelium",
@@ -8042,7 +8055,6 @@
 				"Spain",
 				"Muscle",
 				"Long COVID",
-				"Metabolism",
 				"Mitochondria"
 			]
 		},
@@ -8237,6 +8249,7 @@
 			"Text": "The study examined 71 organ samples from 15 autopsies (non-immunocompromised) and found widespread extra-pulmonary SARS-CoV-2 RNA—including lung, intestine, heart, kidney, and liver—in most organs of most cases. Sequencing revealed compartmentalized intra-host diversity, with ≤10 intra-host single-nucleotide variants (iSNVs) per lung sample but ~11–45 iSNVs per case when considering multiple organs, consistent with organ-specific evolution and seeding.",
 			"Twitter": "https://x.com/inkblue01/status/1867340798083154115",
 			"Category": [
+				"Heart",
 				"Argentina",
 				"Viral persistence",
 				"SARS-CoV-2 mechanics",
@@ -8688,6 +8701,7 @@
 			"Text": "In this prospective, cross-sectional study of 27 children/adolescents with post-COVID-19 condition (PCC) and 27 matched healthy controls, the authors used free-breathing phase-resolved functional lung MRI (PREFUL MRI) to detect subtle lung functional abnormalities otherwise not evident. They found that PCC participants had significantly lower pulmonary perfusion (median 49 vs 78 mL/min per 100 mL; P < .001) and slightly lower regional ventilation (P = .047). In symptomatic PCC patients, metrics such as flow-volume loop correlation (FVL-CM) were reduced, and ventilation and perfusion defect percentages were higher than in controls. Moreover, in the PCC group, greater lung perfusion correlated with worse fatigue (ρ = 0.48, P = .009) and higher ventilation–perfusion mismatch correlated with higher heart rate (ρ = 0.44, P = .02). These findings support a distinct “lung perfusion phenotype” in pediatric long COVID, potentially contributing to symptoms.",
 			"Twitter": "https://x.com/vipintukur/status/1895135045150724283",
 			"Category": [
+				"Heart",
 				"Germany",
 				"Lungs",
 				"Long COVID",
@@ -8928,6 +8942,7 @@
 			"Text": "This study of 465,717 children and adolescents (<21 years, mean age ~8.2 years, 52 % male) from U.S. pediatric EHRs found that among 58,417 individuals who had a second SARS-CoV-2 infection (reinfection, ≥ 60 days after the first) during the Omicron era, the risk of being diagnosed with PASC (long COVID) was more than doubled compared to the first infection (RR 2.08; 95% CI 1.68–2.59). Reinfection was also linked to significantly increased risks of many specific conditions, including myocarditis (RR 3.60), taste or smell disturbances (RR 2.83), thromboembolism (RR 2.28), heart disease, kidney injury, abnormal liver enzymes, fatigue/malaise, cognitive dysfunction, POTS/dysautonomia, respiratory symptoms, and musculoskeletal pain, among others.",
 			"Twitter": "https://x.com/ejustin46/status/1906722890201894913",
 			"Category": [
+				"Heart",
 				"USA",
 				"Preprint",
 				"Long COVID",
@@ -9030,6 +9045,7 @@
 			"Text": "In a RECOVER EHR cohort of 1.21 million children/adolescents (<21 y) from 19 U.S. institutions, those with documented SARS-CoV-2 infection (n=297,920) had higher risks of cardiovascular outcomes 28–179 days post-infection versus controls (n=915,402). Composite “any cardiovascular outcome” risk was RR 1.63 in both CHD and non-CHD strata. The largest relative increases were for inflammatory heart disease (myocarditis/pericarditis: RR 2.92 non-CHD), with notable elevations across arrhythmias (e.g., atrial fibrillation in CHD RR 2.64), heart failure/cardiomyopathy (≈RR 1.5–1.8), thrombotic events (≈RR 1.26–1.42), and symptoms such as chest pain and palpitations (≈RR 1.7–2.1). Absolute risks were modest but non-trivial; for example, in non-CHD, chest pain was 1.23% vs 0.61% in controls. Effects were broadly consistent across age, sex, race/ethnicity, obesity, acute severity, and variant periods (including Omicron).",
 			"Twitter": "https://x.com/Antonio_Caramia/status/1911200578987778401",
 			"Category": [
+				"Heart",
 				"USA",
 				"Kids",
 				"Long COVID",
@@ -9310,6 +9326,7 @@
 			"Text": "This study followed 18 long COVID patients and 19 matched controls approximately 2 years after acute COVID-19 to assess persistent cardiovascular, autonomic, and vascular abnormalities. The long COVID group showed elevated muscle sympathetic nerve activity, increased aortic stiffness (via carotid–femoral pulse wave velocity), higher resting heart rate, and impaired endothelial function (lower flow-mediated dilation), as well as subtle cardiac dysfunction (lower ejection fraction and global strain, altered E/A ratio) and lower aerobic exercise capacity (reduced peak VO₂). Biomarker analysis revealed higher endothelial cell-derived extracellular vesicles and oxidative stress (protein carbonyls) and lower antioxidant SOD activity, while Ang II did not differ.",
 			"Twitter": "https://x.com/vipintukur/status/1924672292149461155",
 			"Category": [
+				"Heart",
 				"Brazil",
 				"USA",
 				"Long COVID",
@@ -9383,7 +9400,7 @@
 			"Category": [
 				"USA",
 				"Kidney",
-				"Children",
+				"Kids",
 				"Long COVID"
 			]
 		},
@@ -9573,6 +9590,7 @@
 			"Text": "In severe COVID-19, the study finds that tiny blood vessels are often blocked not by classic clots, but by sticky layers of membranes from burst red blood cells. These layers form where endothelial cells die by necroptosis (MLKL-dependent), and complement helps drive the RBC rupture. The authors observed this mechanism across multiple human organs in COVID-19 and replicated it in mouse ischaemia-reperfusion and SARS-CoV-2 infection models—watching the “endo-seal” form in real time. When modest, the seal prevents bleeding; when excessive, it aggregates RBCs and occludes microvessels, explaining COVID-19 microangiopathy. The human set included 8 autopsies sampling 5 organs each, with post-mortem delays 12–48 h (one 216 h case excluded from injury metrics). Kidney, liver, and heart showed dominant RBC-membrane–driven obstruction in COVID-19, lungs did not. Endothelial Mlkl deletion in mice reduced haemolysis, obstruction, and tissue injury, pointing to necroptosis/complement as therapeutic targets—beyond standard anticoagulation, which targets platelets/fibrin that were not central here.",
 			"Twitter": "https://x.com/vipintukur/status/1932001100946661562",
 			"Category": [
+				"Heart",
 				"USA",
 				"Australia",
 				"Endothelium",
@@ -9666,6 +9684,7 @@
 			"Text": "Thomas et al. conducted a two-day submaximal CPET study in 68 people with long COVID (mean age 50 y, 68% female) to investigate whether physiological deterioration could be demonstrated after repeated exertion (a potential model for post-exertional symptom exacerbation). They observed a statistically significant decline between Day 1 and Day 2 in VO₂ at the ventilatory threshold (0.73 → 0.68 L/min), work rate at VT₁ (28 → 24 W), and oxygen pulse (8.2 → 7.5 mL/beat), as well as reduced end-tidal CO₂, suggesting reduced cardiopulmonary performance or oxygen delivery/utilization 24 h later. Notably, half the participants failed to reach 85% of age-predicted maximum heart rate, and logistic regression showed that younger age and a longer time since acute COVID predicted better submaximal exercise attainment.",
 			"Twitter": "https://x.com/Aguirre1Gustavo/status/1934780737053487453",
 			"Category": [
+				"Heart",
 				"United Kingdom",
 				"USA",
 				"India",
@@ -9903,7 +9922,6 @@
 				"South Korea",
 				"Liver",
 				"Immune response",
-				"Metabolism",
 				"Long COVID"
 			]
 		},
@@ -10343,6 +10361,7 @@
 			"Text": "In a survey of 578 people with self-reported long-COVID, those who reported having POTS (a condition characterised by excessive heart-rate increase on standing) demonstrated substantially worse health status, more severe symptoms and more psychosocial burden than those without POTS. They were younger, reported greater financial difficulties, social isolation and suicidal ideation, and a higher prevalence of orthostatic intolerance symptoms (palpitations, tremor, exercise intolerance, cognitive complaints). The authors highlight that POTS may define a distinct and high-burden subgroup within long-COVID, suggesting the need for targeted attention and possibly autonomic-specific evaluation/treatment.",
 			"Twitter": "https://x.com/atranscendedman/status/1962870212463620357",
 			"Category": [
+				"Heart",
 				"USA",
 				"Canada",
 				"Long COVID",
@@ -10755,8 +10774,7 @@
 				"Endothelium",
 				"Air monitoring",
 				"Masks",
-				"Susceptibility",
-				"Massive study"
+				"Susceptibility"
 			]
 		}
 	]
