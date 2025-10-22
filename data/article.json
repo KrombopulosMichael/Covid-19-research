@@ -10824,6 +10824,25 @@
 				"Mild infection",
 				"Self-reported"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.21203/rs.3.rs-7541120/v1",
+			"Date": "2025-09-09",
+			"Text": "The study reveals that small airway dysfunction is strikingly prevalent among symptomatic long COVID patients even when asthma is absent. Using oscillometry, three-quarters of participants showed abnormal peripheral airway mechanics, correlating with older age, higher BMI, and cardiovascular risk factors. Standard spirometry often appeared normal, underscoring that conventional tests may miss clinically relevant airway changes contributing to dyspnoea and fatigue. Treatment with inhaled corticosteroids combined with long-acting bronchodilators led to marked and statistically significant improvements in both symptoms and airway resistance indices across 18 months. Among 79 SAD patients treated with ICS/LABA, respiratory resistance and reactance improved significantly (R5 p = 0.002; AX p = 0.019; X5 p = 0.040). Clinically, dyspnoea fell from 83.5 % to 17.7 %, fatigue 96.2 % → 15.2 %, and cough 43 % → 11.4 % over 18 months.",
+			"Twitter": "https://x.com/atranscendedman/status/1980766397602099692",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Lungs",
+				"Treatment",
+				"Viral persistence",
+				"Immune response",
+				"Preprint",
+				"Detection",
+				"Mild infection",
+				"Fat",
+				"Sleep"
+			]
 		}
 	]
 }
