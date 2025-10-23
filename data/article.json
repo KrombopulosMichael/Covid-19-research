@@ -10843,6 +10843,24 @@
 				"Fat",
 				"Sleep"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-20851-8",
+			"Date": "2025-10-22",
+			"Text": "🧫In primary human astrocytes infected in vitro with SARS-CoV-2 Delta or Omicron (MOI 0.2), 3′ RNA-seq revealed robust host responses: 346 DEGs for Omicron and 341 for Delta, with 215 shared and many variant-specific changes. Pathways involved neuronal signaling, metabolism, viral sensing, and cytokine programs; qRT-PCR validation showed strong concordance (r≈0.89). BBB/glia-limitans–related genes shifted in ways that could affect barrier function (e.g., cingulin +1.50 with Omicron; occludin −0.56 in Delta vs +0.39 in Omicron; endothelin-1 up), while TLR2 signaling was induced (log2FC ~0.99 with Omicron). Neurotransmission-linked receptors (e.g., P2RX5) and multiple non-coding RNAs were also altered. The authors argue that astrocyte infection can perturb neurovascular and neuronal homeostasis, offering mechanisms for acute and persistent COVID-19 neurological symptoms.",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1980984520859119872",
+			"Category": [
+				"Slovakia",
+				"Italy",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Endothelium",
+				"Immune response",
+				"Interferon",
+				"Omicron",
+				"Nerves"
+			]
 		}
 	]
 }
