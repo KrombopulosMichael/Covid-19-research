@@ -127,7 +127,13 @@
 			"Text": "According to a meta-analysis of 81 studies 32% of patients have fatigue at 12 weeks, 31% at 6+ months, 22% have cognitive impairment at 12 weeks, 21% at 6+ months.",
 			"Twitter": "https://x.com/ahandvanish/status/1478525881475907587",
 			"Category": [
-				"Long COVID"
+				"Canada",
+				"China",
+				"Singapore",
+				"Denmark",
+				"USA",
+				"Long COVID",
+				"Brain"
 			]
 		},
 		{
@@ -190,6 +196,8 @@
 			"Text": "Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection.",
 			"Twitter": "https://x.com/Marc_Veld/status/1481686620097196035",
 			"Category": [
+				"Australia",
+				"USA",
 				"Long COVID",
 				"Immune response",
 				"Mild infection"
@@ -776,6 +784,7 @@
 			"Text": "🐁Spike protein infusion into mouse brain induces late cognitive dysfunction. Spike protein induces late hippocampal microgliosis and synapse loss. Blockage of TLR4 renders mice resistant to Spike-induced cognitive dysfunction. TLR4-2604G>A GG genotype (rs10759931) was related to poor cognitive outcomes in COVID-19 patients.",
 			"Twitter": "https://x.com/CoronaHeadsUp/status/1627395499941675009",
 			"Category": [
+				"Brazil",
 				"Susceptibility",
 				"Brain"
 			]
@@ -794,10 +803,15 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41418-022-00936-x",
 			"Date": "2022-01-22",
-			"Text": "T cell apoptosis characterizes severe Covid-19 disease.",
+			"Text": "In 41 hospitalized COVID-19 patients (11 ICU), the authors show that T-cell apoptosis—not pyroptosis/necroptosis—characterizes severe disease. ICU patients had markedly lower CD4 (501 vs 1114/mm³) and CD8 (232 vs 465/mm³) counts than healthy donors, with increased Fas/CD95 expression, elevated plasma soluble FasL (621 vs 206 pg/mL), and higher caspase-1/3 activity (e.g., ICU CD8 caspase-1 positivity ~51%). A severity biomarker quartet (CXCL10, IL-1Ra, HGF, sCD14) separated ICU from healthy donors with AUC 0.98. Ex vivo, the pan-caspase inhibitor Q-VD-OPH reduced active caspase-3 (~60% CD4; ~48% CD8) and apoptosis (>52% CD4; >24% CD8) and boosted Th1 gene expression (IFNG, TNF), while pyroptosis/necroptosis inhibitors had little effect—supporting apoptosis as the dominant mechanism. The data suggest that targeting caspases might help preserve antiviral T-cell immunity in severe COVID-19, but clinical efficacy remains untested.",
 			"Twitter": "https://x.com/fitterhappierAJ/status/1504610546884268039",
 			"Category": [
+				"France",
+				"Portugal",
+				"Canada",
 				"T cells",
+				"Treatment",
+				"Interferon",
 				"Immune response"
 			]
 		},
@@ -1713,6 +1727,8 @@
 			"Text": "Among 236 379 patients diagnosed with COVID-19, the estimated incidence of a neurological or psychiatric diagnosis in the following 6 months was 33.62% (95% CI 33.17–34.07), with 12.84% (12.36–13.33) receiving their first such diagnosis. For patients who had been admitted to an intensive therapy unit, the estimated incidence of a diagnosis was 46.42% (44.78–48.09) and for a first diagnosis was 25.79% (23.50–28.25).",
 			"Twitter": "https://x.com/SimonChapman6/status/1475175724235456515",
 			"Category": [
+				"United Kingdom",
+				"USA",
 				"Brain",
 				"Long COVID",
 				"Massive study"
@@ -2085,14 +2101,20 @@
 		{
 			"ArticleURL": "https://doi.org/10.1101/2023.04.04.535604",
 			"Date": "2023-04-05",
-			"Text": "In mouse models and human post-mortem tissues, spike protein occurs in the skull marrow, brain meninges, and brain parenchyma. The injection of the spike protein alone caused cell death in the brain, highlighting a direct effect on brain tissue. Furthermore, the presence of spike protein was observed in the skull of the deceased long after their COVID-19 infection, suggesting that the spike’s persistence may contribute to long-term neurological symptoms. The spike protein was associated with neutrophil-related pathways and dysregulation of the proteins involved in the PI3K-AKT as well as complement and coagulation pathway.  ",
+			"Text": "The authors of this preprint report that SARS-CoV-2 Spike (S1) protein accumulates in skull marrow, meninges, and brain parenchyma in both a mouse model (via injected fluorescent S1) and in human post‐mortem samples from COVID-19 patients. In mice, exogenous S1 induced changes in the brain proteome and signs of parenchymal cell death. In human brain cortex samples (8 COVID vs 11 controls), proteomic analysis revealed 76 proteins differentially expressed (49 up, 27 down) and enrichment in immune, complement/coagulation, and neutrophil/NETs pathways, implicating local inflammatory/vascular processes.",
 			"Twitter": "https://x.com/erturklab/status/1643902019088908289",
 			"Category": [
-				"Viral persistence",
 				"Brain",
 				"SARS-CoV-2 mechanics",
-				"Germany",
-				"Denmark"
+				"Long COVID",
+				"Viral persistence",
+				"Immune response",
+				"Endothelium",
+				"Neutrophils",
+				"Preprint",
+				"Detection",
+				"Interferon",
+				"Platelets"
 			]
 		},
 		{
@@ -2398,6 +2420,7 @@
 			"Text": "This article, outlines the distinctions between neuroinvasiveness, neurotropism, and neurovirulence. It discusses the current knowledge of these distinct features underlying the pathogenesis of SARS-CoV-2-associated neurological complications. Lastly, it briefly discusses the advantages and limitations of different experimental models, and how these approaches can further be leveraged to advance the field.",
 			"Twitter": "https://x.com/CellPressNews/status/1656757316782288900",
 			"Category": [
+				"Netherlands",
 				"Review",
 				"Brain"
 			]
@@ -3072,14 +3095,20 @@
 		{
 			"ArticleURL": "https://doi.org/10.1038/s41467-024-47720-8",
 			"Date": "2024-04-17",
-			"Text": "Improvement of immune dysregulation and health-related quality of life in individuals with long COVID at 24-months following SARS-CoV-2 infection.",
-			"Twitter": "https://x.com/ChristosArgyrop/status/1696606403417309621",
+			"Text": "Among largely mild–moderate, community-managed cases from 2020, immune abnormalities seen in long COVID through 8 months mostly converged to controls by 24 months, including B-cell measures, CD4⁺ activation markers, and global immune-cell composition. CD8⁺ T-cell reactivity to spike/nucleocapsid remained modestly higher at 24 months, and a subset of LC participants showed low-level type I/II interferons (IFN-β, IFN-γ), likely influenced by reinfection and vaccination-era exposures. Clinically, self-reported QoL improved in most LC (62%) by two years, though a meaningful minority (38%) still felt in “poor health.” A small biomarker panel—PTX3, CRP, platelets—best correlated with QoL improvement, hinting at an immuno-vascular recovery axis. Overall, the data support gradual immunologic normalization over two years for many with LC from early-pandemic, unvaccinated infections, while acknowledging persistent symptoms for some.",
+			"Twitter": "https://x.com/atranscendedman/status/1780711486501122166",
 			"Category": [
+				"Vaccination",
+				"Mild infection",
 				"Long COVID",
+				"Interferon",
 				"Immune response",
 				"Reinfection",
+				"B cells",
 				"T cells",
-				"Australia"
+				"Platelets",
+				"Australia",
+				"Self-reported"
 			]
 		},
 		{
@@ -8014,25 +8043,6 @@
 			]
 		},
 		{
-			"ArticleURL": "https://doi.org/10.1101/2023.04.04.535604",
-			"Date": "2023-04-05",
-			"Text": "The authors of this preprint report that SARS-CoV-2 Spike (S1) protein accumulates in skull marrow, meninges, and brain parenchyma in both a mouse model (via injected fluorescent S1) and in human post‐mortem samples from COVID-19 patients. In mice, exogenous S1 induced changes in the brain proteome and signs of parenchymal cell death. In human brain cortex samples (8 COVID vs 11 controls), proteomic analysis revealed 76 proteins differentially expressed (49 up, 27 down) and enrichment in immune, complement/coagulation, and neutrophil/NETs pathways, implicating local inflammatory/vascular processes.",
-			"Twitter": "https://x.com/vipintukur/status/1843143709736722756",
-			"Category": [
-				"Brain",
-				"SARS-CoV-2 mechanics",
-				"Long COVID",
-				"Viral persistence",
-				"Immune response",
-				"Endothelium",
-				"Neutrophils",
-				"Preprint",
-				"Detection",
-				"Interferon",
-				"Platelets"
-			]
-		},
-		{
 			"ArticleURL": "https://doi.org/10.1186/s12985-024-02526-4",
 			"Date": "2024-10-07",
 			"Text": "The risk of death increased with the viral RNA load in plasma. In a prospective cohort of 101 older adults (mean age ~ 80 years) hospitalized in pulmonary intermediate care settings, SARS-CoV-2 RNAemia (≥ 50 copies/ml in plasma) was present in 27.7% of patients. Patients with RNAemia had markedly higher in-hospital mortality (50.0% vs. 13.7%) and 180-day mortality (57.1% vs. 19.7%). After adjustment for age, disease severity, sepsis, lymphocyte and platelet counts, and CRP, RNAemia remained an independent predictor of 180-day death (HR ≈ 2.75). The study also showed that higher plasma viral RNA loads were associated with increased mortality and elevated systemic inflammatory cytokines (IL-6, IL-8, IL-10). The authors propose that RNAemia reflects systemic viral dissemination and greater inflammatory injury, making it a useful biomarker for long-term mortality risk in elderly COVID-19 patients.",
@@ -10860,6 +10870,297 @@
 				"Interferon",
 				"Omicron",
 				"Nerves"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41564-023-01588-4",
+			"Date": "2024-01-16",
+			"Text": "Newer Omicron subvariants (notably BA.4/BA.5, and later BA.2.75/XBB) have evolved to better suppress innate immune responses than the earliest Omicron strains (BA.1/BA.2). In human airway models, BA.4/BA.5 induced less IFN-β and ISGs despite comparable replication (especially BA.5), and showed reduced IRF3 activation and STAT1 Ser727 phosphorylation/nuclear translocation. In primary airway epithelia, BA.5 replicated more than BA.2 by 72 hpi, yet still elicited lower innate signaling. Blocking JAK/STAT signaling with ruxolitinib (5 µM) preferentially “rescued” BA.1/BA.2, underscoring that those early Omicron viruses triggered more IFN that constrained themselves. Mechanistically, increased Orf6 and nucleocapsid (N) protein expression in BA.4/BA.5 appears to drive stronger innate antagonism (without clear sgRNA/TRS changes), echoing patterns seen with Alpha–Delta. Tests at 32 °C (upper-airway-like) reduced innate responses across subvariants but did not grant Omicron a replication edge in lung cells. Overall, Omicron’s evolution shows continued selection for innate immune evasion, which may contribute to its epidemiologic success even as antigenic drift drives antibody escape.",
+			"Twitter": "https://x.com/NaturePortfolio/status/1749188642449260549",
+			"Category": [
+				"United Kingdom",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Interferon",
+				"Nucleocapsid",
+				"Omicron",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.7326/M23-1756",
+			"Date": "2023-11-14",
+			"Text": "In this observational study of 127 ambulatory adult COVID-19 patients, treatment with nirmatrelvir–ritonavir for five days was associated with a significantly higher rate of virologic rebound — 20.8% versus 1.8% in untreated individuals. Those who rebounded had prolonged shedding of replication-competent virus (median ~14 days) compared to treated individuals without rebound (~3 days). Starting treatment very early (within 2 days of symptoms) was associated with a higher rebound rate (26.3%), while starting later was associated with none in this cohort.",
+			"Twitter": "https://x.com/EricTopol/statuses/1724189719381282968",
+			"Category": [
+				"South Africa",
+				"USA",
+				"Treatment",
+				"Viral persistence",
+				"SARS-CoV-2 mechanics",
+				"Transmission",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41380-022-01786-2",
+			"Date": "2022-10-05",
+			"Text": "🧫Using human brain organoids that naturally form microglia, the authors exposed tissue to live SARS-CoV-2 (3×10^5 PFU/ml; MOI ~ 0.3) and tracked outcomes up to 72 hpi. Even with limited neurotropism and declining PFUs after an initial release at 6 hpi, infected organoids exhibited significant loss of postsynaptic density and a ~3× increase in microglial engulfment of synaptic elements. Single-cell transcriptomics revealed interferon-responsive, migration, and phagocytosis programs in microglia, including complement components (C3/C3AR1), while neurons down-regulated CD46/CD200 “don’t-eat-me” signals. These results suggest that microglia-mediated synapse elimination following SARS-CoV-2 exposure could disrupt circuit integrity and contribute to cognitive complaints after COVID-19.",
+			"Twitter": "https://x.com/Yash25571056/status/1724169467801002412",
+			"Category": [
+				"Sweden",
+				"USA",
+				"Brain",
+				"Immune response",
+				"Interferon",
+				"SARS-CoV-2 mechanics",
+				"Macrophage",
+				"Nerves",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1093/brain/awac151",
+			"Date": "2022-07-05",
+			"Text": "This autopsy study of nine adult patients who died with confirmed SARS-CoV-2 infection during the first pandemic wave found widespread brain microvascular injury, evidenced by leakage of serum proteins into the brain parenchyma, endothelial activation (e.g., PECAM‐1 upregulation), platelet aggregates/microthrombi, and deposits of immune complexes and classical complement pathway components (C1q, C4d, C5b-9) on endothelial cells and platelets. The inflammatory response was dominated by macrophages (CD68+) and CD8+ T cells, with few CD4+ T cells and B‐cells; microglial nodules and evidence of neuronal injury (particularly in the hindbrain) were also observed. The authors propose that antibody-mediated endothelial injury initiates a complement‐driven cascade leading to vascular leakage, thrombus formation, immune cell infiltration, glial activation, and ultimately neuronal injury.",
+			"Twitter": "https://x.com/Yash25571056/status/1724169467801002412",
+			"Category": [
+				"USA",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"T cells",
+				"Endothelium",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/acn3.51570",
+			"Date": "2022-05-24",
+			"Text": "In a cohort of 52 non-hospitalised individuals with long-term neurologic symptoms after COVID-19 or a COVID-like illness (mean age ~43, 73% female, median follow-up ~14.8 months), fifty-plus percent continued to report core neurologic symptoms: “brain fog” (~71 %), fatigue (~81 %), numbness/tingling (~65 %), headache (~54 %), dizziness (~54 %). Smell and taste dysfunction improved significantly (anosmia from 58% to 21%; dysgeusia from 63% to 27%; both p < 0.001) whereas new/increasing symptoms included cardiovascular autonomic variation (35%→56%) and gastrointestinal symptoms (27%→48%). Subjective impressions of recovery improved, but objective quality-of-life measures remained significantly worse than normative populations. Vaccination status (77% vaccinated) did not correlate with improved cognitive/fatigue outcomes.",
+			"Twitter": "https://x.com/Yash25571056/status/1724169467801002412",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Brain",
+				"Nerves",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2021.30645",
+			"Date": "2021-10-22",
+			"Text": "In a cohort of 740 adult COVID-19 survivors (~7.6 months post diagnosis; average age ~49), the study found that 10-24% exhibited cognitive impairments (defined as ≤1.5 SD below norm) across domains including processing speed (18%), executive function (16%), memory encoding (24%) and memory recall (23%). Hospitalised patients had significantly higher odds of cognitive impairment compared with outpatients—for example, OR 2.8 for impaired attention and OR 3.0 for impaired category fluency. These findings suggest that even in a relatively young and mixed-severity cohort, COVID-19 may leave measurable cognitive sequelae several months later, and that severity of acute illness is associated with greater risk. The deficits are not limited to memory but include speed, executive and fluency domains, hinting at a possible post-illness “dysexecutive” phenomenon.",
+			"Twitter": "https://x.com/Yash25571056/status/1724169467801002412",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.2147/IJGM.S316708",
+			"Date": "2021-05-27",
+			"Text": "This narrative review highlights that a substantial proportion of individuals recovering from SARS-CoV-2 infection continue to experience persistent or new symptoms, with estimates ranging (for example) ~80% at two weeks in one meta-analysis, 32% in outpatient follow-up, and 83% in one hospitalized cohort. The symptom profile is broad — from fatigue and breathlessness to cognitive dysfunction (“brain fog”), sensory loss, musculoskeletal pain, and multi-organ involvement. The authors propose that the pathophysiology may involve endothelial damage, immune/autoimmune activation, persistent inflammation, and the diverse organ‐specific expression of viral entry receptors (e.g., ACE-2). Moreover, risk appears higher in those who had more than five symptoms in the first week and in those with underlying comorbidities or more severe acute illness. As for response and management, the authors emphasise that dedicated post-COVID care clinics, multidisciplinary follow-up, and tailored rehabilitation are needed. However, they concede that the evidence base is still limited — follow-up durations are short, studies are heterogeneous in design (often survey-based), and no large randomized therapeutic trials yet exist. They call for longer observational cohorts, standardized definitions, and interventional studies.",
+			"Twitter": "https://x.com/Yash25571056/status/1724169467801002412",
+			"Category": [
+				"India",
+				"Long COVID",
+				"Immune response",
+				"Endothelium",
+				"Review",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1212/NXI.0000000000001151",
+			"Date": "2022-03-07",
+			"Text": "In 64 individuals spanning acute COVID-19 encephalopathy (n=9), post-hospital neuro-PASC (n=9), non-hospitalized neuro-PASC (n=38), and healthy controls (n=8), plasma neurofilament light (pNfL) and plasma glial fibrillary acidic protein (pGFAP) were quantified alongside SARS-CoV-2 nucleocapsid antigen and neuropsychiatric outcomes. Acute encephalopathy cases had the highest pNfL/pGFAP (pNfL H=16.23, p=0.0003; pGFAP H=7.34, p=0.02), supporting substantial CNS injury during severe disease. Nucleocapsid antigenemia occurred in 9.4% overall—notably 55.6% of CE, and 2.6% of NNP, including one case 3 weeks post-onset, consistent with prolonged antigenic stimulation. Across neuro-PASC groups, patients reported worse quality of life and showed cognitive deficits (T-scores <50 on attention, executive function, processing speed, working memory). A higher pGFAP/pNfL “neuroglial” ratio tracked with anxiety/depression, hinting at astroglial involvement in mood symptoms. Together, these plasma measures provide biochemical evidence of CNS involvement across the COVID-19 spectrum and suggest a possible role for persistent antigen exposure in a minority of patients.",
+			"Twitter": "https://x.com/Yash25571056/status/1724169467801002412",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Detection",
+				"Nucleocapsid",
+				"Immune response",
+				"Mild infection",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/alz.12644",
+			"Date": "2022-03-17",
+			"Text": "This systematic review and meta-analysis of 27 studies (2,049 adults, mean age ~56 years) found that individuals recovering from COVID-19 had modest but statistically significant reductions in global cognition compared to healthy controls: a mean difference of –0.94 points on the MoCA (95% CI –1.59 to –0.29; P = 0.0049). Across studies, specific impairments were noted in executive function, attention and memory up to 7 months post-infection.",
+			"Twitter": "https://x.com/Yash25571056/status/1724169467801002412",
+			"Category": [
+				"Sweden",
+				"Argentina",
+				"Norway",
+				"Germany",
+				"Spain",
+				"USA",
+				"Australia",
+				"Italy",
+				"Russia",
+				"Brain",
+				"Long COVID",
+				"Mild infection",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2215-0366(22)00260-7",
+			"Date": "2022-08-17",
+			"Text": "In a matched cohort of 1.28 million individuals diagnosed with COVID-19 and an equal number with other respiratory infections, this large international EHR-based study found that while risks for mood and anxiety disorders after COVID-19 largely returned to baseline within about 1-2 months (mood ~43 days; anxiety ~58 days) and reached equal incidence with controls by ~417–457 days, other neurological and psychiatric sequelae such as cognitive deficits (“brain fog”), dementia, psychotic disorders and epilepsy/seizures remained elevated at 2 years. The trajectories of risk varied substantially by age: in children (<18 yrs) there was no increased risk for mood or anxiety disorders in the first 6 months, but a significant increased risk for other outcomes (HRs ~1.20–2.16) with a finite risk horizon for cognitive deficits (~75 days) and time to equal incidence (~491 days). For adults and older adults the persistent increased risk of serious neurological outcomes despite the passage of time suggests potential long-term burden.",
+			"Twitter": "https://x.com/Yash25571056/status/1724169467801002412",
+			"Category": [
+				"United Kingdom",
+				"Brain",
+				"Long COVID",
+				"Kids",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41586-023-06800-3",
+			"Date": "2023-12-06",
+			"Text": "The study demonstrates that the modified base m¹Ψ, widely used in mRNA vaccines, can promote +1 ribosomal frameshifting during translation, producing low-level off-frame peptides (~8% of the in-frame product in a reporter). Mechanistically, m¹Ψ slows elongation and induces ribosome stalling at specific slippery sites; synonymous recoding that removes such sites eliminates the frameshifted products without reducing overall translation. RNA-seq confirmed no increase in indels, pointing to a translation—not transcription—effect. Immunologically, T cells recognizing predicted +1-frame peptides are detectable after BNT162b2 vaccination in mice and humans, whereas a non-mRNA vaccine (ChAdOx1) did not produce such +1-frame responses; both produced responses to in-frame spike. The authors report no adverse human outcomes attributable to these off-frame products but argue that future mRNA therapeutics should optimize sequences to avoid slippery sites or runs of m¹Ψ that enable frameshifting.",
+			"Twitter": "https://bsky.app/profile/natureportfolio.nature.com/post/3kfvro7x2vc2n",
+			"Category": [
+				"United Kingdom",
+				"Thailand",
+				"Ireland",
+				"mRNA vaccine",
+				"Vaccination",
+				"Immune response",
+				"T cells",
+				"Synthetic genomics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cell.2023.09.013",
+			"Date": "2023-10-16",
+			"Text": "This study links Long-COVID neurocognitive symptoms to reduced peripheral serotonin. In targeted human metabolomics (acute COVID-19 n=60; recovered n=30; PASC n=58), plasma 5-HT was lower in acute and remained low in PASC vs recovered. Mechanistic experiments show viral RNA/type-I interferon signaling decreases intestinal tryptophan uptake (↓ACE2/SLC6A19), increases platelet activation/thrombocytopenia, and accelerates MAO-mediated 5-HT turnover, together depleting serotonin. A registry of 1,540 PASC patients mapped symptom clusters; separate analyses found stool SARS-CoV-2 RNA in a subset, consistent with gut viral reservoirs sustaining inflammation. In mice, viral-RNA/IFN-I–driven serotonin loss impaired vagus-to-hippocampus signaling and memory, which was rescued by 5-HTP, fluoxetine, capsaicin, or a 5-HT3 agonist, nominating serotonergic and vagal pathways as therapeutic targets.",
+			"Twitter": "https://x.com/EricTopol/status/1713991108047605767",
+			"Category": [
+				"Brain",
+				"Long COVID",
+				"Viral persistence",
+				"Gastrointestinal",
+				"Immune response",
+				"Interferon",
+				"Platelets",
+				"Nerves",
+				"Treatment",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1111/apa.16966",
+			"Date": "2023-09-23",
+			"Text": "Children aged 0–14 in this Italian cohort who had a laboratory-confirmed COVID-19 infection were matched to non-infected peers and followed for up to ~21 months. Those who had COVID-19 exhibited a significantly higher incidence of new‐onset health conditions: overall their hazard of developing a new condition across eight clinical domains was around 1.78 times (78 % higher) that of uninfected children. The greatest elevations in risk were seen for mental health diagnoses (aHR ~1.8) and neurological problems (aHR ~2.4). While the absolute incidence rates of new‐onset conditions were low, the relative increase suggests that pediatric COVID-19 may have meaningful sequelae beyond the acute phase.",
+			"Twitter": "https://x.com/cb_hagen/status/1706089484528332820",
+			"Category": [
+				"Italy",
+				"United Kingdom",
+				"Norway",
+				"Kids",
+				"Long COVID",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.cell.2023.07.009",
+			"Date": "2023-10-16",
+			"Text": "The authors collected long bones and skull bone marrow (BM) samples from human donors (n ≈ 60) and performed deep proteomic and transcriptomic profiling, discovering that skull BM is uniquely enriched in immune-cell programs (monocytes, neutrophils, dendritic-cell antigen presentation, adhesion/chemotaxis pathways) compared to iliac and vertebral BM. They furthermore analysed skull BM in a subset of donors with diagnosed neurological disease and found evidence of heightened myeloid-inflammatory activation versus healthy controls, raising the possibility that skull BM contributes to brain/meningeal immune vigilance or pathology.",
+			"Twitter": "https://x.com/EricTopol/status/1713991108047605767",
+			"Category": [
+				"USA",
+				"Brain",
+				"Neutrophils",
+				"Bone"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41392-021-00749-3",
+			"Date": "2021-08-18",
+			"Text": "This study reports that people who recovered from COVID-19 (n≈15) exhibit lower CD19 on multiple B-cell subsets and weakened BCR signaling compared with matched controls (n=15). Despite unchanged CD19 mRNA (n=4 vs 4), signaling intermediates were reduced (pCD19, pBtk, pPI3K/AKT/mTOR/S6/FoxO1), and early B-cell activation dynamics were impaired. In mice, SARS-CoV-2 infection similarly reduced splenic CD19, hinting at in vivo relevance. Mechanistically, metabolic/oxidative stress appears central: patient B cells had higher ROS and mitochondrial abnormalities, while serum metabolomics showed 155 altered metabolites (109 down/46 up), including reduced cysteine/cystine and arginine. Notably, N-acetylcysteine partially restored CD19 and signaling ex vivo.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1588877665171537921",
+			"Category": [
+				"China",
+				"Japan",
+				"South Korea",
+				"Chile",
+				"Sweden",
+				"Immune response",
+				"B cells",
+				"Long COVID",
+				"Mitochondria",
+				"Susceptibility",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2020.600405",
+			"Date": "2020-12-21",
+			"Text": "In severe COVID-19, T-cell lymphopenia and abnormal T-cell differentiation are frequently observed, with lower counts of CD4⁺ and CD8⁺ cells correlating with worse outcomes. The authors highlight that activated T cells in these patients often express higher levels of CD95 (Fas) and markers of exhaustion (e.g., PD-1, TIM-3), and propose that the Fas/Akt signalling axis drives a coupled process of premature effector differentiation and apoptosis of T cells. This leads to a depletion of more naïve and central-memory T cell pools and a skewing toward highly differentiated, cytotoxic T cells that may contribute to tissue damage. The paper argues that this mechanism positions SARS-CoV-2 as a “lympho-manipulative” pathogen. The authors suggest that interrupting the Fas/Akt axis might preserve T cell populations, decelerate aberrant differentiation, and thereby improve immune control and reduce immunopathology — but they emphasise that this is a hypothesis that requires in-vivo experimental testing.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1588877665171537921",
+			"Category": [
+				"Review",
+				"USA",
+				"Immune response",
+				"T cells",
+				"Antibodies",
+				"B cells",
+				"Autoimmunity",
+				"Natural immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.eclinm.2024.102842",
+			"Date": "2024-09-21",
+			"Text": "In a human challenge study involving 34 healthy young adults, 18 became infected with wild-type SARS-CoV-2 while the rest remained uninfected. Participants completed intensive cognitive testing before inoculation and at follow-up up to one year later. The infected group scored on average about –0.86 standardised units lower (95% CI –1.36 to –0.38) on a global cognitive composite than the uninfected group, with the largest deficits in memory and executive-function tasks. Although the observed cognitive differences were small and all scores remained within healthy ranges, and no participant reported persistent cognitive symptoms, the effect persisted up to 12 months. This suggests that even mild SARS-CoV-2 infection may lead to subtle, long-lasting changes in cognition, although the clinical relevance and mechanistic basis remain unclear.",
+			"Twitter": "https://x.com/dlingenfelter/status/1837961972291457034",
+			"Category": [
+				"United Kingdom",
+				"Sketchy ethics",
+				"Brain",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.21203/rs.3.rs-4909082/v1",
+			"Date": "2024-09-24",
+			"Text": "This patient-led cross-sectional survey (n = 3 382) finds that individuals reporting two or more episodes of SARS-CoV-2 infection have substantially higher odds of developing Long COVID (OR ≈ 3.7 for two infections, OR ≈ 6.5 for three or more) compared with those with a single infection, and much higher than those never infected. The survey also shows that the probability of remission from Long COVID is very low (around 11.5 % for one infection and about 6.5 % for three or more), and that reinfections are linked to worse fatigue, post-exertional malaise, functional disability, and symptoms across multiple body systems. Vaccination prior to infection reduces the risk of Long COVID, but its protective effect weakens with increasing number of infections. ",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1839050798371594370",
+			"Category": [
+				"USA",
+				"Switzerland",
+				"Chile",
+				"United Kingdom",
+				"Long COVID",
+				"Reinfection",
+				"Hybrid immunity",
+				"Natural immunity",
+				"Immune response",
+				"Vaccination",
+				"Self-reported",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/ajim.23670",
+			"Date": "2024-10-05",
+			"Text": "This large cross-sectional study of nearly 28 000 employed U.S. blood donors found that 45% of those with prior SARS-CoV-2 infection reported new long-term symptoms lasting at least four weeks, compared with 24% of those never infected. The prevalence of these new symptoms varied markedly across occupational (26%–41%) and industry (26%–55%) groups, with particularly high burdens in healthcare support and accommodation/food service sectors. Neurological symptoms and changes in taste or smell were especially common among the previously infected.",
+			"Twitter": "https://x.com/HarrySpoelstra/status/1844310344501428283",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Self-reported",
+				"Mild infection",
+				"Susceptibility"
 			]
 		}
 	]
