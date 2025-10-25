@@ -11162,6 +11162,32 @@
 				"Mild infection",
 				"Susceptibility"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1080/13696998.2025.2579407",
+			"Date": "2025-10-24",
+			"Text": "This review examined 22 published economic evaluations of nirmatrelvir/ritonavir in high-risk outpatients with mild-to-moderate COVID-19, finding that across different model structures (decision trees plus Markov models), varying time horizons (28 days to lifetime), and multiple country settings (mostly high-income), the treatment was judged to offer economic value relative to standard care or best supportive care. Many of the models drew effectiveness estimates from the EPIC-HR trial, and the authors judged most studies to be of moderate to high methodological quality. However, the authors caution that the generalisability of findings is limited because nearly all the studies derive from high-income countries, and all were in English. Moreover, the extraordinary pace of change in the COVID-19 landscape — including emergence of new variants and evolving vaccination/booster strategies — means that the models may rapidly become outdated and require revision in light of shifting disease burden and treatment patterns.",
+			"Twitter": "https://x.com/atranscendedman/status/1981781691980296690",
+			"Category": [
+				"United Kingdom",
+				"Treatment",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://x.com/vipintukur/status/1981735461753151730",
+			"Date": "2025-10-24",
+			"Text": "🐁In Wistar rats (n=10 S-protein; n=7 control), immunization with 18 µg SARS-CoV-2 spike plus IFA induced anti-ACE2 autoantibodies in 70% of animals (peaking at ~2 weeks) and produced ACE2-site pathology in kidney and lung without detectable viral RNA. Kidneys showed brush-border loss in 100% of S-immunized rats with CD3+/CD4+/CD8+ infiltration; lungs showed alveolar epithelial hyperplasia in 50% with CD4+ T-cell and B-cell infiltrates and 2/10 cases of perivascular inflammation. Serum creatinine did not differ significantly at 10 weeks. The authors infer that ACE2-directed autoimmunity, potentially via anti-idiotypic responses to spike, can drive multi-organ injury.",
+			"Twitter": "https://x.com/vipintukur/status/1981735461753151730",
+			"Category": [
+				"Russia",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Lungs",
+				"Kidney",
+				"Autoimmunity"
+			]
 		}
 	]
 }
