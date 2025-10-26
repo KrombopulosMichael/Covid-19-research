@@ -11188,6 +11188,92 @@
 				"Kidney",
 				"Autoimmunity"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fcimb.2025.1645378",
+			"Date": "2025-10-23",
+			"Text": "In nine fatal COVID-19 cases, the splenic white pulp was severely atrophied and red pulp nearly depopulated of lymphocytes, with accompanying plasma cell accumulation and fragmentation of structural reticular fibers. The changes correlated with elevated IL-6 and TNF-producing cell counts and widespread cell-death signals, suggesting that the spleen plays a dual role in severe disease: a site of inflammatory cytokine‐release and a site of immune cell loss, potentially weakening the host immune response.",
+			"Twitter": "https://x.com/Yash25571056/status/1982059392749949121",
+			"Category": [
+				"Brazil",
+				"Lungs",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Antibodies",
+				"Endothelium",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jogoh.2025.103058",
+			"Date": "2025-10-21",
+			"Text": "In a cohort of 808 singleton pregnancies (404 infected with SARS-CoV-2 and 404 uninfected controls), the study found a 60 % higher adjusted risk (aRR = 1.60; 95 % CI 1.03-2.48) of having a baby small for gestational age (SGA) among infected mothers compared to non-infected. The increased risk was especially marked when infection was severe and/or occurred during the first trimester. Despite this, the infection did not appear to increase spontaneous preterm birth or pre-eclampsia rates in this cohort. However, for mothers with severe infection or infection in the third trimester, there was an increased risk of iatrogenic preterm birth (i.e., delivery induced for maternal or fetal indications) and ICU admission, and more frequent adverse neonatal outcomes. The authors conclude that while SARS-CoV-2 infection in pregnancy is not benign, the greatest concern lies in severe disease and timing of infection, and that enhanced obstetric surveillance is warranted in such cases.",
+			"Twitter": "https://x.com/Yash25571056/status/1982413752340488610",
+			"Category": [
+				"Spain",
+				"Reproductive health",
+				"Newborns",
+				"Transmission"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1210/jendso/bvaf149.1979",
+			"Date": "2025-10-22",
+			"Text": "An 18-year-old developed premature ovarian failure following COVID-19 illness at age 15. Despite previously normal menstrual cycles, she went on to experience irregular menses, undetectable AMH, elevated FSH levels (up to 77 mIU/mL), and ultrasound evidence of absent ovarian follicles — all consistent with ovarian insufficiency and infertility risk. The authors suggest SARS-CoV-2 may impair ovarian function via ACE2/TMPRSS2-mediated viral entry and inflammatory disruption of ovarian steroidogenesis.",
+			"Twitter": "https://x.com/Yash25571056/status/1982408219302494407",
+			"Category": [
+				"USA",
+				"Reproductive health",
+				"Autoimmunity",
+				"SARS-CoV-2 mechanics",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2025.1680089",
+			"Date": "2025-10-23",
+			"Text": "The authors compared peripheral blood T-cell receptor (TCR) repertoires among 12 healthy convalescent individuals (no reinfection), 18 primary infection cases and 18 reinfected individuals (aged 20-40, mild disease). They found that both infected groups exhibited significantly reduced TCR diversity compared to controls, and marked clonal expansions (>1% clone frequency) dominated in infection. Notably, the reinfected group had an intermediate level of clonality, suggesting partial memory recall rather than fresh naïve responses. In addition, distinct V(D)J gene usage and CDR3 sequence clusters characterized each group: e.g., TRAV27/TRAJ42 in reinfected, TRAV24/TRAJ42 in primary infection, and TRAV35/TRAJ42 in healthy convalescent; and shared SARS-CoV-2-specific TCR sequences (e.g., targeting ORF1ab, nucleocapsid, spike) were far more prevalent in the healthy convalescence group than the reinfection group. The authors conclude that reinfection is associated with altered T-cell repertoire dynamics—impaired diversity and distinct expansion signatures—and that certain TCR clusters in the healthy convalescent group may serve as protective correlates of immunity.",
+			"Twitter": "https://x.com/Yash25571056/status/1982056093540143238",
+			"Category": [
+				"China",
+				"T cells",
+				"Immune response",
+				"SARS-CoV-2 mechanics",
+				"Reinfection",
+				"Natural immunity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s44298-025-00158-1",
+			"Date": "2025-10-24",
+			"Text": "Using Syrian hamsters whose GI ACE2 expression mirrors humans, the authors show variant-specific GI tropism: Delta > Hong Kong ≫ Omicron in SI viral RNA, GI pathology, and disturbance of the fecal microbiome at 4 dpi. Notably, infectious virus was recovered from SI only in Delta-infected animals (10^6 PFU group), while Omicron’s fecal RNA frequently hovered at or below the detection limit. Alpha diversity (observed features and Faith’s PD) fell most with Delta; beta-diversity analyses showed variant-specific community shifts. Delta also produced the most severe lung involvement (higher lung vRNA, plaque titers, nucleocapsid IHC, and histopathology), and higher inflammatory signatures (IFN-γ, IL-6, TNF-α) alongside hematologic changes (↑WBC/ neutrophils/platelets). Overall, the data link greater virulence with GI infection plus gut dysbiosis, positioning gut involvement as a hallmark of severe SARS-CoV-2 variants.",
+			"Twitter": "https://x.com/vipintukur/status/1982107051586355544",
+			"Category": [
+				"USA",
+				"India",
+				"Gastrointestinal",
+				"Lungs",
+				"Immune response",
+				"Neutrophils",
+				"Platelets",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/v17101400",
+			"Date": "2025-10-21",
+			"Text": "The study of 103 hospitalised COVID-19 patients (50 mild / 53 severe) found that more severe cases had markedly lower T-cell (CD3⁺, CD4⁺, CD8⁺) and NK-cell counts and higher B-cell percentage at baseline. At five-year follow-up (median 54 months) among 80 survivors, baseline dysregulation of B, T and NK cells predicted increased late mortality but did not correlate with self-reported long-COVID symptoms. The authors conclude that immune-cell profiling during acute COVID-19 may have prognostic value for long-term survival, but at least in this cohort it does not appear to forecast long-COVID symptom burden.",
+			"Twitter": "https://x.com/RadCentrism/status/1982308434642153854",
+			"Category": [
+				"Poland",
+				"T cells",
+				"B cells",
+				"NK cells",
+				"Immune response",
+				"Long COVID",
+				"Antibodies"
+			]
 		}
 	]
 }
