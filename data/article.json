@@ -11274,6 +11274,19 @@
 				"Long COVID",
 				"Antibodies"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s42826-025-00256-4",
+			"Date": "2025-09-14",
+			"Text": "🐁In a K18-hACE2 transgenic mouse experimentally infected with SARS-CoV-2, the authors identified a small (1.34 mm × 0.59 mm) leptomeningeal tumour composed of lymphoblast-like cells intermixed with abundant histiocytes, which proved negative for classic B-cell (PAX5) and T-cell (CD3) markers but positive for the histiocytic marker Iba-1. SARS-CoV-2 RNA loads were highest in the brain (~1.65×10⁵ copies/µL) compared to lungs (~1.20×10²) and trachea/nasal turbinates (~2.60×10²) and viral antigen was detected inside tumour histiocytes and adjacent neurons, together with typical neuroinflammatory changes (meningoencephalitis, neural degeneration, myelin vacuolation). The authors propose this as the first report of a primary central nervous system histiocytic lymphoproliferative disorder associated with SARS-CoV-2 neuroinvasion in this mouse model, and suggest that viral infection may influence tumour development or progression via inflammatory and immune‐altered microenvironments.",
+			"Twitter": "https://x.com/Yash25571056/status/1982786915054317727",
+			"Category": [
+				"Spain",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Viral persistence"
+			]
 		}
 	]
 }
