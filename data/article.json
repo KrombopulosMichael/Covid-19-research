@@ -11287,6 +11287,34 @@
 				"Immune response",
 				"Viral persistence"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jaad.2025.10.024",
+			"Date": "2025-10-28",
+			"Text": "The authors recruited 1,741 post-COVID patients from across Italy and evaluated dermatological outcomes during their Long COVID period. They found that hair loss (especially telogen effluvium) and various cutaneous eruptions – including rashes that recurred or remained – occurred in a non-trivial subset of these patients. Although the exact incidence rates are not fully specified in the abstract, the study highlights that these dermatological issues can be persistent (i.e., lasting months after the acute infection) or can relapse after apparent resolution. The implication is that skin manifestations should be considered part of the wider Long COVID syndrome.",
+			"Twitter": "https://x.com/Yash25571056/status/1983508156346175922",
+			"Category": [
+				"Italy",
+				"Long COVID",
+				"Epithelium",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-23015-w",
+			"Date": "2025-10-15",
+			"Text": "In 61 mild, non-hospitalized adults scanned ~8.6 months after SARS-CoV-2 infection, those with persistent olfactory dysfunction (n = 31) showed higher left-amygdala FA and higher right-amygdala RD than post-COVID normosmic controls (n = 30), while whole-brain TBSS was null after correction. Worse smell performance and longer duration of smell loss correlated with more abnormal diffusion metrics in the amygdala and piriform cortex. Clinically, the OD group had more depressive (PHQ-8) and anxiety (GAD-7) symptoms without cognitive differences (MoCA). Within the OD group, higher depression/anxiety tracked with lower left-amygdala FA. The authors conclude that limbic (amygdala) microstructure is altered in post-COVID smell loss and may help explain its persistence and emotional burden.",
+			"Twitter": "https: //x.com/vipintukur/status/1983748647721562175",
+			"Category": [
+				"Germany",
+				"Brain",
+				"Long COVID",
+				"Nose",
+				"Detection",
+				"Mild infection",
+				"Self-reported",
+				"Nerves"
+			]
 		}
 	]
 }
