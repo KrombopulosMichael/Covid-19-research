@@ -11315,6 +11315,52 @@
 				"Self-reported",
 				"Nerves"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1161/JAHA.125.042670",
+			"Date": "2025-10-29",
+			"Text": "This large meta-analysis of 155 studies shows that viral infections are linked to elevated cardiovascular risks. In the short term, acute infections such as influenza can raise the incidence of heart attacks by ~4-fold and strokes by ~5-fold in the first month post-infection. Similarly, COVID-19 is associated with increased risk of CHD (RR ~1.74) and stroke (RR ~1.69). Over the longer term, chronic viral infections such as HIV and hepatitis C confer sustained elevated risks of CHD and stroke (e.g., HIV ~1.60 × for CHD). The findings highlight the vascular and cardiovascular burden of viral infections beyond their acute illness phase, indicating that inflammation, endothelial injury, pro-thrombotic states or persistent viral effects may underlie this association.",
+			"Twitter": "https://x.com/CoronaHeadsUp/status/1983962902445867440",
+			"Category": [
+				"South Africa",
+				"USA",
+				"Endothelium",
+				"Vaccination",
+				"Immune response",
+				"Transmission",
+				"Infection",
+				"Myocarditis",
+				"Massive study",
+				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.psychres.2025.116813",
+			"Date": "2025-10-30",
+			"Text": "Between 16-40% of COVID-19 survivors have persistent (>12 weeks) physiological changes that decrease overall health and wellbeing, referred to as long COVID or post-acute sequelae of COVID-19 (PASC).",
+			"Twitter": "https://x.com/Yash25571056/status/1983864407122673770",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Self‐reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12974-025-03586-1",
+			"Date": "2025-10-31",
+			"Text": "In primary human astrocytes, SARS-CoV-2 spike S1—but not an RRAR-deleted mutant— rapidly disrupts endolysosomes (↑pH at 100 ng/mL; 10 min; ↑LAMP1⁺ mass at 200 ng/mL; 48 h; galectin-3 puncta/release; cathepsin-B release) without overt cytotoxicity (tested 1–400 ng/mL). This drives a senescence-like program: ↑IL-6 (24 h), ↑SA-β-gal (72 h), and ↑p21/p16 (48 h). Mechanistically, S1 binds TLR7 (not TLR3/8/9) inside cells; TLR7 agonist imiquimod reproduces the phenotype, and TLR7 knock-down blunts it. Downstream, p38 MAPK (but not ERK) is essential: SB203580 (1 µM) blocks S1-induced p21, p16, IL-6, while ERK inhibition affects p21 only. The authors propose that persistent S1 in the brain can trigger astrocyte senescence via TLR7→p38, contributing to neuro-PASC, and nominate TLR7/p38 for therapeutic exploration. Limitations include in-vitro design, uncertain physiological S1 exposures, and lack of in-vivo or patient validation.",
+			"Twitter": "https://x.com/Yash25571056/status/1984230138490601532",
+			"Category": [
+				"USA",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"SARS-CoV-2 mechanics",
+				"Aging",
+				"Nerves",
+				"mRNA vaccine"
+			]
 		}
 	]
 }
