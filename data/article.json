@@ -3592,6 +3592,7 @@
 			"Text": "In a group of patients evaluated on average 5.5 months after SARS-CoV-2 infection, researchers found biopsy-proven chronic myocarditis in the heart tissue, including persistent viral RNA (virus presence), ongoing inflammation, and elevated levels of anti-heart autoantibodies. Endomyocardial biopsies confirmed inflammation and viral persistence well beyond the acute phase, even in patients without prior cardiac disease.",
 			"Twitter": "https://x.com/Aguirre1Gustavo/status/1607764205016317955",
 			"Category": [
+				"Russia",
 				"Heart",
 				"Myocarditis",
 				"Viral persistence",
@@ -11349,7 +11350,7 @@
 		{
 			"ArticleURL": "https://doi.org/10.1186/s12974-025-03586-1",
 			"Date": "2025-10-31",
-			"Text": "In primary human astrocytes, SARS-CoV-2 spike S1—but not an RRAR-deleted mutant— rapidly disrupts endolysosomes (↑pH at 100 ng/mL; 10 min; ↑LAMP1⁺ mass at 200 ng/mL; 48 h; galectin-3 puncta/release; cathepsin-B release) without overt cytotoxicity (tested 1–400 ng/mL). This drives a senescence-like program: ↑IL-6 (24 h), ↑SA-β-gal (72 h), and ↑p21/p16 (48 h). Mechanistically, S1 binds TLR7 (not TLR3/8/9) inside cells; TLR7 agonist imiquimod reproduces the phenotype, and TLR7 knock-down blunts it. Downstream, p38 MAPK (but not ERK) is essential: SB203580 (1 µM) blocks S1-induced p21, p16, IL-6, while ERK inhibition affects p21 only. The authors propose that persistent S1 in the brain can trigger astrocyte senescence via TLR7→p38, contributing to neuro-PASC, and nominate TLR7/p38 for therapeutic exploration. Limitations include in-vitro design, uncertain physiological S1 exposures, and lack of in-vivo or patient validation.",
+			"Text": "🧫In primary human astrocytes, SARS-CoV-2 spike S1—but not an RRAR-deleted mutant— rapidly disrupts endolysosomes (↑pH at 100 ng/mL; 10 min; ↑LAMP1⁺ mass at 200 ng/mL; 48 h; galectin-3 puncta/release; cathepsin-B release) without overt cytotoxicity (tested 1–400 ng/mL). This drives a senescence-like program: ↑IL-6 (24 h), ↑SA-β-gal (72 h), and ↑p21/p16 (48 h). Mechanistically, S1 binds TLR7 (not TLR3/8/9) inside cells; TLR7 agonist imiquimod reproduces the phenotype, and TLR7 knock-down blunts it. Downstream, p38 MAPK (but not ERK) is essential: SB203580 (1 µM) blocks S1-induced p21, p16, IL-6, while ERK inhibition affects p21 only. The authors propose that persistent S1 in the brain can trigger astrocyte senescence via TLR7→p38, contributing to neuro-PASC, and nominate TLR7/p38 for therapeutic exploration.",
 			"Twitter": "https://x.com/Yash25571056/status/1984230138490601532",
 			"Category": [
 				"USA",
@@ -11360,6 +11361,108 @@
 				"Aging",
 				"Nerves",
 				"mRNA vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2022.04.08.487623",
+			"Date": "2022-04-08",
+			"Text": "This pre-print demonstrates that SARS-CoV-2 can acquire mutations in regions flanking known CD8⁺ T-cell epitopes which alter proteasome processing and thereby modulate T-cell recognition. For example, a Q7K mutation near the NP 9–17 epitope was shown to reduce CD8⁺ activation and epitope presentation, consistent with a potential immune-escape mechanism. Conversely, other flanking mutations (P6L and D103N/Y) enhanced epitope generation and T-cell activation, pointing to the possibility of enhanced immunogenicity depending on context. Overall, the work emphasises that not only changes within the epitope core, but also changes in adjacent amino acids, affect antigen-processing outcomes and thus shape cellular immune recognition. This has important implications for monitoring viral evolution (beyond antibody escape) and for selecting epitope sequences in T-cell-oriented vaccine strategies.",
+			"Twitter": "https://x.com/TaoDongGroup/status/1513863559498940424",
+			"Category": [
+				"United Kingdom",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"T cells",
+				"Nucleocapsid",
+				"Preprint",
+				"Natural immunity",
+				"Cross-reactivity"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/science.abh1282",
+			"Date": "2021-04-30",
+			"Text": "In individuals who had recovered from SARS-CoV-2 infection, receiving a single dose of the BNT162b2 vaccine triggered much stronger B-cell and T-cell responses—including memory IgG+ antibody-secreting cells and neutralising antibodies against variants B.1.1.7 and B.1.351—than did the same single vaccine dose in infection-naïve individuals. The previously infected group showed enhanced T-cell spot counts, memory B-cell responses, and higher neutralisation IC50 values, indicating that prior infection primes the immune system in such a way that vaccination acts as a powerful booster. By contrast, individuals without prior SARS-CoV-2 infection receiving a single vaccine dose showed weaker cross-variant immune responses. The study further found that variant-specific T-cell recognition depended on HLA genotype, suggesting heterogeneity in cellular immunity. The findings support the notion of hybrid immunity (infection + vaccination) as superior and raise the possibility that a single vaccine dose in previously infected individuals might suffice for robust variant-directed immunity.",
+			"Twitter": "https://x.com/EricTopol/status/1388137563332874242",
+			"Category": [
+				"United Kingdom",
+				"Immune response",
+				"Vaccination",
+				"Antibodies",
+				"T cells",
+				"B cells",
+				"Natural immunity",
+				"Hybrid immunity",
+				"SARS-CoV-2 mechanics"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/v14040776",
+			"Date": "2022-04-08",
+			"Text": "🐒In a controlled non‐human primate study, Philippens et al. infected eight macaques (four rhesus, four cynomolgus) with SARS-CoV-2, inducing mild to moderate pulmonary disease but no overt neurological symptoms. Post-mortem examination revealed consistent brain changes in all infected animals: infiltration of CD3+ T-cells and activated microglia in the brain parenchyma, and in many cases intracellular aggregates of α-synuclein in the ventral midbrain region. Some animals also showed increased metabolic activity in the pituitary gland on ^18F-FDG PET-CT. Importantly, these changes occurred despite little to no detectable viral antigen or RNA in the brain tissue, suggesting that neuropathological effects may occur after even mild SARS-CoV-2 infection and potentially via indirect mechanisms.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1513451481910763526",
+			"Category": [
+				"Netherlands",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/sciimmunol.abo0535",
+			"Date": "2022-03-10",
+			"Text": "🐒In rhesus macaques with mild COVID-19, viral replication peaks within 1–2 days and is largely cleared by days 7–10. Lung inflammation appears on PET/CT at day 3 and resolves by day 9. Before virus-specific T cells expand, there is a day-4 burst of type I IFN–activated myeloid cells (monocytes/macrophages/DCs) in blood and airways. By contrast, antigen-specific T cells accumulate mainly in the lower airways (BAL: ~4–6% CD4⁺, ~1% CD8⁺ by day 7–10) and are undetectable in upper-airway tissues (nasal turbinates, salivary glands, tonsils) at day 10. These data indicate that in mild infection, innate immunity—particularly type I IFN–driven myeloid responses—controls the virus before adaptive T cell responses, with T cells localizing preferentially to the lung rather than the upper mucosa.",
+			"Twitter": "https://x.com/SciImmunology/status/1501997594221895685",
+			"Category": [
+				"USA",
+				"Immune response",
+				"Interferon",
+				"T cells",
+				"Macrophage",
+				"Lungs",
+				"Nose",
+				"Oral",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/embor.2012.13",
+			"Date": "2012-02-10",
+			"Text": "This article argues that childhood infectious‐disease burden may impose enduring costs on cognitive ability and personality development, potentially by diverting resources, causing neuro-immune effects, or slowing growth. Although some epidemiological data show modest IQ differences (on the order of a few points) and altered personality trait distributions in adults with higher childhood disease exposure, the evidence remains largely correlational. The author highlights major gaps: lack of longitudinal data tracking infection, cognition and personality from childhood into adulthood, insufficient mechanistic work on how immune activation impacts brain development, and poor adjustment for confounders such as socio-economic status, nutrition, schooling and other health factors.",
+			"Twitter": "https://x.com/RadCentrism/status/1433316244501897217",
+			"Category": [
+				"United Kingdom",
+				"Brain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/jcm12083002",
+			"Date": "2023-04-20",
+			"Text": "This study followed 49 endurance athletes who experienced a mild case of COVID-19 and had pre- and post-infection maximal CPET measurements. The authors found that VO₂max decreased significantly post-infection (from ~47.8 mL·kg⁻¹·min⁻¹ to ~45.0 mL·kg⁻¹·min⁻¹), indicating a drop in aerobic capacity even when the infection was mild. Sleep disturbances (e.g., waking up at night) and poorer psychological coping (stress/relaxation) were linked with worse outcomes in terms of ventilation, breathing frequency and lactate thresholds. The findings imply that recovery from COVID-19 in athletes should account not only for physiologic rest but also for sleep quality and psychological recovery.",
+			"Twitter": "https://x.com/pkasiak1/status/1649029517464281088",
+			"Category": [
+				"Poland",
+				"Lungs",
+				"Sleep",
+				"Brain",
+				"Mild infection",
+				"Self-reported",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jinf.2025.106641",
+			"Date": "2025-10-23",
+			"Text": "In a cohort of 105 Long COVID patients, about 46 % improved over 6 weeks; those who improved exhibited a distinct immunoglobulin-G subclass profile: lower proportions of spike-specific IgG1 and higher proportions of spike-specific IgG4. Patients in the low IgG1 + high IgG4 subgroup had roughly two-thirds chance of improvement compared to ~40 % in others. The authors propose that switching to IgG4 may mark a transition from a pro-inflammatory antibody state toward a more regulated immune response that supports recovery from persistent post-infectious symptoms.",
+			"Twitter": "https://x.com/atranscendedman/status/1982839759069499556",
+			"Category": [
+				"Japan",
+				"Long COVID",
+				"Antibodies",
+				"B cells",
+				"mRNA vaccine",
+				"Vaccination"
 			]
 		}
 	]
