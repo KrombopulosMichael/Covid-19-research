@@ -11464,6 +11464,20 @@
 				"mRNA vaccine",
 				"Vaccination"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1097/AOG.0000000000006112",
+			"Date": "2025-10-30",
+			"Text": "Maternal SARS-CoV-2 infection during pregnancy appears to be associated with a modest but statistically significant increase in the risk that their children receive a neurodevelopmental diagnosis by age three — in this cohort 16.3 % of the exposed group versus 9.7 % of the unexposed group. The adjusted odds of such a diagnosis were approximately 1.29 times higher after accounting for confounders. The association was stronger if infection occurred in the third trimester and for male children.",
+			"Twitter": "https://x.com/atranscendedman/status/1984071761705758949",
+			"Category": [
+				"USA",
+				"Brain",
+				"Newborns",
+				"Kids",
+				"Reproductive health",
+				"Transmission"
+			]
 		}
 	]
 }
