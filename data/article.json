@@ -11511,6 +11511,18 @@
 				"Macrophage",
 				"Platelets"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1128/jvi.00857-25",
+			"Date": "2025-10-31",
+			"Text": "In this autopsy-based single-case study, SARS-CoV-2 genomes were isolated from 27 tissue sites spanning pulmonary and a broad array of extrapulmonary organs. The authors sequenced the viral genomes, compared consensus and sub-consensus variants, and assessed whether tissue compartments showed evidence of viral population segregation or site-specific adaptation. They found measurable variation in viral consensus sequences between tissues, with certain variants enriched in extra-pulmonary sites. These findings suggest that the virus can disseminate systemically in severe/fatal infection and that different tissue micro-environments may impose selective pressures giving rise to compartment-specific viral populations.",
+			"Twitter": "https://x.com/Aguirre1Gustavo/status/1985710440278556798",
+			"Category": [
+				"USA",
+				"Viral persistence",
+				"SARS-CoV-2 mechanics",
+				"Immune response"
+			]
 		}
 	]
 }
