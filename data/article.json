@@ -11478,6 +11478,39 @@
 				"Reproductive health",
 				"Transmission"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ebiom.2023.104784",
+			"Date": "2023-09-12",
+			"Text": "The authors of this study found that some men recovering from COVID-19 exhibit long-term low testosterone levels (without expected LH increase) and cognitive/olfactory complaints, and they propose this may originate from damage to hypothalamic gonadotropin-releasing hormone (GnRH) neurons and adjacent glia (tanycytes). Post-mortem analyses revealed SARS-CoV-2 infection in olfactory neurons and tanycytes and consistent death of GnRH neurons in all examined brains, with reduced GnRH expression. Experiments in human fetal tissue further showed that progenitor tissues of GnRH neurons are susceptible to viral infection, supporting the neuroinvasion hypothesis. ",
+			"Twitter": "https://x.com/DiscMedNews/status/1985222665242853517",
+			"Category": [
+				"United Kingdom",
+				"France",
+				"Spain",
+				"Germany",
+				"Italy",
+				"Hungary",
+				"Long COVID",
+				"Brain",
+				"Reproductive health",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-19359-y",
+			"Date": "2025-11-03",
+			"Text": "In 85 COVID-19 patients (47 moderate, 38 severe), IL-17 levels were higher in severe disease, with a 187.9 ng/mL cut-off predicting poor outcomes; however, after adjustment, age (aOR 1.14 per year) and monocytes (aOR 1.002 per unit) were the only independent predictors (model AUC 0.86). IL-17 showed 76.6% specificity and 63.2% sensitivity (vs IL-6 72.3%/55.3%). The cohort saw 5 deaths and a longest PCR positivity of 55 days; D-dimer and creatinine also associated with severity (specificity 86.96%, sensitivity 76.60% at >1.3 mg/dL). Docking analyses argue that conserved asparagine/cysteine residues—Spike Asn343/Cys213, IL-17R Asn240, IL-6R Asn136—form exploitable nodes linking viral entry to inflammatory signaling. Predicted binders include asparaginase, phytic acid, amygdalin, and drugs like candesartan, remdesivir, enalapril, supporting a dual-action concept (disrupt Spike interfaces + temper IL-17/IL-6 pathways).",
+			"Twitter": "https://x.com/vipintukur/status/1985413973769060693",
+			"Category": [
+				"Egypt",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Treatment",
+				"Detection",
+				"Macrophage",
+				"Platelets"
+			]
 		}
 	]
 }
