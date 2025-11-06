@@ -11523,6 +11523,173 @@
 				"SARS-CoV-2 mechanics",
 				"Immune response"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12348-025-00527-0",
+			"Date": "2025-11-04",
+			"Text": "In a large database analysis of over 127 million patients, investigators found that among unvaccinated adults who developed Long COVID, the risk of new-onset uveitis (inflammation of the uveal tract of the eye) at one year was 0.13% and at two years 0.18%, compared with 0.05% and 0.08% respectively in matched unvaccinated COVID survivors without Long COVID. The adjusted hazard ratio (aHR) for any uveitis in the unvaccinated Long COVID group was 2.01 (95% CI: 1.19–3.38) at one year and 1.60 (95% CI: 1.08–2.37) at two years; for anterior uveitis the aHRs were 1.96 (95% CI: 1.13–3.41) and 1.59 (95% CI: 1.06–2.40), respectively. In contrast, among vaccinated individuals who developed Long COVID, there was no statistically significant increase in uveitis risk compared to vaccinated individuals without Long COVID (one-year aHR 0.95, 95% CI 0.58–1.55; two-year aHR 0.97, 95% CI 0.65–1.46). These findings suggest that Long COVID in unvaccinated people may predispose to ocular immune inflammatory sequelae such as uveitis (particularly anterior uveitis), perhaps via persistent immune perturbation. Vaccination appears to mitigate or neutralise that extra risk. However, because this is an observational association study with low absolute incidence (≈0.1–0.2%), reliance on administrative diagnosis codes, and no ability to compare directly vaccinated vs unvaccinated cohorts, caution is warranted in interpreting the results as causal or broadly generalisable.",
+			"Twitter": "https://x.com/vipintukur/status/1985767926100881656",
+			"Category": [
+				"USA",
+				"Egypt",
+				"Long COVID",
+				"Eye",
+				"Vaccination",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1681/ASN.2025tmd0xb1j",
+			"Date": "2025-11-04",
+			"Text": "In a large retrospective cohort of ~13,000 kidney transplant recipients, the authors found that the baseline loss of kidney graft function (eGFR decline ~1.4 mL/min/1.73 m²/year) accelerated markedly after COVID-19 infection and, to a lesser degree, after vaccination. Specifically, each COVID disease episode was associated with a steeper decline in eGFR (e.g., −0.98 for two infections) and each vaccination also added additional decline (e.g., −0.54 for two vaccinations). All associations reached high statistical significance (p < 0.001). These findings suggest that among KTRs, exposure to SARS-CoV-2 infection and even vaccination may influence long-term graft function trajectory.",
+			"Twitter": "https://x.com/ChristosArgyrop/status/1985768033936421262",
+			"Category": [
+				"USA",
+				"Kidney",
+				"Vaccination",
+				"Reinfection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1681/ASN.2025d0zdrq07",
+			"Date": "2025-11-04",
+			"Text": "In a cohort of over 1.58 million adults (mean age 57.8 y, baseline eGFR ~87.8 mL/min/1.73 m²) identified via a U.S. clinical database, researchers assessed how documented SARS-CoV-2 infections (C19D) and vaccinations (C19V) influenced the annual decline in kidney function (eGFR slope) over ~2.6 years average follow-up. Before any infection or vaccination, the average eGFR decline was approximately 1.4 mL/min/1.73 m² per year. Vaccination showed no substantial effect on eGFR loss, whereas SARS-CoV-2 infection was linked initially to hyperfiltration after up to two infections and then a modest trend to accelerated decline. ",
+			"Twitter": "https://x.com/ChristosArgyrop/status/1985768033936421262",
+			"Category": [
+				"USA",
+				"Kidney",
+				"Massive study",
+				"Vaccination",
+				"Susceptibility",
+				"Reinfection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1681/ASN.2025ejva9qy1",
+			"Date": "2025-11-04",
+			"Text": "In a cohort of over 3.2 million U.S. patients with baseline kidney function assessment, repeated episodes of COVID-19 disease were associated with a modestly increased adjusted odds of acute kidney injury (AKI), whereas repeated COVID-19 vaccinations showed no meaningful association with AKI risk. Among 1.38 million AKI episodes, the vast majority were stage 1 (91%), and the adjusted odds ratio for a fourth COVID-19 disease episode reached ~1.08 (95%CI 1.01-1.15) compared with uninfected individuals.",
+			"Twitter": "https://x.com/ChristosArgyrop/status/1985768033936421262",
+			"Category": [
+				"USA",
+				"Reinfection",
+				"Kidney",
+				"Susceptibility",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1681/ASN.2025d0zdrq07",
+			"Date": "2025-11-04",
+			"Text": "In a US cohort of about 1.58 million adults with baseline kidney function and follow-up for ~2.6 years, the study found that while vaccination against SARS-CoV-2 did not meaningfully accelerate kidney‐function decline, having one or two COVID-19 disease episodes was associated with a modest increase in eGFR (suggesting hyperfiltration) and having three or more infections showed a non-significant trend toward greater eGFR decline. The baseline annual eGFR decline in uninfected/unvaccinated individuals was about –1.36 mL/min/1.73 m²/year.",
+			"Twitter": "https://x.com/ChristosArgyrop/status/1985768033936421262",
+			"Category": [
+				"USA",
+				"Kidney",
+				"Massive study",
+				"Long COVID",
+				"Vaccination",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1681/ASN.2025p13me7jq",
+			"Date": "2025-11-04",
+			"Text": "This multicenter retrospective study analyzed data from over 14 million U.S. patients in the TriNetX network (March 2020–March 2024) to assess whether C3 glomerulopathy (C3GN) was temporally associated with COVID-19 infection or vaccination. Among these patients, 115 individuals had a C3GN diagnosis code (mean age 36.8 ± 24 years; 48.7 % female; 63 % white). Using a self-controlled case series design, the researchers compared 6-month risk windows before and after COVID-19 disease or vaccination. They found no significant link between vaccination and new C3GN (rate ratio 0.94; 95 % CI 0.69–1.27; p = 0.69), but a significant association with COVID-19 disease itself (rate ratio 1.87; 95 % CI 1.24–2.81; p = 0.003).",
+			"Twitter": "https://x.com/ChristosArgyrop/status/1985768033936421262",
+			"Category": [
+				"USA",
+				"Kidney",
+				"Vaccination",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1681/ASN.2025hrzvf9wv",
+			"Date": "2025-11-04",
+			"Text": "In a large US database cohort of 14 222 kidney transplant recipients, the authors found that any respiratory panel testing event was followed by an elevated risk of moderate-to-severe acute kidney injury (stages 2-3) during the subsequent ~2 months; a positive COVID-19 test appeared to further increase this risk, though the added effect was uncertain. Vaccination for COVID-19 showed no clear association with increased AKI risk in this population.",
+			"Twitter": "https://x.com/ChristosArgyrop/status/1985768033936421262",
+			"Category": [
+				"USA",
+				"Kidney",
+				"Vaccination",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1681/ASN.2025zyncc2vf",
+			"Date": "2025-11-04",
+			"Text": "The study of 14 222 kidney transplant recipients found that most AKI episodes after respiratory illness events were mild (stage 1) but that moderate to severe AKI (6.7 %) became more likely in the first two months after a respiratory panel test. A positive COVID-19 test appeared to raise the risk of moderate-severe AKI further, though the estimates were imprecise. Importantly, the analysis did not detect any significant increase in moderate or severe AKI risk associated with timing of COVID-19 vaccination in this cohort. Thus, for KT recipients, vaccination did not seem to worsen AKI risk, while respiratory illness (including possibly COVID-19) was a clear risk.",
+			"Twitter": "https://x.com/ChristosArgyrop/status/1985768033936421262",
+			"Category": [
+				"USA",
+				"Kidney",
+				"Vaccination",
+				"Immune response",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/S2352-4642(25)00247-0",
+			"Date": "2025-11-05",
+			"Text": "In a cohort of ~13.8 million children and adolescents in England from 2020–22, the researchers assessed the rates of several vascular and inflammatory conditions after SARS-CoV-2 infection and after first dose mRNA vaccination. COVID-19 diagnosis was associated with higher risk of arterial thromboembolism (adjusted hazard ratio: 2.33), venous thromboembolism (4.90), thrombocytopenia (3.64), myocarditis or pericarditis (3.46), and inflammatory conditions (14.84) in the first week after diagnosis. Incidence declined in weeks 2–4, but remained elevated to beyond 12 months for venous thromboembolism (1.39), thrombocytopenia (1.42), and myocarditis or pericarditis (1.42). By contrast, vaccination was associated with a much smaller excess risk (~0.85 cases per 100,000 over six months) of myocarditis/pericarditis, and other vascular or inflammatory complications were not significantly elevated after vaccination.",
+			"Twitter": "https://x.com/Yash25571056/status/1986027562435289208",
+			"Category": [
+				"United Kingdom",
+				"Austria",
+				"Belgium",
+				"USA",
+				"Kids",
+				"Myocarditis",
+				"Vaccination",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12865-025-00769-6",
+			"Date": "2025-10-31",
+			"Text": "This cross-sectional study assessed 30 elderly individuals > 65 yrs who had recovered from COVID-19 at least six months earlier and 30 matched uninfected controls, measuring apoptosis markers in PBMCs. The recovered group showed about double the levels of both early (~22.6 % vs ~11.3 %) and late (~18.9 % vs ~9.4 %) apoptosis, significantly higher mitochondrial depolarization, elevated pro-apoptotic Bax, reduced anti-apoptotic Bcl-2, and increased active Caspase-3. Furthermore, apoptotic burden correlated with COVID-19 severity and time since infection, indicating a longer-term immune cell fate alteration. The authors conclude that even after recovery, older adults may carry persistent immune cell damage in the form of enhanced intrinsic (mitochondrial) apoptosis in lymphocytes, which could compromise immune function and raise vulnerability to secondary infections or age-related immune decline.",
+			"Twitter": "https://x.com/fitterhappierAJ/status/1986133466749002105",
+			"Category": [
+				"Iran",
+				"Immune response",
+				"T cells",
+				"Apoptosis",
+				"Aging",
+				"Long COVID",
+				"Viral persistence"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jconrel.2025.114376",
+			"Date": "2025-11-06",
+			"Text": "The study presents a novel oral vaccine delivery platform (HA/trimethyl-chitosan coacervate) that shields vaccine antigens from the harsh gastrointestinal environment and promotes dendritic cell engagement. In mice, this approach achieved systemic antibody and cellular immune responses on par with intramuscular vaccination, but with the added benefit of inducing mucosal (gut) secretory IgA, which intramuscular immunisation failed to do. Beyond humoral responses, the platform generated robust memory T cell and memory B cell pools persisting for at least six months (180 days) and conferred protection upon SARS-CoV-2 challenge.",
+			"Twitter": "https://x.com/Yash25571056/status/1986185900574056762",
+			"Category": [
+				"China",
+				"Vaccination",
+				"Immune response",
+				"Antibodies",
+				"T cells",
+				"B cells",
+				"Gastrointestinal",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fpsyt.2025.1640207",
+			"Date": "2025-11-05",
+			"Text": "Heavy or chronic alcohol consumption appears to compound both the acute and long-term effects of SARS-CoV-2 infection. People with alcohol use disorder (AUD) may be at higher risk of contracting the virus (e.g., 2.44 × higher seroconversion risk in one study), and of worse outcomes (meta-analysis: ~23 % higher risk of severe COVID-19, ~79 % higher risk of hospitalisation). Mechanistically, alcohol and COVID-19 converge via impaired immune responses, increased ACE2 receptor expression, gut-brain axis disruption and neuroinflammation, which may also accelerate or sustain neuropsychiatric and cognitive sequelae.",
+			"Twitter": "https://x.com/Yash25571056/status/1986401293804712360",
+			"Category": [
+				"Spain",
+				"Lungs",
+				"Brain",
+				"Gastrointestinal",
+				"Liver",
+				"Long COVID",
+				"Self-reported",
+				"Susceptibility"
+			]
 		}
 	]
 }
