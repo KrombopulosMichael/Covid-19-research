@@ -11690,6 +11690,59 @@
 				"Self-reported",
 				"Susceptibility"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12890-025-04007-y",
+			"Date": "2025-11-06",
+			"Text": "This prospective single-centre study followed 110 non-hospitalized 6–60-year-olds after mild PCR-confirmed COVID-19, assessing spirometry, DLCO, and lung clearance index (LCI) 4–12 weeks post infection, plus follow-up in those with initial abnormalities. At baseline, at least one abnormal lung function parameter was present in 50% of adults and 85% of children, predominantly due to elevated LCI (42.2% vs 75%); classic spirometry and DLCO deficits were less common. Multiplex PCR frequently detected other respiratory pathogens in both normal and abnormal lung function groups, indicating potential confounding but not fully explaining the findings. At ~5 months post infection, most parameters improved, yet 83.3% of adults and 69.2% of children with initial impairment still had ≥1 abnormal value, typically mild. Persistent exertional dyspnoea and other symptoms were reported mainly by adults, and were associated with worse DLCO and LCI, while LCI often remained abnormal even without symptoms, suggesting subclinical small-airways involvement.",
+			"Twitter": "https://x.com/Yash25571056/status/1987672946887074179?s=20",
+			"Category": [
+				"Germany",
+				"Long COVID",
+				"Lungs",
+				"Kids",
+				"Mild infection",
+				"Detection",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pone.0336015",
+			"Date": "2025-11-07",
+			"Text": "Patients recovering from COVID-19 may report “brain fog” or cognitive dysfunction long after the acute phase. In this rodent study, intranasally introduced SARS-CoV-2 S1-protein reached the hippocampus and by six weeks induced measurable memory/learning impairments, coupled with downregulation of synaptic-plasticity genes, HIF-1α stabilization, neuronal loss, and aggregation of neurodegenerative-associated proteins (p-tau, α-synuclein). The authors identify HIF-1α as a key mediator of S1’s effect on synaptic genes, and show that metformin (at least in cell/animal models) can restore synaptic gene expression and reduce pathological protein accumulation. Thus, they provide a plausible molecular mechanism linking SARS-CoV-2 spike protein exposure in the brain with later-life neurodegenerative changes and cognitive decline, and highlight metformin as a potential therapeutic avenue.",
+			"Twitter": "https://x.com/atranscendedman/status/1987519806304608482?s=20",
+			"Category": [
+				"South Korea",
+				"Brain",
+				"Long COVID",
+				"Viral persistence",
+				"mRNA vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.xcrm.2025.102449",
+			"Date": "2025-11-07",
+			"Text": "In this study of 78 long COVID patients with ME/CFS and 62 matched post-infection controls, the authors found pronounced sex-specific immuno-hormonal and transcriptomic dysregulation. Female patients exhibited increased myelopoiesis (higher neutrophils/monocytes), decreased lymphocytes/regulatory T cells, elevated CD71⁺ erythroid precursors (suggesting disrupted red-blood-cell generation), and stronger pro-inflammatory/cytokine and gut-barrier-leak signatures. Hormonal disturbances (notably lower testosterone in women; lower estradiol in men) correlated with symptom severity and inflammatory markers. The transcriptomic data further supported sex-biased biology: women had enriched gene-expression pathways tied to neuroinflammation and microglial activation, which may underlie cognitive symptoms (“brain fog”). The work therefore argues that long COVID (at least in the ME/CFS phenotype) is not a monolithic syndrome but has biologically distinct subtypes by sex. Treatment implications include considering hormone replacement, erythropoiesis support and anti-inflammatory strategies.",
+			"Twitter": "https://x.com/vipintukur/status/1987005105867231647?s=20",
+			"Category": [
+				"Canada",
+				"Long COVID",
+				"Immune response",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3389/fimmu.2025.1710783",
+			"Date": "2025-11-07",
+			"Text": "In this study of 44 Long COVID patients and 44 matched convalescent controls, the authors used single-cell RNA sequencing of Peripheral blood mononuclear cells (PBMCs) to explore immune-cell transcriptional signatures. While overall immune-cell compositions were similar between groups, classical monocytes in Long COVID patients displayed 37 down-regulated genes (fold-change >3 and p<10⁻¹⁸) including key inflammatory mediators (IL1B, CXCL2, CCL3/4) and showed suppressed activation of inflammation-related pathways (e.g., TNFα/NF-κB signaling). Transcription-factor inference pointed to elevated SNAI1 (inflammasome suppression) and reduced ATF2 (monocyte differentiation), and RNA-velocity analyses suggested the presence of immature monocyte populations in the Long COVID group. Plasma measurements confirmed lower CXCL2 levels, reinforcing the transcriptional findings.",
+			"Twitter": "https://x.com/HarrySpoelstra/status/1986754489735328123",
+			"Category": [
+				"Germany",
+				"Long COVID",
+				"Immune response",
+				"Mild infection",
+				"Self-reported"
+			]
 		}
 	]
 }
