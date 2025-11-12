@@ -11743,6 +11743,37 @@
 				"Mild infection",
 				"Self-reported"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamaneurol.2025.4415",
+			"Date": "2025-11-10",
+			"Text": "In a 5-arm randomized clinical trial of 328 adults with self-reported cognitive symptoms of long COVID (median age 48, 73.5% female), the authors tested three remotely delivered interventions — adaptive computerized cognitive training (BrainHQ), structured cognitive-behavioural rehabilitation (PASC-CoRE) plus BrainHQ, and transcranial direct current stimulation (tDCS) plus BrainHQ — against active comparator arms (computer puzzles/games or sham‐tDCS plus BrainHQ) over 10 weeks (5 sessions/week). The primary outcome, change in the modified Everyday Cognition Scale 2 (mECog2) at end of intervention, showed no significant differences: e.g., BrainHQ vs comparator difference 0.0 (95% CI −0.2 to 0.2), and PASC-CoRE+BrainHQ vs comparator 0.1 (95% CI −0.1 to 0.3). Secondary outcomes likewise did not favour the active interventions, although all arms improved over time. The authors conclude that these phase 2 interventions did not demonstrate additional benefit over comparator approaches for cognitive symptoms in long COVID. Important caveats include that over half of participants lacked objective cognitive impairment at baseline (entry was based on subjective symptoms), the underlying biology of cognitive PASC is unclear (which complicates target selection), and non-specific/expectation/trial participation effects may have contributed to the improvements seen.",
+			"Twitter": "https://x.com/Yash25571056/status/1988096872108658788",
+			"Category": [
+				"Brain",
+				"Long COVID",
+				"Treatment",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s10571-025-01622-5",
+			"Date": "2025-11-04",
+			"Text": "Neurotropic viruses reach the CNS via nerves or blood (often breaching the BBB) and can persist, provoking microglial/astrocytic activation, oxidative stress, and excitotoxicity. This cytokine milieu—prominently IL-1β, IFN-γ, TNF-α—disrupts GABAergic and dopaminergic transmission, drives calcium-signaling derangements (NMDAR, RyR, IP3R, VSCC, AMPAR), and ultimately depresses synaptic strength and plasticity. The result is durable circuit-level remodeling tied to cognitive and behavioral deficits. Across viral families (e.g., HSV-1, LCMV, EBV, Nipah), the paper compiles evidence that such mechanisms can also intersect with proteinopathies (e.g., α-synuclein aggregation) and demyelination. It proposes a layered care model: antivirals + anti-inflammatories, with emerging gene/nano/immuno/stem-cell therapies and neurotechnology (DBS, VNS) to restore plasticity.",
+			"Twitter": "https://x.com/Yash25571056/status/1988222572253893030",
+			"Category": [
+				"Iran",
+				"Brain",
+				"Review",
+				"Immune response",
+				"Interferon",
+				"Viral persistence",
+				"Endothelium",
+				"Nerves",
+				"Treatment",
+				"Parkinson",
+				"Epstein-Barr"
+			]
 		}
 	]
 }
