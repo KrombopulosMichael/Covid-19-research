@@ -11784,6 +11784,32 @@
 				"Germany",
 				"Long COVID"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s44466-025-00012-2",
+			"Date": "2025-11-20",
+			"Text": "This longitudinal study provides compelling evidence that immune recovery after SARS-CoV-2 infection can remain incomplete even three years after the acute phase. Survivors exhibited persistent inflammation and a reduced reservoir of naïve T and MAIT cells, indicating a lasting shift in immune composition possibly akin to accelerated immune ageing. Crucially, the sustained inflammatory state was driven not by innate immune cells (monocytes) but by a distinct pathogenic subset of Th17 T cells (LTB⁺ Th17), whose abundance correlated with elevated pro-inflammatory cytokines such as S100A8 and IL-16. These findings suggest that the immune system does not fully reset after COVID-19, and that such long-term dysregulation may underlie the prolonged symptoms seen in some individuals. Mechanistically, the data point to a self-perpetuating cycle: elevated S100A8/A9 and IL-16 in circulation may help maintain LTB⁺ Th17 cells, which in turn sustain inflammation — a feedback loop that persists years after infection. Because of this, the authors suggest that therapeutically suppressing these pathogenic Th17 subsets may alleviate long-COVID symptoms and restore immune balance.",
+			"Twitter": "https://x.com/evelio_prieto/status/1993502687640363251?s=20",
+			"Category": [
+				"China",
+				"Immune response",
+				"T cells",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1097/WAD.0000000000000700",
+			"Date": "2025-11-12",
+			"Text": "This retrospective cohort study followed 105 patients with mild–moderate Alzheimer’s disease in a Brazilian dementia clinic from March 2020 to March 2025, comparing those who survived COVID-19 (28 patients, 26.7%) with those who never had documented infection. COVID-19 survivors had a ~5-fold higher odds of rapid AD progression (OR 4.76; 95% CI 1.04–21.7; P = 0.044) and showed greater loss of functional independence on the Katz index (P = 0.001), with impairment seen even after mild infections. At 5-year follow-up, AD patients who had been hospitalized during COVID-19 had lower survival than non-hospitalized patients, indicating a higher long-term risk of death.",
+			"Twitter": "https://x.com/Yash25571056/status/1988834447219888160",
+			"Category": [
+				"Brazil",
+				"",
+				"Brain",
+				"Long COVID",
+				"Susceptibility",
+				"Aging"
+			]
 		}
 	]
 }
