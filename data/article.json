@@ -11810,6 +11810,192 @@
 				"Susceptibility",
 				"Aging"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1126/scitranslmed.ady0210",
+			"Date": "2025-11-12",
+			"Text": "The study develops an EBV-specific single-cell RNA-seq and multi-omics platform to track Epstein-Barr virus–infected B cells in people with and without systemic lupus erythematosus (SLE). In healthy EBV-infected individuals, fewer than 1 in 10,000 B cells carry EBV, but in lupus this rises to about 1 in 400—a ~25-fold enrichment. These EBV⁺ cells are CD27⁺CD21^low memory B cells that express ZEB2, T-bet (TBX21) and strong antigen-presenting cell programs. EBNA2, a viral protein expressed during latency, binds promoters and regulatory regions of CD27, ZEB2, TBX21 and APC-related genes, reprogramming these cells into highly inflammatory antigen-presenting cells. Recombinant antibodies derived from SLE EBV⁺ B cells strongly bind classic nuclear autoantigens, whereas those from healthy donors do not, confirming that these EBV⁺ cells are antinuclear and autoreactive. Functionally, SLE EBV⁺ B cells act as antigen-presenting cells that activate T peripheral helper cells, which then drive EBV⁻ antinuclear DN2 B cells and plasmablasts, amplifying systemic autoimmunity. Together, these findings offer a mechanistic explanation for how a ubiquitous virus that infects ~95% of humans can specifically drive SLE: EBV hijacks a small pool of autoreactive B cells and turns them into “driver” APCs that recruit a much larger network of autoreactive T and B cells.",
+			"Twitter": "https://x.com/VirusesImmunity/status/1989169519680713210",
+			"Category": [
+				"USA",
+				"Epstein-Barr",
+				"B cells",
+				"Autoimmunity",
+				"Immune response",
+				"T cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2024.01.08.574642",
+			"Date": "2024-01-09",
+			"Text": "The study shows that SARS-CoV-2 infects human intestinal epithelial cells far more easily when the virus contacts them from the gut-lumen side (the “top” of the intestine) than from the blood-side. Once infection starts, the virus damages the epithelial barrier: cells lose their tight junctions, cell adhesion weakens, and electrical resistance across the layer drops — all signs the “wall” that keeps gut contents separate from the body is breaking down. Over time, live virus appears on the “blood” side in the model, suggesting that what begins as a gut infection could allow SARS-CoV-2 to leak into the body and spread systemically. This supports the notion that the intestine may serve not just as a passive target, but as an active entry point for SARS-CoV-2, especially via ingestion/ingestion-to-gut pathways.",
+			"Twitter": "https://x.com/polybioRF/status/1989449228037542098",
+			"Category": [
+				"France",
+				"SARS-CoV-2 mechanics",
+				"Gastrointestinal",
+				"Endothelium",
+				"Viral persistence",
+				"Preprint",
+				"Transmission"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1080/23744235.2025.2585984",
+			"Date": "2025-11-08",
+			"Text": "The study found that prior antibiotic exposure is associated with significantly worse COVID-19 outcomes. Among 445,646 adults with confirmed infection, those who had taken antibiotics within the last three months (11.1% of cohort) had higher chances of emergency-room visits, hospital admission, and death within 30 days of their positive test compared with those without recent antibiotic use. Adjusted analyses and propensity-score matching confirmed these associations, which persisted even when considering antibiotic use up to a year before infection, or when restricting to “appropriate” prescriptions. Importantly, risk increased with cumulative antibiotic exposure, broad-spectrum antibiotic use, and was particularly notable in younger patients. The authors suggest that antibiotic-induced disturbances in the gut microbiome may impair immune responses, potentially worsening disease severity.",
+			"Twitter": "https://x.com/atranscendedman/status/1990098363849560369",
+			"Category": [
+				"Canada",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"Susceptibility",
+				"Treatment",
+				"Gastrointestinal"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bbi.2025.106176",
+			"Date": "2025-11-16",
+			"Text": "Mice receiving direct injection of the SARS-CoV-2 spike protein RBD into the prefrontal cortex developed depressive-like behavior, reduced neuronal excitability, and impaired brain connectivity — changes that correlated with loss of astrocytic Cx43 expression and disrupted gap junction communication. The impaired GJIC was confirmed by reduced transfer of molecular tracers (Lucifer Yellow, cAMP, cGAMP) between astrocytes, along with activation of type I interferon signaling and the cGAS–STING neuroinflammatory pathway. By genetically deleting Cx43 in astrocytes or pharmacologically blocking GJIC, the study recapitulated the depressive-like phenotypes; whereas overexpression of Cx43 or treatment with celecoxib rescued gap junction function and reversed behavioral changes. The results suggest that SARS-CoV-2 spike protein can directly impair astrocyte function via Cx43-mediated GJIC disruption, providing a plausible biological mechanism underpinning depression in Long COVID — and offering astrocytic gap junction integrity as a potential therapeutic target.",
+			"Twitter": "https://x.com/Yash25571056/status/1990347529356267895",
+			"Category": [
+				"China",
+				"Brain",
+				"Long COVID",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"T cells",
+				"Treatment"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-025-63711-9",
+			"Date": "2025-10-01",
+			"Text": "This study followed people who had recovered from COVID-19 to see how spike-specific CD4⁺ T-cell memory changes over 3–4 years. The authors identified public TCRα clonotypes targeting three conserved spike epitopes; these clonotypes were relatively common in pre-pandemic repertoires and were associated with mild disease in early-pandemic cohorts. In a longitudinal analysis of 2,213 single CD4⁺ T cells from 13 individuals, many TCRα clonotypes persisted (up to 80% for one epitope), and clones with clonotypes present at both timepoints showed higher secretion of cytokines like GM-CSF, IL-4, IL-5, IL-6, IL-13, and TNF-α. Over time, spike-specific CD4⁺ T cells shifted from a Th1-dominant, highly activated profile at 1–3 months to a more cytotoxic, GZMA-driven phenotype at 3–4 years, independent of TCR clonotype. Among 98 T-cell clones, cytotoxic clones (defined by >10% killing) expressed higher GZMA and showed significantly stronger suppression of SARS-CoV-2 replication in vitro (ρ = 0.39).",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1990177850801193327",
+			"Category": [
+				"United Kingdom",
+				"Thailand",
+				"SARS-CoV-2 mechanics",
+				"Immune response",
+				"T cells",
+				"Vaccination",
+				"Natural immunity",
+				"Hybrid immunity",
+				"Mild infection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1186/s12879-025-11968-2",
+			"Date": "2025-11-18",
+			"Text": "Although the Omicron variant is generally less virulent than earlier strains of SARS-CoV-2, this study of 211 maintenance hemodialysis (MHD) patients from Shanghai — a medically vulnerable population — found a substantial 28-day mortality of 9.5%. Among patients with severe or critical disease, the death rate was nearly one third (~32.7%). Deaths were most often due to cardiovascular complications, followed by respiratory failure, septic shock, or gastrointestinal hemorrhage. Importantly, the study identified pre-existing cardiovascular disease, elevated CRP, high IL-6, and very high NT-proBNP at admission as independent predictors of 28-day mortality. A risk-score combining these four factors achieved excellent prognostic performance (AUC 0.96), offering a potential tool for early identification of high-risk MHD patients needing intensified care. ",
+			"Twitter": "https://x.com/Yash25571056/status/1991048641730261160",
+			"Category": [
+				"China",
+				"Lungs",
+				"SARS-CoV-2 mechanics",
+				"Omicron",
+				"Kidney",
+				"Susceptibility"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.aed.2025.11.005",
+			"Date": "2025-11-18",
+			"Text": "This study analyzed subacute thyroiditis (SAT) cases before and after the COVID-19 pandemic and found no change in incidence, but a clear increase in disease severity during the pandemic. Post-COVID SAT was characterized by significantly higher severe hyperthyroid markers: FT4 increased from 35.5→41.0 pmol/L (p=0.05) and FT3 from 8.7→14.2 pmol/L (p=0.02). Suppressed TSH (<0.01) was more common post-COVID (68% vs. 53%). The hypothyroid phase also worsened, with median TSH rising from 4.1 to 7.6 mIU/L (p=0.0046), and a higher proportion of patients reaching TSH >10 mIU/L (30% vs. 13%). These results suggest that COVID-19 may intensify both hyperthyroid and hypothyroid phases of SAT, possibly via direct ACE2-mediated viral toxicity, cytokine-driven inflammation, or post-infectious immune dysregulation. The authors note that they could not distinguish SAT caused by infection from SAT following vaccination, and missing inflammatory markers (ESR/CRP) limited characterization of inflammatory severity. Reduced clinic visits during the pandemic may also have led to selection bias favoring more severe cases.",
+			"Twitter": "https://x.com/Yash25571056/status/1991121142493712814",
+			"Category": [
+				"Canada",
+				"Thyroid",
+				"Autoimmunity",
+				"Treatment",
+				"Vaccination"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-025-66270-1",
+			"Date": "2025-11-18",
+			"Text": "This nationwide Swedish cohort study followed 4.1 million people aged 40–75 between 2020–2021 to examine incident cardiovascular disease (CVD) after SARS-CoV-2 infection. Compared with non-infected individuals, COVID-19 was associated with higher risk of all major CVD outcomes and mortality, even after adjusting for comorbidities and vaccination. In fully adjusted models, HRs ranged from 1.22 (95% CI 1.14–1.31) for acute myocardial infarction to 4.31 (4.09–4.55) for pulmonary embolism, with the highest risks in the first 0–14 days after infection (PE HR 44.15 in that window). Elevated risk persisted for some outcomes up to 2 years after infection, including stroke, broader cerebrovascular disease, heart failure, DVT and cardiovascular/all-cause mortality. Severe (hospitalised) COVID-19 carried very large increases in CVD and mortality risk (e.g. PE HR 22.94; all-cause mortality HR 10.77), but even mild, non-hospitalised cases had higher risks of ischaemic heart disease (HR 1.07) and venous thromboembolism (DVT HR 1.41, PE HR 1.78) and modestly higher all-cause and CVD mortality. Vaccination attenuated—but did not abolish—these risks, supporting a cardioprotective role of COVID-19 vaccines. Excess risk was more pronounced in men, older adults, and those with low income and education, indicating that COVID-19 may amplify existing social inequalities in cardiovascular health.",
+			"Twitter": "https://x.com/HarrySpoelstra/status/1991072891140456857",
+			"Category": [
+				"Sweden",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Endothelium",
+				"Vaccination",
+				"Susceptibility",
+				"Mild infection",
+				"Massive study",
+				"Platelets"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s12672-025-03403-4",
+			"Date": "2025-08-14",
+			"Text": "This very large matched cohort study of 2.56 million women (1.28 M with COVID-19 vs 1.28 M without) found that SARS-CoV-2 infection was associated with significantly higher 3-year risks of HPV-related precancer and cancer of the cervix, vagina, vulva, anus and oropharynx. Compared with non-infected controls, women with documented SARS-CoV-2 had about 67–131 % higher risks of HPV-related cancers depending on the site, and 34–96 % higher risks of carcinoma in situ at the same locations. These patterns held across most age and race subgroups, with particularly pronounced relative risks in Black women. Because classic HPV-related invasive cancers usually take 5–10 years to develop, the emergence of more CIS and cancers within just 3 years after COVID-19 suggests that SARS-CoV-2 infection may accelerate progression of pre-existing HPV lesions rather than initiating disease from scratch.",
+			"Twitter": "https://x.com/PSHolstein/status/1990864210633343170",
+			"Category": [
+				"Taiwan",
+				"Cancer",
+				"Susceptibility",
+				"Massive study",
+				"Reproductive health",
+				"Oral"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-025-65131-1",
+			"Date": "2025-11-21",
+			"Text": "This Nature Communications study examines 18 fetuses from pregnancies with documented SARS-CoV-2 infection and 6 controls, using 538 samples across 32 fetal tissue types plus placenta to look for in-utero infection. The authors detect viral nucleocapsid RNA in 49 samples, with higher loads in 21, spanning 16 organ types including intestine, thyroid, thymus, kidney, testis, skin, heart and cerebellum. Subgenomic RNA, TEM, in situ hybridization, and immunofluorescence collectively show not only the presence of intact virions but also local expression of ACE2/TMPRSS2, inflammatory markers (HMGB1, CD86, CD11B), and fibrosis marker fibronectin, indicating true infection and tissue response. Proteomics in selected organs shows down-regulated DNA repair pathways and up-regulated IL-2/STAT5 signaling, suggesting that fetal organs mount immune-related responses while potentially experiencing genomic stress. Among the 18 fetuses, 16 show at least one infected organ, while infection prevalence falls as the time between maternal infection and termination increases; viral loads in fetal tissues remain lower than in adult organs. Only two placentas test positive by ddPCR (possibly under-detected due to limited sampling), but these show barrier-disrupting lesions, supporting an intra-amniotic/placental transmission route. The authors conclude that SARS-CoV-2 can, in some pregnancies, cross the maternal–fetal barrier and persist in multiple fetal organs, yet they emphasize that infections appear sporadic and that most babies born to infected mothers in broader cohorts have mild or no disease.",
+			"Twitter": "https://x.com/atranscendedman/status/1991947672773644536",
+			"Category": [
+				"China",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Viral persistence",
+				"Gastrointestinal",
+				"Immune response",
+				"T cells",
+				"Transmission",
+				"Susceptibility",
+				"Detection",
+				"Reproductive health",
+				"Thyroid",
+				"Thymus",
+				"Kidney",
+				"Pancreas",
+				"Nucleocapsid",
+				"Macrophage",
+				"Newborns"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.jfma.2025.11.017",
+			"Date": "2025-11-20",
+			"Text": "This study shows that after COVID-19, adolescents (12–18 years) report neuropsychiatric sequelae more often than younger children (6–9 years), suggesting that older age within the pediatric population is associated with a greater burden of post-COVID neuropsychiatric symptoms. In the younger children, initial symptoms such as behavioral changes, dysphagia, or chest tightness predicted later neuropsychiatric issues; in adolescents, imbalance, dizziness, and diarrhea during infection were the main predictors. Notably, among adolescents, prior vaccination correlated with a markedly lower likelihood of reporting cognitive and sensory symptoms such as brain fog, memory problems, or loss of taste/smell — hinting that vaccination may mitigate some risk of neuropsychiatric sequelae.",
+			"Twitter": "https://x.com/Yash25571056/status/1992321167517192542",
+			"Category": [
+				"Taiwan",
+				"Brain",
+				"Long COVID",
+				"SARS-CoV-2 mechanics",
+				"Vaccination",
+				"Immune response",
+				"Self-reported"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pone.0335038",
+			"Date": "2025-11-21",
+			"Text": "The study examined 55 individuals with Post-COVID Condition (PCC) roughly 11 months after SARS-CoV-2 infection, comparing them to 36 recovered individuals without persistent symptoms. Using arterial spin labeling MRI, researchers measured cerebral blood flow (CBF) and also evaluated cortical structure. While there was no evidence of cortical atrophy, an exploratory analysis revealed reduced perfusion in the right angular and right middle occipital gyri among PCC patients. Importantly, lower CBF in right occipital regions correlated significantly with patients’ fatigue (especially physical fatigue), but not with cognitive impairment or olfactory dysfunction. The authors propose that hypoperfusion of right-hemispheric occipital areas may underlie the persistent fatigue experienced in PCC — suggesting a physiological mechanism and a possible imaging biomarker for this common long-COVID symptom.",
+			"Twitter": "https://x.com/HarrySpoelstra/status/1992172984996442286",
+			"Category": [
+				"Brain",
+				"Long COVID",
+				"Self-reported",
+				"Detection"
+			]
 		}
 	]
 }
