@@ -12038,6 +12038,46 @@
 				"Detection",
 				"Mild infection"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.11.20.689423",
+			"Date": "2025-11-20",
+			"Text": "The study shows that IgG antibodies from Long COVID patients with neurological complaints, when transferred into mice, can induce sensory (but not cognitive) dysfunction. This provides experimental evidence that circulating antibodies — rather than viral persistence or structural brain damage — may drive at least some Long COVID neurological symptoms. However, the transfer did not cause detectable cognitive impairments, indicating a more nuanced picture: not all neurological aspects of Long COVID may be antibody-mediated. Thus, pathogenic IgG might contribute to certain sensory symptoms (e.g. altered sensation, pain, sensitivity) but may not fully explain cognitive problems often reported by patients.",
+			"Twitter": "https://x.com/vipintukur/status/1994448539351679343",
+			"Category": [
+				"Belgium",
+				"Long COVID",
+				"Immune response",
+				"Antibodies",
+				"Preprint",
+				"Nerves",
+				"Pain"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.bbih.2025.101142",
+			"Date": "2025-11-29",
+			"Text": "This multimodal MRI study compared brain structure and neurochemistry among 19 long-COVID patients, 12 COVID-recovered but symptom-free individuals, and 16 never-infected healthy controls. Researchers found that long-COVID and even recovered individuals showed significantly altered T1w/T2w signals (a proxy for myelin/tissue integrity) and changes in diffusion imaging metrics, suggesting persistent microstructural brain alterations after SARS-CoV-2 infection. In addition, neurochemical differences (as measured by MRS) were observed between long-COVID patients and recovered controls, while T1w/T2w signal intensities correlated with physical and cognitive function. These findings provide evidence that SARS-CoV-2 infection may leave long-lasting imprints on brain structure and chemistry — even in people who recovered without persistent symptoms — and highlight potential mechanisms underlying the neurological complaints seen in long-COVID.",
+			"Twitter": "https://x.com/Yash25571056/status/1994731773276950801",
+			"Category": [
+				"Australia",
+				"Brain",
+				"Long COVID",
+				"SARS-CoV-2 mechanics",
+				"Immune response"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-025-66753-1",
+			"Date": "2025-11-27",
+			"Text": "In a longitudinal Zurich cohort (25 healthy controls; 64 acute COVID-19 patients; 69 and 66 at 6- and 12-month follow-up), the authors show that IL-2 and IL-7 receptor expression on CD4⁺ and CD8⁺ T cells stays abnormal for 6–12 months after SARS-CoV-2 infection. T cells — including SARS-CoV-2–specific, influenza-specific, and EBV-specific memory cells — exhibit persistently high CD25/CD122 and reduced CD127, together with elevated activation markers (HLA-DR, T-bet, Ki-67), especially in individuals who had severe acute disease. Serum IL-7 and IL-15 are increased during acute infection, and IL-15 remains elevated at 6 months, inversely correlating with T-cell counts and positively with CD25 expression. In vitro experiments show that prolonged IL-7 or IL-15 (but not IL-2) stimulation is sufficient to induce this high-CD25/low-CD127 phenotype on memory T cells via JAK-dependent signaling, supporting a mechanistic model where lymphopenia-driven increases in homeostatic cytokines maintain chronic T-cell activation. Individuals reporting Long COVID symptoms up to 12 months have higher CD25 expression on total and SARS-CoV-2-specific T cells than fully recovered individuals, suggesting that this cytokine-receptor dyshomeostasis may contribute to LC-associated low-grade inflammation.",
+			"Twitter": "https://x.com/evelio_prieto/status/1994493278155411886",
+			"Category": [
+				"Switzerland",
+				"Long COVID",
+				"Immune response",
+				"T cells"
+			]
 		}
 	]
 }
