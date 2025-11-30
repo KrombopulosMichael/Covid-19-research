@@ -12078,6 +12078,18 @@
 				"Immune response",
 				"T cells"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-24868-x",
+			"Date": "2025-11-20",
+			"Text": "This longitudinal study followed 943 children and young people aged 11–17 in England for 24 months after a confirmed SARS-CoV-2 infection. Using the Chalder Fatigue Scale, the authors found that 35.0% were fatigue “cases” at 3 months, rising to 40.2% at 24 months, and 61.6% met the case threshold at least once. About 15.9% met case-ness at all four follow-ups, indicating persistent, clinically relevant fatigue two years post-infection. Fatigue scores increased modestly on average (+0.448 CFQ points over 24 months), with higher and steeper trajectories in girls, older adolescents, those with learning difficulties, pre-pandemic fatigue, and those meeting a Post-COVID Condition definition at 3 months. The study also evaluated a single-item fatigue question against the CFQ. Combining “mild” and “severe” responses yielded sensitivities of 0.728–0.794 and specificities of 0.755–0.808, suggesting it is a practical screening tool, although up to about one in five who reported no unusual fatigue still met CFQ case-ness. The authors note important limitations, including absence of a sustained SARS-CoV-2-negative comparison group, missing data on reinfections, vaccination effects and non-COVID contributors to fatigue, and potential selection and recall bias.",
+			"Twitter": "https://x.com/globalhlthtwit/status/1994341802854207556",
+			"Category": [
+				"United Kingdom",
+				"Long COVID",
+				"Immune response",
+				"T cells"
+			]
 		}
 	]
 }
