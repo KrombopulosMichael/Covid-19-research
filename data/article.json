@@ -11996,6 +11996,48 @@
 				"Self-reported",
 				"Detection"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1007/s15010-025-02612-x",
+			"Date": "2025-07-21",
+			"Text": "This correspondence describes a proof-of-concept EV-proteomics study in 14 adults with long COVID, on average 17 ± 10 months after their initial SARS-CoV-2 infection. From 56 serum EV samples, the authors detected 65 distinct peptides from the viral replicase polyprotein Pp1ab, identifying Pp1ab fragments in 22/56 samples and in at least one sample from every participant. A specific peptide (“GSLPINVIVFDGK”, from nsp3) was confirmed in 12/14 patients using targeted mass spectrometry, while no viral peptides were found in 20 pre-pandemic control samples. These findings suggest that SARS-CoV-2 replication-protein fragments packaged in serum EVs can persist long after acute infection and may represent a potential biomarker for long COVID, consistent with broader evidence for viral persistence.",
+			"Twitter": "https://x.com/Rainmaker1973/status/1993003274467778921",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Viral persistence",
+				"Detection",
+				"SARS-CoV-2 mechanics",
+				"Omicron"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41598-025-28909-3",
+			"Date": "2025-11-26",
+			"Text": "This Scientific Reports study examined why hair loss (telogen effluvium, TE) often appears weeks after COVID-19. Using scalp biopsies and plucked hair follicles from two adults, the authors show that SARS-CoV-2 entry factors ACE2 and TMPRSS2 are expressed in specific layers of the human hair follicle, particularly the basal outer root sheath (ORS) that contains K15⁺ epithelial stem/progenitor cells. ACE2 and TMPRSS2 mRNA are present but 10²–10⁵-fold lower than keratin genes and much lower than in classic ACE2/TMPRSS2-rich organs like prostate or small intestine. When plucked follicles were exposed ex vivo to SARS-CoV-2 (lineage B.1) for up to 96 h, viral nucleocapsid protein was detected in the basal ORS in 2 of 3 biological replicates, and those NC⁺ K15⁺ cells also showed cleaved caspase-3 and TUNEL positivity, indicating localized apoptosis-related stress responses, while overall follicle viability was preserved. Because TE after COVID-19 typically begins 56–74 days post-infection, these findings support the idea that direct viral interaction with hair-follicle stem/progenitor cells contributes to transient, post-COVID hair shedding, even though the study does not prove full productive viral replication in follicles.",
+			"Twitter": "https://x.com/vipintukur/status/1994093581464973363",
+			"Category": [
+				"Germany",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Nucleocapsid",
+				"Susceptibility",
+				"Detection"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-025-65597-z",
+			"Date": "2025-11-26",
+			"Text": "This study examined 269 adults about 1–1.5 years after mainly mild, non-hospitalized COVID-19, dividing them into three groups: cognitive PASC with objective impairment (Cog-PASC), PASC with other symptoms but normal cognition, and no significant PASC. Using brain MRI and blood biomarkers in two independent cohorts (n=160 and n=109), the authors found that only the Cog-PASC group showed a consistent pattern of elevated brain-injury markers (GFAP and, in the validation cohort, NfL), cortical thinning in cingulate/insular/frontal-parietal regions, increased iron deposition in cortical and deep structures, choroid plexus enlargement, and diffusion changes suggestive of white-matter and glymphatic dysfunction. High-throughput serum proteomics (3,072 proteins) further revealed a Cog-PASC-specific profile involving oxidative stress pathways, synaptic proteins, and immune/vascular regulators. A classifier using 54 proteins, notably CASQ2, ARHGAP1 and TREM2, achieved an AUC of 0.889 for identifying Cog-PASC. The authors conclude that cognitive long COVID in this subgroup is associated with ongoing neurodegeneration-like processes distinct from other PASC phenotypes, reinforcing the need for targeted monitoring and mechanistic studies, while emphasizing that these findings currently apply to predominantly mild, non-hospitalized Korean patients.",
+			"Twitter": "https://x.com/Yash25571056/status/1994338521914761286",
+			"Category": [
+				"South Korea",
+				"Brain",
+				"Long COVID",
+				"Immune response",
+				"Detection",
+				"Mild infection"
+			]
 		}
 	]
 }
