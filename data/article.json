@@ -12090,6 +12090,64 @@
 				"Immune response",
 				"T cells"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.3390/cells14231875",
+			"Date": "2025-11-26",
+			"Text": "This study reports that people suffering from Long COVID exhibit persistent immune dysregulation: chronic inflammation combined with altered immune cell responses. Importantly, these immunological disturbances correlate with neurological manifestations in those patients. The authors propose that Long COVID may not only cause ongoing symptoms but also induce a systemic, aging-like shift in the immune system (“accelerated aging”). ",
+			"Twitter": "https://x.com/Yash25571056/status/1995039188170031261",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Immune response",
+				"Brain",
+				"Aging"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1101/2025.11.19.25340573",
+			"Date": "2025-11-21",
+			"Text": "This preprint uses whole-genome sequencing of 11,423 critically ill COVID-19 patients and 60,628 controls, plus meta-analysis with international cohorts, to dissect genetic risk for life-threatening COVID-19. It finds 38 genome-wide significant loci, including new common-variant signals near ARF1, ZNF462, KLF13 and MVP, raising the total to 52 common variants associated with critical COVID-19 across all GenOMICC work.Gene-based rare-variant tests across 28,091 individuals show a significant burden of damaging variants in TLR7 and SLC50A1, with a rare missense variant in SLC50A1 (Arg201Leu) roughly doubling to tripling risk of critical illness (OR 2.31, 95% CI 1.57–3.39). These genes point to host sugar transport, V(D)J recombination, and innate viral sensing as key determinants of severe disease. A polygenic risk score built from WGS data has limited overall predictive power (AUC 0.63; OR 2.1 between highest and lowest deciles), and only modestly improves a clinical model (AUC 0.70→0.73). However, the authors suggest that those in the highest PRS decile experience risk comparable to major comorbidities and could be prioritised for preventive measures. Mechanistically, the associated loci cluster in pathways involving interferon signalling, NK and T-cell activation, and lung function, highlighting potential therapeutic targets (e.g. ARF1) and underlining the importance of host genetics in determining who progresses to critical COVID-19.",
+			"Twitter": "https://x.com/vipintukur/status/1995882738721907138",
+			"Category": [
+				"United Kingdom",
+				"Canada",
+				"SARS-CoV-2 mechanics",
+				"Lungs",
+				"Immune response",
+				"NK cells",
+				"Susceptibility",
+				"Massive study",
+				"Preprint"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-024-49634-x",
+			"Date": "2024-07-31",
+			"Text": "Using linked health records from 45.7 million adults in England, the authors compared rates of heart attacks, strokes, blood clots and related conditions up to 26 weeks after first, second and booster doses of ChAdOx1, BNT162b2 and mRNA-1273 COVID-19 vaccines with rates before or without the same doses. For common events like acute myocardial infarction, ischaemic stroke, pulmonary embolism and DVT, incidence was generally similar or lower after each dose of each brand, with greater reductions after second and booster doses (e.g. composite arterial events 13–24 weeks after second doses: aHR 0.73 for ChAdOx1 and 0.80 for BNT162b2; composite venous events: aHR 0.68 and 0.77, respectively). At the same time, the study confirmed rare, previously known harms: vaccine-induced thrombotic thrombocytopenia after the first ChAdOx1 dose (ICVT aHR peaking at 5.92; thrombocytopenia aHR 2.07) and increased myocarditis and pericarditis risks after mRNA vaccines, especially around one week after BNT162b2 second doses (myocarditis aHR 3.14, pericarditis aHR 2.42) and shortly after some mRNA boosters. No new cardiovascular safety signals were identified, and overall the balance of evidence supported a net cardiovascular benefit of COVID-19 vaccination.",
+			"Twitter": "https://x.com/DrNeilStone/status/1995517870747631870",
+			"Category": [
+				"United Kingdom",
+				"USA",
+				"Vaccination",
+				"Myocarditis",
+				"Massive study",
+				"mRNA vaccine",
+				"Platelets"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.tube.2025.102718",
+			"Date": "2025-12-06",
+			"Text": "The study examined how a history of COVID-19 affects immune responses to both SARS-CoV-2 and latent Mycobacterium tuberculosis (MTB) antigens. Using PBMCs from people with and without prior COVID-19 — some of whom had latent TB infection (LTBi) — the authors stimulated cells with SARS-CoV-2 Spike protein and MTB antigens. They found that individuals who had recovered from COVID-19 showed significantly reduced production of key cytokines (IFN-γ, IL-2, IL-6) in response to both SARS-CoV-2 and MTB antigens compared to healthy controls, indicating dampened immune activation. Among LTBi-positive individuals, those with prior COVID-19 had blunted MTB-induced responses and altered pro- vs anti-inflammatory cytokine ratios. These findings suggest that COVID-19 may leave a persistent imprint on the innate/adaptive immune system, potentially lowering the ability to mount effective responses against latent MTB, which could raise the risk of reactivation.",
+			"Twitter": "https://x.com/vipintukur/status/1996260971938259215",
+			"Category": [
+				"Pakistan",
+				"Sweden",
+				"Immune response",
+				"Viral persistence",
+				"Cross-reactivity"
+			]
 		}
 	]
 }
