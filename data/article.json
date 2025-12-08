@@ -12148,6 +12148,33 @@
 				"Viral persistence",
 				"Cross-reactivity"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1542/peds.2025-074246PC",
+			"Date": "2025-12-01",
+			"Text": "In this brief report published in Pediatrics, researchers analyzed immune cell activity in children with MIS-C and found evidence of significant immune dysregulation: monocytes were hyper-reactive and NK cells were impaired, which together may drive the excessive inflammation that characterizes MIS-C. This suggests that the innate immune compartment — not just adaptive immunity — plays a critical role in the onset of the syndrome. The study highlights monocytes and NK-cell dysfunction as potential biomarkers or therapeutic targets in MIS-C.",
+			"Twitter": "https://x.com/Yash25571056/status/1996425689025921419",
+			"Category": [
+				"USA",
+				"Kids",
+				"Immune response",
+				"NK cells"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1002/jmv.70435",
+			"Date": "2025-06-07",
+			"Text": "The study investigated blood immune cells in people recovered from COVID-19, influenza, or neither (healthy controls), about three months after infection. Using high-dimensional mass cytometry and computational analysis, the authors observed that both post-COVID and post-influenza patients had altered immune cell profiles compared to healthy controls — but the post-COVID changes were more substantial and qualitatively different. In particular, post-COVID individuals had strong upregulation of chemokine receptors CXCR3 and CCR6 on various lymphoid cells, while post-influenza subjects largely exhibited decreased CCR4 expression in certain immune subsets. Further, unsupervised clustering divided the post-COVID group into two subgroups; interestingly, the subgroup with more pronounced chemokine-receptor alterations tended to be younger — and this pattern did not correlate with whether they had persistent (“long-COVID”) symptoms. This suggests that SARS-CoV-2 infection can imprint a distinct, lasting “immune fingerprint” regardless of symptom persistence.",
+			"Twitter": "https://x.com/vipintukur/status/1995519758192836668",
+			"Category": [
+				"Netherlands",
+				"Spain",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"Long COVID",
+				"Influenza"
+			]
 		}
 	]
 }
