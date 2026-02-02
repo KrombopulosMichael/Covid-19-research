@@ -4970,7 +4970,8 @@
 			"Category": [
 				"Treatment",
 				"Lungs",
-				"France"
+				"France",
+				"Clinical trial"
 			]
 		},
 		{
@@ -11753,7 +11754,8 @@
 				"Brain",
 				"Long COVID",
 				"Treatment",
-				"Self-reported"
+				"Self-reported",
+				"Clinical trial"
 			]
 		},
 		{
@@ -12227,6 +12229,65 @@
 				"Self-reported",
 				"Long COVID",
 				"Review"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.ijid.2025.108287",
+			"Date": "2025-12-05",
+			"Text": "This cohort analysis of 40,537 individuals from pre-COVID through mass SARS-CoV-2 infection and into the post-pandemic period reveals that lymphocyte subsets — including CD4⁺ and CD8⁺ T cells, NK cells, and B cells — declined significantly during the mass infection phase. Even 20 months after widespread exposure, certain immune cell counts, especially CD8⁺ T cells, remained below pre-infection baselines, with older adults and males showing delayed immune restoration. These results suggest that the immunological impact of SARS-CoV-2 is persistent and not limited to the acute phase. Importantly, individuals with cardiovascular disease demonstrated especially severe and long-lasting T-cell suppression, with reductions persisting nearly three-quarters below baseline at 20 months post-infection.",
+			"Twitter": "https://x.com/Yash25571056/status/1996914534469324983",
+			"Category": [
+				"China",
+				"Immune response",
+				"T cells",
+				"B cells",
+				"NK cells",
+				"Long COVID",
+				"SARS-CoV-2 mechanics",
+				"Massive study"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pone.0337915",
+			"Date": "2025-12-04",
+			"Text": "🐹This study demonstrates that oral inoculation of SARS-CoV-2 in hamsters leads to a systemic infection affecting the respiratory tract, gut tissues, and triggering antibody responses. Both ora (PO) and intranasal (IN) routes led to significant viral RNA presence in lungs and nasal turbinates, induced weight loss, and caused seroconversion by 7 days post-infection. Although viral RNA in gut tissues was lower than in respiratory tissues, it was still detectable, and the PO group exhibited more gut inflammation than the IN group.",
+			"Twitter": "https://x.com/vipintukur/status/1996978143710924957",
+			"Category": [
+				"France",
+				"SARS-CoV-2 mechanics",
+				"Gastrointestinal",
+				"Lungs"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.tube.2025.102718",
+			"Date": "2025-12-02",
+			"Text": "The authors compared healthy controls with COVID-19 convalescent participants and stratified them by latent TB status using IGRA. They measured cytokine production from PBMCs after stimulation with SARS-CoV-2 Spike or Mycobacterium tuberculosis (MTB) H37Rv sonicate. Spike-induced cytokines were lower after COVID-19 (IFN-γ p=0.03; IL-6 p=0.018; IL-2 p=0.04), and in controls, IGRA-positive participants had higher Spike responses than IGRA-negative controls (p<0.05). MTB-induced responses were also reduced in COVID-19 convalescents (IFN-γ p=0.003; IL-2 p=0.0021; IL-6 p=0.002; TNF-α p=0.02; IL-10 p=0.04). Among IGRA-positive participants, the COVID-19 group showed lower Spike/MTB IFN-γ, IL-6, IL-2 and TNF-α (p values 0.005–0.001 range as reported) but higher MTB IL-6/IL-10 and TNF-α/IL-10 ratios.",
+			"Twitter": "https://x.com/Yash25571056/status/1997097590589214869",
+			"Category": [
+				"Pakistan",
+				"Sweden",
+				"Immune response",
+				"T cells",
+				"Long COVID"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.64898/2025.12.04.25341650",
+			"Date": "2025-12-05",
+			"Text": "This preprint describes a systems immunology investigation of Long COVID using samples from the STOP-PASC clinical trial. Of 152 participants profiled across three timepoints (baseline, day 15, week 10), treatment with the antiviral Paxlovid (NMV/r) led to short-lived changes in plasma proteins linked to innate immune pathways that normalized by week 10. Individuals with worse cardiovascular symptoms had lower SARS-CoV-2 antibody levels at baseline, but no large-scale differences were seen in autoantibody, EBV reactivation, or microclotting markers compared with controls. Through meta-analysis of ≈590 samples from nine additional Long COVID proteomics cohorts, the analysis defined a conserved 60-protein signature associated with Long COVID, implicating sustained activation of monocyte, neutrophil, and lymphocyte (T/NK)-related proteins. These results suggest immune dysregulation in Long COVID across multiple cohorts, but do not provide evidence that Paxlovid confers durable immunologic changes or symptom resolution.",
+			"Twitter": "https://x.com/atranscendedman/status/1997759609877258543",
+			"Category": [
+				"USA",
+				"Long COVID",
+				"Immune response",
+				"Antibodies",
+				"T cells",
+				"NK cells",
+				"Viral persistence",
+				"Preprint",
+				"Meta-analysis",
+				"Clinical trial"
 			]
 		}
 	]
