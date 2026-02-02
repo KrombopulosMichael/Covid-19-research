@@ -12175,6 +12175,59 @@
 				"Long COVID",
 				"Influenza"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-025-66719-3",
+			"Date": "2025-11-27",
+			"Text": "In this unedited Nature Communications article, the authors followed 67 Swiss secondary-school students (age 14–15) for 6 weeks, detecting 87 respiratory virus infections via saliva and using viral genomics plus absence data to reconstruct plausible transmission events. Wearable sensors measured how long each student spent within 1.5 m of others, while classroom CO₂ monitors tracked time spent in shared rooms and under suboptimal air quality. On average, students spent 21.2 min/day in close proximity, 5.3 h/day in shared classrooms, and 1.9 h/day in those classrooms when air quality was suboptimal. Pairwise survival models showed that transmission was more likely within classes than between classes, and that shared classroom exposure and poor air quality were stronger predictors of infection than close-range contact alone. Each doubling of daily close-proximity time increased transmission risk modestly (RR 1.16, 95% CI 1.01–1.33), whereas being in the same classroom (RR 3.17, 95% CI 1.96–5.17) and time spent with suboptimal air quality (RR 1.90, 95% CI 1.23–2.94) had much larger effects. The authors conclude that prolonged exposure to shared, poorly ventilated indoor air—potentially with multiple infectious sources—dominates over brief close contacts in driving respiratory virus spread in this school setting.",
+			"Twitter": "https://x.com/GourlaySyd/status/1996554756689674505",
+			"Category": [
+				"Switzerland",
+				"Italy",
+				"Denmark",
+				"Kids",
+				"Transmission",
+				"Air monitoring",
+				"Detection",
+				"Mitigation"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1038/s41467-021-21918-6",
+			"Date": "2021-03-12",
+			"Text": "Researchers constructed a donor-to-recipient ferret system where air flowed upward through a duct with turns, traveling ~118 cm, to test if respiratory viruses stay infectious over >1 m. After validating the system with A/H1N1 influenza, they inoculated donor ferrets with SARS-CoV-2 (6×10⁵ TCID₅₀) or SARS-CoV (1.6×10⁶ TCID₅₀) and monitored indirect recipient ferrets for infection using swabs and serology. Both coronaviruses transmitted through the air over this distance: SARS-CoV-2 infected 2/4 indirect recipients and SARS-CoV infected 4/4. In SARS-CoV-2 recipients, viral RNA appeared ~3 days after exposure, peaked ~7 days, and could persist in swabs to day 15; ferrets showed minimal clinical illness, and serology confirmed infections.",
+			"Twitter": "https://x.com/IanCopeland5/status/1991880898925768925",
+			"Category": [
+				"Netherlands",
+				"SARS-CoV-2 mechanics",
+				"Transmission",
+				"Detection",
+				"Lungs",
+				"Antibodies"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1001/jamanetworkopen.2025.46822",
+			"Date": "2025-10-10",
+			"Text": "A large nationwide French cohort study including nearly 28.7 million adults aged 18–59 compared the 4-year all-cause mortality between mRNA-vaccinated and unvaccinated individuals. Using a weighted Cox model adjusting for demographics and 41 comorbid conditions, vaccinated individuals had a statistically significant lower risk of death overall (wHR ~0.75) and specifically from severe COVID-19 (wHR ~0.26). These findings were consistent in sensitivity analyses and persisted even when COVID-19 deaths were excluded, supporting that mRNA vaccination was not linked to increased long-term mortality in this age group.",
+			"Twitter": "https://x.com/atranscendedman/status/1996717718578274803",
+			"Category": [
+				"France",
+				"Vaccination",
+				"mRNA vaccine"
+			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1016/j.genhosppsych.2025.10.008",
+			"Date": "2025-10-13",
+			"Text": "The analysis incorporated data from 28 cohorts with nearly one billion participants, revealing that SARS-CoV-2 infection was associated with a 40 % higher relative risk of developing mental health diagnoses, including anxiety, mood, neurocognitive, psychotic, and stress-related disorders, and also an increased likelihood of being prescribed psychotropic medications. The absolute risk difference was approximately 31 additional cases per 1,000 persons. ",
+			"Twitter": "https://x.com/ZdenekVrozina/status/1996513295860412894",
+			"Category": [
+				"China",
+				"Self-reported",
+				"Long COVID",
+				"Review"
+			]
 		}
 	]
 }
