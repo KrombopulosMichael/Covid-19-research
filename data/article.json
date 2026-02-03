@@ -12289,6 +12289,20 @@
 				"Meta-analysis",
 				"Clinical trial"
 			]
+		},
+		{
+			"ArticleURL": "https://doi.org/10.1371/journal.pone.0312621",
+			"Date": "2025-03-19",
+			"Text": "In this prospective cohort of 27 individuals with COVID-19 and neurologic manifestations, roughly one-third (9/27) had detectable SARS-CoV-2 RNA in cerebrospinal fluid, suggesting that direct viral invasion of the central nervous system can occur. Patients exhibited a wide spectrum of neurological signs and syndromes, including seizures, gait disturbances, cognitive deficits, stroke, and various inflammatory neurological conditions like Guillain-Barré syndrome and encephalitis, but CSF and imaging findings were generally non-specific. Viral detection in CSF did not consistently correlate with respiratory symptoms or the timing of neurological onset.",
+			"Twitter": "https://x.com/AnneliseBocquet/status/1998075665006911659",
+			"Category": [
+				"Brazil",
+				"Brain",
+				"SARS-CoV-2 mechanics",
+				"Long COVID",
+				"Immune response",
+				"Viral persistence"
+			]
 		}
 	]
 }
